@@ -1,0 +1,383 @@
+{
+   "created_at": "Mon Mar 07 16:37:29 +0000 2022",
+   "id": 1500873278054928394,
+   "id_str": "1500873278054928394",
+   "text": "RT @RepLoriTrahan: The current semiconductor chip shortage caused by #COVID19 poses a direct threat to women\u2019s health and cancer screening.\u2026",
+   "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1140648348,
+      "id_str": "1140648348",
+      "name": "Rep. Debbie Wasserman Schultz",
+      "screen_name": "RepDWStweets",
+      "location": "Weston & Washington",
+      "url": "http://wassermanschultz.house.gov/",
+      "description": "U.S. Congresswoman proudly representing the people of Florida's 23rd District in our nation's capital.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19061,
+      "friends_count": 2374,
+      "listed_count": 762,
+      "favourites_count": 543,
+      "statuses_count": 6562,
+      "created_at": "Fri Feb 01 20:31:25 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1217104542837460992/1CZNbVP9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217104542837460992/1CZNbVP9_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140648348/1524856273",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 21:36:32 +0000 2022",
+      "id": 1499861375451119616,
+      "id_str": "1499861375451119616",
+      "text": "The current semiconductor chip shortage caused by #COVID19 poses a direct threat to women\u2019s health and cancer scree\u2026 https://t.co/4qUYLt4LSg",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1079802482640019456,
+         "id_str": "1079802482640019456",
+         "name": "Congresswoman Lori Trahan",
+         "screen_name": "RepLoriTrahan",
+         "location": "Massachusetts, USA",
+         "url": "https://trahan.house.gov/",
+         "description": "Proudly representing Massachusetts' Third District in Congress. @EnergyCommerce & @NRDems member. She/Hers. \ud83d\udcde (978) 459-0101",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 31325,
+         "friends_count": 1805,
+         "listed_count": 620,
+         "favourites_count": 5498,
+         "statuses_count": 7134,
+         "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1634152884",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The current semiconductor chip shortage caused by #COVID19 poses a direct threat to women\u2019s health and cancer screening. @RepDWStweets, @RepLBR &amp; I called for immediate action to reverse this crisis and prioritize women\u2019s health. https://t.co/byiDIj5QeJ",
+         "display_text_range": [
+            0,
+            233
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "COVID19",
+                  "indices": [
+                     50,
+                     58
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepDWStweets",
+                  "name": "Rep. Debbie Wasserman Schultz",
+                  "id": 1140648348,
+                  "id_str": "1140648348",
+                  "indices": [
+                     121,
+                     134
+                  ]
+               },
+               {
+                  "screen_name": "RepLBR",
+                  "name": "Rep. Lisa Blunt Rochester",
+                  "id": 817050219007328258,
+                  "id_str": "817050219007328258",
+                  "indices": [
+                     136,
+                     143
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499861329582112768,
+                  "id_str": "1499861329582112768",
+                  "indices": [
+                     234,
+                     257
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNCT7sIWQAA5vyx.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNCT7sIWQAA5vyx.jpg",
+                  "url": "https://t.co/byiDIj5QeJ",
+                  "display_url": "pic.twitter.com/byiDIj5QeJ",
+                  "expanded_url": "https://twitter.com/RepLoriTrahan/status/1499861375451119616/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 927,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499861329548660737,
+                  "id_str": "1499861329548660737",
+                  "indices": [
+                     234,
+                     257
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNCT7sAX0AEXAf2.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNCT7sAX0AEXAf2.jpg",
+                  "url": "https://t.co/byiDIj5QeJ",
+                  "display_url": "pic.twitter.com/byiDIj5QeJ",
+                  "expanded_url": "https://twitter.com/RepLoriTrahan/status/1499861375451119616/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 927,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499861329582112768,
+                  "id_str": "1499861329582112768",
+                  "indices": [
+                     234,
+                     257
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNCT7sIWQAA5vyx.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNCT7sIWQAA5vyx.jpg",
+                  "url": "https://t.co/byiDIj5QeJ",
+                  "display_url": "pic.twitter.com/byiDIj5QeJ",
+                  "expanded_url": "https://twitter.com/RepLoriTrahan/status/1499861375451119616/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 927,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499861329548660737,
+                  "id_str": "1499861329548660737",
+                  "indices": [
+                     234,
+                     257
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNCT7sAX0AEXAf2.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNCT7sAX0AEXAf2.jpg",
+                  "url": "https://t.co/byiDIj5QeJ",
+                  "display_url": "pic.twitter.com/byiDIj5QeJ",
+                  "expanded_url": "https://twitter.com/RepLoriTrahan/status/1499861375451119616/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 927,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "COVID19",
+               "indices": [
+                  50,
+                  58
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/4qUYLt4LSg",
+               "expanded_url": "https://twitter.com/i/web/status/1499861375451119616",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "COVID19",
+            "indices": [
+               69,
+               77
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepLoriTrahan",
+            "name": "Congresswoman Lori Trahan",
+            "id": 1079802482640019456,
+            "id_str": "1079802482640019456",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646671049022"
+}

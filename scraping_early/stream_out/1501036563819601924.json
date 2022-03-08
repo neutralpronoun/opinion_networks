@@ -1,0 +1,311 @@
+{
+   "created_at": "Tue Mar 08 03:26:19 +0000 2022",
+   "id": 1501036563819601924,
+   "id_str": "1501036563819601924",
+   "text": "RT @TomBecka: The picture of @RepDonBacon visiting @RepBradAshford at his bedside inspired tonight's #BeckasBeat.  Whether you retweet this\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 818975124460335106,
+      "id_str": "818975124460335106",
+      "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+      "screen_name": "RepDonBacon",
+      "location": "Papillion, NE",
+      "url": "http://bacon.house.gov",
+      "description": "Serving the great people of NE-02 \ud83c\uddfa\ud83c\uddf8. Married to Angie, 4 kids, 6 grandkids. Brig Gen \u2b50\ufe0f USAF (Ret.) Policy questions? Visihttp://bacon.house.govUD",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19137,
+      "friends_count": 650,
+      "listed_count": 628,
+      "favourites_count": 14025,
+      "statuses_count": 14412,
+      "created_at": "Wed Jan 11 00:17:40 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449940828164608002/-jBLm6bc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449940828164608002/-jBLm6bc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818975124460335106/1630014476",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 03:20:40 +0000 2022",
+      "id": 1501035144395866119,
+      "id_str": "1501035144395866119",
+      "text": "The picture of @RepDonBacon visiting @RepBradAshford at his bedside inspired tonight's #BeckasBeat.  Whether you re\u2026 https://t.co/eWwmqLEgka",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 16444805,
+         "id_str": "16444805",
+         "name": "TomBecka",
+         "screen_name": "TomBecka",
+         "location": "Omaha",
+         "url": "https://fox42kptm.com/station/people/tom-becka-09-12-2015",
+         "description": "Nightly commentary on FOX 42News at Nine. Nationally recognized radio talk show host. Author of the book     \"There's No Business Without the Show\"",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 3807,
+         "friends_count": 1057,
+         "listed_count": 91,
+         "favourites_count": 2328,
+         "statuses_count": 8286,
+         "created_at": "Thu Sep 25 01:48:25 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1A1B1F",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "2FC2EF",
+         "profile_sidebar_border_color": "181A1E",
+         "profile_sidebar_fill_color": "252429",
+         "profile_text_color": "666666",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1062347152721043457/aflOU86R_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062347152721043457/aflOU86R_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/16444805/1542118227",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The picture of @RepDonBacon visiting @RepBradAshford at his bedside inspired tonight's #BeckasBeat.  Whether you retweet this or just tell your friends... Spread the message... https://t.co/1NxlaGYiFh        \n@FOX42KPTM  #bipartisan #Republicans #Democrats",
+         "display_text_range": [
+            0,
+            256
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "BeckasBeat",
+                  "indices": [
+                     87,
+                     98
+                  ]
+               },
+               {
+                  "text": "bipartisan",
+                  "indices": [
+                     221,
+                     232
+                  ]
+               },
+               {
+                  "text": "Republicans",
+                  "indices": [
+                     233,
+                     245
+                  ]
+               },
+               {
+                  "text": "Democrats",
+                  "indices": [
+                     246,
+                     256
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/1NxlaGYiFh",
+                  "expanded_url": "https://fox42kptm.com/features/beckas-beat/beckas-beat-a-better-way-to-handle-differences",
+                  "display_url": "fox42kptm.com/features/becka\u2026",
+                  "indices": [
+                     177,
+                     200
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepDonBacon",
+                  "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+                  "id": 818975124460335106,
+                  "id_str": "818975124460335106",
+                  "indices": [
+                     15,
+                     27
+                  ]
+               },
+               {
+                  "screen_name": "RepBradAshford",
+                  "name": "Brad Ashford",
+                  "id": 2964351843,
+                  "id_str": "2964351843",
+                  "indices": [
+                     37,
+                     52
+                  ]
+               },
+               {
+                  "screen_name": "FOX42KPTM",
+                  "name": "FOX 42 KPTM",
+                  "id": 49666825,
+                  "id_str": "49666825",
+                  "indices": [
+                     209,
+                     219
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BeckasBeat",
+               "indices": [
+                  87,
+                  98
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/eWwmqLEgka",
+               "expanded_url": "https://twitter.com/i/web/status/1501035144395866119",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepDonBacon",
+               "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+               "id": 818975124460335106,
+               "id_str": "818975124460335106",
+               "indices": [
+                  15,
+                  27
+               ]
+            },
+            {
+               "screen_name": "RepBradAshford",
+               "name": "Brad Ashford",
+               "id": 2964351843,
+               "id_str": "2964351843",
+               "indices": [
+                  37,
+                  52
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "BeckasBeat",
+            "indices": [
+               101,
+               112
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "TomBecka",
+            "name": "TomBecka",
+            "id": 16444805,
+            "id_str": "16444805",
+            "indices": [
+               3,
+               12
+            ]
+         },
+         {
+            "screen_name": "RepDonBacon",
+            "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+            "id": 818975124460335106,
+            "id_str": "818975124460335106",
+            "indices": [
+               29,
+               41
+            ]
+         },
+         {
+            "screen_name": "RepBradAshford",
+            "name": "Brad Ashford",
+            "id": 2964351843,
+            "id_str": "2964351843",
+            "indices": [
+               51,
+               66
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646709979382"
+}

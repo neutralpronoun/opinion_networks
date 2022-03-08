@@ -1,0 +1,347 @@
+{
+   "created_at": "Mon Mar 07 21:37:57 +0000 2022",
+   "id": 1500948895236567040,
+   "id_str": "1500948895236567040",
+   "text": "I just got back from the Poland-Ukraine border. I left feeling grateful for the $1 billion in assistance @POTUS has\u2026 https://t.co/sjNFCpNDd1",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 78445977,
+      "id_str": "78445977",
+      "name": "Rep. Gerry Connolly",
+      "screen_name": "GerryConnolly",
+      "location": "VA-11",
+      "url": "http://connolly.house.gov",
+      "description": "Congressman, Northern Virginia\u2019s #VA11 | Chairman, Subcommittee on Government Operations | President, @NATO Parliamentary Assembly. http://vaccines.gov",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 80246,
+      "friends_count": 834,
+      "listed_count": 1324,
+      "favourites_count": 384,
+      "statuses_count": 10465,
+      "created_at": "Tue Sep 29 23:17:33 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78445977/1646352814",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I just got back from the Poland-Ukraine border. I left feeling grateful for the $1 billion in assistance @POTUS has already provided to Ukraine, but fiercely determined to do more.\n\nThe Ukrainian people have shown the willingness to fight back. They just need the means to do so. https://t.co/ZoReJxFJbc",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  105,
+                  111
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500948434882285576,
+               "id_str": "1500948434882285576",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi9WUAgKhbP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi9WUAgKhbP.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500948434861404160,
+               "id_str": "1500948434861404160",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi4XsAA5S6c.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi4XsAA5S6c.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500948434865512459,
+               "id_str": "1500948434865512459",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi5WYAsXKfc.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi5WYAsXKfc.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500948434882285576,
+               "id_str": "1500948434882285576",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi9WUAgKhbP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi9WUAgKhbP.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500948434861404160,
+               "id_str": "1500948434861404160",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi4XsAA5S6c.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi4XsAA5S6c.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500948434865512459,
+               "id_str": "1500948434865512459",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRwpi5WYAsXKfc.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRwpi5WYAsXKfc.jpg",
+               "url": "https://t.co/ZoReJxFJbc",
+               "display_url": "pic.twitter.com/ZoReJxFJbc",
+               "expanded_url": "https://twitter.com/GerryConnolly/status/1500948895236567040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/sjNFCpNDd1",
+            "expanded_url": "https://twitter.com/i/web/status/1500948895236567040",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               105,
+               111
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689077563"
+}

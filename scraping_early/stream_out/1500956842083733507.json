@@ -1,0 +1,139 @@
+{
+   "created_at": "Mon Mar 07 22:09:32 +0000 2022",
+   "id": 1500956842083733507,
+   "id_str": "1500956842083733507",
+   "text": "Almost $5.3 billion from the #AmericanRescuePlan went to colleges and universities in #CA51 &amp; across California.\n\nW\u2026 https://t.co/dHpqBuknpU",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1260172386,
+      "id_str": "1260172386",
+      "name": "Rep. Juan Vargas",
+      "screen_name": "RepJuanVargas",
+      "location": "SD/Imperial Counties, CA",
+      "url": "http://vargas.house.gov",
+      "description": "Official Twitter account of Rep. Vargas, representing southern San Diego County, all of Imperial County and California's entire U.S.-Mexico border. #CA51",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27630,
+      "friends_count": 480,
+      "listed_count": 973,
+      "favourites_count": 561,
+      "statuses_count": 3314,
+      "created_at": "Mon Mar 11 19:04:01 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5ABB5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978328637874343936/q54hVwQ8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978328637874343936/q54hVwQ8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260172386/1618596640",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Almost $5.3 billion from the #AmericanRescuePlan went to colleges and universities in #CA51 &amp; across California.\n\nWe\u2019re working &amp; building a better America with @POTUS!",
+      "display_text_range": [
+         0,
+         176
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "AmericanRescuePlan",
+               "indices": [
+                  29,
+                  48
+               ]
+            },
+            {
+               "text": "CA51",
+               "indices": [
+                  86,
+                  91
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  169,
+                  175
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "AmericanRescuePlan",
+            "indices": [
+               29,
+               48
+            ]
+         },
+         {
+            "text": "CA51",
+            "indices": [
+               86,
+               91
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/dHpqBuknpU",
+            "expanded_url": "https://twitter.com/i/web/status/1500956842083733507",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690972239"
+}

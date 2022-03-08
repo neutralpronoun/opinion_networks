@@ -1,0 +1,106 @@
+{
+   "created_at": "Mon Mar 07 20:06:29 +0000 2022",
+   "id": 1500925875587620869,
+   "id_str": "1500925875587620869",
+   "text": "It is just plain wrong that in some states LGBTQ+ Americans can be denied a loan, thrown out of a restaurant, or ev\u2026 https://t.co/yB8Pd6OSxY",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 29201047,
+      "id_str": "29201047",
+      "name": "Senator Jeff Merkley",
+      "screen_name": "SenJeffMerkley",
+      "location": "Oregon",
+      "url": "http://merkley.senate.gov",
+      "description": "Dad, runner, Chief Filibuster Antagonist. U.S. Senator from Oregon.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 511146,
+      "friends_count": 1075,
+      "listed_count": 4705,
+      "favourites_count": 2084,
+      "statuses_count": 15254,
+      "created_at": "Mon Apr 06 13:38:39 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "457292",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "93A427",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D9E8F2",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/873324219630854144/-7ZzOONo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/873324219630854144/-7ZzOONo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29201047/1473699074",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "It is just plain wrong that in some states LGBTQ+ Americans can be denied a loan, thrown out of a restaurant, or even evicted just for who they are. It\u2019s past time to pass the #EqualityAct and make protections for LGBTQ+ Americans federal law.",
+      "display_text_range": [
+         0,
+         243
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "EqualityAct",
+               "indices": [
+                  176,
+                  188
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/yB8Pd6OSxY",
+            "expanded_url": "https://twitter.com/i/web/status/1500925875587620869",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683589251"
+}

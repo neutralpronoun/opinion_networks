@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 19:35:15 +0000 2022",
+   "id": 1500918014824402953,
+   "id_str": "1500918014824402953",
+   "text": "The deadline to file your taxes is April 18, which means that Americans will have more time to file this year.\n\nThi\u2026 https://t.co/bKyvYajLhB",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 58928690,
+      "id_str": "58928690",
+      "name": "Rep. Adam Smith",
+      "screen_name": "RepAdamSmith",
+      "location": "Washington's 9th District",
+      "url": "http://adamsmith.house.gov",
+      "description": "Proudly serving Washington State's 9th District. Chairman of the House Armed Services Committee. @HASCDemocrats",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 42671,
+      "friends_count": 2016,
+      "listed_count": 1491,
+      "favourites_count": 761,
+      "statuses_count": 7169,
+      "created_at": "Tue Jul 21 21:31:55 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046859374055047169/OrFwOGl6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046859374055047169/OrFwOGl6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/58928690/1632942645",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The deadline to file your taxes is April 18, which means that Americans will have more time to file this year.\n\nThis filing season, file electronically and get your refund faster.\n\nFor information about how to e-file for free, click the link below:\nhttps://t.co/jri7VzQtF8",
+      "display_text_range": [
+         0,
+         272
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/jri7VzQtF8",
+               "expanded_url": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free",
+               "display_url": "irs.gov/filing/free-fi\u2026",
+               "indices": [
+                  249,
+                  272
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/bKyvYajLhB",
+            "expanded_url": "https://twitter.com/i/web/status/1500918014824402953",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681715099"
+}

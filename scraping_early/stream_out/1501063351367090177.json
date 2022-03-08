@@ -1,0 +1,215 @@
+{
+   "created_at": "Tue Mar 08 05:12:46 +0000 2022",
+   "id": 1501063351367090177,
+   "id_str": "1501063351367090177",
+   "text": "RT @lindyli: Zelensky in a capital under siege: \u201cI\u2019m staying in Kyiv in my office. I\u2019m not hiding. And I\u2019m not afraid of anyone.\u201d\n\nTrump hi\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 231108733,
+      "id_str": "231108733",
+      "name": "US Rep Brendan Boyle",
+      "screen_name": "RepBrendanBoyle",
+      "location": "Philadelphia and Washington",
+      "url": "http://www.VoteBoyle.com",
+      "description": "Congressman from Philly. Proud Dad to Abby & husband to Jenny. Notre Dame & Harvard alum. Philly sports fan. Supporter of all things PA, esp. Dunder Mifflin.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60681,
+      "friends_count": 3072,
+      "listed_count": 900,
+      "favourites_count": 13142,
+      "statuses_count": 10065,
+      "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1636568625",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 23:07:54 +0000 2022",
+      "id": 1500971531261947906,
+      "id_str": "1500971531261947906",
+      "text": "Zelensky in a capital under siege: \u201cI\u2019m staying in Kyiv in my office. I\u2019m not hiding. And I\u2019m not afraid of anyone.\u2026 https://t.co/2h8SGVButS",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 270132611,
+         "id_str": "270132611",
+         "name": "Lindy Li",
+         "screen_name": "lindyli",
+         "location": "Philadelphia, PA",
+         "url": "http://instagram.com/lindy_li",
+         "description": "political commentator. @joebiden delegate \ud83c\uddfa\ud83c\uddf8. @princeton alumni class president. vegan. runner \ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 179783,
+         "friends_count": 199,
+         "listed_count": 622,
+         "favourites_count": 205045,
+         "statuses_count": 15149,
+         "created_at": "Tue Mar 22 01:52:25 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "0E86B5",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "3B94D9",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1396551859897311240/3b3IGsql_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396551859897311240/3b3IGsql_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/270132611/1465906286",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+         "id": "e4a0d228eb6be76b",
+         "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+         "place_type": "city",
+         "name": "Philadelphia",
+         "full_name": "Philadelphia, PA",
+         "country_code": "US",
+         "country": "United States",
+         "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     -75.280284,
+                     39.871811
+                  ],
+                  [
+                     -75.280284,
+                     40.13792
+                  ],
+                  [
+                     -74.955712,
+                     40.13792
+                  ],
+                  [
+                     -74.955712,
+                     39.871811
+                  ]
+               ]
+            ]
+         },
+         "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Zelensky in a capital under siege: \u201cI\u2019m staying in Kyiv in my office. I\u2019m not hiding. And I\u2019m not afraid of anyone.\u201d\n\nTrump hid in the WH bunker from a bunch of peaceful protestors and then threatened to execute the people who exposed his cowardice\n\nThe contrast is jarring",
+         "display_text_range": [
+            0,
+            273
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 34,
+      "reply_count": 71,
+      "retweet_count": 1137,
+      "favorite_count": 4168,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/2h8SGVButS",
+               "expanded_url": "https://twitter.com/i/web/status/1500971531261947906",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "lindyli",
+            "name": "Lindy Li",
+            "id": 270132611,
+            "id_str": "270132611",
+            "indices": [
+               3,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646716366031"
+}

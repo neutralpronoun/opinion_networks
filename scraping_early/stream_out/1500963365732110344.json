@@ -1,0 +1,413 @@
+{
+   "created_at": "Mon Mar 07 22:35:27 +0000 2022",
+   "id": 1500963365732110344,
+   "id_str": "1500963365732110344",
+   "text": "RT @SenatorCarper: I\u2019m so pleased to see the Biden-Harris Administration taking action to clean up our dirtiest engines in the transportati\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 245891006,
+      "id_str": "245891006",
+      "name": "Senate EPW Democrats",
+      "screen_name": "EPWCmte",
+      "location": "Washington, DC",
+      "url": "https://www.epw.senate.gov/",
+      "description": "Senate Committee on Environment and Public Works | Chairman @SenatorCarper",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 8475,
+      "friends_count": 781,
+      "listed_count": 365,
+      "favourites_count": 2882,
+      "statuses_count": 5859,
+      "created_at": "Tue Feb 01 17:52:29 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1354630910646374400/G1WsVaq2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354630910646374400/G1WsVaq2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/245891006/1599234022",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:32:22 +0000 2022",
+      "id": 1500962589135806465,
+      "id_str": "1500962589135806465",
+      "text": "I\u2019m so pleased to see the Biden-Harris Administration taking action to clean up our dirtiest engines in the transpo\u2026 https://t.co/pAQmkvceHJ",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 249787913,
+         "id_str": "249787913",
+         "name": "Senator Tom Carper",
+         "screen_name": "SenatorCarper",
+         "location": "Delaware",
+         "url": "http://www.carper.senate.gov",
+         "description": "Husband, father, proud @USNavy veteran and former governor. U.S. Senator for Delaware and Chairman @EPWCmte",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 113778,
+         "friends_count": 1918,
+         "listed_count": 2123,
+         "favourites_count": 1730,
+         "statuses_count": 11512,
+         "created_at": "Wed Feb 09 19:46:42 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "D6DDE1",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1E3F66",
+         "profile_sidebar_border_color": "BAC1C4",
+         "profile_sidebar_fill_color": "E2E8EB",
+         "profile_text_color": "737373",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/249787913/1577996692",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500873374972715012,
+      "quoted_status_id_str": "1500873374972715012",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 16:37:52 +0000 2022",
+         "id": 1500873374972715012,
+         "id_str": "1500873374972715012",
+         "text": "Today, I am proud to announce our Administration is taking bold steps to reduce air pollution and transform our nat\u2026 https://t.co/5uDlP04m9W",
+         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "name": "Vice President Kamala Harris",
+            "screen_name": "VP",
+            "location": null,
+            "url": "http://whitehouse.gov",
+            "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 12435635,
+            "friends_count": 6,
+            "listed_count": 15711,
+            "favourites_count": 1112,
+            "statuses_count": 7202,
+            "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1646319120",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "Today, I am proud to announce our Administration is taking bold steps to reduce air pollution and transform our nation\u2019s buses and trucks. https://t.co/7PNhl5m03S",
+            "display_text_range": [
+               0,
+               162
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [
+                  {
+                     "url": "https://t.co/7PNhl5m03S",
+                     "expanded_url": "https://twitter.com/i/broadcasts/1lDxLLVoDzZxm",
+                     "display_url": "twitter.com/i/broadcasts/1\u2026",
+                     "indices": [
+                        139,
+                        162
+                     ]
+                  }
+               ],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 50,
+         "reply_count": 540,
+         "retweet_count": 617,
+         "favorite_count": 3438,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/5uDlP04m9W",
+                  "expanded_url": "https://twitter.com/i/web/status/1500873374972715012",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/3I4gnEeBXD",
+         "expanded": "https://twitter.com/VP/status/1500873374972715012",
+         "display": "twitter.com/VP/status/1500\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "I\u2019m so pleased to see the Biden-Harris Administration taking action to clean up our dirtiest engines in the transportation sector. This will help put our nation on the path to a brighter future with cleaner air, healthier communities, and a stronger economy.",
+         "display_text_range": [
+            0,
+            258
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/pAQmkvceHJ",
+               "expanded_url": "https://twitter.com/i/web/status/1500962589135806465",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500873374972715012,
+   "quoted_status_id_str": "1500873374972715012",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 16:37:52 +0000 2022",
+      "id": 1500873374972715012,
+      "id_str": "1500873374972715012",
+      "text": "Today, I am proud to announce our Administration is taking bold steps to reduce air pollution and transform our nat\u2026 https://t.co/5uDlP04m9W",
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 803694179079458816,
+         "id_str": "803694179079458816",
+         "name": "Vice President Kamala Harris",
+         "screen_name": "VP",
+         "location": null,
+         "url": "http://whitehouse.gov",
+         "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12435635,
+         "friends_count": 6,
+         "listed_count": 15711,
+         "favourites_count": 1112,
+         "statuses_count": 7202,
+         "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1646319120",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today, I am proud to announce our Administration is taking bold steps to reduce air pollution and transform our nation\u2019s buses and trucks. https://t.co/7PNhl5m03S",
+         "display_text_range": [
+            0,
+            162
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/7PNhl5m03S",
+                  "expanded_url": "https://twitter.com/i/broadcasts/1lDxLLVoDzZxm",
+                  "display_url": "twitter.com/i/broadcasts/1\u2026",
+                  "indices": [
+                     139,
+                     162
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 50,
+      "reply_count": 540,
+      "retweet_count": 617,
+      "favorite_count": 3438,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5uDlP04m9W",
+               "expanded_url": "https://twitter.com/i/web/status/1500873374972715012",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/3I4gnEeBXD",
+      "expanded": "https://twitter.com/VP/status/1500873374972715012",
+      "display": "twitter.com/VP/status/1500\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenatorCarper",
+            "name": "Senator Tom Carper",
+            "id": 249787913,
+            "id_str": "249787913",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646692527598"
+}

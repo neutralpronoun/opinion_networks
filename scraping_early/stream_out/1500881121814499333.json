@@ -1,0 +1,120 @@
+{
+   "created_at": "Mon Mar 07 17:08:39 +0000 2022",
+   "id": 1500881121814499333,
+   "id_str": "1500881121814499333",
+   "text": "Alabama's average gas prices are nearing 2008's record high:\n \n\u26fd\ufe0f Today: $3.910\n\u26fd\ufe0f 2008: $4.052\n \n@POTUS, There's a\u2026 https://t.co/0qP91xacFg",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1345739193721487362,
+      "id_str": "1345739193721487362",
+      "name": "Coach Tommy Tuberville",
+      "screen_name": "SenTuberville",
+      "location": "Washington, DC",
+      "url": "http://tuberville.senate.gov",
+      "description": "United States Senator for the great state of Alabama.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 18435,
+      "friends_count": 188,
+      "listed_count": 361,
+      "favourites_count": 1375,
+      "statuses_count": 1379,
+      "created_at": "Sun Jan 03 14:30:13 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1366463622537502722/cxpUZDqQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366463622537502722/cxpUZDqQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345739193721487362/1631656870",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Alabama's average gas prices are nearing 2008's record high:\n \n\u26fd\ufe0f Today: $3.910\n\u26fd\ufe0f 2008: $4.052\n \n@POTUS, There's a simple solution to lower costs \u27a1\ufe0f unleash American energy NOW.",
+      "display_text_range": [
+         0,
+         178
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  98,
+                  104
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0qP91xacFg",
+            "expanded_url": "https://twitter.com/i/web/status/1500881121814499333",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               98,
+               104
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672919120"
+}

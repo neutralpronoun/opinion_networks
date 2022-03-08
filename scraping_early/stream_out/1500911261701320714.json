@@ -1,0 +1,219 @@
+{
+   "created_at": "Mon Mar 07 19:08:25 +0000 2022",
+   "id": 1500911261701320714,
+   "id_str": "1500911261701320714",
+   "text": "It's National #SchoolBreakfastWeek and I want to take a moment to recognize the incredible @CCSDFoodService workers\u2026 https://t.co/dcm8NazFpQ",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1079061579973439488,
+      "id_str": "1079061579973439488",
+      "name": "Rep. Susie Lee",
+      "screen_name": "RepSusieLee",
+      "location": "Las Vegas, NV",
+      "url": "http://susielee.house.gov/services",
+      "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Mom to two great kids.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30151,
+      "friends_count": 498,
+      "listed_count": 611,
+      "favourites_count": 1284,
+      "statuses_count": 6085,
+      "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1407409540845510665/ORVVQ_QJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407409540845510665/ORVVQ_QJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "It's National #SchoolBreakfastWeek and I want to take a moment to recognize the incredible @CCSDFoodService workers who keep our kids energized and ready for success for the school day ahead. https://t.co/PvTE6OvwzT",
+      "display_text_range": [
+         0,
+         191
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SchoolBreakfastWeek",
+               "indices": [
+                  14,
+                  34
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "CCSDFoodService",
+               "name": "CCSD Food Service",
+               "id": 3250004449,
+               "id_str": "3250004449",
+               "indices": [
+                  91,
+                  107
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500911257746124811,
+               "id_str": "1500911257746124811",
+               "indices": [
+                  192,
+                  215
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRO1jVXsAsx3yR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRO1jVXsAsx3yR.jpg",
+               "url": "https://t.co/PvTE6OvwzT",
+               "display_url": "pic.twitter.com/PvTE6OvwzT",
+               "expanded_url": "https://twitter.com/RepSusieLee/status/1500911261701320714/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500911257746124811,
+               "id_str": "1500911257746124811",
+               "indices": [
+                  192,
+                  215
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRO1jVXsAsx3yR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRO1jVXsAsx3yR.jpg",
+               "url": "https://t.co/PvTE6OvwzT",
+               "display_url": "pic.twitter.com/PvTE6OvwzT",
+               "expanded_url": "https://twitter.com/RepSusieLee/status/1500911261701320714/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SchoolBreakfastWeek",
+            "indices": [
+               14,
+               34
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/dcm8NazFpQ",
+            "expanded_url": "https://twitter.com/i/web/status/1500911261701320714",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "CCSDFoodService",
+            "name": "CCSD Food Service",
+            "id": 3250004449,
+            "id_str": "3250004449",
+            "indices": [
+               91,
+               107
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680105029"
+}

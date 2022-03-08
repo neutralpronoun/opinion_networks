@@ -1,0 +1,151 @@
+{
+   "created_at": "Mon Mar 07 17:50:23 +0000 2022",
+   "id": 1500891625312198663,
+   "id_str": "1500891625312198663",
+   "text": "Congrats to @IlliniMBB &amp; @CoachUnderwood on winning the Big Ten Championship! A special shout out to Peoria-native\u2026 https://t.co/S2iXqc3Xl4",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 3686482216,
+      "id_str": "3686482216",
+      "name": "Darin LaHood",
+      "screen_name": "RepLaHood",
+      "location": "Peoria, IL",
+      "url": "https://lahood.house.gov/",
+      "description": "Proudly representing the 18th District of Illinois. Member of @WaysandMeansGOP and the House Intelligence Committee.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19269,
+      "friends_count": 1303,
+      "listed_count": 579,
+      "favourites_count": 1763,
+      "statuses_count": 3467,
+      "created_at": "Thu Sep 17 14:16:48 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1377118681851781127/fPtUY7tg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377118681851781127/fPtUY7tg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3686482216/1619368182",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Congrats to @IlliniMBB &amp; @CoachUnderwood on winning the Big Ten Championship! A special shout out to Peoria-native &amp; Manual grad Da\u2019Monte Williams for bringing home the title on senior night. Looking forward to watching the Illini compete in March Madness.\nhttps://t.co/5NBq8IUD8u",
+      "display_text_range": [
+         0,
+         288
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5NBq8IUD8u",
+               "expanded_url": "https://www.thechampaignroom.com/2022/3/6/22964733/illinois-fighting-illini-basketball-iowa-hawkeyes-kofi-cockburn-big-ten-conference-championship",
+               "display_url": "thechampaignroom.com/2022/3/6/22964\u2026",
+               "indices": [
+                  265,
+                  288
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "IlliniMBB",
+               "name": "Illinois Basketball",
+               "id": 40941404,
+               "id_str": "40941404",
+               "indices": [
+                  12,
+                  22
+               ]
+            },
+            {
+               "screen_name": "CoachUnderwood",
+               "name": "Brad Underwood",
+               "id": 843863424111198208,
+               "id_str": "843863424111198208",
+               "indices": [
+                  29,
+                  44
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/S2iXqc3Xl4",
+            "expanded_url": "https://twitter.com/i/web/status/1500891625312198663",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               120,
+               143
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "IlliniMBB",
+            "name": "Illinois Basketball",
+            "id": 40941404,
+            "id_str": "40941404",
+            "indices": [
+               12,
+               22
+            ]
+         },
+         {
+            "screen_name": "CoachUnderwood",
+            "name": "Brad Underwood",
+            "id": 843863424111198208,
+            "id_str": "843863424111198208",
+            "indices": [
+               29,
+               44
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675423349"
+}

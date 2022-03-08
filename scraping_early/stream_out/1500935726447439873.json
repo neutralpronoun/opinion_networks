@@ -1,0 +1,308 @@
+{
+   "created_at": "Mon Mar 07 20:45:37 +0000 2022",
+   "id": 1500935726447439873,
+   "id_str": "1500935726447439873",
+   "text": "RT @ALZIMPACT: The #ENACTAct can improve our understanding of why Alzheimer\u2019s disease disproportionately affects underrepresented populatio\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 816833925456789505,
+      "id_str": "816833925456789505",
+      "name": "Nanette D. Barrag\u00e1n",
+      "screen_name": "RepBarragan",
+      "location": "San Pedro, CA",
+      "url": "http://www.barragan.house.gov",
+      "description": "Honored to represent CA's 44th Congressional District, #CA44. Member of @EnergyCommerce @HomelandDems @HispanicCaucus @USProgressives. @Dodgers fan.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32894,
+      "friends_count": 9435,
+      "listed_count": 809,
+      "favourites_count": 5376,
+      "statuses_count": 7696,
+      "created_at": "Thu Jan 05 02:29:18 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1395612690836566018/Z3RsD66t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395612690836566018/Z3RsD66t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816833925456789505/1617034780",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:45:09 +0000 2022",
+      "id": 1500935608415436811,
+      "id_str": "1500935608415436811",
+      "text": "The #ENACTAct can improve our understanding of why Alzheimer\u2019s disease disproportionately affects underrepresented\u2026 https://t.co/0z0QSHxWFr",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 204905640,
+         "id_str": "204905640",
+         "name": "ALZ Impact Movement",
+         "screen_name": "ALZIMPACT",
+         "location": "Chicago, IL & Washington, DC",
+         "url": "http://alzimpact.org",
+         "description": "AIM is the advocacy arm of the Alzheimer\u2019s Association, working to make Alzheimer's disease a national priority.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 7960,
+         "friends_count": 1513,
+         "listed_count": 130,
+         "favourites_count": 8806,
+         "statuses_count": 17336,
+         "created_at": "Tue Oct 19 18:34:55 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "9D6EBE",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/816305868824342528/qnKcMy74_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/816305868824342528/qnKcMy74_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/204905640/1614714742",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The #ENACTAct can improve our understanding of why Alzheimer\u2019s disease disproportionately affects underrepresented populations. Thank you @RepBarragan for your support! Please urge your colleagues to include this bipartisan bill in the upcoming legislative hearing. #ENDALZ https://t.co/6MkRSdsw8s",
+         "display_text_range": [
+            0,
+            273
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "ENACTAct",
+                  "indices": [
+                     4,
+                     13
+                  ]
+               },
+               {
+                  "text": "ENDALZ",
+                  "indices": [
+                     266,
+                     273
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepBarragan",
+                  "name": "Nanette D. Barrag\u00e1n",
+                  "id": 816833925456789505,
+                  "id_str": "816833925456789505",
+                  "indices": [
+                     138,
+                     150
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500929774268596225,
+                  "id_str": "1500929774268596225",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRfrWwWQAE07hq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRfrWwWQAE07hq.jpg",
+                  "url": "https://t.co/6MkRSdsw8s",
+                  "display_url": "pic.twitter.com/6MkRSdsw8s",
+                  "expanded_url": "https://twitter.com/ALZIMPACT/status/1500935608415436811/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500929774268596225,
+                  "id_str": "1500929774268596225",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRfrWwWQAE07hq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRfrWwWQAE07hq.jpg",
+                  "url": "https://t.co/6MkRSdsw8s",
+                  "display_url": "pic.twitter.com/6MkRSdsw8s",
+                  "expanded_url": "https://twitter.com/ALZIMPACT/status/1500935608415436811/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "ENACTAct",
+               "indices": [
+                  4,
+                  13
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/0z0QSHxWFr",
+               "expanded_url": "https://twitter.com/i/web/status/1500935608415436811",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "ENACTAct",
+            "indices": [
+               19,
+               28
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ALZIMPACT",
+            "name": "ALZ Impact Movement",
+            "id": 204905640,
+            "id_str": "204905640",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685937879"
+}

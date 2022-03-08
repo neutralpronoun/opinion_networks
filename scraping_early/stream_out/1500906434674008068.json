@@ -1,0 +1,160 @@
+{
+   "created_at": "Mon Mar 07 18:49:14 +0000 2022",
+   "id": 1500906434674008068,
+   "id_str": "1500906434674008068",
+   "text": ".@SenMarkey, @MartinHeinrich, @RepNancyMace and I introduced a bill today to ban all imports of Russian crude oil a\u2026 https://t.co/mYbiBtiUVi",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 816298918468259841,
+      "id_str": "816298918468259841",
+      "name": "Rep. Ro Khanna",
+      "screen_name": "RepRoKhanna",
+      "location": "Silicon Valley, CA",
+      "url": "https://khanna.house.gov/",
+      "description": "Silicon Valley's #CA17. Creating jobs in areas left behind & tax credits for working class. Ending endless wars. No PAC $. Probably drinking coffee. he/him",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 113572,
+      "friends_count": 1846,
+      "listed_count": 1388,
+      "favourites_count": 2638,
+      "statuses_count": 11445,
+      "created_at": "Tue Jan 03 15:03:23 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1236008748130406400/6RLY4LrX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236008748130406400/6RLY4LrX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816298918468259841/1638886791",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": ".@SenMarkey, @MartinHeinrich, @RepNancyMace and I introduced a bill today to ban all imports of Russian crude oil and petroleum products. This is a matter of national security.",
+      "display_text_range": [
+         0,
+         176
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SenMarkey",
+               "name": "Ed Markey",
+               "id": 21406834,
+               "id_str": "21406834",
+               "indices": [
+                  1,
+                  11
+               ]
+            },
+            {
+               "screen_name": "MartinHeinrich",
+               "name": "Martin Heinrich",
+               "id": 1099199839,
+               "id_str": "1099199839",
+               "indices": [
+                  13,
+                  28
+               ]
+            },
+            {
+               "screen_name": "RepNancyMace",
+               "name": "Rep. Nancy Mace",
+               "id": 1343597700542038017,
+               "id_str": "1343597700542038017",
+               "indices": [
+                  30,
+                  43
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/mYbiBtiUVi",
+            "expanded_url": "https://twitter.com/i/web/status/1500906434674008068",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenMarkey",
+            "name": "Ed Markey",
+            "id": 21406834,
+            "id_str": "21406834",
+            "indices": [
+               1,
+               11
+            ]
+         },
+         {
+            "screen_name": "MartinHeinrich",
+            "name": "Martin Heinrich",
+            "id": 1099199839,
+            "id_str": "1099199839",
+            "indices": [
+               13,
+               28
+            ]
+         },
+         {
+            "screen_name": "RepNancyMace",
+            "name": "Rep. Nancy Mace",
+            "id": 1343597700542038017,
+            "id_str": "1343597700542038017",
+            "indices": [
+               30,
+               43
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678954176"
+}

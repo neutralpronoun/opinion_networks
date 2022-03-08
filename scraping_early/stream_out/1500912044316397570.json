@@ -1,0 +1,260 @@
+{
+   "created_at": "Mon Mar 07 19:11:31 +0000 2022",
+   "id": 1500912044316397570,
+   "id_str": "1500912044316397570",
+   "text": "The Shasta-Trinity National Recreation Area is a central economic driver in the local economy. Grateful to have my\u2026 https://t.co/b0wQgp4UxU",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1071102246,
+      "id_str": "1071102246",
+      "name": "Rep. Jared Huffman",
+      "screen_name": "RepHuffman",
+      "location": "California's North Coast",
+      "url": "http://huffman.house.gov",
+      "description": "Congressman for California's North Coast. On Facebook at http://facebook.com/RepHuffman. Listen to my podcast #OffTheCuff at http://medium.com/@RepHuffman",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 43949,
+      "friends_count": 1017,
+      "listed_count": 1034,
+      "favourites_count": 706,
+      "statuses_count": 5115,
+      "created_at": "Tue Jan 08 14:52:00 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071102246/1562005240",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Shasta-Trinity National Recreation Area is a central economic driver in the local economy. Grateful to have my constituent Paul Hauser testify in @nrdems last week as we discussed how my bill will support Trinity County and our growing outdoor recreation economy. https://t.co/WVtaXMx3bP",
+      "display_text_range": [
+         0,
+         267
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "NRDems",
+               "name": "Natural Resources Committee",
+               "id": 247486443,
+               "id_str": "247486443",
+               "indices": [
+                  150,
+                  157
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500910716110446592,
+               "id_str": "1500910716110446592",
+               "indices": [
+                  268,
+                  291
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRPg3RXEA4EJQp.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRPg3RXEA4EJQp.jpg",
+               "url": "https://t.co/WVtaXMx3bP",
+               "display_url": "pic.twitter.com/WVtaXMx3bP",
+               "expanded_url": "https://twitter.com/RepHuffman/status/1500912044316397570/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 197766,
+                  "variants": [
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/480x270/qULGOL2X5GnVesRr.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/640x360/R-arHRpw2cOCYvMu.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/pl/m4e-bFC3CIAhZ17-.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/1280x720/5wByymBfznCunyoA.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500910716110446592,
+               "id_str": "1500910716110446592",
+               "indices": [
+                  268,
+                  291
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRPg3RXEA4EJQp.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRPg3RXEA4EJQp.jpg",
+               "url": "https://t.co/WVtaXMx3bP",
+               "display_url": "pic.twitter.com/WVtaXMx3bP",
+               "expanded_url": "https://twitter.com/RepHuffman/status/1500912044316397570/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 197766,
+                  "variants": [
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/480x270/qULGOL2X5GnVesRr.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/640x360/R-arHRpw2cOCYvMu.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/pl/m4e-bFC3CIAhZ17-.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500910716110446592/vid/1280x720/5wByymBfznCunyoA.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/b0wQgp4UxU",
+            "expanded_url": "https://twitter.com/i/web/status/1500912044316397570",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680291619"
+}

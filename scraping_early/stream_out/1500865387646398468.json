@@ -1,0 +1,249 @@
+{
+   "created_at": "Mon Mar 07 16:06:07 +0000 2022",
+   "id": 1500865387646398468,
+   "id_str": "1500865387646398468",
+   "text": "The resolve and patriotism of the Ukrainian people is inspiring as they fight for their democracy.\n\nThe U.S. and NA\u2026 https://t.co/4Y4DoEX7d1",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080191866509901826,
+      "id_str": "1080191866509901826",
+      "name": "Rep. Jason Crow",
+      "screen_name": "RepJasonCrow",
+      "location": null,
+      "url": "https://crow.house.gov/",
+      "description": "Dad. Husband. Former Army Ranger. Assistant Little League Baseball Coach. Proudly Serving Colorado\u2019s 6th in the People\u2019s House. \ud83c\udfd4",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 140842,
+      "friends_count": 652,
+      "listed_count": 1029,
+      "favourites_count": 533,
+      "statuses_count": 3411,
+      "created_at": "Tue Jan 01 19:59:44 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080818711815176193/HGVcZOy1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080818711815176193/HGVcZOy1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080191866509901826/1553274406",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The resolve and patriotism of the Ukrainian people is inspiring as they fight for their democracy.\n\nThe U.S. and NATO must stand behind them, moving quickly to send more weapons and supplies. Every hour matters. https://t.co/CpZRgtmQKm",
+      "display_text_range": [
+         0,
+         211
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500863269715726340,
+               "id_str": "1500863269715726340",
+               "indices": [
+                  212,
+                  235
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNQjpf0WQAYI_4J.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQjpf0WQAYI_4J.jpg",
+               "url": "https://t.co/CpZRgtmQKm",
+               "display_url": "pic.twitter.com/CpZRgtmQKm",
+               "expanded_url": "https://twitter.com/RepJasonCrow/status/1500865387646398468/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     1,
+                     1
+                  ],
+                  "duration_millis": 59041,
+                  "variants": [
+                     {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/320x320/Su18Vre0W6MQe-Rm.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/540x540/q3IpjhE3aVJpO2B-.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/720x720/NXtriL8pMd23qekK.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/pl/Rl4Z9zae77oY1o0A.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 720,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 720,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500863269715726340,
+               "id_str": "1500863269715726340",
+               "indices": [
+                  212,
+                  235
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNQjpf0WQAYI_4J.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQjpf0WQAYI_4J.jpg",
+               "url": "https://t.co/CpZRgtmQKm",
+               "display_url": "pic.twitter.com/CpZRgtmQKm",
+               "expanded_url": "https://twitter.com/RepJasonCrow/status/1500865387646398468/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     1,
+                     1
+                  ],
+                  "duration_millis": 59041,
+                  "variants": [
+                     {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/320x320/Su18Vre0W6MQe-Rm.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/540x540/q3IpjhE3aVJpO2B-.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/vid/720x720/NXtriL8pMd23qekK.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500863269715726340/pl/Rl4Z9zae77oY1o0A.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 720,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 720,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/4Y4DoEX7d1",
+            "expanded_url": "https://twitter.com/i/web/status/1500865387646398468",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669167802"
+}

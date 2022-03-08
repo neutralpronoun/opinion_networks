@@ -1,0 +1,203 @@
+{
+   "created_at": "Tue Mar 08 01:44:16 +0000 2022",
+   "id": 1501010883434188804,
+   "id_str": "1501010883434188804",
+   "text": "Great talking to @BmoreSenators this evening. As a homegrown Baltimorean, I consider it a privilege to fight for th\u2026 https://t.co/4iOMnq3a0P",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 305620929,
+      "id_str": "305620929",
+      "name": "Dutch Ruppersberger",
+      "screen_name": "Call_Me_Dutch",
+      "location": "Washington, DC",
+      "url": "http://dutch.house.gov",
+      "description": "U.S. Congressman serving Maryland's 2nd District. Member of House Appropriations Committee. Loves all things Baltimore esp. the Ravens, Orioles and crabs.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 18509,
+      "friends_count": 2322,
+      "listed_count": 908,
+      "favourites_count": 1779,
+      "statuses_count": 5730,
+      "created_at": "Thu May 26 14:39:08 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "4A913C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "94D487",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1418661256085577730/gySYm7cY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418661256085577730/gySYm7cY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/305620929/1627414969",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Great talking to @BmoreSenators this evening. As a homegrown Baltimorean, I consider it a privilege to fight for the City in Congress. I look forward to continuing to work together at all levels of government in 2022 to move our country, our state + our City of Baltimore forward. https://t.co/IjpxIMXIXL",
+      "display_text_range": [
+         0,
+         280
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "BmoreSenators",
+               "name": "Baltimore City State Senators",
+               "id": 1073752489638400000,
+               "id_str": "1073752489638400000",
+               "indices": [
+                  17,
+                  31
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1501010878971396107,
+               "id_str": "1501010878971396107",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSpcRUWQAsDoOs.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSpcRUWQAsDoOs.jpg",
+               "url": "https://t.co/IjpxIMXIXL",
+               "display_url": "pic.twitter.com/IjpxIMXIXL",
+               "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1501010883434188804/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1486,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 493,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 871,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1501010878971396107,
+               "id_str": "1501010878971396107",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSpcRUWQAsDoOs.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSpcRUWQAsDoOs.jpg",
+               "url": "https://t.co/IjpxIMXIXL",
+               "display_url": "pic.twitter.com/IjpxIMXIXL",
+               "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1501010883434188804/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1486,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 493,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 871,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/4iOMnq3a0P",
+            "expanded_url": "https://twitter.com/i/web/status/1501010883434188804",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "BmoreSenators",
+            "name": "Baltimore City State Senators",
+            "id": 1073752489638400000,
+            "id_str": "1073752489638400000",
+            "indices": [
+               17,
+               31
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646703856701"
+}

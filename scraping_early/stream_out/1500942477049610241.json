@@ -1,0 +1,438 @@
+{
+   "created_at": "Mon Mar 07 21:12:27 +0000 2022",
+   "id": 1500942477049610241,
+   "id_str": "1500942477049610241",
+   "text": "RT @USAIDSavesLives: This weekend, a congressional delegation led by @HouseForeign Chairman @RepGregoryMeeks visited our @USAID disaster te\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 78445977,
+      "id_str": "78445977",
+      "name": "Rep. Gerry Connolly",
+      "screen_name": "GerryConnolly",
+      "location": "VA-11",
+      "url": "http://connolly.house.gov",
+      "description": "Congressman, Northern Virginia\u2019s #VA11 | Chairman, Subcommittee on Government Operations | President, @NATO Parliamentary Assembly. http://vaccines.gov",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 80246,
+      "friends_count": 834,
+      "listed_count": 1324,
+      "favourites_count": 383,
+      "statuses_count": 10464,
+      "created_at": "Tue Sep 29 23:17:33 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78445977/1646352814",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:59:02 +0000 2022",
+      "id": 1500908903835607049,
+      "id_str": "1500908903835607049",
+      "text": "This weekend, a congressional delegation led by @HouseForeign Chairman @RepGregoryMeeks visited our @USAID disaster\u2026 https://t.co/GyWRoM0tir",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 514033223,
+         "id_str": "514033223",
+         "name": "USAID's Bureau for Humanitarian Assistance",
+         "screen_name": "USAIDSavesLives",
+         "location": "Washington, DC",
+         "url": "http://www.usaid.gov/humanitarian-assistance",
+         "description": "USAID\u2019s Bureau for Humanitarian Assistance saves lives on behalf of the American people. http://usaid.gov/privacy-policy",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 54183,
+         "friends_count": 915,
+         "listed_count": 691,
+         "favourites_count": 21150,
+         "statuses_count": 19683,
+         "created_at": "Sun Mar 04 06:43:58 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "002A6C",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "C2113A",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/877625306810650625/DrVBou9N_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/877625306810650625/DrVBou9N_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/514033223/1629722547",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "This weekend, a congressional delegation led by @HouseForeign Chairman @RepGregoryMeeks visited our @USAID disaster team in Poland coordinating \ud83c\uddfa\ud83c\uddf8 humanitarian response efforts for #Ukraine. The team shared latest on needs &amp; challenges faced by the int'l humanitarian community. https://t.co/fjDUK0HUMh",
+         "display_text_range": [
+            0,
+            282
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Ukraine",
+                  "indices": [
+                     181,
+                     189
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "HouseForeign",
+                  "name": "House Foreign Affairs Committee",
+                  "id": 61206798,
+                  "id_str": "61206798",
+                  "indices": [
+                     48,
+                     61
+                  ]
+               },
+               {
+                  "screen_name": "RepGregoryMeeks",
+                  "name": "Rep. Gregory Meeks",
+                  "id": 22812754,
+                  "id_str": "22812754",
+                  "indices": [
+                     71,
+                     87
+                  ]
+               },
+               {
+                  "screen_name": "USAID",
+                  "name": "USAID",
+                  "id": 36683668,
+                  "id_str": "36683668",
+                  "indices": [
+                     100,
+                     106
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500884298194472961,
+                  "id_str": "1500884298194472961",
+                  "indices": [
+                     283,
+                     306
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ2UTLX0AE1HPv.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ2UTLX0AE1HPv.jpg",
+                  "url": "https://t.co/fjDUK0HUMh",
+                  "display_url": "pic.twitter.com/fjDUK0HUMh",
+                  "expanded_url": "https://twitter.com/USAIDSavesLives/status/1500908903835607049/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500885734886154244,
+                  "id_str": "1500885734886154244",
+                  "indices": [
+                     283,
+                     306
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ3n7RXIAQPTjX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ3n7RXIAQPTjX.jpg",
+                  "url": "https://t.co/fjDUK0HUMh",
+                  "display_url": "pic.twitter.com/fjDUK0HUMh",
+                  "expanded_url": "https://twitter.com/USAIDSavesLives/status/1500908903835607049/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500884298194472961,
+                  "id_str": "1500884298194472961",
+                  "indices": [
+                     283,
+                     306
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ2UTLX0AE1HPv.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ2UTLX0AE1HPv.jpg",
+                  "url": "https://t.co/fjDUK0HUMh",
+                  "display_url": "pic.twitter.com/fjDUK0HUMh",
+                  "expanded_url": "https://twitter.com/USAIDSavesLives/status/1500908903835607049/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500885734886154244,
+                  "id_str": "1500885734886154244",
+                  "indices": [
+                     283,
+                     306
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ3n7RXIAQPTjX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ3n7RXIAQPTjX.jpg",
+                  "url": "https://t.co/fjDUK0HUMh",
+                  "display_url": "pic.twitter.com/fjDUK0HUMh",
+                  "expanded_url": "https://twitter.com/USAIDSavesLives/status/1500908903835607049/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/GyWRoM0tir",
+               "expanded_url": "https://twitter.com/i/web/status/1500908903835607049",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "HouseForeign",
+               "name": "House Foreign Affairs Committee",
+               "id": 61206798,
+               "id_str": "61206798",
+               "indices": [
+                  48,
+                  61
+               ]
+            },
+            {
+               "screen_name": "RepGregoryMeeks",
+               "name": "Rep. Gregory Meeks",
+               "id": 22812754,
+               "id_str": "22812754",
+               "indices": [
+                  71,
+                  87
+               ]
+            },
+            {
+               "screen_name": "USAID",
+               "name": "USAID",
+               "id": 36683668,
+               "id_str": "36683668",
+               "indices": [
+                  100,
+                  106
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "USAIDSavesLives",
+            "name": "USAID's Bureau for Humanitarian Assistance",
+            "id": 514033223,
+            "id_str": "514033223",
+            "indices": [
+               3,
+               19
+            ]
+         },
+         {
+            "screen_name": "HouseForeign",
+            "name": "House Foreign Affairs Committee",
+            "id": 61206798,
+            "id_str": "61206798",
+            "indices": [
+               69,
+               82
+            ]
+         },
+         {
+            "screen_name": "RepGregoryMeeks",
+            "name": "Rep. Gregory Meeks",
+            "id": 22812754,
+            "id_str": "22812754",
+            "indices": [
+               92,
+               108
+            ]
+         },
+         {
+            "screen_name": "USAID",
+            "name": "USAID",
+            "id": 36683668,
+            "id_str": "36683668",
+            "indices": [
+               121,
+               127
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646687547348"
+}

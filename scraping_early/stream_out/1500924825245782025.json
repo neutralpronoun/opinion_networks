@@ -1,0 +1,100 @@
+{
+   "created_at": "Mon Mar 07 20:02:18 +0000 2022",
+   "id": 1500924825245782025,
+   "id_str": "1500924825245782025",
+   "text": "@AshaRangappa_ @joshscampbell I can\u2019t even",
+   "display_text_range": [
+      30,
+      42
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500918254352711683,
+   "in_reply_to_status_id_str": "1500918254352711683",
+   "in_reply_to_user_id": 510464011,
+   "in_reply_to_user_id_str": "510464011",
+   "in_reply_to_screen_name": "AshaRangappa_",
+   "user": {
+      "id": 548384458,
+      "id_str": "548384458",
+      "name": "Joyce Alene",
+      "screen_name": "JoyceWhiteVance",
+      "location": "Alabama",
+      "url": "https://www.law.ua.edu/directory/People/view/Joyce_Vance",
+      "description": "@UALawSchool Prof |Legal analyst @MSNBC @NBCNews |Podcasts #SistersInLaw & Cafe Insider|Obama US Atty |25 year fed'l prosecutor |Wife & Mom of 4 |Knits a lot",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 849328,
+      "friends_count": 1663,
+      "listed_count": 4951,
+      "favourites_count": 106063,
+      "statuses_count": 43702,
+      "created_at": "Sun Apr 08 12:20:45 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/548384458/1485185212",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "AshaRangappa_",
+            "name": "Asha Rangappa",
+            "id": 510464011,
+            "id_str": "510464011",
+            "indices": [
+               0,
+               14
+            ]
+         },
+         {
+            "screen_name": "joshscampbell",
+            "name": "Josh Campbell",
+            "id": 701750402786717696,
+            "id_str": "701750402786717696",
+            "indices": [
+               15,
+               29
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683338830"
+}

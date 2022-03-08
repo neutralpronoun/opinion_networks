@@ -1,0 +1,488 @@
+{
+   "created_at": "Mon Mar 07 21:45:06 +0000 2022",
+   "id": 1500950692562886660,
+   "id_str": "1500950692562886660",
+   "text": "RT @USRepGaryPalmer: When we could unleash our own energy production right here in America. It's unreal.",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1153382621952577536,
+      "id_str": "1153382621952577536",
+      "name": "Climate GOP",
+      "screen_name": "ClimateGOP",
+      "location": "Washington, DC",
+      "url": "https://republicans-climatecrisis.house.gov/",
+      "description": "House Select Climate Committee Republicans | Ranking Member: @RepGarretGraves",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1371,
+      "friends_count": 604,
+      "listed_count": 38,
+      "favourites_count": 226,
+      "statuses_count": 623,
+      "created_at": "Mon Jul 22 19:13:40 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1385317755746934784/Mdh2XQoc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385317755746934784/Mdh2XQoc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153382621952577536/1623088596",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:22:38 +0000 2022",
+      "id": 1500884642135695361,
+      "id_str": "1500884642135695361",
+      "text": "When we could unleash our own energy production right here in America. It's unreal.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2861616083,
+         "id_str": "2861616083",
+         "name": "Gary Palmer",
+         "screen_name": "USRepGaryPalmer",
+         "location": null,
+         "url": "https://palmer.house.gov/",
+         "description": "Proudly serving the people of Alabama's 6th Congressional District. Chairman of House @GOPpolicy Committee and member on @HouseCommerce Committee.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 22418,
+         "friends_count": 865,
+         "listed_count": 775,
+         "favourites_count": 375,
+         "statuses_count": 3259,
+         "created_at": "Tue Nov 04 22:58:38 +0000 2014",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "DD2E44",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/963834426131087362/G281BjJD_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861616083/1457816586",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500883885906874378,
+      "quoted_status_id_str": "1500883885906874378",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 17:19:38 +0000 2022",
+         "id": 1500883885906874378,
+         "id_str": "1500883885906874378",
+         "text": "\"Biden admin looks to oil-rich dictators for help\" https://t.co/DeF8LiTlNf",
+         "display_text_range": [
+            0,
+            50
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP",
+            "location": "Washington, DC",
+            "url": "http://gop.gov",
+            "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1155328,
+            "friends_count": 791,
+            "listed_count": 7653,
+            "favourites_count": 4501,
+            "statuses_count": 40123,
+            "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "006699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 50,
+         "reply_count": 240,
+         "retweet_count": 197,
+         "favorite_count": 495,
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500883875387559943,
+                  "id_str": "1500883875387559943",
+                  "indices": [
+                     51,
+                     74
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "url": "https://t.co/DeF8LiTlNf",
+                  "display_url": "pic.twitter.com/DeF8LiTlNf",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500883875387559943,
+                  "id_str": "1500883875387559943",
+                  "indices": [
+                     51,
+                     74
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "url": "https://t.co/DeF8LiTlNf",
+                  "display_url": "pic.twitter.com/DeF8LiTlNf",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/WXbnzr66Hw",
+         "expanded": "https://twitter.com/HouseGOP/status/1500883885906874378",
+         "display": "twitter.com/HouseGOP/statu\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 5,
+      "reply_count": 68,
+      "retweet_count": 43,
+      "favorite_count": 121,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500883885906874378,
+   "quoted_status_id_str": "1500883885906874378",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 17:19:38 +0000 2022",
+      "id": 1500883885906874378,
+      "id_str": "1500883885906874378",
+      "text": "\"Biden admin looks to oil-rich dictators for help\" https://t.co/DeF8LiTlNf",
+      "display_text_range": [
+         0,
+         50
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15207668,
+         "id_str": "15207668",
+         "name": "House Republicans",
+         "screen_name": "HouseGOP",
+         "location": "Washington, DC",
+         "url": "http://gop.gov",
+         "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1155328,
+         "friends_count": 791,
+         "listed_count": 7653,
+         "favourites_count": 4501,
+         "statuses_count": 40123,
+         "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "006699",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 50,
+      "reply_count": 240,
+      "retweet_count": 197,
+      "favorite_count": 495,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500883875387559943,
+               "id_str": "1500883875387559943",
+               "indices": [
+                  51,
+                  74
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "url": "https://t.co/DeF8LiTlNf",
+               "display_url": "pic.twitter.com/DeF8LiTlNf",
+               "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500883875387559943,
+               "id_str": "1500883875387559943",
+               "indices": [
+                  51,
+                  74
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "url": "https://t.co/DeF8LiTlNf",
+               "display_url": "pic.twitter.com/DeF8LiTlNf",
+               "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/WXbnzr66Hw",
+      "expanded": "https://twitter.com/HouseGOP/status/1500883885906874378",
+      "display": "twitter.com/HouseGOP/statu\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "USRepGaryPalmer",
+            "name": "Gary Palmer",
+            "id": 2861616083,
+            "id_str": "2861616083",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689506079"
+}

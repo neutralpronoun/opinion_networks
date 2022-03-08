@@ -1,0 +1,171 @@
+{
+   "created_at": "Mon Mar 07 19:13:25 +0000 2022",
+   "id": 1500912523553484806,
+   "id_str": "1500912523553484806",
+   "text": "Gas prices are over $4.00 a gallon nationwide. https://t.co/oYoSVWcYZJ",
+   "display_text_range": [
+      0,
+      46
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1074480192,
+      "id_str": "1074480192",
+      "name": "Senator Ted Cruz",
+      "screen_name": "SenTedCruz",
+      "location": "Houston, Texas",
+      "url": "http://cruz.senate.gov",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2368898,
+      "friends_count": 5542,
+      "listed_count": 10726,
+      "favourites_count": 522,
+      "statuses_count": 18684,
+      "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1618321873",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500912377298137088,
+            "id_str": "1500912377298137088",
+            "indices": [
+               47,
+               70
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRP2t_XsAAQyzl.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRP2t_XsAAQyzl.jpg",
+            "url": "https://t.co/oYoSVWcYZJ",
+            "display_url": "pic.twitter.com/oYoSVWcYZJ",
+            "expanded_url": "https://twitter.com/SenTedCruz/status/1500912523553484806/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500912377298137088,
+            "id_str": "1500912377298137088",
+            "indices": [
+               47,
+               70
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRP2t_XsAAQyzl.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRP2t_XsAAQyzl.jpg",
+            "url": "https://t.co/oYoSVWcYZJ",
+            "display_url": "pic.twitter.com/oYoSVWcYZJ",
+            "expanded_url": "https://twitter.com/SenTedCruz/status/1500912523553484806/photo/1",
+            "type": "animated_gif",
+            "video_info": {
+               "aspect_ratio": [
+                  1,
+                  1
+               ],
+               "variants": [
+                  {
+                     "bitrate": 0,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/tweet_video/FNRP2t_XsAAQyzl.mp4"
+                  }
+               ]
+            },
+            "sizes": {
+               "small": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680405878"
+}

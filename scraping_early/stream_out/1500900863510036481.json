@@ -1,0 +1,202 @@
+{
+   "created_at": "Mon Mar 07 18:27:05 +0000 2022",
+   "id": 1500900863510036481,
+   "id_str": "1500900863510036481",
+   "text": "RT @RepMalliotakis: My office is helping a number of American citizens &amp; visa holders return to the United States. We're happy to report th\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 757862089,
+      "id_str": "757862089",
+      "name": "Nicole Malliotakis",
+      "screen_name": "NMalliotakis",
+      "location": "New York City",
+      "url": "http://www.nicolemalliotakis.com",
+      "description": "U.S. Congress member for Brooklyn/ Staten Island, Former NY Assembly Member, 2017 Candidate for NYC Mayor, daughter of Greek & Cuban immigrants",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 65870,
+      "friends_count": 12294,
+      "listed_count": 597,
+      "favourites_count": 10005,
+      "statuses_count": 23876,
+      "created_at": "Tue Aug 14 20:45:06 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/940255462108184576/ULBhFfwx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/940255462108184576/ULBhFfwx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/757862089/1402910866",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:12:32 +0000 2022",
+      "id": 1500897201073053697,
+      "id_str": "1500897201073053697",
+      "text": "My office is helping a number of American citizens &amp; visa holders return to the United States. We're happy to repor\u2026 https://t.co/yzc2R0ABxB",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1344750588026900481,
+         "id_str": "1344750588026900481",
+         "name": "Office of Rep. Nicole Malliotakis",
+         "screen_name": "RepMalliotakis",
+         "location": null,
+         "url": "http://malliotakis.house.gov",
+         "description": "Congresswoman for #NY11, former NY State Assemblymember, proud daughter of Greek & Cuban immigrants | Member of @HouseForeignGOP @TransportGOP & @SelectGOP",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 11645,
+         "friends_count": 305,
+         "listed_count": 262,
+         "favourites_count": 13,
+         "statuses_count": 1017,
+         "created_at": "Thu Dec 31 21:02:13 +0000 2020",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1345790652416745477/f-Vnpg1e_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345790652416745477/f-Vnpg1e_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344750588026900481/1609685058",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "My office is helping a number of American citizens &amp; visa holders return to the United States. We're happy to report the first couple we assisted, from #StatenIsland, has made it safely to Moldova where they are being processed.\n\nhttps://t.co/y0JNweP8Wq",
+         "display_text_range": [
+            0,
+            257
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "StatenIsland",
+                  "indices": [
+                     156,
+                     169
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/y0JNweP8Wq",
+                  "expanded_url": "https://abcnews.go.com/Travel/wireStory/ukraine-attack-american-hopes-daughters-visa-83298955",
+                  "display_url": "abcnews.go.com/Travel/wireSto\u2026",
+                  "indices": [
+                     234,
+                     257
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/yzc2R0ABxB",
+               "expanded_url": "https://twitter.com/i/web/status/1500897201073053697",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMalliotakis",
+            "name": "Office of Rep. Nicole Malliotakis",
+            "id": 1344750588026900481,
+            "id_str": "1344750588026900481",
+            "indices": [
+               3,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677625907"
+}

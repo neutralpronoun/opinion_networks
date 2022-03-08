@@ -1,0 +1,189 @@
+{
+   "created_at": "Mon Mar 07 20:56:05 +0000 2022",
+   "id": 1500938357039370240,
+   "id_str": "1500938357039370240",
+   "text": "It was great to meet with volunteers in the USO lounge at SLC Airport. Kudos to the Governor\u2019s team for donating th\u2026 https://t.co/zIJbuFv6qM",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1337452596093587462,
+      "id_str": "1337452596093587462",
+      "name": "Rep. Blake Moore",
+      "screen_name": "RepBlakeMoore",
+      "location": null,
+      "url": "http://blakemoore.house.gov",
+      "description": "Serving Utah\u2019s First District on @HASCRepublicans & @NatResources, coaching little league, and riding around the Capitol on a scooter. \ud83d\udef5",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 6099,
+      "friends_count": 378,
+      "listed_count": 204,
+      "favourites_count": 621,
+      "statuses_count": 757,
+      "created_at": "Fri Dec 11 17:42:41 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1339629080811999234/qaTTyxBQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339629080811999234/qaTTyxBQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337452596093587462/1638378143",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "It was great to meet with volunteers in the USO lounge at SLC Airport. Kudos to the Governor\u2019s team for donating their space to give veterans a place to relax while they travel!  #utpol https://t.co/tFfSPoRJ5j",
+      "display_text_range": [
+         0,
+         185
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "utpol",
+               "indices": [
+                  179,
+                  185
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500938146615287814,
+               "id_str": "1500938146615287814",
+               "indices": [
+                  186,
+                  209
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnSsLWYAYzLYo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnSsLWYAYzLYo.jpg",
+               "url": "https://t.co/tFfSPoRJ5j",
+               "display_url": "pic.twitter.com/tFfSPoRJ5j",
+               "expanded_url": "https://twitter.com/RepBlakeMoore/status/1500938357039370240/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500938146615287814,
+               "id_str": "1500938146615287814",
+               "indices": [
+                  186,
+                  209
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnSsLWYAYzLYo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnSsLWYAYzLYo.jpg",
+               "url": "https://t.co/tFfSPoRJ5j",
+               "display_url": "pic.twitter.com/tFfSPoRJ5j",
+               "expanded_url": "https://twitter.com/RepBlakeMoore/status/1500938357039370240/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/zIJbuFv6qM",
+            "expanded_url": "https://twitter.com/i/web/status/1500938357039370240",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686565061"
+}

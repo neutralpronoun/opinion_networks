@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 20:04:04 +0000 2022",
+   "id": 1500925268097224711,
+   "id_str": "1500925268097224711",
+   "text": "I'm honored to introduce a resolution reaffirming and strengthening America's commitment to the International Day f\u2026 https://t.co/ctE7pjPXgM",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 199325935,
+      "id_str": "199325935",
+      "name": "Andr\u00e9 Carson",
+      "screen_name": "RepAndreCarson",
+      "location": "Indianapolis",
+      "url": "http://carson.house.gov/",
+      "description": "The official Twitter account for Congressman Andr\u00e9 Carson of Indiana's 7th District. #Indianapolis #Indy",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 61567,
+      "friends_count": 985,
+      "listed_count": 1285,
+      "favourites_count": 1254,
+      "statuses_count": 5573,
+      "created_at": "Wed Oct 06 15:47:50 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "226B85",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/199325935/1597249232",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I'm honored to introduce a resolution reaffirming and strengthening America's commitment to the International Day for the Elimination of Violence Against Women. 1 in 3 women will be abused in their lifetimes. We must continue leading the global effort to stop this violence. https://t.co/yfdHFZr7ho",
+      "display_text_range": [
+         0,
+         274
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500924962508582915,
+               "id_str": "1500924962508582915",
+               "indices": [
+                  275,
+                  298
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRbTRjXMAM73YO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRbTRjXMAM73YO.jpg",
+               "url": "https://t.co/yfdHFZr7ho",
+               "display_url": "pic.twitter.com/yfdHFZr7ho",
+               "expanded_url": "https://twitter.com/RepAndreCarson/status/1500925268097224711/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2000,
+                     "h": 1125,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500924962508582915,
+               "id_str": "1500924962508582915",
+               "indices": [
+                  275,
+                  298
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRbTRjXMAM73YO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRbTRjXMAM73YO.jpg",
+               "url": "https://t.co/yfdHFZr7ho",
+               "display_url": "pic.twitter.com/yfdHFZr7ho",
+               "expanded_url": "https://twitter.com/RepAndreCarson/status/1500925268097224711/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2000,
+                     "h": 1125,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/ctE7pjPXgM",
+            "expanded_url": "https://twitter.com/i/web/status/1500925268097224711",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683444414"
+}

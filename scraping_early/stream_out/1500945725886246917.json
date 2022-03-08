@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 21:25:21 +0000 2022",
+   "id": 1500945725886246917,
+   "id_str": "1500945725886246917",
+   "text": "The Biden admin and infrastructure funding passed by Congress are\n\u2705Boosting public transit and public health\n\u2705Cutti\u2026 https://t.co/NN6QvjFE45",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500945724481093634,
+   "in_reply_to_status_id_str": "1500945724481093634",
+   "in_reply_to_user_id": 21406834,
+   "in_reply_to_user_id_str": "21406834",
+   "in_reply_to_screen_name": "SenMarkey",
+   "user": {
+      "id": 21406834,
+      "id_str": "21406834",
+      "name": "Ed Markey",
+      "screen_name": "SenMarkey",
+      "location": "Massachusetts",
+      "url": "http://www.markey.senate.gov/",
+      "description": "US Senator for Massachusetts. Chair of Subcommittees on Clean Air, Climate & Nuclear Safety and on East Asia & the Pacific. Fighting for a Green New Deal.",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 251322,
+      "friends_count": 1777,
+      "listed_count": 3688,
+      "favourites_count": 1042,
+      "statuses_count": 18523,
+      "created_at": "Fri Feb 20 15:49:29 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "062232",
+      "profile_sidebar_border_color": "F55600",
+      "profile_sidebar_fill_color": "B8FDB5",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1381638402123137025/5dxEITqR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381638402123137025/5dxEITqR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1549578517",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Biden admin and infrastructure funding passed by Congress are\n\u2705Boosting public transit and public health\n\u2705Cutting pollution\n\u2705Reducing our reliance on oil\u2014both domestic and foreign\n\u2705Preventing emergency room visits for asthma\n\u2705Protecting our wallets from gas price gouging",
+      "display_text_range": [
+         0,
+         275
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/NN6QvjFE45",
+            "expanded_url": "https://twitter.com/i/web/status/1500945725886246917",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688321931"
+}

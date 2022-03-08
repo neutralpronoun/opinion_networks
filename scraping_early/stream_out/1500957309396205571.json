@@ -1,0 +1,157 @@
+{
+   "created_at": "Mon Mar 07 22:11:23 +0000 2022",
+   "id": 1500957309396205571,
+   "id_str": "1500957309396205571",
+   "text": "Met with Iowa senior living providers. Discussed Covid relief +Workforce +senior care https://t.co/lmtzg4mO6N",
+   "display_text_range": [
+      0,
+      85
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 10615232,
+      "id_str": "10615232",
+      "name": "ChuckGrassley",
+      "screen_name": "ChuckGrassley",
+      "location": "Iowa",
+      "url": "http://grassley.senate.gov",
+      "description": "U.S. Senator. Family farmer. Lifetime resident of New Hartford, IA. Also follow @GrassleyPress for news and information.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 676464,
+      "friends_count": 12804,
+      "listed_count": 6161,
+      "favourites_count": 5,
+      "statuses_count": 10845,
+      "created_at": "Mon Nov 26 15:17:02 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/921098191507984385/XYteQA6t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/921098191507984385/XYteQA6t_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500957215712231424,
+            "id_str": "1500957215712231424",
+            "indices": [
+               86,
+               109
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR4oqGWQAAbaGG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNR4oqGWQAAbaGG.jpg",
+            "url": "https://t.co/lmtzg4mO6N",
+            "display_url": "pic.twitter.com/lmtzg4mO6N",
+            "expanded_url": "https://twitter.com/ChuckGrassley/status/1500957309396205571/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500957215712231424,
+            "id_str": "1500957215712231424",
+            "indices": [
+               86,
+               109
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR4oqGWQAAbaGG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNR4oqGWQAAbaGG.jpg",
+            "url": "https://t.co/lmtzg4mO6N",
+            "display_url": "pic.twitter.com/lmtzg4mO6N",
+            "expanded_url": "https://twitter.com/ChuckGrassley/status/1500957309396205571/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691083655"
+}

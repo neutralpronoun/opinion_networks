@@ -1,0 +1,353 @@
+{
+   "created_at": "Mon Mar 07 18:05:14 +0000 2022",
+   "id": 1500895361983991815,
+   "id_str": "1500895361983991815",
+   "text": "RT @SocialSecurity: What can you do if you think you have been targeted by a government imposter scam? Follow these simple tips and #SlamTh\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 245451804,
+      "id_str": "245451804",
+      "name": "Rep. Jim Costa",
+      "screen_name": "RepJimCosta",
+      "location": null,
+      "url": "https://linktr.ee/RepJimCosta",
+      "description": "Costa represents CA's 16th District. He serves on the Agriculture, Natural Resources, & Foreign Affairs Committees. This account is for official use only.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28767,
+      "friends_count": 783,
+      "listed_count": 977,
+      "favourites_count": 298,
+      "statuses_count": 4212,
+      "created_at": "Mon Jan 31 18:42:23 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "00B9FF",
+      "profile_sidebar_border_color": "00B9FF",
+      "profile_sidebar_fill_color": "33762D",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1405658815106670599/bGhubVjo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405658815106670599/bGhubVjo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/245451804/1624413329",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:05:04 +0000 2022",
+      "id": 1500895320129089543,
+      "id_str": "1500895320129089543",
+      "text": "What can you do if you think you have been targeted by a government imposter scam? Follow these simple tips and\u2026 https://t.co/nGCwzjGYOZ",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 39580052,
+         "id_str": "39580052",
+         "name": "Social Security",
+         "screen_name": "SocialSecurity",
+         "location": "Baltimore, MD",
+         "url": "http://www.ssa.gov",
+         "description": "Official Tweets from @SocialSecurity. SSA retweets and follows are not endorsements. This communication produced & disseminated at U.S. taxpayer expense.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 92774,
+         "friends_count": 178,
+         "listed_count": 1038,
+         "favourites_count": 340,
+         "statuses_count": 16319,
+         "created_at": "Tue May 12 19:55:27 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "003366",
+         "profile_sidebar_border_color": "EEEEEE",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/877201522018463744/UGZVfJRO_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/877201522018463744/UGZVfJRO_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/39580052/1615990693",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "What can you do if you think you have been targeted by a government imposter scam? Follow these simple tips and #SlamTheScam! https://t.co/gTCkMGXPG7 #NCPW2022 https://t.co/4LmsCene1Y",
+         "display_text_range": [
+            0,
+            159
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "SlamTheScam",
+                  "indices": [
+                     112,
+                     124
+                  ]
+               },
+               {
+                  "text": "NCPW2022",
+                  "indices": [
+                     150,
+                     159
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/gTCkMGXPG7",
+                  "expanded_url": "http://ow.ly/6zw550I1CRB",
+                  "display_url": "ow.ly/6zw550I1CRB",
+                  "indices": [
+                     126,
+                     149
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500894067160457218,
+                  "id_str": "1500894067160457218",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500894067160457218/pu/img/Ns3bUO4G4KIE3Z9T.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500894067160457218/pu/img/Ns3bUO4G4KIE3Z9T.jpg",
+                  "url": "https://t.co/4LmsCene1Y",
+                  "display_url": "pic.twitter.com/4LmsCene1Y",
+                  "expanded_url": "https://twitter.com/SocialSecurity/status/1500895320129089543/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 30046,
+                     "variants": [
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/480x270/JWcGKJ5sUbDc2o2Z.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/1280x720/6LZYC8uTR2Rl1kuV.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/640x360/zOKZVqHB1pGyP4pg.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/pl/2UYazigYvU7ACFy1.m3u8?tag=12&container=fmp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500894067160457218,
+                  "id_str": "1500894067160457218",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500894067160457218/pu/img/Ns3bUO4G4KIE3Z9T.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500894067160457218/pu/img/Ns3bUO4G4KIE3Z9T.jpg",
+                  "url": "https://t.co/4LmsCene1Y",
+                  "display_url": "pic.twitter.com/4LmsCene1Y",
+                  "expanded_url": "https://twitter.com/SocialSecurity/status/1500895320129089543/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 30046,
+                     "variants": [
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/480x270/JWcGKJ5sUbDc2o2Z.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/1280x720/6LZYC8uTR2Rl1kuV.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/vid/640x360/zOKZVqHB1pGyP4pg.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1500894067160457218/pu/pl/2UYazigYvU7ACFy1.m3u8?tag=12&container=fmp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/nGCwzjGYOZ",
+               "expanded_url": "https://twitter.com/i/web/status/1500895320129089543",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  113,
+                  136
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SocialSecurity",
+            "name": "Social Security",
+            "id": 39580052,
+            "id_str": "39580052",
+            "indices": [
+               3,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676314241"
+}

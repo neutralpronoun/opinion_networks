@@ -1,0 +1,729 @@
+{
+   "created_at": "Mon Mar 07 18:45:01 +0000 2022",
+   "id": 1500905373670256649,
+   "id_str": "1500905373670256649",
+   "text": "RT @VickyMLRI: Appreciated opportunity to be part of this discussion, hear from colleagues &amp; leaders in this space &amp; to talk with our MA an\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 242426145,
+      "id_str": "242426145",
+      "name": "Rep. Jim McGovern",
+      "screen_name": "RepMcGovern",
+      "location": "Massachusetts, USA",
+      "url": "http://mcgovern.house.gov",
+      "description": "Lisa's husband. Patrick & Molly's dad. Proudly serving #MA02 & working to #EndHungerNow. Chair of @RulesDemocrats. Co-Chair of @TLhumanrights & @CECCgov. he/him",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 107262,
+      "friends_count": 677,
+      "listed_count": 1787,
+      "favourites_count": 3403,
+      "statuses_count": 14259,
+      "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "336699",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sat Mar 05 14:29:27 +0000 2022",
+      "id": 1500116283534155783,
+      "id_str": "1500116283534155783",
+      "text": "Appreciated opportunity to be part of this discussion, hear from colleagues &amp; leaders in this space &amp; to talk with\u2026 https://t.co/g1SJkWOUM9",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1179393090659987459,
+         "id_str": "1179393090659987459",
+         "name": "Vicky Negus",
+         "screen_name": "VickyMLRI",
+         "location": "Boston, MA",
+         "url": "http://www.MLRI.org",
+         "description": "SNAP+TANF policy @MassLawReform. Working to strengthen, expand, and protect critical safety net programs. Opinions my own.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 374,
+         "friends_count": 701,
+         "listed_count": 5,
+         "favourites_count": 933,
+         "statuses_count": 504,
+         "created_at": "Wed Oct 02 13:50:05 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1179397274453102593/7CC5l2UB_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179397274453102593/7CC5l2UB_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179393090659987459/1643297460",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499854181598781440,
+      "quoted_status_id_str": "1499854181598781440",
+      "quoted_status": {
+         "created_at": "Fri Mar 04 21:07:57 +0000 2022",
+         "id": 1499854181598781440,
+         "id_str": "1499854181598781440",
+         "text": "We're excited to be hosting the closing discussion of the @RulesDemocrats Massachusetts visit alongside local leade\u2026 https://t.co/ie0FCXbNnj",
+         "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 305777588,
+            "id_str": "305777588",
+            "name": "Tufts Nutrition",
+            "screen_name": "TuftsNutrition",
+            "location": "Boston, MA",
+            "url": "http://nutrition.tufts.edu/apply",
+            "description": "Gerald J. and Dorothy R. Friedman School of Nutrition Science and Policy at Tufts University. \n\nRT/Follow \u2260 Endorsement",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 12007,
+            "friends_count": 1156,
+            "listed_count": 271,
+            "favourites_count": 6407,
+            "statuses_count": 10983,
+            "created_at": "Thu May 26 19:42:23 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "6699CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145768532384219136/UD-Ifzzh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145768532384219136/UD-Ifzzh_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/305777588/1600370676",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "quoted_status_id": 1499834022851190789,
+         "quoted_status_id_str": "1499834022851190789",
+         "is_quote_status": true,
+         "extended_tweet": {
+            "full_text": "We're excited to be hosting the closing discussion of the @RulesDemocrats Massachusetts visit alongside local leaders in #FoodIsMedicine and hunger alleviation. @H2HCollab @projectbread @Gr8BosFoodBank @HarvardCHLPI @VickyMLRI @communityserv",
+            "display_text_range": [
+               0,
+               241
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "FoodIsMedicine",
+                     "indices": [
+                        121,
+                        136
+                     ]
+                  }
+               ],
+               "urls": [],
+               "user_mentions": [
+                  {
+                     "screen_name": "RulesDemocrats",
+                     "name": "House Committee on Rules",
+                     "id": 855482971868069890,
+                     "id_str": "855482971868069890",
+                     "indices": [
+                        58,
+                        73
+                     ]
+                  },
+                  {
+                     "screen_name": "H2HCollab",
+                     "name": "Hunger to Health Collaboratory (H2HC)",
+                     "id": 1433122893626494976,
+                     "id_str": "1433122893626494976",
+                     "indices": [
+                        161,
+                        171
+                     ]
+                  },
+                  {
+                     "screen_name": "projectbread",
+                     "name": "Project Bread",
+                     "id": 21228251,
+                     "id_str": "21228251",
+                     "indices": [
+                        172,
+                        185
+                     ]
+                  },
+                  {
+                     "screen_name": "Gr8BosFoodBank",
+                     "name": "The Greater Boston Food Bank",
+                     "id": 78306928,
+                     "id_str": "78306928",
+                     "indices": [
+                        186,
+                        201
+                     ]
+                  },
+                  {
+                     "screen_name": "HarvardCHLPI",
+                     "name": "CHLPI",
+                     "id": 2482274882,
+                     "id_str": "2482274882",
+                     "indices": [
+                        202,
+                        215
+                     ]
+                  },
+                  {
+                     "screen_name": "VickyMLRI",
+                     "name": "Vicky Negus",
+                     "id": 1179393090659987459,
+                     "id_str": "1179393090659987459",
+                     "indices": [
+                        216,
+                        226
+                     ]
+                  },
+                  {
+                     "screen_name": "communityserv",
+                     "name": "Community Servings",
+                     "id": 15586824,
+                     "id_str": "15586824",
+                     "indices": [
+                        227,
+                        241
+                     ]
+                  }
+               ],
+               "symbols": []
+            }
+         },
+         "quote_count": 1,
+         "reply_count": 0,
+         "retweet_count": 4,
+         "favorite_count": 14,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/ie0FCXbNnj",
+                  "expanded_url": "https://twitter.com/i/web/status/1499854181598781440",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RulesDemocrats",
+                  "name": "House Committee on Rules",
+                  "id": 855482971868069890,
+                  "id_str": "855482971868069890",
+                  "indices": [
+                     58,
+                     73
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/rfyIGAjiJU",
+         "expanded": "https://twitter.com/TuftsNutrition/status/1499854181598781440",
+         "display": "twitter.com/TuftsNutrition\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Appreciated opportunity to be part of this discussion, hear from colleagues &amp; leaders in this space &amp; to talk with our MA anti-hunger champion @RepMcGovern, along with @RepPerlmutter &amp; @RepDeSaulnier. Inspiring event! @projectbread @Gr8BosFoodBank @TuftsNutrition @MassLawReform https://t.co/aMaXf6n7Sj",
+         "display_text_range": [
+            0,
+            290
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepMcGovern",
+                  "name": "Rep. Jim McGovern",
+                  "id": 242426145,
+                  "id_str": "242426145",
+                  "indices": [
+                     151,
+                     163
+                  ]
+               },
+               {
+                  "screen_name": "RepPerlmutter",
+                  "name": "Rep. Ed Perlmutter",
+                  "id": 20552026,
+                  "id_str": "20552026",
+                  "indices": [
+                     176,
+                     190
+                  ]
+               },
+               {
+                  "screen_name": "RepDeSaulnier",
+                  "name": "Mark DeSaulnier",
+                  "id": 2968007206,
+                  "id_str": "2968007206",
+                  "indices": [
+                     197,
+                     211
+                  ]
+               },
+               {
+                  "screen_name": "projectbread",
+                  "name": "Project Bread",
+                  "id": 21228251,
+                  "id_str": "21228251",
+                  "indices": [
+                     230,
+                     243
+                  ]
+               },
+               {
+                  "screen_name": "Gr8BosFoodBank",
+                  "name": "The Greater Boston Food Bank",
+                  "id": 78306928,
+                  "id_str": "78306928",
+                  "indices": [
+                     244,
+                     259
+                  ]
+               },
+               {
+                  "screen_name": "TuftsNutrition",
+                  "name": "Tufts Nutrition",
+                  "id": 305777588,
+                  "id_str": "305777588",
+                  "indices": [
+                     260,
+                     275
+                  ]
+               },
+               {
+                  "screen_name": "MassLawReform",
+                  "name": "MLRI",
+                  "id": 390952025,
+                  "id_str": "390952025",
+                  "indices": [
+                     276,
+                     290
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500112116967264256,
+                  "id_str": "1500112116967264256",
+                  "indices": [
+                     291,
+                     314
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNF4Bb8X0AAtGqk.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNF4Bb8X0AAtGqk.jpg",
+                  "url": "https://t.co/aMaXf6n7Sj",
+                  "display_url": "pic.twitter.com/aMaXf6n7Sj",
+                  "expanded_url": "https://twitter.com/VickyMLRI/status/1500116283534155783/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 632,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 358,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 842,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500112116967264256,
+                  "id_str": "1500112116967264256",
+                  "indices": [
+                     291,
+                     314
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNF4Bb8X0AAtGqk.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNF4Bb8X0AAtGqk.jpg",
+                  "url": "https://t.co/aMaXf6n7Sj",
+                  "display_url": "pic.twitter.com/aMaXf6n7Sj",
+                  "expanded_url": "https://twitter.com/VickyMLRI/status/1500116283534155783/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 632,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 358,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 842,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 6,
+      "favorite_count": 14,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/g1SJkWOUM9",
+               "expanded_url": "https://twitter.com/i/web/status/1500116283534155783",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  124,
+                  147
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1499854181598781440,
+   "quoted_status_id_str": "1499854181598781440",
+   "quoted_status": {
+      "created_at": "Fri Mar 04 21:07:57 +0000 2022",
+      "id": 1499854181598781440,
+      "id_str": "1499854181598781440",
+      "text": "We're excited to be hosting the closing discussion of the @RulesDemocrats Massachusetts visit alongside local leade\u2026 https://t.co/ie0FCXbNnj",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 305777588,
+         "id_str": "305777588",
+         "name": "Tufts Nutrition",
+         "screen_name": "TuftsNutrition",
+         "location": "Boston, MA",
+         "url": "http://nutrition.tufts.edu/apply",
+         "description": "Gerald J. and Dorothy R. Friedman School of Nutrition Science and Policy at Tufts University. \n\nRT/Follow \u2260 Endorsement",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12007,
+         "friends_count": 1156,
+         "listed_count": 271,
+         "favourites_count": 6407,
+         "statuses_count": 10983,
+         "created_at": "Thu May 26 19:42:23 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "6699CC",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "A0C5C7",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1145768532384219136/UD-Ifzzh_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145768532384219136/UD-Ifzzh_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/305777588/1600370676",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499834022851190789,
+      "quoted_status_id_str": "1499834022851190789",
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "We're excited to be hosting the closing discussion of the @RulesDemocrats Massachusetts visit alongside local leaders in #FoodIsMedicine and hunger alleviation. @H2HCollab @projectbread @Gr8BosFoodBank @HarvardCHLPI @VickyMLRI @communityserv",
+         "display_text_range": [
+            0,
+            241
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "FoodIsMedicine",
+                  "indices": [
+                     121,
+                     136
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RulesDemocrats",
+                  "name": "House Committee on Rules",
+                  "id": 855482971868069890,
+                  "id_str": "855482971868069890",
+                  "indices": [
+                     58,
+                     73
+                  ]
+               },
+               {
+                  "screen_name": "H2HCollab",
+                  "name": "Hunger to Health Collaboratory (H2HC)",
+                  "id": 1433122893626494976,
+                  "id_str": "1433122893626494976",
+                  "indices": [
+                     161,
+                     171
+                  ]
+               },
+               {
+                  "screen_name": "projectbread",
+                  "name": "Project Bread",
+                  "id": 21228251,
+                  "id_str": "21228251",
+                  "indices": [
+                     172,
+                     185
+                  ]
+               },
+               {
+                  "screen_name": "Gr8BosFoodBank",
+                  "name": "The Greater Boston Food Bank",
+                  "id": 78306928,
+                  "id_str": "78306928",
+                  "indices": [
+                     186,
+                     201
+                  ]
+               },
+               {
+                  "screen_name": "HarvardCHLPI",
+                  "name": "CHLPI",
+                  "id": 2482274882,
+                  "id_str": "2482274882",
+                  "indices": [
+                     202,
+                     215
+                  ]
+               },
+               {
+                  "screen_name": "VickyMLRI",
+                  "name": "Vicky Negus",
+                  "id": 1179393090659987459,
+                  "id_str": "1179393090659987459",
+                  "indices": [
+                     216,
+                     226
+                  ]
+               },
+               {
+                  "screen_name": "communityserv",
+                  "name": "Community Servings",
+                  "id": 15586824,
+                  "id_str": "15586824",
+                  "indices": [
+                     227,
+                     241
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "favorite_count": 14,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/ie0FCXbNnj",
+               "expanded_url": "https://twitter.com/i/web/status/1499854181598781440",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RulesDemocrats",
+               "name": "House Committee on Rules",
+               "id": 855482971868069890,
+               "id_str": "855482971868069890",
+               "indices": [
+                  58,
+                  73
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/rfyIGAjiJU",
+      "expanded": "https://twitter.com/TuftsNutrition/status/1499854181598781440",
+      "display": "twitter.com/TuftsNutrition\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "VickyMLRI",
+            "name": "Vicky Negus",
+            "id": 1179393090659987459,
+            "id_str": "1179393090659987459",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678701213"
+}

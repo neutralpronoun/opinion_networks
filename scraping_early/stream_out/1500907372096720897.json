@@ -1,0 +1,275 @@
+{
+   "created_at": "Mon Mar 07 18:52:57 +0000 2022",
+   "id": 1500907372096720897,
+   "id_str": "1500907372096720897",
+   "text": "Thank you @The_BMC for inviting us to talk about Food As Medicine programs!\n\u00a0\nPhysicians &amp; specialists tell us that\u2026 https://t.co/CV86jXEldv",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1499855486082072588,
+   "in_reply_to_status_id_str": "1499855486082072588",
+   "in_reply_to_user_id": 242426145,
+   "in_reply_to_user_id_str": "242426145",
+   "in_reply_to_screen_name": "RepMcGovern",
+   "user": {
+      "id": 242426145,
+      "id_str": "242426145",
+      "name": "Rep. Jim McGovern",
+      "screen_name": "RepMcGovern",
+      "location": "Massachusetts, USA",
+      "url": "http://mcgovern.house.gov",
+      "description": "Lisa's husband. Patrick & Molly's dad. Proudly serving #MA02 & working to #EndHungerNow. Chair of @RulesDemocrats. Co-Chair of @TLhumanrights & @CECCgov. he/him",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 107262,
+      "friends_count": 677,
+      "listed_count": 1787,
+      "favourites_count": 3403,
+      "statuses_count": 14260,
+      "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "336699",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Thank you @The_BMC for inviting us to talk about Food As Medicine programs!\n\u00a0\nPhysicians &amp; specialists tell us that, in many cases, food insecurity is the cause of preventable visits to the hospital &amp; emergency room. https://t.co/LUIyE9AblL",
+      "display_text_range": [
+         0,
+         224
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "The_BMC",
+               "name": "Boston Medical Center",
+               "id": 87510035,
+               "id_str": "87510035",
+               "indices": [
+                  10,
+                  18
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500907365058715652,
+               "id_str": "1500907365058715652",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRLS98XoAQXj5Z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRLS98XoAQXj5Z.jpg",
+               "url": "https://t.co/LUIyE9AblL",
+               "display_url": "pic.twitter.com/LUIyE9AblL",
+               "expanded_url": "https://twitter.com/RepMcGovern/status/1500907372096720897/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907365058682885,
+               "id_str": "1500907365058682885",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRLS98XIAUxEYx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRLS98XIAUxEYx.jpg",
+               "url": "https://t.co/LUIyE9AblL",
+               "display_url": "pic.twitter.com/LUIyE9AblL",
+               "expanded_url": "https://twitter.com/RepMcGovern/status/1500907372096720897/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500907365058715652,
+               "id_str": "1500907365058715652",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRLS98XoAQXj5Z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRLS98XoAQXj5Z.jpg",
+               "url": "https://t.co/LUIyE9AblL",
+               "display_url": "pic.twitter.com/LUIyE9AblL",
+               "expanded_url": "https://twitter.com/RepMcGovern/status/1500907372096720897/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907365058682885,
+               "id_str": "1500907365058682885",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRLS98XIAUxEYx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRLS98XIAUxEYx.jpg",
+               "url": "https://t.co/LUIyE9AblL",
+               "display_url": "pic.twitter.com/LUIyE9AblL",
+               "expanded_url": "https://twitter.com/RepMcGovern/status/1500907372096720897/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/CV86jXEldv",
+            "expanded_url": "https://twitter.com/i/web/status/1500907372096720897",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "The_BMC",
+            "name": "Boston Medical Center",
+            "id": 87510035,
+            "id_str": "87510035",
+            "indices": [
+               10,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679177675"
+}

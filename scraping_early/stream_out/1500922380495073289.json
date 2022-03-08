@@ -1,0 +1,264 @@
+{
+   "created_at": "Mon Mar 07 19:52:35 +0000 2022",
+   "id": 1500922380495073289,
+   "id_str": "1500922380495073289",
+   "text": "RT @realDailyWire: BREAKING: U.S. National Average Price Of Gasoline Hits New All-Time Record High, Report Says https://t.co/jFtDlNdEew htt\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 237763317,
+      "id_str": "237763317",
+      "name": "Rep. Vicky Hartzler",
+      "screen_name": "RepHartzler",
+      "location": "Harrisonville, Missouri",
+      "url": "http://hartzler.house.gov",
+      "description": "Proudly representing Missouri's Fourth District in Congress. Senior member of @HASCRepublicans and @HouseAgGOP. Commissioner of @CECCgov.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32527,
+      "friends_count": 940,
+      "listed_count": 1189,
+      "favourites_count": 1196,
+      "statuses_count": 8724,
+      "created_at": "Thu Jan 13 15:38:52 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0D3F6E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "930D12",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1372534400823480329/9KTI7B43_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372534400823480329/9KTI7B43_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/237763317/1624486423",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:50:05 +0000 2022",
+      "id": 1500921749793300480,
+      "id_str": "1500921749793300480",
+      "text": "BREAKING: U.S. National Average Price Of Gasoline Hits New All-Time Record High, Report Says https://t.co/jFtDlNdEew https://t.co/aXIENEECHz",
+      "display_text_range": [
+         0,
+         116
+      ],
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 4081106480,
+         "id_str": "4081106480",
+         "name": "Daily Wire",
+         "screen_name": "realDailyWire",
+         "location": "Nashville, USA",
+         "url": "http://utm.io/uelek",
+         "description": "Official Twitter feed of The Daily Wire. Our new movie \"The Hyperions\" premieres Thursday 3/10 at 8:30pm ET! \n\nClick the link below to set your reminders on YT!",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 771273,
+         "friends_count": 2503,
+         "listed_count": 3246,
+         "favourites_count": 10319,
+         "statuses_count": 161862,
+         "created_at": "Sat Oct 31 15:42:25 +0000 2015",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1493271719150342145/dSr1R5Tb_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493271719150342145/dSr1R5Tb_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4081106480/1645829629",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 14,
+      "favorite_count": 35,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/jFtDlNdEew",
+               "expanded_url": "http://dlvr.it/SLFwVb",
+               "display_url": "dlvr.it/SLFwVb",
+               "indices": [
+                  93,
+                  116
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500921747956125696,
+               "id_str": "1500921747956125696",
+               "indices": [
+                  117,
+                  140
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRYYKaVUAAbJyh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRYYKaVUAAbJyh.jpg",
+               "url": "https://t.co/aXIENEECHz",
+               "display_url": "pic.twitter.com/aXIENEECHz",
+               "expanded_url": "https://twitter.com/realDailyWire/status/1500921749793300480/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500921747956125696,
+               "id_str": "1500921747956125696",
+               "indices": [
+                  117,
+                  140
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRYYKaVUAAbJyh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRYYKaVUAAbJyh.jpg",
+               "url": "https://t.co/aXIENEECHz",
+               "display_url": "pic.twitter.com/aXIENEECHz",
+               "expanded_url": "https://twitter.com/realDailyWire/status/1500921749793300480/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/jFtDlNdEew",
+            "expanded_url": "http://dlvr.it/SLFwVb",
+            "display_url": "dlvr.it/SLFwVb",
+            "indices": [
+               112,
+               135
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "realDailyWire",
+            "name": "Daily Wire",
+            "id": 4081106480,
+            "id_str": "4081106480",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682755956"
+}

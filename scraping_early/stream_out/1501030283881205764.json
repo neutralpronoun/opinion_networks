@@ -1,0 +1,100 @@
+{
+   "created_at": "Tue Mar 08 03:01:22 +0000 2022",
+   "id": 1501030283881205764,
+   "id_str": "1501030283881205764",
+   "text": "@MarshaBlackburn @AOC Why should we thank him.. when according to you, it doesn\u2019t work?",
+   "display_text_range": [
+      22,
+      87
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1501018610487201808,
+   "in_reply_to_status_id_str": "1501018610487201808",
+   "in_reply_to_user_id": 278145569,
+   "in_reply_to_user_id_str": "278145569",
+   "in_reply_to_screen_name": "MarshaBlackburn",
+   "user": {
+      "id": 248037288,
+      "id_str": "248037288",
+      "name": "Cameron McKendry \ud83c\uddfa\ud83c\udde6",
+      "screen_name": "CameronMcKendry",
+      "location": "Los Angeles",
+      "url": "https://m.imdb.com/name/nm4068476/?ref=m_nv_sr_1",
+      "description": "Actor, Human Rights Advocate, Dog dad, Cleveland sports fan, Swiftie \u2022 He/Him \u2022 @ImNotAshamedRJS \u2022 @MyFriendDahmer \u2022 @TheFostersTV \u2022 @AxidentalZombie \u2022",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2475,
+      "friends_count": 912,
+      "listed_count": 8,
+      "favourites_count": 35511,
+      "statuses_count": 4794,
+      "created_at": "Sun Feb 06 03:36:31 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "111112",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "40EB15",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1460376559437500419/R9toemVk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460376559437500419/R9toemVk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/248037288/1644995760",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MarshaBlackburn",
+            "name": "Sen. Marsha Blackburn",
+            "id": 278145569,
+            "id_str": "278145569",
+            "indices": [
+               0,
+               16
+            ]
+         },
+         {
+            "screen_name": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "id": 138203134,
+            "id_str": "138203134",
+            "indices": [
+               17,
+               21
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646708482128"
+}

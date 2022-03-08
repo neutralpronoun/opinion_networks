@@ -1,0 +1,305 @@
+{
+   "created_at": "Tue Mar 08 02:16:26 +0000 2022",
+   "id": 1501018978839371776,
+   "id_str": "1501018978839371776",
+   "text": ".@SenRickScott wants to raise your taxes. \n\n@SenRonJohnson wants to take away your health care. \n\nNo need to read b\u2026 https://t.co/lqfgbLN5C0",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2293131060,
+      "id_str": "2293131060",
+      "name": "Katherine Clark",
+      "screen_name": "RepKClark",
+      "location": "MA-5 & Washington, D.C. ",
+      "url": "http://katherineclark.house.gov",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. #ChildCareIsInfrastructure tweeter. Defender of women, kids & justice. She/Her",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 93974,
+      "friends_count": 1823,
+      "listed_count": 1471,
+      "favourites_count": 6422,
+      "statuses_count": 9917,
+      "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1625071462",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": ".@SenRickScott wants to raise your taxes. \n\n@SenRonJohnson wants to take away your health care. \n\nNo need to read between the lines when the @GOP says the quiet part out loud. https://t.co/zfJXzJMda4",
+      "display_text_range": [
+         0,
+         175
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SenRickScott",
+               "name": "Rick Scott",
+               "id": 131546062,
+               "id_str": "131546062",
+               "indices": [
+                  1,
+                  14
+               ]
+            },
+            {
+               "screen_name": "SenRonJohnson",
+               "name": "Senator Ron Johnson",
+               "id": 233737858,
+               "id_str": "233737858",
+               "indices": [
+                  44,
+                  58
+               ]
+            },
+            {
+               "screen_name": "GOP",
+               "name": "GOP",
+               "id": 11134252,
+               "id_str": "11134252",
+               "indices": [
+                  141,
+                  145
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1501018578396590082,
+               "id_str": "1501018578396590082",
+               "indices": [
+                  176,
+                  199
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSwcb6XMAIlo9s.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSwcb6XMAIlo9s.jpg",
+               "url": "https://t.co/zfJXzJMda4",
+               "display_url": "pic.twitter.com/zfJXzJMda4",
+               "expanded_url": "https://twitter.com/RepKClark/status/1501018978839371776/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1391,
+                     "h": 1092,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 942,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 534,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1501018607232466945,
+               "id_str": "1501018607232466945",
+               "indices": [
+                  176,
+                  199
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSweHVXwAE9fwQ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSweHVXwAE9fwQ.jpg",
+               "url": "https://t.co/zfJXzJMda4",
+               "display_url": "pic.twitter.com/zfJXzJMda4",
+               "expanded_url": "https://twitter.com/RepKClark/status/1501018978839371776/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 905,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1326,
+                     "h": 1000,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 513,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1501018578396590082,
+               "id_str": "1501018578396590082",
+               "indices": [
+                  176,
+                  199
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSwcb6XMAIlo9s.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSwcb6XMAIlo9s.jpg",
+               "url": "https://t.co/zfJXzJMda4",
+               "display_url": "pic.twitter.com/zfJXzJMda4",
+               "expanded_url": "https://twitter.com/RepKClark/status/1501018978839371776/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1391,
+                     "h": 1092,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 942,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 534,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1501018607232466945,
+               "id_str": "1501018607232466945",
+               "indices": [
+                  176,
+                  199
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSweHVXwAE9fwQ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSweHVXwAE9fwQ.jpg",
+               "url": "https://t.co/zfJXzJMda4",
+               "display_url": "pic.twitter.com/zfJXzJMda4",
+               "expanded_url": "https://twitter.com/RepKClark/status/1501018978839371776/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 905,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1326,
+                     "h": 1000,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 513,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/lqfgbLN5C0",
+            "expanded_url": "https://twitter.com/i/web/status/1501018978839371776",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenRickScott",
+            "name": "Rick Scott",
+            "id": 131546062,
+            "id_str": "131546062",
+            "indices": [
+               1,
+               14
+            ]
+         },
+         {
+            "screen_name": "SenRonJohnson",
+            "name": "Senator Ron Johnson",
+            "id": 233737858,
+            "id_str": "233737858",
+            "indices": [
+               44,
+               58
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646705786796"
+}

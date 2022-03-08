@@ -1,0 +1,637 @@
+{
+   "created_at": "Tue Mar 08 01:05:29 +0000 2022",
+   "id": 1501001122714034179,
+   "id_str": "1501001122714034179",
+   "text": "RT @RepSusieLee: Nevada is proud to have a women-majority federal delegation, women-majority Supreme Court, and the first women-majority st\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 19760382,
+      "id_str": "19760382",
+      "name": "Dr. Michele Ross",
+      "screen_name": "drmicheleross",
+      "location": "Las Vegas, NV",
+      "url": "https://linktr.ee/drmicheleross",
+      "description": "Neuroscientist PhD/MBA helping patients heal chronic pain with mushrooms, cannabis, & kratom. @askmushroommd @healwithaura @vitaminweed. Star of Big Brother 11.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 73246,
+      "friends_count": 13715,
+      "listed_count": 1691,
+      "favourites_count": 63608,
+      "statuses_count": 36731,
+      "created_at": "Fri Jan 30 09:17:17 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "008000",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1471211419022422017/x8Be7ruv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471211419022422017/x8Be7ruv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19760382/1627323000",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:59:16 +0000 2022",
+      "id": 1500939158034030599,
+      "id_str": "1500939158034030599",
+      "text": "Nevada is proud to have a women-majority federal delegation, women-majority Supreme Court, and the first women-majo\u2026 https://t.co/l2XrMbiEma",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1079061579973439488,
+         "id_str": "1079061579973439488",
+         "name": "Rep. Susie Lee",
+         "screen_name": "RepSusieLee",
+         "location": "Las Vegas, NV",
+         "url": "http://susielee.house.gov/services",
+         "description": "Congresswoman proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Mom to two great kids.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 30145,
+         "friends_count": 498,
+         "listed_count": 610,
+         "favourites_count": 1279,
+         "statuses_count": 6087,
+         "created_at": "Sat Dec 29 17:08:23 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1407409540845510665/ORVVQ_QJ_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407409540845510665/ORVVQ_QJ_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079061579973439488/1546532419",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500879969236443140,
+      "quoted_status_id_str": "1500879969236443140",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 17:04:04 +0000 2022",
+         "id": 1500879969236443140,
+         "id_str": "1500879969236443140",
+         "text": ".@RepSusieLee was an education non-profit leader before her election to congress. She is now in her second term rep\u2026 https://t.co/06wgXKLXEM",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": 1500879890698047489,
+         "in_reply_to_status_id_str": "1500879890698047489",
+         "in_reply_to_user_id": 1080586433088258048,
+         "in_reply_to_user_id_str": "1080586433088258048",
+         "in_reply_to_screen_name": "GovSisolak",
+         "user": {
+            "id": 1080586433088258048,
+            "id_str": "1080586433088258048",
+            "name": "Governor Sisolak",
+            "screen_name": "GovSisolak",
+            "location": "Nevada, USA",
+            "url": "http://gov.nv.gov/",
+            "description": "Governor of Nevada. Proud Dad and Husband. Standing up for Nevada families and Nevada priorities.\u00a0#3MillionReasons",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 91981,
+            "friends_count": 122,
+            "listed_count": 543,
+            "favourites_count": 1977,
+            "statuses_count": 9997,
+            "created_at": "Wed Jan 02 22:07:36 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399583534956773376/eB7Bm78M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399583534956773376/eB7Bm78M_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080586433088258048/1622521338",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": ".@RepSusieLee was an education non-profit leader before her election to congress. She is now in her second term representing Nevada\u2019s 3rd Congressional District. https://t.co/cQFwTIjeJN #WomensHistoryMonth https://t.co/Jqyb5hbNwK",
+            "display_text_range": [
+               0,
+               205
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "WomensHistoryMonth",
+                     "indices": [
+                        186,
+                        205
+                     ]
+                  }
+               ],
+               "urls": [
+                  {
+                     "url": "https://t.co/cQFwTIjeJN",
+                     "expanded_url": "https://susielee.house.gov/about",
+                     "display_url": "susielee.house.gov/about",
+                     "indices": [
+                        162,
+                        185
+                     ]
+                  }
+               ],
+               "user_mentions": [
+                  {
+                     "screen_name": "RepSusieLee",
+                     "name": "Rep. Susie Lee",
+                     "id": 1079061579973439488,
+                     "id_str": "1079061579973439488",
+                     "indices": [
+                        1,
+                        13
+                     ]
+                  }
+               ],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1500879955688779782,
+                     "id_str": "1500879955688779782",
+                     "indices": [
+                        206,
+                        229
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                     "url": "https://t.co/Jqyb5hbNwK",
+                     "display_url": "pic.twitter.com/Jqyb5hbNwK",
+                     "expanded_url": "https://twitter.com/GovSisolak/status/1500879969236443140/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500879955688779782,
+                     "id_str": "1500879955688779782",
+                     "indices": [
+                        206,
+                        229
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                     "url": "https://t.co/Jqyb5hbNwK",
+                     "display_url": "pic.twitter.com/Jqyb5hbNwK",
+                     "expanded_url": "https://twitter.com/GovSisolak/status/1500879969236443140/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 400,
+                           "h": 400,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 0,
+         "reply_count": 14,
+         "retweet_count": 5,
+         "favorite_count": 24,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/06wgXKLXEM",
+                  "expanded_url": "https://twitter.com/i/web/status/1500879969236443140",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepSusieLee",
+                  "name": "Rep. Susie Lee",
+                  "id": 1079061579973439488,
+                  "id_str": "1079061579973439488",
+                  "indices": [
+                     1,
+                     13
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/7D8ukCmBpm",
+         "expanded": "https://twitter.com/GovSisolak/status/1500879969236443140",
+         "display": "twitter.com/GovSisolak/sta\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Nevada is proud to have a women-majority federal delegation, women-majority Supreme Court, and the first women-majority state legislature!\n\nWashington could learn a thing or two from the ladies of the Battle Born State. \ud83d\udcaa",
+         "display_text_range": [
+            0,
+            221
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 9,
+      "favorite_count": 50,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/l2XrMbiEma",
+               "expanded_url": "https://twitter.com/i/web/status/1500939158034030599",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500879969236443140,
+   "quoted_status_id_str": "1500879969236443140",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 17:04:04 +0000 2022",
+      "id": 1500879969236443140,
+      "id_str": "1500879969236443140",
+      "text": ".@RepSusieLee was an education non-profit leader before her election to congress. She is now in her second term rep\u2026 https://t.co/06wgXKLXEM",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1500879890698047489,
+      "in_reply_to_status_id_str": "1500879890698047489",
+      "in_reply_to_user_id": 1080586433088258048,
+      "in_reply_to_user_id_str": "1080586433088258048",
+      "in_reply_to_screen_name": "GovSisolak",
+      "user": {
+         "id": 1080586433088258048,
+         "id_str": "1080586433088258048",
+         "name": "Governor Sisolak",
+         "screen_name": "GovSisolak",
+         "location": "Nevada, USA",
+         "url": "http://gov.nv.gov/",
+         "description": "Governor of Nevada. Proud Dad and Husband. Standing up for Nevada families and Nevada priorities.\u00a0#3MillionReasons",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 91981,
+         "friends_count": 122,
+         "listed_count": 543,
+         "favourites_count": 1977,
+         "statuses_count": 9997,
+         "created_at": "Wed Jan 02 22:07:36 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1399583534956773376/eB7Bm78M_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399583534956773376/eB7Bm78M_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080586433088258048/1622521338",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": ".@RepSusieLee was an education non-profit leader before her election to congress. She is now in her second term representing Nevada\u2019s 3rd Congressional District. https://t.co/cQFwTIjeJN #WomensHistoryMonth https://t.co/Jqyb5hbNwK",
+         "display_text_range": [
+            0,
+            205
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "WomensHistoryMonth",
+                  "indices": [
+                     186,
+                     205
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/cQFwTIjeJN",
+                  "expanded_url": "https://susielee.house.gov/about",
+                  "display_url": "susielee.house.gov/about",
+                  "indices": [
+                     162,
+                     185
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepSusieLee",
+                  "name": "Rep. Susie Lee",
+                  "id": 1079061579973439488,
+                  "id_str": "1079061579973439488",
+                  "indices": [
+                     1,
+                     13
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500879955688779782,
+                  "id_str": "1500879955688779782",
+                  "indices": [
+                     206,
+                     229
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                  "url": "https://t.co/Jqyb5hbNwK",
+                  "display_url": "pic.twitter.com/Jqyb5hbNwK",
+                  "expanded_url": "https://twitter.com/GovSisolak/status/1500879969236443140/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500879955688779782,
+                  "id_str": "1500879955688779782",
+                  "indices": [
+                     206,
+                     229
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQyXiFVcAY4oGz.jpg",
+                  "url": "https://t.co/Jqyb5hbNwK",
+                  "display_url": "pic.twitter.com/Jqyb5hbNwK",
+                  "expanded_url": "https://twitter.com/GovSisolak/status/1500879969236443140/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 14,
+      "retweet_count": 5,
+      "favorite_count": 24,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/06wgXKLXEM",
+               "expanded_url": "https://twitter.com/i/web/status/1500879969236443140",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepSusieLee",
+               "name": "Rep. Susie Lee",
+               "id": 1079061579973439488,
+               "id_str": "1079061579973439488",
+               "indices": [
+                  1,
+                  13
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/7D8ukCmBpm",
+      "expanded": "https://twitter.com/GovSisolak/status/1500879969236443140",
+      "display": "twitter.com/GovSisolak/sta\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSusieLee",
+            "name": "Rep. Susie Lee",
+            "id": 1079061579973439488,
+            "id_str": "1079061579973439488",
+            "indices": [
+               3,
+               15
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701529564"
+}

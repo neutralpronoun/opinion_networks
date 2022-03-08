@@ -1,0 +1,215 @@
+{
+   "created_at": "Mon Mar 07 21:06:50 +0000 2022",
+   "id": 1500941064705826818,
+   "id_str": "1500941064705826818",
+   "text": "RT @RepGwenMoore: I remain committed to addressing the global domestic violence crisis, which is why I support @RepAndreCarson's resolution\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 199325935,
+      "id_str": "199325935",
+      "name": "Andr\u00e9 Carson",
+      "screen_name": "RepAndreCarson",
+      "location": "Indianapolis",
+      "url": "http://carson.house.gov/",
+      "description": "The official Twitter account for Congressman Andr\u00e9 Carson of Indiana's 7th District. #Indianapolis #Indy",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 61566,
+      "friends_count": 985,
+      "listed_count": 1285,
+      "favourites_count": 1256,
+      "statuses_count": 5575,
+      "created_at": "Wed Oct 06 15:47:50 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "226B85",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/199325935/1597249232",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:42:51 +0000 2022",
+      "id": 1500935026959171588,
+      "id_str": "1500935026959171588",
+      "text": "I remain committed to addressing the global domestic violence crisis, which is why I support @RepAndreCarson's reso\u2026 https://t.co/5CMsQUSfOl",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 22669526,
+         "id_str": "22669526",
+         "name": "Rep. Gwen Moore",
+         "screen_name": "RepGwenMoore",
+         "location": "Washington, DC",
+         "url": "https://gwenmoore.house.gov/",
+         "description": "Honored to represent Wisconsin\u2019s 4th Congressional District. Proud mother, grandmother & great-grandmother. Loves poetry reading, knitting & crocheting.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 45499,
+         "friends_count": 2828,
+         "listed_count": 1563,
+         "favourites_count": 1691,
+         "statuses_count": 9952,
+         "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "223968",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0099B9",
+         "profile_sidebar_border_color": "DC975E",
+         "profile_sidebar_fill_color": "DFAB58",
+         "profile_text_color": "3C3940",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1187465913513078784/J0m17IHd_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187465913513078784/J0m17IHd_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1554391426",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "I remain committed to addressing the global domestic violence crisis, which is why I support @RepAndreCarson's resolution to strengthen the International Day for the Elimination of Violence Against Women. We can and must protect women and save lives.",
+         "display_text_range": [
+            0,
+            250
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepAndreCarson",
+                  "name": "Andr\u00e9 Carson",
+                  "id": 199325935,
+                  "id_str": "199325935",
+                  "indices": [
+                     93,
+                     108
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5CMsQUSfOl",
+               "expanded_url": "https://twitter.com/i/web/status/1500935026959171588",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepAndreCarson",
+               "name": "Andr\u00e9 Carson",
+               "id": 199325935,
+               "id_str": "199325935",
+               "indices": [
+                  93,
+                  108
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepGwenMoore",
+            "name": "Rep. Gwen Moore",
+            "id": 22669526,
+            "id_str": "22669526",
+            "indices": [
+               3,
+               16
+            ]
+         },
+         {
+            "screen_name": "RepAndreCarson",
+            "name": "Andr\u00e9 Carson",
+            "id": 199325935,
+            "id_str": "199325935",
+            "indices": [
+               111,
+               126
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646687210619"
+}

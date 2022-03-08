@@ -1,0 +1,606 @@
+{
+   "created_at": "Mon Mar 07 21:55:31 +0000 2022",
+   "id": 1500953316217479181,
+   "id_str": "1500953316217479181",
+   "text": "RT @BobbyScott: More free tests are available at https://t.co/WLduLc9FEa!",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1351284403801108481,
+      "id_str": "1351284403801108481",
+      "name": "Ronald Klain",
+      "screen_name": "WHCOS",
+      "location": null,
+      "url": "http://whitehouse.gov",
+      "description": "White House Chief of Staff / Proud Hoosier / #Team46",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 556422,
+      "friends_count": 597,
+      "listed_count": 2756,
+      "favourites_count": 10935,
+      "statuses_count": 10407,
+      "created_at": "Mon Jan 18 21:47:51 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1351402577183862786/-fck7E6h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351402577183862786/-fck7E6h_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351284403801108481/1611034563",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:42:21 +0000 2022",
+      "id": 1500950003434635264,
+      "id_str": "1500950003434635264",
+      "text": "More free tests are available at https://t.co/WLduLc9FEa!",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 161791703,
+         "id_str": "161791703",
+         "name": "Rep. Bobby Scott",
+         "screen_name": "BobbyScott",
+         "location": "Newport News, VA",
+         "url": "http://bobbyscott.house.gov",
+         "description": "Proudly representing Virginia's 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte. Get vaccinated.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 45201,
+         "friends_count": 3150,
+         "listed_count": 1274,
+         "favourites_count": 3003,
+         "statuses_count": 8030,
+         "created_at": "Thu Jul 01 19:57:00 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "244055",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "575757",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "D3D3E0",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1482027899750395908/8qt36ccb_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482027899750395908/8qt36ccb_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/161791703/1504616852",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500946917102129155,
+      "quoted_status_id_str": "1500946917102129155",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 21:30:05 +0000 2022",
+         "id": 1500946917102129155,
+         "id_str": "1500946917102129155",
+         "text": "Today, you can order another free round of COVID tests shipped straight to your home at https://t.co/12LzJrqFsC. https://t.co/3E3FKd3OEu",
+         "display_text_range": [
+            0,
+            112
+         ],
+         "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "name": "President Biden",
+            "screen_name": "POTUS",
+            "location": null,
+            "url": "http://WhiteHouse.gov",
+            "description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: http://whitehouse.gov/privacy",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 19537049,
+            "friends_count": 12,
+            "listed_count": 16541,
+            "favourites_count": 0,
+            "statuses_count": 2616,
+            "created_at": "Wed Jan 13 00:37:08 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349149096909668363/1646272528",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 166,
+         "reply_count": 784,
+         "retweet_count": 826,
+         "favorite_count": 2945,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/12LzJrqFsC",
+                  "expanded_url": "http://COVIDtests.gov",
+                  "display_url": "COVIDtests.gov",
+                  "indices": [
+                     88,
+                     111
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500946886248878084,
+                  "id_str": "1500946886248878084",
+                  "indices": [
+                     113,
+                     136
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+                  "url": "https://t.co/3E3FKd3OEu",
+                  "display_url": "pic.twitter.com/3E3FKd3OEu",
+                  "expanded_url": "https://twitter.com/POTUS/status/1500946917102129155/video/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500946886248878084,
+                  "id_str": "1500946886248878084",
+                  "indices": [
+                     113,
+                     136
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+                  "url": "https://t.co/3E3FKd3OEu",
+                  "display_url": "pic.twitter.com/3E3FKd3OEu",
+                  "expanded_url": "https://twitter.com/POTUS/status/1500946917102129155/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 18643,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/540x540/jj98XPGsRgx7VEC3.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/320x320/8kNBBnBeym8r0MAk.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500946886248878084/pl/IN0rOF-FazhOEjT7.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/720x720/bdqkFpsnGnHfZC-s.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/VbDTejgbZR",
+         "expanded": "https://twitter.com/POTUS/status/1500946917102129155",
+         "display": "twitter.com/POTUS/status/1\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/WLduLc9FEa",
+               "expanded_url": "http://COVIDtests.gov",
+               "display_url": "COVIDtests.gov",
+               "indices": [
+                  33,
+                  56
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500946917102129155,
+   "quoted_status_id_str": "1500946917102129155",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 21:30:05 +0000 2022",
+      "id": 1500946917102129155,
+      "id_str": "1500946917102129155",
+      "text": "Today, you can order another free round of COVID tests shipped straight to your home at https://t.co/12LzJrqFsC. https://t.co/3E3FKd3OEu",
+      "display_text_range": [
+         0,
+         112
+      ],
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1349149096909668363,
+         "id_str": "1349149096909668363",
+         "name": "President Biden",
+         "screen_name": "POTUS",
+         "location": null,
+         "url": "http://WhiteHouse.gov",
+         "description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: http://whitehouse.gov/privacy",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 19537049,
+         "friends_count": 12,
+         "listed_count": 16541,
+         "favourites_count": 0,
+         "statuses_count": 2616,
+         "created_at": "Wed Jan 13 00:37:08 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349149096909668363/1646272528",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 166,
+      "reply_count": 784,
+      "retweet_count": 826,
+      "favorite_count": 2945,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/12LzJrqFsC",
+               "expanded_url": "http://COVIDtests.gov",
+               "display_url": "COVIDtests.gov",
+               "indices": [
+                  88,
+                  111
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500946886248878084,
+               "id_str": "1500946886248878084",
+               "indices": [
+                  113,
+                  136
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+               "url": "https://t.co/3E3FKd3OEu",
+               "display_url": "pic.twitter.com/3E3FKd3OEu",
+               "expanded_url": "https://twitter.com/POTUS/status/1500946917102129155/video/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500946886248878084,
+               "id_str": "1500946886248878084",
+               "indices": [
+                  113,
+                  136
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500946886248878084/img/t4dfA_uyMeid2_SX.jpg",
+               "url": "https://t.co/3E3FKd3OEu",
+               "display_url": "pic.twitter.com/3E3FKd3OEu",
+               "expanded_url": "https://twitter.com/POTUS/status/1500946917102129155/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     1,
+                     1
+                  ],
+                  "duration_millis": 18643,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/540x540/jj98XPGsRgx7VEC3.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/320x320/8kNBBnBeym8r0MAk.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500946886248878084/pl/IN0rOF-FazhOEjT7.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500946886248878084/vid/720x720/bdqkFpsnGnHfZC-s.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/VbDTejgbZR",
+      "expanded": "https://twitter.com/POTUS/status/1500946917102129155",
+      "display": "twitter.com/POTUS/status/1\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/WLduLc9FEa",
+            "expanded_url": "http://COVIDtests.gov",
+            "display_url": "COVIDtests.gov",
+            "indices": [
+               49,
+               72
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "BobbyScott",
+            "name": "Rep. Bobby Scott",
+            "id": 161791703,
+            "id_str": "161791703",
+            "indices": [
+               3,
+               14
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690131607"
+}

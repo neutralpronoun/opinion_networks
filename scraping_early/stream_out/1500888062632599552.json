@@ -1,0 +1,141 @@
+{
+   "created_at": "Mon Mar 07 17:36:13 +0000 2022",
+   "id": 1500888062632599552,
+   "id_str": "1500888062632599552",
+   "text": "I worked with @RepJoeCourtney to secure additional federal funding for crumbling foundations research. This new gra\u2026 https://t.co/gj4yjmyWXo",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 50452197,
+      "id_str": "50452197",
+      "name": "Rep. John Larson",
+      "screen_name": "RepJohnLarson",
+      "location": "Hartford, CT",
+      "url": "http://larson.house.gov",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28596,
+      "friends_count": 901,
+      "listed_count": 1162,
+      "favourites_count": 882,
+      "statuses_count": 6863,
+      "created_at": "Wed Jun 24 21:47:31 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50452197/1557852570",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I worked with @RepJoeCourtney to secure additional federal funding for crumbling foundations research. This new grant will allow the experts at @UCONN to further our understanding of risks to homeowners and find solutions to this ongoing crisis. https://t.co/6riNeORI3u",
+      "display_text_range": [
+         0,
+         269
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/6riNeORI3u",
+               "expanded_url": "https://www.hartfordbusiness.com/article/uconn-to-get-more-than-660k-in-federal-money-to-study-crumbling-foundations",
+               "display_url": "hartfordbusiness.com/article/uconn-\u2026",
+               "indices": [
+                  246,
+                  269
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepJoeCourtney",
+               "name": "Rep. Joe Courtney",
+               "id": 85396297,
+               "id_str": "85396297",
+               "indices": [
+                  14,
+                  29
+               ]
+            },
+            {
+               "screen_name": "UConn",
+               "name": "UConn",
+               "id": 84327770,
+               "id_str": "84327770",
+               "indices": [
+                  144,
+                  150
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/gj4yjmyWXo",
+            "expanded_url": "https://twitter.com/i/web/status/1500888062632599552",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepJoeCourtney",
+            "name": "Rep. Joe Courtney",
+            "id": 85396297,
+            "id_str": "85396297",
+            "indices": [
+               14,
+               29
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674573940"
+}

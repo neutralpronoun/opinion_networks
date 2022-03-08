@@ -1,0 +1,243 @@
+{
+   "created_at": "Mon Mar 07 16:31:39 +0000 2022",
+   "id": 1500871812879720454,
+   "id_str": "1500871812879720454",
+   "text": "Putin had no fear of Ukraine or NATO. He just misses the power of the Soviet Empire and wants to go down in history\u2026 https://t.co/2DenCXsF7g",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 162069635,
+      "id_str": "162069635",
+      "name": "Steve Cohen",
+      "screen_name": "RepCohen",
+      "location": "Memphis, TN",
+      "url": "http://cohen.house.gov",
+      "description": "Memphis | Chairman of Judiciary Subcommittee on the Constitution, Civil Rights & Civil Liberties | Transportation Committee | Co-Chairman of Helsinki Commission",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 86144,
+      "friends_count": 6921,
+      "listed_count": 1706,
+      "favourites_count": 37878,
+      "statuses_count": 14083,
+      "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "002436",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268243438308376586/CmkJQcsJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268243438308376586/CmkJQcsJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1591207774",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Putin had no fear of Ukraine or NATO. He just misses the power of the Soviet Empire and wants to go down in history along with Peter the Great. To do that, he needs to expand Russia\u2019s land. Now people are dying for one despot\u2019s sick fantasy of how he\u2019ll be remembered. https://t.co/R8EVSidXtL",
+      "display_text_range": [
+         0,
+         268
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500871758416687109,
+               "id_str": "1500871758416687109",
+               "indices": [
+                  269,
+                  292
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500871758416687109/pu/img/6qackNuCWgYWZUoZ.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500871758416687109/pu/img/6qackNuCWgYWZUoZ.jpg",
+               "url": "https://t.co/R8EVSidXtL",
+               "display_url": "pic.twitter.com/R8EVSidXtL",
+               "expanded_url": "https://twitter.com/RepCohen/status/1500871812879720454/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     71,
+                     40
+                  ],
+                  "duration_millis": 38153,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/1136x640/tJGP9GGn-PgzIj--.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/478x270/4ZnBFE7RhJNN2avz.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/638x360/2g-E3h91xKgcldZy.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/pl/F0JxRIEfM6nu6iul.m3u8?tag=12&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1136,
+                     "h": 640,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1136,
+                     "h": 640,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500871758416687109,
+               "id_str": "1500871758416687109",
+               "indices": [
+                  269,
+                  292
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500871758416687109/pu/img/6qackNuCWgYWZUoZ.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500871758416687109/pu/img/6qackNuCWgYWZUoZ.jpg",
+               "url": "https://t.co/R8EVSidXtL",
+               "display_url": "pic.twitter.com/R8EVSidXtL",
+               "expanded_url": "https://twitter.com/RepCohen/status/1500871812879720454/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     71,
+                     40
+                  ],
+                  "duration_millis": 38153,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/1136x640/tJGP9GGn-PgzIj--.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/478x270/4ZnBFE7RhJNN2avz.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/vid/638x360/2g-E3h91xKgcldZy.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500871758416687109/pu/pl/F0JxRIEfM6nu6iul.m3u8?tag=12&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1136,
+                     "h": 640,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1136,
+                     "h": 640,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/2DenCXsF7g",
+            "expanded_url": "https://twitter.com/i/web/status/1500871812879720454",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670699697"
+}

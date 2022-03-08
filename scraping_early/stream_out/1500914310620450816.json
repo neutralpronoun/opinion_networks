@@ -1,0 +1,618 @@
+{
+   "created_at": "Mon Mar 07 19:20:31 +0000 2022",
+   "id": 1500914310620450816,
+   "id_str": "1500914310620450816",
+   "text": "RT @camiloreports: New this AM: Democratic Senators @SenatorMenendez, @SenSchumer, @SenBooker and @SenAlexPadilla urge the Biden administra\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15778911,
+      "id_str": "15778911",
+      "name": "National Immigrant Justice Center",
+      "screen_name": "NIJC",
+      "location": "HQ: Chicago, Illinois",
+      "url": "http://www.immigrantjustice.org/",
+      "description": "The National Immigrant Justice Center is a legal aid organization that advocates for human rights and humane immigration laws.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 35517,
+      "friends_count": 8022,
+      "listed_count": 882,
+      "favourites_count": 6391,
+      "statuses_count": 32267,
+      "created_at": "Fri Aug 08 15:21:35 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0E4206",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F0F5F1",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230223054124417024/zuU9nzEQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230223054124417024/zuU9nzEQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15778911/1575476604",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sat Mar 05 14:33:56 +0000 2022",
+      "id": 1500117410497638404,
+      "id_str": "1500117410497638404",
+      "text": "New this AM: Democratic Senators @SenatorMenendez, @SenSchumer, @SenBooker and @SenAlexPadilla urge the Biden admin\u2026 https://t.co/Z4HxSTB6Yb",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 4770270556,
+         "id_str": "4770270556",
+         "name": "Camilo Montoya-Galvez",
+         "screen_name": "camiloreports",
+         "location": "DM for tips / signal",
+         "url": "https://www.cbsnews.com/search/?q=camilo+montoya-galvez",
+         "description": "@CBSNews immigration reporter. Hecho en Colombia. Assembled in Jersey. Still dreaming of a storied f\u00fatbol career. \ud83d\udce7: camilo.montoyagalvez@viacomcbs.com",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 9951,
+         "friends_count": 491,
+         "listed_count": 239,
+         "favourites_count": 5221,
+         "statuses_count": 8219,
+         "created_at": "Mon Jan 11 02:58:04 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "FFCC4D",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4770270556/1600178395",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499902570063618050,
+      "quoted_status_id_str": "1499902570063618050",
+      "quoted_status": {
+         "created_at": "Sat Mar 05 00:20:14 +0000 2022",
+         "id": 1499902570063618050,
+         "id_str": "1499902570063618050",
+         "text": "NEWS: A federal judge in Texas ruled against the Biden administration\u2019s decision to exempt unaccompanied children f\u2026 https://t.co/EncDPo66z9",
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": 1499891760977305606,
+         "in_reply_to_status_id_str": "1499891760977305606",
+         "in_reply_to_user_id": 4770270556,
+         "in_reply_to_user_id_str": "4770270556",
+         "in_reply_to_screen_name": "camiloreports",
+         "user": {
+            "id": 4770270556,
+            "id_str": "4770270556",
+            "name": "Camilo Montoya-Galvez",
+            "screen_name": "camiloreports",
+            "location": "DM for tips / signal",
+            "url": "https://www.cbsnews.com/search/?q=camilo+montoya-galvez",
+            "description": "@CBSNews immigration reporter. Hecho en Colombia. Assembled in Jersey. Still dreaming of a storied f\u00fatbol career. \ud83d\udce7: camilo.montoyagalvez@viacomcbs.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 9951,
+            "friends_count": 491,
+            "listed_count": 239,
+            "favourites_count": 5221,
+            "statuses_count": 8219,
+            "created_at": "Mon Jan 11 02:58:04 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4770270556/1600178395",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "NEWS: A federal judge in Texas ruled against the Biden administration\u2019s decision to exempt unaccompanied children from a Trump-era order that U.S. border agents have used to expel hundreds of thousands of migrants during the coronavirus pandemic.\nhttps://t.co/uxtef8qSGK",
+            "display_text_range": [
+               0,
+               270
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [
+                  {
+                     "url": "https://t.co/uxtef8qSGK",
+                     "expanded_url": "https://www.cbsnews.com/news/immigration-border-deportation-policy-migrant-children-texas-judge/",
+                     "display_url": "cbsnews.com/news/immigrati\u2026",
+                     "indices": [
+                        247,
+                        270
+                     ]
+                  }
+               ],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 4,
+         "reply_count": 2,
+         "retweet_count": 22,
+         "favorite_count": 20,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/EncDPo66z9",
+                  "expanded_url": "https://twitter.com/i/web/status/1499902570063618050",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/2aFTgZWoYb",
+         "expanded": "https://twitter.com/camiloreports/status/1499902570063618050",
+         "display": "twitter.com/camiloreports/\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "New this AM: Democratic Senators @SenatorMenendez, @SenSchumer, @SenBooker and @SenAlexPadilla urge the Biden administration to \"end the usage of Title 42 once and for all\" in light of dueling court rulings yesterday over the future of the Trump-era border policy. https://t.co/X5mGKI7yZs",
+         "display_text_range": [
+            0,
+            264
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SenatorMenendez",
+                  "name": "Senator Bob Menendez",
+                  "id": 18695134,
+                  "id_str": "18695134",
+                  "indices": [
+                     33,
+                     49
+                  ]
+               },
+               {
+                  "screen_name": "SenSchumer",
+                  "name": "Chuck Schumer",
+                  "id": 17494010,
+                  "id_str": "17494010",
+                  "indices": [
+                     51,
+                     62
+                  ]
+               },
+               {
+                  "screen_name": "SenBooker",
+                  "name": "Sen. Cory Booker",
+                  "id": 2167097881,
+                  "id_str": "2167097881",
+                  "indices": [
+                     64,
+                     74
+                  ]
+               },
+               {
+                  "screen_name": "SenAlexPadilla",
+                  "name": "Senator Alex Padilla",
+                  "id": 1351236267707654145,
+                  "id_str": "1351236267707654145",
+                  "indices": [
+                     79,
+                     94
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500117145824501760,
+                  "id_str": "1500117145824501760",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNF8mJ5XoAAGfbe.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNF8mJ5XoAAGfbe.jpg",
+                  "url": "https://t.co/X5mGKI7yZs",
+                  "display_url": "pic.twitter.com/X5mGKI7yZs",
+                  "expanded_url": "https://twitter.com/camiloreports/status/1500117410497638404/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 936,
+                        "h": 359,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 936,
+                        "h": 359,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 261,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500117145824501760,
+                  "id_str": "1500117145824501760",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNF8mJ5XoAAGfbe.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNF8mJ5XoAAGfbe.jpg",
+                  "url": "https://t.co/X5mGKI7yZs",
+                  "display_url": "pic.twitter.com/X5mGKI7yZs",
+                  "expanded_url": "https://twitter.com/camiloreports/status/1500117410497638404/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 936,
+                        "h": 359,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 936,
+                        "h": 359,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 261,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 4,
+      "reply_count": 14,
+      "retweet_count": 73,
+      "favorite_count": 127,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/Z4HxSTB6Yb",
+               "expanded_url": "https://twitter.com/i/web/status/1500117410497638404",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorMenendez",
+               "name": "Senator Bob Menendez",
+               "id": 18695134,
+               "id_str": "18695134",
+               "indices": [
+                  33,
+                  49
+               ]
+            },
+            {
+               "screen_name": "SenSchumer",
+               "name": "Chuck Schumer",
+               "id": 17494010,
+               "id_str": "17494010",
+               "indices": [
+                  51,
+                  62
+               ]
+            },
+            {
+               "screen_name": "SenBooker",
+               "name": "Sen. Cory Booker",
+               "id": 2167097881,
+               "id_str": "2167097881",
+               "indices": [
+                  64,
+                  74
+               ]
+            },
+            {
+               "screen_name": "SenAlexPadilla",
+               "name": "Senator Alex Padilla",
+               "id": 1351236267707654145,
+               "id_str": "1351236267707654145",
+               "indices": [
+                  79,
+                  94
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1499902570063618050,
+   "quoted_status_id_str": "1499902570063618050",
+   "quoted_status": {
+      "created_at": "Sat Mar 05 00:20:14 +0000 2022",
+      "id": 1499902570063618050,
+      "id_str": "1499902570063618050",
+      "text": "NEWS: A federal judge in Texas ruled against the Biden administration\u2019s decision to exempt unaccompanied children f\u2026 https://t.co/EncDPo66z9",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1499891760977305606,
+      "in_reply_to_status_id_str": "1499891760977305606",
+      "in_reply_to_user_id": 4770270556,
+      "in_reply_to_user_id_str": "4770270556",
+      "in_reply_to_screen_name": "camiloreports",
+      "user": {
+         "id": 4770270556,
+         "id_str": "4770270556",
+         "name": "Camilo Montoya-Galvez",
+         "screen_name": "camiloreports",
+         "location": "DM for tips / signal",
+         "url": "https://www.cbsnews.com/search/?q=camilo+montoya-galvez",
+         "description": "@CBSNews immigration reporter. Hecho en Colombia. Assembled in Jersey. Still dreaming of a storied f\u00fatbol career. \ud83d\udce7: camilo.montoyagalvez@viacomcbs.com",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 9951,
+         "friends_count": 491,
+         "listed_count": 239,
+         "favourites_count": 5221,
+         "statuses_count": 8219,
+         "created_at": "Mon Jan 11 02:58:04 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "FFCC4D",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495478472491343873/f_CPx-Ki_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4770270556/1600178395",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "NEWS: A federal judge in Texas ruled against the Biden administration\u2019s decision to exempt unaccompanied children from a Trump-era order that U.S. border agents have used to expel hundreds of thousands of migrants during the coronavirus pandemic.\nhttps://t.co/uxtef8qSGK",
+         "display_text_range": [
+            0,
+            270
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/uxtef8qSGK",
+                  "expanded_url": "https://www.cbsnews.com/news/immigration-border-deportation-policy-migrant-children-texas-judge/",
+                  "display_url": "cbsnews.com/news/immigrati\u2026",
+                  "indices": [
+                     247,
+                     270
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 4,
+      "reply_count": 2,
+      "retweet_count": 22,
+      "favorite_count": 20,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/EncDPo66z9",
+               "expanded_url": "https://twitter.com/i/web/status/1499902570063618050",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/2aFTgZWoYb",
+      "expanded": "https://twitter.com/camiloreports/status/1499902570063618050",
+      "display": "twitter.com/camiloreports/\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "camiloreports",
+            "name": "Camilo Montoya-Galvez",
+            "id": 4770270556,
+            "id_str": "4770270556",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "SenatorMenendez",
+            "name": "Senator Bob Menendez",
+            "id": 18695134,
+            "id_str": "18695134",
+            "indices": [
+               52,
+               68
+            ]
+         },
+         {
+            "screen_name": "SenSchumer",
+            "name": "Chuck Schumer",
+            "id": 17494010,
+            "id_str": "17494010",
+            "indices": [
+               70,
+               81
+            ]
+         },
+         {
+            "screen_name": "SenBooker",
+            "name": "Sen. Cory Booker",
+            "id": 2167097881,
+            "id_str": "2167097881",
+            "indices": [
+               83,
+               93
+            ]
+         },
+         {
+            "screen_name": "SenAlexPadilla",
+            "name": "Senator Alex Padilla",
+            "id": 1351236267707654145,
+            "id_str": "1351236267707654145",
+            "indices": [
+               98,
+               113
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680831948"
+}

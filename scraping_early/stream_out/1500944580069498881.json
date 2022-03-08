@@ -1,0 +1,189 @@
+{
+   "created_at": "Mon Mar 07 21:20:48 +0000 2022",
+   "id": 1500944580069498881,
+   "id_str": "1500944580069498881",
+   "text": "ICYMI: Last week, we passed the Honoring our PACT Act: comprehensive legislation to uphold our nation's commitment\u2026 https://t.co/LyB5uLHOsy",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 808416682972770304,
+      "id_str": "808416682972770304",
+      "name": "Rep. Tom O'Halleran",
+      "screen_name": "RepOHalleran",
+      "location": "Arizona, USA",
+      "url": "http://ohalleran.house.gov",
+      "description": "Proud husband, father, and grandfather. Fighting for #AZ01 families and co-chairing the @HouseBlueDogs Coalition and Task Force on Strengthening Rural America.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 17750,
+      "friends_count": 5248,
+      "listed_count": 747,
+      "favourites_count": 1373,
+      "statuses_count": 6209,
+      "created_at": "Mon Dec 12 21:02:11 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "BF0A30",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1083045869312720897/CHw6zuQJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083045869312720897/CHw6zuQJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/808416682972770304/1643407112",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "ICYMI: Last week, we passed the Honoring our PACT Act: comprehensive legislation to uphold our nation's commitment to #AZ01 veterans and ensure those who have been exposed to toxic substances during their service are able to access they care they need. https://t.co/IcM0QW9M0N",
+      "display_text_range": [
+         0,
+         252
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "AZ01",
+               "indices": [
+                  118,
+                  123
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500943238127140866,
+               "id_str": "1500943238127140866",
+               "indices": [
+                  253,
+                  276
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRr7DiXwAIQJ_v.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRr7DiXwAIQJ_v.jpg",
+               "url": "https://t.co/IcM0QW9M0N",
+               "display_url": "pic.twitter.com/IcM0QW9M0N",
+               "expanded_url": "https://twitter.com/RepOHalleran/status/1500944580069498881/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500943238127140866,
+               "id_str": "1500943238127140866",
+               "indices": [
+                  253,
+                  276
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRr7DiXwAIQJ_v.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRr7DiXwAIQJ_v.jpg",
+               "url": "https://t.co/IcM0QW9M0N",
+               "display_url": "pic.twitter.com/IcM0QW9M0N",
+               "expanded_url": "https://twitter.com/RepOHalleran/status/1500944580069498881/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/LyB5uLHOsy",
+            "expanded_url": "https://twitter.com/i/web/status/1500944580069498881",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688048747"
+}

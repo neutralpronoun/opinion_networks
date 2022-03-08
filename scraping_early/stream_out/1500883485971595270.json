@@ -1,0 +1,482 @@
+{
+   "created_at": "Mon Mar 07 17:18:02 +0000 2022",
+   "id": 1500883485971595270,
+   "id_str": "1500883485971595270",
+   "text": "RT @RepCheri: This weekend, I had the honor of attending the 2022 Congressional Civil Rights Pilgrimage in Selma, Alabama, with my colleagu\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 50334892,
+      "id_str": "50334892",
+      "name": "Antjuan Seawright",
+      "screen_name": "antjuansea",
+      "location": "Columbia, SC",
+      "url": "http://www.blueprintstrategyllc.com",
+      "description": "Blueprint Strategy |Sr Advisor @dccc\u2022@SCSenateDems | \ud83d\udcfa @CBSNews \u2022 \ud83d\udcdd@thehill \u2022@BETNEWS \u2022@AMEnews \u2022@thirdwaytweet Sr Visiting Fellow \u2022 \ud83d\udc10 Farmer",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10621,
+      "friends_count": 5046,
+      "listed_count": 101,
+      "favourites_count": 47960,
+      "statuses_count": 36048,
+      "created_at": "Wed Jun 24 15:26:30 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1140328304773386240/y9GTEhdn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140328304773386240/y9GTEhdn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50334892/1611136213",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:12:23 +0000 2022",
+      "id": 1500882062114541580,
+      "id_str": "1500882062114541580",
+      "text": "This weekend, I had the honor of attending the 2022 Congressional Civil Rights Pilgrimage in Selma, Alabama, with m\u2026 https://t.co/U6pZIWvJ2Y",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1092979962,
+         "id_str": "1092979962",
+         "name": "Rep. Cheri Bustos",
+         "screen_name": "RepCheri",
+         "location": "Illinois & Washington, D.C.",
+         "url": "http://bustos.house.gov",
+         "description": "Serving Illinois\u2019 17th District. Former reporter working in Congress #ForThePeople. Athlete, wife and mother of three sons. Facebook & Instagram: RepCheri.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35107,
+         "friends_count": 4296,
+         "listed_count": 1174,
+         "favourites_count": 2374,
+         "statuses_count": 7715,
+         "created_at": "Tue Jan 15 19:15:03 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "EDECE9",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "7F06A6",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "E3E2DE",
+         "profile_text_color": "634047",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/877925390517403648/e6agUl46_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/877925390517403648/e6agUl46_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092979962/1503426213",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "This weekend, I had the honor of attending the 2022 Congressional Civil Rights Pilgrimage in Selma, Alabama, with my colleagues and civil rights leaders.\n\nWe must uphold our nation's democracy by protecting the right to vote for all Americans. https://t.co/8hkXdspcr4",
+         "display_text_range": [
+            0,
+            243
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500882042220863490,
+                  "id_str": "1500882042220863490",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q_BWYAIZTB5.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q_BWYAIZTB5.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882042208333831,
+                  "id_str": "1500882042208333831",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q--XMAcVxGz.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q--XMAcVxGz.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882042275471366,
+                  "id_str": "1500882042275471366",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q_OXoAY-1Z6.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q_OXoAY-1Z6.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882043005243396,
+                  "id_str": "1500882043005243396",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0RB8XEAQL-ED.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0RB8XEAQL-ED.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500882042220863490,
+                  "id_str": "1500882042220863490",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q_BWYAIZTB5.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q_BWYAIZTB5.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882042208333831,
+                  "id_str": "1500882042208333831",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q--XMAcVxGz.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q--XMAcVxGz.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882042275471366,
+                  "id_str": "1500882042275471366",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0Q_OXoAY-1Z6.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0Q_OXoAY-1Z6.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500882043005243396,
+                  "id_str": "1500882043005243396",
+                  "indices": [
+                     244,
+                     267
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ0RB8XEAQL-ED.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ0RB8XEAQL-ED.jpg",
+                  "url": "https://t.co/8hkXdspcr4",
+                  "display_url": "pic.twitter.com/8hkXdspcr4",
+                  "expanded_url": "https://twitter.com/RepCheri/status/1500882062114541580/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/U6pZIWvJ2Y",
+               "expanded_url": "https://twitter.com/i/web/status/1500882062114541580",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepCheri",
+            "name": "Rep. Cheri Bustos",
+            "id": 1092979962,
+            "id_str": "1092979962",
+            "indices": [
+               3,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646673482779"
+}

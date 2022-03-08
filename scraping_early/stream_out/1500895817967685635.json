@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 18:07:02 +0000 2022",
+   "id": 1500895817967685635,
+   "id_str": "1500895817967685635",
+   "text": "@RepMTG God, you're ignorant.  And anybody who supports you is also ignorant.  #MarjoriePutinsClown",
+   "display_text_range": [
+      8,
+      99
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500826285559406593,
+   "in_reply_to_status_id_str": "1500826285559406593",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 23786365,
+      "id_str": "23786365",
+      "name": "Del Shores",
+      "screen_name": "DelShores",
+      "location": "Los Angeles, CA",
+      "url": "http://DelShores.com",
+      "description": "He/him/his - Storyteller/S-Stirrer. Sordid Lives*Southern Baptist Sissies* Sordid Wedding. Writer QAF. Liberal. Dad. Order new SORDID book! http://DelShores.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 8218,
+      "friends_count": 1304,
+      "listed_count": 149,
+      "favourites_count": 41940,
+      "statuses_count": 41102,
+      "created_at": "Wed Mar 11 16:29:24 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277454332359610369/I0qi3FNl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277454332359610369/I0qi3FNl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23786365/1645314045",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "MarjoriePutinsClown",
+            "indices": [
+               79,
+               99
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676422956"
+}

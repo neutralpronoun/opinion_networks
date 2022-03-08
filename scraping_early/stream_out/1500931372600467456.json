@@ -1,0 +1,265 @@
+{
+   "created_at": "Mon Mar 07 20:28:19 +0000 2022",
+   "id": 1500931372600467456,
+   "id_str": "1500931372600467456",
+   "text": "ICYMI: In last week's #SubOversight hearing about lessons learned from this pandemic, I brought up my concern about\u2026 https://t.co/ulyWxX6tT1",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080462532815532032,
+      "id_str": "1080462532815532032",
+      "name": "Rep. Kim Schrier, M.D.",
+      "screen_name": "RepKimSchrier",
+      "location": "Washington, DC",
+      "url": "https://schrier.house.gov",
+      "description": "Proudly representing the people of Washington State\u2019s 8th District. Pediatrician. Mom.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 13984,
+      "friends_count": 119,
+      "listed_count": 515,
+      "favourites_count": 407,
+      "statuses_count": 2115,
+      "created_at": "Wed Jan 02 13:55:16 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129401036349857793/zvLbPQb6_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080462532815532032/1623096542",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "ICYMI: In last week's #SubOversight hearing about lessons learned from this pandemic, I brought up my concern about what the misinformation and disinformation about the COVID-19 vaccine will do to vaccine confidence in routine childhood immunizations moving forward. Watch below! https://t.co/IFq9fSS8wr",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SubOversight",
+               "indices": [
+                  22,
+                  35
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500930591558148096,
+               "id_str": "1500930591558148096",
+               "indices": [
+                  280,
+                  303
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500930591558148096/img/ta_sjpZAH2ionVJ-.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500930591558148096/img/ta_sjpZAH2ionVJ-.jpg",
+               "url": "https://t.co/IFq9fSS8wr",
+               "display_url": "pic.twitter.com/IFq9fSS8wr",
+               "expanded_url": "https://twitter.com/RepKimSchrier/status/1500931372600467456/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 179467,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/1280x720/bgBbJmmgDKyHkbmS.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/480x270/G-sikZ2afQVCw4As.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/640x360/l2IE0v6MNmfQToqO.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/pl/BLGFmL-ZbSpix5nD.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500930591558148096,
+               "id_str": "1500930591558148096",
+               "indices": [
+                  280,
+                  303
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500930591558148096/img/ta_sjpZAH2ionVJ-.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500930591558148096/img/ta_sjpZAH2ionVJ-.jpg",
+               "url": "https://t.co/IFq9fSS8wr",
+               "display_url": "pic.twitter.com/IFq9fSS8wr",
+               "expanded_url": "https://twitter.com/RepKimSchrier/status/1500931372600467456/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 179467,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/1280x720/bgBbJmmgDKyHkbmS.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/480x270/G-sikZ2afQVCw4As.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/vid/640x360/l2IE0v6MNmfQToqO.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500930591558148096/pl/BLGFmL-ZbSpix5nD.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SubOversight",
+            "indices": [
+               22,
+               35
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/ulyWxX6tT1",
+            "expanded_url": "https://twitter.com/i/web/status/1500931372600467456",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684899841"
+}

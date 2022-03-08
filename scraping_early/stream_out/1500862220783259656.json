@@ -1,0 +1,189 @@
+{
+   "created_at": "Mon Mar 07 15:53:32 +0000 2022",
+   "id": 1500862220783259656,
+   "id_str": "1500862220783259656",
+   "text": "Today marks the anniversary of Bloody Sunday. As we honor the sacrifices made by civil rights leaders and activists\u2026 https://t.co/PNX5uytx5j",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 122174004,
+      "id_str": "122174004",
+      "name": "Dina Titus",
+      "screen_name": "repdinatitus",
+      "location": "Las Vegas, NV",
+      "url": "http://titus.house.gov",
+      "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 41710,
+      "friends_count": 1922,
+      "listed_count": 1128,
+      "favourites_count": 6499,
+      "statuses_count": 15770,
+      "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today marks the anniversary of Bloody Sunday. As we honor the sacrifices made by civil rights leaders and activists that day in Selma, let\u2019s also acknowledge that the march goes on. We must continue the work of expanding voting rights by passing the #JohnLewisVotingRightsAct. https://t.co/cIY7lR5GMw",
+      "display_text_range": [
+         0,
+         276
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "JohnLewisVotingRightsAct",
+               "indices": [
+                  250,
+                  275
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500862205209813000,
+               "id_str": "1500862205209813000",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQiOUZXIAgnNYH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQiOUZXIAgnNYH.jpg",
+               "url": "https://t.co/cIY7lR5GMw",
+               "display_url": "pic.twitter.com/cIY7lR5GMw",
+               "expanded_url": "https://twitter.com/repdinatitus/status/1500862220783259656/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500862205209813000,
+               "id_str": "1500862205209813000",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQiOUZXIAgnNYH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQiOUZXIAgnNYH.jpg",
+               "url": "https://t.co/cIY7lR5GMw",
+               "display_url": "pic.twitter.com/cIY7lR5GMw",
+               "expanded_url": "https://twitter.com/repdinatitus/status/1500862220783259656/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/PNX5uytx5j",
+            "expanded_url": "https://twitter.com/i/web/status/1500862220783259656",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668412763"
+}

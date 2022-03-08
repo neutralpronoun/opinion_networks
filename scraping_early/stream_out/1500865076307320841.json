@@ -1,0 +1,202 @@
+{
+   "created_at": "Mon Mar 07 16:04:53 +0000 2022",
+   "id": 1500865076307320841,
+   "id_str": "1500865076307320841",
+   "text": "Putin's war on Ukraine has killed hundreds of civilians and created a humanitarian crisis that is rippling across E\u2026 https://t.co/LcfwNTKk92",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 581141508,
+      "id_str": "581141508",
+      "name": "Marcy Kaptur",
+      "screen_name": "RepMarcyKaptur",
+      "location": "Toledo, OH",
+      "url": "http://kaptur.house.gov",
+      "description": "Honored to serve the hard-working families of Ohio's 9th District. Longest-serving woman in the House of Representatives. Chair of Energy & Water @AppropsDems.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26141,
+      "friends_count": 994,
+      "listed_count": 962,
+      "favourites_count": 2235,
+      "statuses_count": 5466,
+      "created_at": "Tue May 15 16:57:51 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108475167297232902/vggXpEsS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108475167297232902/vggXpEsS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/581141508/1503608823",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Putin's war on Ukraine has killed hundreds of civilians and created a humanitarian crisis that is rippling across Europe.\n\n@USAID has compiled verified organizations delivering humanitarian aid.\n\nVisit https://t.co/VZ3ecOm2vZ for more information. https://t.co/tHftJWJggo",
+      "display_text_range": [
+         0,
+         247
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VZ3ecOm2vZ",
+               "expanded_url": "http://CIDI.org/Ukraine-Crisis",
+               "display_url": "CIDI.org/Ukraine-Crisis",
+               "indices": [
+                  202,
+                  225
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "USAID",
+               "name": "USAID",
+               "id": 36683668,
+               "id_str": "36683668",
+               "indices": [
+                  123,
+                  129
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500865073107066884,
+               "id_str": "1500865073107066884",
+               "indices": [
+                  248,
+                  271
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQk1QJWYAQyTfR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQk1QJWYAQyTfR.jpg",
+               "url": "https://t.co/tHftJWJggo",
+               "display_url": "pic.twitter.com/tHftJWJggo",
+               "expanded_url": "https://twitter.com/RepMarcyKaptur/status/1500865076307320841/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 505,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1199,
+                     "h": 891,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1199,
+                     "h": 891,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500865073107066884,
+               "id_str": "1500865073107066884",
+               "indices": [
+                  248,
+                  271
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQk1QJWYAQyTfR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQk1QJWYAQyTfR.jpg",
+               "url": "https://t.co/tHftJWJggo",
+               "display_url": "pic.twitter.com/tHftJWJggo",
+               "expanded_url": "https://twitter.com/RepMarcyKaptur/status/1500865076307320841/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 505,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1199,
+                     "h": 891,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1199,
+                     "h": 891,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/LcfwNTKk92",
+            "expanded_url": "https://twitter.com/i/web/status/1500865076307320841",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669093573"
+}

@@ -1,0 +1,294 @@
+{
+   "created_at": "Mon Mar 07 20:29:08 +0000 2022",
+   "id": 1500931576645005312,
+   "id_str": "1500931576645005312",
+   "text": "#WA02 transit agencies like #Everett Transit &amp; @ridewta are expanding their \u26a1\ufe0f\ud83d\ude8c fleets to keep people moving while\u2026 https://t.co/4iKBiqyZxU",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 404132211,
+      "id_str": "404132211",
+      "name": "Rep. Rick Larsen",
+      "screen_name": "RepRickLarsen",
+      "location": "Washington's 2nd District",
+      "url": "http://larsen.house.gov",
+      "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 22885,
+      "friends_count": 6186,
+      "listed_count": 940,
+      "favourites_count": 5160,
+      "statuses_count": 14322,
+      "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1644339649",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500913156775981063,
+   "quoted_status_id_str": "1500913156775981063",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:15:56 +0000 2022",
+      "id": 1500913156775981063,
+      "id_str": "1500913156775981063",
+      "text": "We\u2019re announcing today that @USDOT will make available over $1.5 billion in grants to help cities and towns electri\u2026 https://t.co/PRj8xxKbYH",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 803694179079458816,
+         "id_str": "803694179079458816",
+         "name": "Vice President Kamala Harris",
+         "screen_name": "VP",
+         "location": null,
+         "url": "http://whitehouse.gov",
+         "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12434543,
+         "friends_count": 6,
+         "listed_count": 15713,
+         "favourites_count": 1112,
+         "statuses_count": 7202,
+         "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1646319120",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "We\u2019re announcing today that @USDOT will make available over $1.5 billion in grants to help cities and towns electrify their fleet of public buses, build stronger infrastructure, and train workers and so much more. https://t.co/QvYZHNhPKt",
+         "display_text_range": [
+            0,
+            237
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/QvYZHNhPKt",
+                  "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/",
+                  "display_url": "whitehouse.gov/briefing-room/\u2026",
+                  "indices": [
+                     214,
+                     237
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "USDOT",
+                  "name": "TransportationGov",
+                  "id": 393562221,
+                  "id_str": "393562221",
+                  "indices": [
+                     28,
+                     34
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 18,
+      "reply_count": 112,
+      "retweet_count": 329,
+      "favorite_count": 1692,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/PRj8xxKbYH",
+               "expanded_url": "https://twitter.com/i/web/status/1500913156775981063",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "USDOT",
+               "name": "TransportationGov",
+               "id": 393562221,
+               "id_str": "393562221",
+               "indices": [
+                  28,
+                  34
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/bME4mxOcse",
+      "expanded": "https://twitter.com/VP/status/1500913156775981063",
+      "display": "twitter.com/VP/status/1500\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "#WA02 transit agencies like #Everett Transit &amp; @ridewta are expanding their \u26a1\ufe0f\ud83d\ude8c fleets to keep people moving while reducing maintenance costs &amp; their carbon footprint. Thanks to the #IIJA, agencies will have the resources needed to expand fleets &amp; make transit cleaner &amp; greener.",
+      "display_text_range": [
+         0,
+         295
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WA02",
+               "indices": [
+                  0,
+                  5
+               ]
+            },
+            {
+               "text": "Everett",
+               "indices": [
+                  28,
+                  36
+               ]
+            },
+            {
+               "text": "IIJA",
+               "indices": [
+                  190,
+                  195
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "ridewta",
+               "name": "WTA",
+               "id": 64459567,
+               "id_str": "64459567",
+               "indices": [
+                  51,
+                  59
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "WA02",
+            "indices": [
+               0,
+               5
+            ]
+         },
+         {
+            "text": "Everett",
+            "indices": [
+               28,
+               36
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/4iKBiqyZxU",
+            "expanded_url": "https://twitter.com/i/web/status/1500931576645005312",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               120,
+               143
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "ridewta",
+            "name": "WTA",
+            "id": 64459567,
+            "id_str": "64459567",
+            "indices": [
+               51,
+               59
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684948489"
+}

@@ -1,0 +1,349 @@
+{
+   "created_at": "Mon Mar 07 16:14:35 +0000 2022",
+   "id": 1500867518784811011,
+   "id_str": "1500867518784811011",
+   "text": "RT @RepMrvan: Appreciate the opportunity last week to discuss ongoing world events &amp; the latest update on refugees from Ambassador of the S\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2174852876,
+      "id_str": "2174852876",
+      "name": "Slovak Embassy US | #StandWithUkraine",
+      "screen_name": "SlovakEmbassyUS",
+      "location": "Washington, DC",
+      "url": "https://www.mzv.sk/web/washington",
+      "description": "The Slovak Embassy in Washington DC | RT\u2260endorsement | Follow @SlovakiaMFA | For tweets from Ambassador Javor\u010d\u00edk follow @RadovanJavorcik |",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2993,
+      "friends_count": 1202,
+      "listed_count": 108,
+      "favourites_count": 1444,
+      "statuses_count": 1833,
+      "created_at": "Mon Nov 04 22:18:58 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1082467061840994307/7yYz16DA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082467061840994307/7yYz16DA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2174852876/1546917263",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:13:29 +0000 2022",
+      "id": 1500867238374658050,
+      "id_str": "1500867238374658050",
+      "text": "Appreciate the opportunity last week to discuss ongoing world events &amp; the latest update on refugees from Ambassado\u2026 https://t.co/sWBsLcOEFx",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1346205046036377601,
+         "id_str": "1346205046036377601",
+         "name": "Rep. Frank J. Mrvan",
+         "screen_name": "RepMrvan",
+         "location": null,
+         "url": "http://mrvan.house.gov",
+         "description": "Congressman Frank J. Mrvan represents Indiana's First Congressional District in the U.S. House of Representatives.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 3760,
+         "friends_count": 435,
+         "listed_count": 132,
+         "favourites_count": 55,
+         "statuses_count": 311,
+         "created_at": "Mon Jan 04 21:21:40 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1346205271085998084/d12IWXy6_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346205271085998084/d12IWXy6_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346205046036377601/1609796304",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Appreciate the opportunity last week to discuss ongoing world events &amp; the latest update on refugees from Ambassador of the Slovak Republic Radovan Javor\u010dik @SlovakEmbassyUS. Grateful for your efforts &amp; look forward to continuing the conversation during this challenging time. https://t.co/S9m2AEyYho",
+         "display_text_range": [
+            0,
+            284
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SlovakEmbassyUS",
+                  "name": "Slovak Embassy US | #StandWithUkraine",
+                  "id": 2174852876,
+                  "id_str": "2174852876",
+                  "indices": [
+                     161,
+                     177
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500867223497359362,
+                  "id_str": "1500867223497359362",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQmya-WQAIZCqr.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQmya-WQAIZCqr.jpg",
+                  "url": "https://t.co/S9m2AEyYho",
+                  "display_url": "pic.twitter.com/S9m2AEyYho",
+                  "expanded_url": "https://twitter.com/RepMrvan/status/1500867238374658050/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 1405,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 597,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 1054,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500867223484870660,
+                  "id_str": "1500867223484870660",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQmya7XsAQB_01.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQmya7XsAQB_01.jpg",
+                  "url": "https://t.co/S9m2AEyYho",
+                  "display_url": "pic.twitter.com/S9m2AEyYho",
+                  "expanded_url": "https://twitter.com/RepMrvan/status/1500867238374658050/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500867223497359362,
+                  "id_str": "1500867223497359362",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQmya-WQAIZCqr.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQmya-WQAIZCqr.jpg",
+                  "url": "https://t.co/S9m2AEyYho",
+                  "display_url": "pic.twitter.com/S9m2AEyYho",
+                  "expanded_url": "https://twitter.com/RepMrvan/status/1500867238374658050/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 1405,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 597,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 1054,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500867223484870660,
+                  "id_str": "1500867223484870660",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQmya7XsAQB_01.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQmya7XsAQB_01.jpg",
+                  "url": "https://t.co/S9m2AEyYho",
+                  "display_url": "pic.twitter.com/S9m2AEyYho",
+                  "expanded_url": "https://twitter.com/RepMrvan/status/1500867238374658050/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/sWBsLcOEFx",
+               "expanded_url": "https://twitter.com/i/web/status/1500867238374658050",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMrvan",
+            "name": "Rep. Frank J. Mrvan",
+            "id": 1346205046036377601,
+            "id_str": "1346205046036377601",
+            "indices": [
+               3,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669675905"
+}

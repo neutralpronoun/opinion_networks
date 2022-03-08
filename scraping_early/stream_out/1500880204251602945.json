@@ -1,0 +1,141 @@
+{
+   "created_at": "Mon Mar 07 17:05:00 +0000 2022",
+   "id": 1500880204251602945,
+   "id_str": "1500880204251602945",
+   "text": "The @PIE_Center_BCS will lead the way to give our students the skills needed to have thriving careers after high sc\u2026 https://t.co/YlpdhBlIwr",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 235190657,
+      "id_str": "235190657",
+      "name": "Chuck Fleischmann",
+      "screen_name": "RepChuck",
+      "location": "Washington, D.C./TN-03",
+      "url": "http://fleischmann.house.gov",
+      "description": "My official House office Twitter account. I work for the people of TN-03.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 23389,
+      "friends_count": 923,
+      "listed_count": 937,
+      "favourites_count": 794,
+      "statuses_count": 4231,
+      "created_at": "Fri Jan 07 15:46:29 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "206F98",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/235190657/1559660016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The @PIE_Center_BCS will lead the way to give our students the skills needed to have thriving careers after high school.\n\nI'm proud to have helped secure the initial grant to start planning the center and highlight @BradleySchools' innovation in education! https://t.co/15A8YHmfC5",
+      "display_text_range": [
+         0,
+         280
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/15A8YHmfC5",
+               "expanded_url": "https://www.timesfreepress.com/news/business/aroundregion/story/2022/mar/04/training-futureabandoned-factory-revamped-33/564503/",
+               "display_url": "timesfreepress.com/news/business/\u2026",
+               "indices": [
+                  257,
+                  280
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "PIE_Center_BCS",
+               "name": "PIE Center",
+               "id": 882742847472054273,
+               "id_str": "882742847472054273",
+               "indices": [
+                  4,
+                  19
+               ]
+            },
+            {
+               "screen_name": "BradleySchools",
+               "name": "Bradley Co. Schools",
+               "id": 567525909,
+               "id_str": "567525909",
+               "indices": [
+                  215,
+                  230
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/YlpdhBlIwr",
+            "expanded_url": "https://twitter.com/i/web/status/1500880204251602945",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "PIE_Center_BCS",
+            "name": "PIE Center",
+            "id": 882742847472054273,
+            "id_str": "882742847472054273",
+            "indices": [
+               4,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672700356"
+}

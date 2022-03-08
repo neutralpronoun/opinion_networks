@@ -1,0 +1,366 @@
+{
+   "created_at": "Mon Mar 07 19:58:00 +0000 2022",
+   "id": 1500923743664844803,
+   "id_str": "1500923743664844803",
+   "text": "RT @RepMullin: Congress is back in session today. If @SpeakerPelosi is serious about banning the imports of Russian oil, she\u2019d bring a bill\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 144986277,
+      "id_str": "144986277",
+      "name": "Western Caucus",
+      "screen_name": "westerncaucus",
+      "location": "Washington, D.C.",
+      "url": "https://westerncaucus.house.gov",
+      "description": "Chairman @RepNewhouse | The Voice for Rural America \ud83e\uddac",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 6038,
+      "friends_count": 2421,
+      "listed_count": 123,
+      "favourites_count": 9903,
+      "statuses_count": 11920,
+      "created_at": "Mon May 17 21:03:10 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "537D8F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/144986277/1626126006",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:30:36 +0000 2022",
+      "id": 1500916847687917570,
+      "id_str": "1500916847687917570",
+      "text": "Congress is back in session today. If @SpeakerPelosi is serious about banning the imports of Russian oil, she\u2019d bri\u2026 https://t.co/Ty8wKool0f",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1060370282,
+         "id_str": "1060370282",
+         "name": "Markwayne Mullin",
+         "screen_name": "RepMullin",
+         "location": "Oklahoma",
+         "url": "http://www.mullin.house.gov",
+         "description": "Father of six. Small business owner. Honored to represent Oklahoma\u2019s conservative values in Congress.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35207,
+         "friends_count": 797,
+         "listed_count": 832,
+         "favourites_count": 1414,
+         "statuses_count": 5114,
+         "created_at": "Fri Jan 04 12:43:55 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/936684558841532416/NA_AK7gd_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060370282/1485533313",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Congress is back in session today. If @SpeakerPelosi is serious about banning the imports of Russian oil, she\u2019d bring a bill to the floor tonight. Here\u2019s a good start: The American Energy Independence from Russia Act. https://t.co/qvKpcRLcdr",
+         "display_text_range": [
+            0,
+            217
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SpeakerPelosi",
+                  "name": "Nancy Pelosi",
+                  "id": 15764644,
+                  "id_str": "15764644",
+                  "indices": [
+                     38,
+                     52
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500915408823533576,
+                  "id_str": "1500915408823533576",
+                  "indices": [
+                     218,
+                     241
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500915408823533576/img/U3OEIhgvelGKGS74.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500915408823533576/img/U3OEIhgvelGKGS74.jpg",
+                  "url": "https://t.co/qvKpcRLcdr",
+                  "display_url": "pic.twitter.com/qvKpcRLcdr",
+                  "expanded_url": "https://twitter.com/RepMullin/status/1500916847687917570/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 60994,
+                     "variants": [
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/480x270/UGipv1857A593_V6.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/640x360/WpUmE9L3UN8b-ac-.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/pl/edWtn77emwprwUeV.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/1280x720/NTLvT3ZKUMocm6_t.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500915408823533576,
+                  "id_str": "1500915408823533576",
+                  "indices": [
+                     218,
+                     241
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500915408823533576/img/U3OEIhgvelGKGS74.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500915408823533576/img/U3OEIhgvelGKGS74.jpg",
+                  "url": "https://t.co/qvKpcRLcdr",
+                  "display_url": "pic.twitter.com/qvKpcRLcdr",
+                  "expanded_url": "https://twitter.com/RepMullin/status/1500916847687917570/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 60994,
+                     "variants": [
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/480x270/UGipv1857A593_V6.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/640x360/WpUmE9L3UN8b-ac-.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/pl/edWtn77emwprwUeV.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500915408823533576/vid/1280x720/NTLvT3ZKUMocm6_t.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/Ty8wKool0f",
+               "expanded_url": "https://twitter.com/i/web/status/1500916847687917570",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SpeakerPelosi",
+               "name": "Nancy Pelosi",
+               "id": 15764644,
+               "id_str": "15764644",
+               "indices": [
+                  38,
+                  52
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMullin",
+            "name": "Markwayne Mullin",
+            "id": 1060370282,
+            "id_str": "1060370282",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "SpeakerPelosi",
+            "name": "Nancy Pelosi",
+            "id": 15764644,
+            "id_str": "15764644",
+            "indices": [
+               53,
+               67
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683080961"
+}

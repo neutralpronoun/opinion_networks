@@ -1,0 +1,235 @@
+{
+   "created_at": "Mon Mar 07 21:47:40 +0000 2022",
+   "id": 1500951339626790915,
+   "id_str": "1500951339626790915",
+   "text": "RT @USNavy: #OTD In 1994:\n\nThe #USNavy issues the first orders for women to be assigned on board a combatant ship....which ship was it?\n\n#W\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080292515939565568,
+      "id_str": "1080292515939565568",
+      "name": "Rep. Elaine Luria",
+      "screen_name": "RepElaineLuria",
+      "location": "Norfolk, VA",
+      "url": "http://luria.house.gov",
+      "description": "Navy Veteran, former small business owner, and mom. Proud to serve the people of Virginia\u2019s 2nd Congressional District!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 35229,
+      "friends_count": 410,
+      "listed_count": 680,
+      "favourites_count": 164,
+      "statuses_count": 3829,
+      "created_at": "Wed Jan 02 02:39:41 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080292515939565568/1644247907",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:00:47 +0000 2022",
+      "id": 1500894241240883201,
+      "id_str": "1500894241240883201",
+      "text": "#OTD In 1994:\n\nThe #USNavy issues the first orders for women to be assigned on board a combatant ship....which ship\u2026 https://t.co/Bx9EyhWY8y",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 54885400,
+         "id_str": "54885400",
+         "name": "U.S. Navy",
+         "screen_name": "USNavy",
+         "location": "The 7 seas!",
+         "url": "http://www.navy.mil",
+         "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1587703,
+         "friends_count": 1204,
+         "listed_count": 8101,
+         "favourites_count": 756,
+         "statuses_count": 33775,
+         "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "2C4D59",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1392929512619397124/iJKtysje_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392929512619397124/iJKtysje_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1646150948",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "#OTD In 1994:\n\nThe #USNavy issues the first orders for women to be assigned on board a combatant ship....which ship was it?\n\n#WomensHistoryMonth",
+         "display_text_range": [
+            0,
+            144
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "OTD",
+                  "indices": [
+                     0,
+                     4
+                  ]
+               },
+               {
+                  "text": "USNavy",
+                  "indices": [
+                     19,
+                     26
+                  ]
+               },
+               {
+                  "text": "WomensHistoryMonth",
+                  "indices": [
+                     125,
+                     144
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 11,
+      "retweet_count": 24,
+      "favorite_count": 55,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "OTD",
+               "indices": [
+                  0,
+                  4
+               ]
+            },
+            {
+               "text": "USNavy",
+               "indices": [
+                  19,
+                  26
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/Bx9EyhWY8y",
+               "expanded_url": "https://twitter.com/i/web/status/1500894241240883201",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "OTD",
+            "indices": [
+               12,
+               16
+            ]
+         },
+         {
+            "text": "USNavy",
+            "indices": [
+               31,
+               38
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "USNavy",
+            "name": "U.S. Navy",
+            "id": 54885400,
+            "id_str": "54885400",
+            "indices": [
+               3,
+               10
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689660351"
+}

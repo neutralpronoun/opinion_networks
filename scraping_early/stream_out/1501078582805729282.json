@@ -1,0 +1,211 @@
+{
+   "created_at": "Tue Mar 08 06:13:17 +0000 2022",
+   "id": 1501078582805729282,
+   "id_str": "1501078582805729282",
+   "text": "@RepSwalwell will never do the right fang for America #AmericaLast https://t.co/DeuIlc9LZ1",
+   "display_text_range": [
+      0,
+      66
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": 942156122,
+   "in_reply_to_user_id_str": "942156122",
+   "in_reply_to_screen_name": "RepSwalwell",
+   "user": {
+      "id": 1117898546055761920,
+      "id_str": "1117898546055761920",
+      "name": "Josh Barnett for Congress (AZ-01)",
+      "screen_name": "BarnettforAZ",
+      "location": "Phoenix, AZ",
+      "url": "http://barnettforaz.com",
+      "description": "2022 AZ-01 Republican candidate, America First, small business owner, LD 15 PC. https://linqapp.com/joshbarnettforaz",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 79660,
+      "friends_count": 6332,
+      "listed_count": 226,
+      "favourites_count": 100608,
+      "statuses_count": 40951,
+      "created_at": "Mon Apr 15 21:12:37 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1500683762224406528/Y0ZPsm8U_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500683762224406528/Y0ZPsm8U_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117898546055761920/1639593908",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "AmericaLast",
+            "indices": [
+               54,
+               66
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1501077750576078848,
+            "id_str": "1501077750576078848",
+            "indices": [
+               67,
+               90
+            ],
+            "additional_media_info": {
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501077750576078848/pu/img/fOhU5M0sHbm1OgZx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501077750576078848/pu/img/fOhU5M0sHbm1OgZx.jpg",
+            "url": "https://t.co/DeuIlc9LZ1",
+            "display_url": "pic.twitter.com/DeuIlc9LZ1",
+            "expanded_url": "https://twitter.com/BarnettforAZ/status/1501078582805729282/video/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 888,
+                  "h": 500,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 888,
+                  "h": 500,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1501077750576078848,
+            "id_str": "1501077750576078848",
+            "indices": [
+               67,
+               90
+            ],
+            "additional_media_info": {
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501077750576078848/pu/img/fOhU5M0sHbm1OgZx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501077750576078848/pu/img/fOhU5M0sHbm1OgZx.jpg",
+            "url": "https://t.co/DeuIlc9LZ1",
+            "display_url": "pic.twitter.com/DeuIlc9LZ1",
+            "expanded_url": "https://twitter.com/BarnettforAZ/status/1501078582805729282/video/1",
+            "type": "video",
+            "video_info": {
+               "aspect_ratio": [
+                  222,
+                  125
+               ],
+               "duration_millis": 66296,
+               "variants": [
+                  {
+                     "content_type": "application/x-mpegURL",
+                     "url": "https://video.twimg.com/ext_tw_video/1501077750576078848/pu/pl/qaJLSdHAcsDjbXDA.m3u8?tag=12&container=fmp4"
+                  },
+                  {
+                     "bitrate": 2176000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/ext_tw_video/1501077750576078848/pu/vid/888x500/tDdWvuHAiPyzaN4i.mp4?tag=12"
+                  },
+                  {
+                     "bitrate": 256000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/ext_tw_video/1501077750576078848/pu/vid/478x270/i8z_Y9M1RB2I1u5A.mp4?tag=12"
+                  },
+                  {
+                     "bitrate": 832000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/ext_tw_video/1501077750576078848/pu/vid/638x360/chZIR5X4EuN5I-jq.mp4?tag=12"
+                  }
+               ]
+            },
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 888,
+                  "h": 500,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 888,
+                  "h": 500,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646719997489"
+}

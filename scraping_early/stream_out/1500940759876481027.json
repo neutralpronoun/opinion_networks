@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 21:05:37 +0000 2022",
+   "id": 1500940759876481027,
+   "id_str": "1500940759876481027",
+   "text": "We\u2019re urging Attorney General Garland to prioritize the investigation and prosecution of hate crimes. There\u2019s been\u2026 https://t.co/wMnfTiZjXq",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 476256944,
+      "id_str": "476256944",
+      "name": "Senator Dianne Feinstein",
+      "screen_name": "SenFeinstein",
+      "location": "California",
+      "url": "http://www.feinstein.senate.gov",
+      "description": "United States Senator from California. On Facebook at: http://facebook.com/senatorfeinstein",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1499914,
+      "friends_count": 256,
+      "listed_count": 7100,
+      "favourites_count": 112,
+      "statuses_count": 13167,
+      "created_at": "Fri Jan 27 23:06:59 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269997520694005760/Xpo4-5Px_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269997520694005760/Xpo4-5Px_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/476256944/1401304971",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "We\u2019re urging Attorney General Garland to prioritize the investigation and prosecution of hate crimes. There\u2019s been an increase in hate crimes across the country over the last few years and we must do more to seek justice for all. https://t.co/2HXEZSCg1d",
+      "display_text_range": [
+         0,
+         229
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500940685570199552,
+               "id_str": "1500940685570199552",
+               "indices": [
+                  230,
+                  253
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRpmehX0AAcQDi.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNRpmehX0AAcQDi.png",
+               "url": "https://t.co/2HXEZSCg1d",
+               "display_url": "pic.twitter.com/2HXEZSCg1d",
+               "expanded_url": "https://twitter.com/SenFeinstein/status/1500940759876481027/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 816,
+                     "h": 847,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 655,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 816,
+                     "h": 847,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500940685570199552,
+               "id_str": "1500940685570199552",
+               "indices": [
+                  230,
+                  253
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRpmehX0AAcQDi.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNRpmehX0AAcQDi.png",
+               "url": "https://t.co/2HXEZSCg1d",
+               "display_url": "pic.twitter.com/2HXEZSCg1d",
+               "expanded_url": "https://twitter.com/SenFeinstein/status/1500940759876481027/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 816,
+                     "h": 847,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 655,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 816,
+                     "h": 847,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/wMnfTiZjXq",
+            "expanded_url": "https://twitter.com/i/web/status/1500940759876481027",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646687137942"
+}

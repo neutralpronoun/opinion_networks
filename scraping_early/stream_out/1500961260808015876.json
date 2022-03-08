@@ -1,0 +1,177 @@
+{
+   "created_at": "Mon Mar 07 22:27:05 +0000 2022",
+   "id": 1500961260808015876,
+   "id_str": "1500961260808015876",
+   "text": "@Jim_Jordan our leaders \n#GOPTraitorsToDemocracy https://t.co/meRhg9iaLP",
+   "display_text_range": [
+      12,
+      48
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500879790932471811,
+   "in_reply_to_status_id_str": "1500879790932471811",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 25180501,
+      "id_str": "25180501",
+      "name": "Greg \"I\u2019m Wearing My Mask For A While More\u201d Proops",
+      "screen_name": "GregProops",
+      "location": "#BidenHarris2020",
+      "url": "http://gregproops.com",
+      "description": "I will try to survive so I may do everything I can to bring the utter and absolute destruction of the @GOP Be safe and get vaccinated",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 152731,
+      "friends_count": 4670,
+      "listed_count": 2672,
+      "favourites_count": 75239,
+      "statuses_count": 45690,
+      "created_at": "Wed Mar 18 23:15:52 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D4D7D8",
+      "profile_text_color": "594F46",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1310681236822609925/bnPwaidX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310681236822609925/bnPwaidX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25180501/1619666047",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "GOPTraitorsToDemocracy",
+            "indices": [
+               25,
+               48
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500961156109766657,
+            "id_str": "1500961156109766657",
+            "indices": [
+               49,
+               72
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR8OBOVEAEYa3E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNR8OBOVEAEYa3E.jpg",
+            "url": "https://t.co/meRhg9iaLP",
+            "display_url": "pic.twitter.com/meRhg9iaLP",
+            "expanded_url": "https://twitter.com/GregProops/status/1500961260808015876/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1029,
+                  "h": 686,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1029,
+                  "h": 686,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500961156109766657,
+            "id_str": "1500961156109766657",
+            "indices": [
+               49,
+               72
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR8OBOVEAEYa3E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNR8OBOVEAEYa3E.jpg",
+            "url": "https://t.co/meRhg9iaLP",
+            "display_url": "pic.twitter.com/meRhg9iaLP",
+            "expanded_url": "https://twitter.com/GregProops/status/1500961260808015876/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1029,
+                  "h": 686,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1029,
+                  "h": 686,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646692025745"
+}

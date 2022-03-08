@@ -1,0 +1,343 @@
+{
+   "created_at": "Mon Mar 07 18:53:18 +0000 2022",
+   "id": 1500907460122619907,
+   "id_str": "1500907460122619907",
+   "text": "This is truly incredible.",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 880480631108644864,
+      "id_str": "880480631108644864",
+      "name": "Rep. Ralph Norman",
+      "screen_name": "RepRalphNorman",
+      "location": "South Carolina, USA",
+      "url": "http://norman.house.gov",
+      "description": "Proudly serving the 5th congressional district of South Carolina \ud83c\udf51 Chairman @House_COS",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29458,
+      "friends_count": 602,
+      "listed_count": 667,
+      "favourites_count": 1635,
+      "statuses_count": 3045,
+      "created_at": "Thu Jun 29 17:38:35 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/886594415904608258/VyYZc8Uk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/880480631108644864/1561058726",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500277324545236995,
+   "quoted_status_id_str": "1500277324545236995",
+   "quoted_status": {
+      "created_at": "Sun Mar 06 01:09:22 +0000 2022",
+      "id": 1500277324545236995,
+      "id_str": "1500277324545236995",
+      "text": "The microphone went out for the National Anthem ahead of Charlotte FC\u2019s home opener &amp; this happened. Wow. Chills. T\u2026 https://t.co/8OCo58AJj0",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 24962256,
+         "id_str": "24962256",
+         "name": "Ashley Stroehlein",
+         "screen_name": "ashstro",
+         "location": "Charlotte, NC",
+         "url": "http://www.instagram.com/ash.stro",
+         "description": "Sports Reporter/Anchor at NBC Charlotte \ud83c\udfac\ud83c\udfa4 \ud83d\udcfa @RadfordU Alumni \ud83d\udcda",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 10083,
+         "friends_count": 664,
+         "listed_count": 145,
+         "favourites_count": 5650,
+         "statuses_count": 7749,
+         "created_at": "Tue Mar 17 21:48:00 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "214542",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "B4D9AD",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "3B615D",
+         "profile_text_color": "739E9F",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1498052575836389380/h8Cie5cS_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498052575836389380/h8Cie5cS_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/24962256/1646545814",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The microphone went out for the National Anthem ahead of Charlotte FC\u2019s home opener &amp; this happened. Wow. Chills. This crowd is amazing.\n\n@wcnc | #ForTheCrown https://t.co/KIDqBGJuZL",
+         "display_text_range": [
+            0,
+            162
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "ForTheCrown",
+                  "indices": [
+                     150,
+                     162
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "wcnc",
+                  "name": "WCNC Charlotte",
+                  "id": 12738892,
+                  "id_str": "12738892",
+                  "indices": [
+                     142,
+                     147
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500276424514625536,
+                  "id_str": "1500276424514625536",
+                  "indices": [
+                     163,
+                     186
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500276424514625536/pu/img/A72tHKLZWxuRjW3h.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500276424514625536/pu/img/A72tHKLZWxuRjW3h.jpg",
+                  "url": "https://t.co/KIDqBGJuZL",
+                  "display_url": "pic.twitter.com/KIDqBGJuZL",
+                  "expanded_url": "https://twitter.com/ashstro/status/1500277324545236995/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 81471,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/pl/lD7_QtF9FokcviSi.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/640x360/IqQkV2vGfmgl4f00.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/1280x720/SEUZ5dm3MrZERbNH.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/480x270/8oQR4zywJUfcyx4E.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500276424514625536,
+                  "id_str": "1500276424514625536",
+                  "indices": [
+                     163,
+                     186
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500276424514625536/pu/img/A72tHKLZWxuRjW3h.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500276424514625536/pu/img/A72tHKLZWxuRjW3h.jpg",
+                  "url": "https://t.co/KIDqBGJuZL",
+                  "display_url": "pic.twitter.com/KIDqBGJuZL",
+                  "expanded_url": "https://twitter.com/ashstro/status/1500277324545236995/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 81471,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/pl/lD7_QtF9FokcviSi.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/640x360/IqQkV2vGfmgl4f00.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/1280x720/SEUZ5dm3MrZERbNH.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1500276424514625536/pu/vid/480x270/8oQR4zywJUfcyx4E.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 858,
+      "reply_count": 404,
+      "retweet_count": 3458,
+      "favorite_count": 15165,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/8OCo58AJj0",
+               "expanded_url": "https://twitter.com/i/web/status/1500277324545236995",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/DyBwLLKsZv",
+      "expanded": "https://twitter.com/ashstro/status/1500277324545236995",
+      "display": "twitter.com/ashstro/status\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679198662"
+}

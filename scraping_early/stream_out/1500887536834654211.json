@@ -1,0 +1,205 @@
+{
+   "created_at": "Mon Mar 07 17:34:08 +0000 2022",
+   "id": 1500887536834654211,
+   "id_str": "1500887536834654211",
+   "text": "RT @SenSherrodBrown: Too often, we\u2019ve seen corporations kick workers off their health care to break a strike and force them back into subpa\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 10069612,
+      "id_str": "10069612",
+      "name": "AFL-CIO \u270a",
+      "screen_name": "AFLCIO",
+      "location": "Washington, DC",
+      "url": "http://aflcio.org",
+      "description": "The voice of working people in America's unions. Fighting for an inclusive economy that lifts wages and creates a better life for all. #1u",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 149474,
+      "friends_count": 6996,
+      "listed_count": 2735,
+      "favourites_count": 13935,
+      "statuses_count": 87557,
+      "created_at": "Thu Nov 08 15:58:10 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "165F67",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F4F6F4",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1498702799865094165/5u8ritXn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498702799865094165/5u8ritXn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10069612/1646153567",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 15:37:30 +0000 2022",
+      "id": 1500858186336817163,
+      "id_str": "1500858186336817163",
+      "text": "Too often, we\u2019ve seen corporations kick workers off their health care to break a strike and force them back into su\u2026 https://t.co/DIBosrGd17",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 43910797,
+         "id_str": "43910797",
+         "name": "Sherrod Brown",
+         "screen_name": "SenSherrodBrown",
+         "location": "Cleveland, OH",
+         "url": "http://brown.senate.gov",
+         "description": "Office of U.S Senator Sherrod Brown. Chairman of @SenateBanking Committee. Proud to serve Ohio.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 512322,
+         "friends_count": 335,
+         "listed_count": 4588,
+         "favourites_count": 2439,
+         "statuses_count": 8752,
+         "created_at": "Mon Jun 01 16:07:45 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F1F2EA",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1E4CA1",
+         "profile_sidebar_border_color": "598541",
+         "profile_sidebar_fill_color": "EBEAD9",
+         "profile_text_color": "663B12",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/43910797/1610402444",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Too often, we\u2019ve seen corporations kick workers off their health care to break a strike and force them back into subpar conditions\u2014this is unacceptable.\n\nI'm introducing a bill with @SenBobCasey to protect workers' health care during strikes.\nhttps://t.co/JMdZSsS8U1",
+         "display_text_range": [
+            0,
+            266
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/JMdZSsS8U1",
+                  "expanded_url": "https://www.brown.senate.gov/newsroom/press/release/brown-casey-introduce-legislation-protect-worker-health-care-during-strikes",
+                  "display_url": "brown.senate.gov/newsroom/press\u2026",
+                  "indices": [
+                     243,
+                     266
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SenBobCasey",
+                  "name": "Senator Bob Casey",
+                  "id": 171598736,
+                  "id_str": "171598736",
+                  "indices": [
+                     182,
+                     194
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 21,
+      "retweet_count": 53,
+      "favorite_count": 239,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/DIBosrGd17",
+               "expanded_url": "https://twitter.com/i/web/status/1500858186336817163",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenSherrodBrown",
+            "name": "Sherrod Brown",
+            "id": 43910797,
+            "id_str": "43910797",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674448580"
+}

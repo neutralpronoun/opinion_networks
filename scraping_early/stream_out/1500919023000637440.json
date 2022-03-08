@@ -1,0 +1,256 @@
+{
+   "created_at": "Mon Mar 07 19:39:15 +0000 2022",
+   "id": 1500919023000637440,
+   "id_str": "1500919023000637440",
+   "text": "RT @SenWarren: .@SenMarkey, @MartinHeinrich &amp; I have a resolution to designate today, the first Monday in March, as COVID-19 Victims and Su\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1280585659699224576,
+      "id_str": "1280585659699224576",
+      "name": "Marked By Covid #FBLC",
+      "screen_name": "MarkedByCovid",
+      "location": "Phoenix, AZ",
+      "url": "http://www.markedbycovid.com",
+      "description": "Elevating the truth about #COVID19 in hopes of saving others. Led by advocate @kdurquiza & media maven @ckeeves. *Media contact: christine@markedbycovid.com*",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26610,
+      "friends_count": 3876,
+      "listed_count": 192,
+      "favourites_count": 15040,
+      "statuses_count": 13451,
+      "created_at": "Tue Jul 07 19:33:23 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280585804415299584/83u7wwf5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280585804415299584/83u7wwf5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280585659699224576/1594151026",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:47:44 +0000 2022",
+      "id": 1500906058684018694,
+      "id_str": "1500906058684018694",
+      "text": ".@SenMarkey, @MartinHeinrich &amp; I have a resolution to designate today, the first Monday in March, as COVID-19 Victi\u2026 https://t.co/feKrF1drJV",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 970207298,
+         "id_str": "970207298",
+         "name": "Elizabeth Warren",
+         "screen_name": "SenWarren",
+         "location": null,
+         "url": "http://warren.senate.gov",
+         "description": "U.S. Senator, Massachusetts. She/her/hers. Official Senate account.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 7051060,
+         "friends_count": 515,
+         "listed_count": 19927,
+         "favourites_count": 18,
+         "statuses_count": 9351,
+         "created_at": "Sun Nov 25 15:14:27 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/722044174799777792/bXaodRhx_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/722044174799777792/bXaodRhx_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/970207298/1565529691",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": ".@SenMarkey, @MartinHeinrich &amp; I have a resolution to designate today, the first Monday in March, as COVID-19 Victims and Survivors Memorial Day. \n\nCOVID-19 has cost us too many lives. We must honor those lives &amp; those who are impacted by this pandemic.\nhttps://t.co/8OHJ8zrFtu",
+         "display_text_range": [
+            0,
+            285
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/8OHJ8zrFtu",
+                  "expanded_url": "https://www.nbcnews.com/news/latino/lost-loved-ones-pandemic-pushing-covid-memorial-day-rcna18712",
+                  "display_url": "nbcnews.com/news/latino/lo\u2026",
+                  "indices": [
+                     262,
+                     285
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SenMarkey",
+                  "name": "Ed Markey",
+                  "id": 21406834,
+                  "id_str": "21406834",
+                  "indices": [
+                     1,
+                     11
+                  ]
+               },
+               {
+                  "screen_name": "MartinHeinrich",
+                  "name": "Martin Heinrich",
+                  "id": 1099199839,
+                  "id_str": "1099199839",
+                  "indices": [
+                     13,
+                     28
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 4,
+      "reply_count": 33,
+      "retweet_count": 52,
+      "favorite_count": 318,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/feKrF1drJV",
+               "expanded_url": "https://twitter.com/i/web/status/1500906058684018694",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenMarkey",
+               "name": "Ed Markey",
+               "id": 21406834,
+               "id_str": "21406834",
+               "indices": [
+                  1,
+                  11
+               ]
+            },
+            {
+               "screen_name": "MartinHeinrich",
+               "name": "Martin Heinrich",
+               "id": 1099199839,
+               "id_str": "1099199839",
+               "indices": [
+                  13,
+                  28
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenWarren",
+            "name": "Elizabeth Warren",
+            "id": 970207298,
+            "id_str": "970207298",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "SenMarkey",
+            "name": "Ed Markey",
+            "id": 21406834,
+            "id_str": "21406834",
+            "indices": [
+               16,
+               26
+            ]
+         },
+         {
+            "screen_name": "MartinHeinrich",
+            "name": "Martin Heinrich",
+            "id": 1099199839,
+            "id_str": "1099199839",
+            "indices": [
+               28,
+               43
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681955467"
+}

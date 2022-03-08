@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 17:13:52 +0000 2022",
+   "id": 1500882436678422533,
+   "id_str": "1500882436678422533",
+   "text": "Paul Whelan. Trevor Reed. And now, Brittney Griner.\n\nI stand ready to work with the administration to bring home al\u2026 https://t.co/EvwL7fU1Do",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1076161611033968640,
+      "id_str": "1076161611033968640",
+      "name": "Rep. Haley Stevens",
+      "screen_name": "RepHaleyStevens",
+      "location": "Waterford, MI",
+      "url": "http://stevens.house.gov",
+      "description": "Congresswoman for Michigan's 11th District. Chair, Research and Technology Subcommittee, House Science. Education and Labor Committee.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 42344,
+      "friends_count": 498,
+      "listed_count": 674,
+      "favourites_count": 728,
+      "statuses_count": 4529,
+      "created_at": "Fri Dec 21 17:04:56 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076161611033968640/1642611463",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Paul Whelan. Trevor Reed. And now, Brittney Griner.\n\nI stand ready to work with the administration to bring home all Americans who are unjustly detained in Russia.\n\nhttps://t.co/cDM8KTXaam",
+      "display_text_range": [
+         0,
+         188
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/cDM8KTXaam",
+               "expanded_url": "https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia",
+               "display_url": "npr.org/2022/03/07/108\u2026",
+               "indices": [
+                  165,
+                  188
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/EvwL7fU1Do",
+            "expanded_url": "https://twitter.com/i/web/status/1500882436678422533",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646673232608"
+}

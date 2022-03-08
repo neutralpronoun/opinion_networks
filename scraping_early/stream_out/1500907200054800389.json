@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 18:52:16 +0000 2022",
+   "id": 1500907200054800389,
+   "id_str": "1500907200054800389",
+   "text": "How does relying on one adversary of the US instead of a different adversary help this situation? We need to ramp u\u2026 https://t.co/aFiDc5qBDP",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 234822928,
+      "id_str": "234822928",
+      "name": "Rep. Bob Gibbs",
+      "screen_name": "RepBobGibbs",
+      "location": "US Congress",
+      "url": "http://gibbs.house.gov",
+      "description": "R-OH http://www.facebook.com/RepBobGibbs",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38743,
+      "friends_count": 1649,
+      "listed_count": 970,
+      "favourites_count": 279,
+      "statuses_count": 3989,
+      "created_at": "Thu Jan 06 17:17:21 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "470C0F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0B14BD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "1D472F",
+      "profile_text_color": "080808",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234822928/1505504628",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "How does relying on one adversary of the US instead of a different adversary help this situation? We need to ramp up DOMESTIC production, not enrich nations that hate us. https://t.co/YkyBlku23E",
+      "display_text_range": [
+         0,
+         194
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/YkyBlku23E",
+               "expanded_url": "https://dailycaller.com/2022/03/07/white-house-crude-oil-venezuela-nicolas-maduro/",
+               "display_url": "dailycaller.com/2022/03/07/whi\u2026",
+               "indices": [
+                  171,
+                  194
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/aFiDc5qBDP",
+            "expanded_url": "https://twitter.com/i/web/status/1500907200054800389",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679136657"
+}

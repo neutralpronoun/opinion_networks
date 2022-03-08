@@ -1,0 +1,462 @@
+{
+   "created_at": "Mon Mar 07 16:23:56 +0000 2022",
+   "id": 1500869868798844931,
+   "id_str": "1500869868798844931",
+   "text": "RT @RepWexton: Our kids can't succeed in school if they aren't provided nutritious meals, and the hard work of @PWCSNutrition is a model fo\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 156969952,
+      "id_str": "156969952",
+      "name": "USDA Nutrition",
+      "screen_name": "USDANutrition",
+      "location": "Alexandria, Virginia",
+      "url": "http://www.fns.usda.gov",
+      "description": "USDA Food and Nutrition Service is using all flexibilities to ensure children and those in need receive nutrition assistance in response to COVID-19.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 100803,
+      "friends_count": 882,
+      "listed_count": 1817,
+      "favourites_count": 2664,
+      "statuses_count": 20078,
+      "created_at": "Fri Jun 18 13:04:57 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "111150",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "878D8C",
+      "profile_sidebar_border_color": "39131C",
+      "profile_sidebar_fill_color": "111150",
+      "profile_text_color": "41B427",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1223347774869114880/Z6aMZBye_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223347774869114880/Z6aMZBye_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/156969952/1646662333",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 19:48:55 +0000 2022",
+      "id": 1499834290804338688,
+      "id_str": "1499834290804338688",
+      "text": "Our kids can't succeed in school if they aren't provided nutritious meals, and the hard work of @PWCSNutrition is a\u2026 https://t.co/DurT4iRSju",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1017819745880543238,
+         "id_str": "1017819745880543238",
+         "name": "Rep. Jennifer Wexton",
+         "screen_name": "RepWexton",
+         "location": "Leesburg, VA",
+         "url": "http://wexton.house.gov",
+         "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 32433,
+         "friends_count": 1345,
+         "listed_count": 590,
+         "favourites_count": 524,
+         "statuses_count": 4339,
+         "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1618181985",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Our kids can't succeed in school if they aren't provided nutritious meals, and the hard work of @PWCSNutrition is a model for the country.\n\nI got a firsthand look at the @TylerTomcats lunch operation today with @USDA Deputy Under Secretaries Stacy Dean and Mae Wu. https://t.co/uE7yqnA2tz",
+         "display_text_range": [
+            0,
+            264
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "PWCSNutrition",
+                  "name": "PWCS Nutrition",
+                  "id": 4725272415,
+                  "id_str": "4725272415",
+                  "indices": [
+                     96,
+                     110
+                  ]
+               },
+               {
+                  "screen_name": "TylerTomcats",
+                  "name": "Tyler Elementary",
+                  "id": 4055813129,
+                  "id_str": "4055813129",
+                  "indices": [
+                     170,
+                     183
+                  ]
+               },
+               {
+                  "screen_name": "USDA",
+                  "name": "Dept. of Agriculture",
+                  "id": 61853389,
+                  "id_str": "61853389",
+                  "indices": [
+                     211,
+                     216
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499834283355222022,
+                  "id_str": "1499834283355222022",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZFXMAYizuT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZFXMAYizuT.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499834283355258896,
+                  "id_str": "1499834283355258896",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZFXwBA8HbB.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZFXwBA8HbB.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499834283434860549,
+                  "id_str": "1499834283434860549",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZYWYAU2_2n.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZYWYAU2_2n.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499834283355222022,
+                  "id_str": "1499834283355222022",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZFXMAYizuT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZFXMAYizuT.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499834283355258896,
+                  "id_str": "1499834283355258896",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZFXwBA8HbB.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZFXwBA8HbB.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499834283434860549,
+                  "id_str": "1499834283434860549",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB7VZYWYAU2_2n.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB7VZYWYAU2_2n.jpg",
+                  "url": "https://t.co/uE7yqnA2tz",
+                  "display_url": "pic.twitter.com/uE7yqnA2tz",
+                  "expanded_url": "https://twitter.com/RepWexton/status/1499834290804338688/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 4,
+      "reply_count": 14,
+      "retweet_count": 13,
+      "favorite_count": 45,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/DurT4iRSju",
+               "expanded_url": "https://twitter.com/i/web/status/1499834290804338688",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "PWCSNutrition",
+               "name": "PWCS Nutrition",
+               "id": 4725272415,
+               "id_str": "4725272415",
+               "indices": [
+                  96,
+                  110
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepWexton",
+            "name": "Rep. Jennifer Wexton",
+            "id": 1017819745880543238,
+            "id_str": "1017819745880543238",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "PWCSNutrition",
+            "name": "PWCS Nutrition",
+            "id": 4725272415,
+            "id_str": "4725272415",
+            "indices": [
+               111,
+               125
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670236192"
+}

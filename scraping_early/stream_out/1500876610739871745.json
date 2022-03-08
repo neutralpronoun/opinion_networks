@@ -1,0 +1,191 @@
+{
+   "created_at": "Mon Mar 07 16:50:43 +0000 2022",
+   "id": 1500876610739871745,
+   "id_str": "1500876610739871745",
+   "text": "RT @SenBobCasey: Home and community-based services are essential. From children with disabilities to seniors with caregivers, home care all\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 165791468,
+      "id_str": "165791468",
+      "name": "Social Security Works",
+      "screen_name": "SSWorks",
+      "location": "Washington, DC",
+      "url": "http://socialsecurityworks.org",
+      "description": "We're fighting to address the retirement income crisis by protecting and expanding our Social Security system.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 37718,
+      "friends_count": 7466,
+      "listed_count": 530,
+      "favourites_count": 5616,
+      "statuses_count": 31365,
+      "created_at": "Mon Jul 12 15:09:48 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875438413192634369/-QRg87AE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875438413192634369/-QRg87AE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/165791468/1467387646",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 14:39:03 +0000 2022",
+      "id": 1500843474706444294,
+      "id_str": "1500843474706444294",
+      "text": "Home and community-based services are essential. From children with disabilities to seniors with caregivers, home c\u2026 https://t.co/Y6nxaZZl1g",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 171598736,
+         "id_str": "171598736",
+         "name": "Senator Bob Casey",
+         "screen_name": "SenBobCasey",
+         "location": "Scranton, PA",
+         "url": "https://www.casey.senate.gov/",
+         "description": "Official twitter profile for U.S. Senator Bob Casey. Husband, dad, grandpa, history buff, Chairman @SenateAging. Fighting for PA\u2019s children and families.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 437970,
+         "friends_count": 905,
+         "listed_count": 3228,
+         "favourites_count": 1240,
+         "statuses_count": 14268,
+         "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "162F53",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "2F6291",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "EEEEEE",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/171598736/1617400707",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Home and community-based services are essential. From children with disabilities to seniors with caregivers, home care allows them to thrive in their own homes. My #BetterCareBetterJobs Act invests in that care.",
+         "display_text_range": [
+            0,
+            211
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "BetterCareBetterJobs",
+                  "indices": [
+                     164,
+                     185
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 12,
+      "retweet_count": 28,
+      "favorite_count": 105,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/Y6nxaZZl1g",
+               "expanded_url": "https://twitter.com/i/web/status/1500843474706444294",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenBobCasey",
+            "name": "Senator Bob Casey",
+            "id": 171598736,
+            "id_str": "171598736",
+            "indices": [
+               3,
+               15
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646671843596"
+}

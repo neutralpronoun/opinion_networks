@@ -1,0 +1,235 @@
+{
+   "created_at": "Mon Mar 07 21:03:06 +0000 2022",
+   "id": 1500940123264978946,
+   "id_str": "1500940123264978946",
+   "text": "Thanks to the Bipartisan Infrastructure Law I helped write &amp; pass, we are investing $1.47 billion in modernizing bu\u2026 https://t.co/HFOR8gGp83",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 818554054309715969,
+      "id_str": "818554054309715969",
+      "name": "Senator Jacky Rosen",
+      "screen_name": "SenJackyRosen",
+      "location": "Las Vegas, NV",
+      "url": "http://www.rosen.senate.gov",
+      "description": "Working across the aisle to deliver for hardworking Nevada families in the U.S. Senate. Proud mom and wife. Former computer programmer and synagogue president.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 46371,
+      "friends_count": 815,
+      "listed_count": 1000,
+      "favourites_count": 651,
+      "statuses_count": 9272,
+      "created_at": "Mon Jan 09 20:24:29 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085182795142574080/E0sTwPIJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818554054309715969/1611789299",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500913156775981063,
+   "quoted_status_id_str": "1500913156775981063",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:15:56 +0000 2022",
+      "id": 1500913156775981063,
+      "id_str": "1500913156775981063",
+      "text": "We\u2019re announcing today that @USDOT will make available over $1.5 billion in grants to help cities and towns electri\u2026 https://t.co/PRj8xxKbYH",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 803694179079458816,
+         "id_str": "803694179079458816",
+         "name": "Vice President Kamala Harris",
+         "screen_name": "VP",
+         "location": null,
+         "url": "http://whitehouse.gov",
+         "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12434906,
+         "friends_count": 6,
+         "listed_count": 15711,
+         "favourites_count": 1112,
+         "statuses_count": 7202,
+         "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1646319120",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "We\u2019re announcing today that @USDOT will make available over $1.5 billion in grants to help cities and towns electrify their fleet of public buses, build stronger infrastructure, and train workers and so much more. https://t.co/QvYZHNhPKt",
+         "display_text_range": [
+            0,
+            237
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/QvYZHNhPKt",
+                  "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/",
+                  "display_url": "whitehouse.gov/briefing-room/\u2026",
+                  "indices": [
+                     214,
+                     237
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "USDOT",
+                  "name": "TransportationGov",
+                  "id": 393562221,
+                  "id_str": "393562221",
+                  "indices": [
+                     28,
+                     34
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 24,
+      "reply_count": 140,
+      "retweet_count": 365,
+      "favorite_count": 1889,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/PRj8xxKbYH",
+               "expanded_url": "https://twitter.com/i/web/status/1500913156775981063",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "USDOT",
+               "name": "TransportationGov",
+               "id": 393562221,
+               "id_str": "393562221",
+               "indices": [
+                  28,
+                  34
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/JeH13YZU1F",
+      "expanded": "https://twitter.com/VP/status/1500913156775981063",
+      "display": "twitter.com/VP/status/1500\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Thanks to the Bipartisan Infrastructure Law I helped write &amp; pass, we are investing $1.47 billion in modernizing bus fleets and bus facilities across the country. This money will create good-paying jobs, reduce carbon emissions, and contribute to cleaner air in our cities.",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/HFOR8gGp83",
+            "expanded_url": "https://twitter.com/i/web/status/1500940123264978946",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686986162"
+}

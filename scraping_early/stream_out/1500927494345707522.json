@@ -1,0 +1,212 @@
+{
+   "created_at": "Mon Mar 07 20:12:55 +0000 2022",
+   "id": 1500927494345707522,
+   "id_str": "1500927494345707522",
+   "text": "Ukraine needs additional military assistance to help defend against the Russian invasion. Congress must pass legisl\u2026 https://t.co/eb11f18B4R",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 31801993,
+      "id_str": "31801993",
+      "name": "Rep. Frank Pallone",
+      "screen_name": "FrankPallone",
+      "location": "#NJ",
+      "url": "http://pallone.house.gov",
+      "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D) of New Jersey's 6th district, Chairman of @EnergyCommerce Committee.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 45880,
+      "friends_count": 2871,
+      "listed_count": 1637,
+      "favourites_count": 511,
+      "statuses_count": 19806,
+      "created_at": "Thu Apr 16 13:51:56 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "2B590F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "295C32",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096470387041419264/0vCNMXci_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096470387041419264/0vCNMXci_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31801993/1528210922",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500645554233253894,
+   "quoted_status_id_str": "1500645554233253894",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 01:32:35 +0000 2022",
+      "id": 1500645554233253894,
+      "id_str": "1500645554233253894",
+      "text": "NEW: The weapons are part of a vast airlift that U.S. &amp; European officials describe as a desperate race against tim\u2026 https://t.co/mF24DEWGMf",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 341118458,
+         "id_str": "341118458",
+         "name": "Eric Schmitt",
+         "screen_name": "EricSchmittNYT",
+         "location": "Washington, D.C.",
+         "url": "http://www.counterstrikethebook.com",
+         "description": "Senior writer, The New York Times (http://nyti.ms/1awYH4E) covering terrorism and national security issues. Co-author, Counterstrike",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 51770,
+         "friends_count": 1031,
+         "listed_count": 979,
+         "favourites_count": 791,
+         "statuses_count": 1679,
+         "created_at": "Sat Jul 23 20:53:07 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "022330",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "A8C7F7",
+         "profile_sidebar_fill_color": "C0DFEC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1119721564558245889/35n9qgzj_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119721564558245889/35n9qgzj_normal.jpg",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "NEW: The weapons are part of a vast airlift that U.S. &amp; European officials describe as a desperate race against time, to get tons of arms into the hands of Ukrainian forces while their supply routes are still open.\nhttps://t.co/AKwpt9uuMg",
+         "display_text_range": [
+            0,
+            242
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/AKwpt9uuMg",
+                  "expanded_url": "https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html?smid=tw-share",
+                  "display_url": "nytimes.com/2022/03/06/us/\u2026",
+                  "indices": [
+                     219,
+                     242
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 47,
+      "reply_count": 99,
+      "retweet_count": 652,
+      "favorite_count": 2388,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/mF24DEWGMf",
+               "expanded_url": "https://twitter.com/i/web/status/1500645554233253894",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/M7tSHqHDQl",
+      "expanded": "https://twitter.com/EricSchmittNYT/status/1500645554233253894",
+      "display": "twitter.com/EricSchmittNYT\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Ukraine needs additional military assistance to help defend against the Russian invasion. Congress must pass legislation to appropriate emergency funding that provides military equipment to Ukraine and supports our allies, who are supplying it with planes.",
+      "display_text_range": [
+         0,
+         256
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/eb11f18B4R",
+            "expanded_url": "https://twitter.com/i/web/status/1500927494345707522",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683975193"
+}

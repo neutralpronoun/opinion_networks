@@ -1,0 +1,351 @@
+{
+   "created_at": "Tue Mar 08 02:08:51 +0000 2022",
+   "id": 1501017070389149696,
+   "id_str": "1501017070389149696",
+   "text": "RT @JamaalBowmanNY: Cancel student loans @POTUS. https://t.co/iq34tS216V",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 138203134,
+      "id_str": "138203134",
+      "name": "Alexandria Ocasio-Cortez",
+      "screen_name": "AOC",
+      "location": "Bronx + Queens, NYC",
+      "url": "http://www.ocasiocortez.com",
+      "description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. \ud83d\udcaf% People-Funded, no lobbyist\ud83d\udcb0. She/her.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12920875,
+      "friends_count": 3639,
+      "listed_count": 25051,
+      "favourites_count": 35133,
+      "statuses_count": 13542,
+      "created_at": "Wed Apr 28 22:38:40 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:10:38 +0000 2022",
+      "id": 1500942020117946369,
+      "id_str": "1500942020117946369",
+      "text": "Cancel student loans @POTUS. https://t.co/iq34tS216V",
+      "display_text_range": [
+         0,
+         28
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1138076821533155328,
+         "id_str": "1138076821533155328",
+         "name": "Jamaal Bowman",
+         "screen_name": "JamaalBowmanNY",
+         "location": "Yonkers, NY",
+         "url": "http://myurls.co/jamaalbowman",
+         "description": "Congressman for #NY16. Former middle school principal. Causing problems for the status quo. Fighting for jobs and education, not bombs and incarceration.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 361344,
+         "friends_count": 2267,
+         "listed_count": 1561,
+         "favourites_count": 8472,
+         "statuses_count": 8253,
+         "created_at": "Mon Jun 10 13:33:53 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1D2E5D",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1140914022822400000/VlNI_uYX_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140914022822400000/VlNI_uYX_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138076821533155328/1645393823",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 21,
+      "reply_count": 49,
+      "retweet_count": 353,
+      "favorite_count": 2754,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  21,
+                  27
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500942017576243200,
+               "id_str": "1500942017576243200",
+               "indices": [
+                  29,
+                  52
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+               "url": "https://t.co/iq34tS216V",
+               "display_url": "pic.twitter.com/iq34tS216V",
+               "expanded_url": "https://twitter.com/JamaalBowmanNY/status/1500942020117946369/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 927,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 927,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 584,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500942017576243200,
+               "id_str": "1500942017576243200",
+               "indices": [
+                  29,
+                  52
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+               "url": "https://t.co/iq34tS216V",
+               "display_url": "pic.twitter.com/iq34tS216V",
+               "expanded_url": "https://twitter.com/JamaalBowmanNY/status/1500942020117946369/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 927,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 927,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 584,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JamaalBowmanNY",
+            "name": "Jamaal Bowman",
+            "id": 1138076821533155328,
+            "id_str": "1138076821533155328",
+            "indices": [
+               3,
+               18
+            ]
+         },
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               41,
+               47
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500942017576243200,
+            "id_str": "1500942017576243200",
+            "indices": [
+               49,
+               72
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+            "url": "https://t.co/iq34tS216V",
+            "display_url": "pic.twitter.com/iq34tS216V",
+            "expanded_url": "https://twitter.com/JamaalBowmanNY/status/1500942020117946369/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1080,
+                  "h": 927,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1080,
+                  "h": 927,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 584,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500942020117946369,
+            "source_status_id_str": "1500942020117946369",
+            "source_user_id": 1138076821533155328,
+            "source_user_id_str": "1138076821533155328"
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500942017576243200,
+            "id_str": "1500942017576243200",
+            "indices": [
+               49,
+               72
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRq0AoXEAAx_sO.jpg",
+            "url": "https://t.co/iq34tS216V",
+            "display_url": "pic.twitter.com/iq34tS216V",
+            "expanded_url": "https://twitter.com/JamaalBowmanNY/status/1500942020117946369/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1080,
+                  "h": 927,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1080,
+                  "h": 927,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 584,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500942020117946369,
+            "source_status_id_str": "1500942020117946369",
+            "source_user_id": 1138076821533155328,
+            "source_user_id_str": "1138076821533155328"
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646705331786"
+}

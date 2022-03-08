@@ -1,0 +1,253 @@
+{
+   "created_at": "Tue Mar 08 00:56:17 +0000 2022",
+   "id": 1500998807684886529,
+   "id_str": "1500998807684886529",
+   "text": "At the Edmund Pettus Bridge in Selma, peaceful marchers demanding access to the ballot were attacked by authorities\u2026 https://t.co/0b2kTFH8ob",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15324851,
+      "id_str": "15324851",
+      "name": "Senator Chris Coons",
+      "screen_name": "ChrisCoons",
+      "location": "Wilmington, DE",
+      "url": "http://coons.senate.gov",
+      "description": "Father, husband, U.S. Senator from Delaware",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 215869,
+      "friends_count": 4242,
+      "listed_count": 2988,
+      "favourites_count": 962,
+      "statuses_count": 16391,
+      "created_at": "Sat Jul 05 11:17:54 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "4871B0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "4871B0",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15324851/1588911031",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "At the Edmund Pettus Bridge in Selma, peaceful marchers demanding access to the ballot were attacked by authorities in 1965\u2014a horrific moment that helped lead to the passage of the Voting Rights Act.\n\nToday, we remember their bravery and continue to work to defend voting rights. https://t.co/ZKWZmMZaTI",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500998802928504832,
+               "id_str": "1500998802928504832",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSedWjXEAAIpQC.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSedWjXEAAIpQC.jpg",
+               "url": "https://t.co/ZKWZmMZaTI",
+               "display_url": "pic.twitter.com/ZKWZmMZaTI",
+               "expanded_url": "https://twitter.com/ChrisCoons/status/1500998807684886529/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500998802924310531,
+               "id_str": "1500998802924310531",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSedWiXEAMymZB.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSedWiXEAMymZB.jpg",
+               "url": "https://t.co/ZKWZmMZaTI",
+               "display_url": "pic.twitter.com/ZKWZmMZaTI",
+               "expanded_url": "https://twitter.com/ChrisCoons/status/1500998807684886529/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1080,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 378,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 600,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500998802928504832,
+               "id_str": "1500998802928504832",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSedWjXEAAIpQC.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSedWjXEAAIpQC.jpg",
+               "url": "https://t.co/ZKWZmMZaTI",
+               "display_url": "pic.twitter.com/ZKWZmMZaTI",
+               "expanded_url": "https://twitter.com/ChrisCoons/status/1500998807684886529/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500998802924310531,
+               "id_str": "1500998802924310531",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSedWiXEAMymZB.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSedWiXEAMymZB.jpg",
+               "url": "https://t.co/ZKWZmMZaTI",
+               "display_url": "pic.twitter.com/ZKWZmMZaTI",
+               "expanded_url": "https://twitter.com/ChrisCoons/status/1500998807684886529/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1080,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 378,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 600,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0b2kTFH8ob",
+            "expanded_url": "https://twitter.com/i/web/status/1500998807684886529",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646700977618"
+}

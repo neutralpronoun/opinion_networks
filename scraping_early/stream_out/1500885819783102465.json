@@ -1,0 +1,368 @@
+{
+   "created_at": "Mon Mar 07 17:27:19 +0000 2022",
+   "id": 1500885819783102465,
+   "id_str": "1500885819783102465",
+   "text": "RT @EnvAm: .@RepGaramendi thank you for championing the expansion of Berryessa Snow National Monument! His bill to add 3,925 acres of publi\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 88806753,
+      "id_str": "88806753",
+      "name": "John Garamendi",
+      "screen_name": "RepGaramendi",
+      "location": "Solano County, CA",
+      "url": "http://garamendi.house.gov",
+      "description": "Congressman for California's 3rd Congressional District, former Lieutenant Governor, Insurance Commissioner, Deputy Interior Secretary, state legislator",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32947,
+      "friends_count": 8780,
+      "listed_count": 1382,
+      "favourites_count": 2211,
+      "statuses_count": 15711,
+      "created_at": "Tue Nov 10 00:31:12 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/867754658919579648/_yzg8aMR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/867754658919579648/_yzg8aMR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88806753/1517517127",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:22:00 +0000 2022",
+      "id": 1500884481904807940,
+      "id_str": "1500884481904807940",
+      "text": ".@RepGaramendi thank you for championing the expansion of Berryessa Snow National Monument! His bill to add 3,925 a\u2026 https://t.co/J4Bya3f8vq",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 16721621,
+         "id_str": "16721621",
+         "name": "Environment America",
+         "screen_name": "EnvAm",
+         "location": "United States",
+         "url": "https://www.environmentamerica.org",
+         "description": "Environment America is a policy and action group with one mission: to build a greener, healthier world.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 33624,
+         "friends_count": 5695,
+         "listed_count": 1087,
+         "favourites_count": 5490,
+         "statuses_count": 18610,
+         "created_at": "Mon Oct 13 14:49:29 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "414B87",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "004890",
+         "profile_sidebar_border_color": "BDDCAD",
+         "profile_sidebar_fill_color": "CCE3FF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1023979713646092294/MKmuqnvm_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023979713646092294/MKmuqnvm_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/16721621/1532970801",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": ".@RepGaramendi thank you for championing the expansion of Berryessa Snow National Monument! His bill to add 3,925 acres of public lands to the monument was heard in the House Natural Resources Committee this week. Watch a clip of Rep. Garamendi's testimony\u2b07\ufe0f#MolokLuyuk https://t.co/SgGt4iey8w",
+         "display_text_range": [
+            0,
+            269
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "MolokLuyuk",
+                  "indices": [
+                     258,
+                     269
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepGaramendi",
+                  "name": "John Garamendi",
+                  "id": 88806753,
+                  "id_str": "88806753",
+                  "indices": [
+                     1,
+                     14
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499580979245039618,
+                  "id_str": "1499580979245039618",
+                  "indices": [
+                     270,
+                     293
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499580979245039618/pu/img/unZwybPKGAheqx73.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499580979245039618/pu/img/unZwybPKGAheqx73.jpg",
+                  "url": "https://t.co/SgGt4iey8w",
+                  "display_url": "pic.twitter.com/SgGt4iey8w",
+                  "expanded_url": "https://twitter.com/EnvAm/status/1500884481904807940/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        427,
+                        240
+                     ],
+                     "duration_millis": 36053,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/640x360/ARk_oJohtPx_OnLl.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/pl/HI68g-G-uX1HEYiy.m3u8?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/480x270/gF9XhZJsxC6V8RAS.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/854x480/YowowhY1o3CfY8cf.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499580979245039618,
+                  "id_str": "1499580979245039618",
+                  "indices": [
+                     270,
+                     293
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499580979245039618/pu/img/unZwybPKGAheqx73.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499580979245039618/pu/img/unZwybPKGAheqx73.jpg",
+                  "url": "https://t.co/SgGt4iey8w",
+                  "display_url": "pic.twitter.com/SgGt4iey8w",
+                  "expanded_url": "https://twitter.com/EnvAm/status/1500884481904807940/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        427,
+                        240
+                     ],
+                     "duration_millis": 36053,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/640x360/ARk_oJohtPx_OnLl.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/pl/HI68g-G-uX1HEYiy.m3u8?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/480x270/gF9XhZJsxC6V8RAS.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499580979245039618/pu/vid/854x480/YowowhY1o3CfY8cf.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/J4Bya3f8vq",
+               "expanded_url": "https://twitter.com/i/web/status/1500884481904807940",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepGaramendi",
+               "name": "John Garamendi",
+               "id": 88806753,
+               "id_str": "88806753",
+               "indices": [
+                  1,
+                  14
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "EnvAm",
+            "name": "Environment America",
+            "id": 16721621,
+            "id_str": "16721621",
+            "indices": [
+               3,
+               9
+            ]
+         },
+         {
+            "screen_name": "RepGaramendi",
+            "name": "John Garamendi",
+            "id": 88806753,
+            "id_str": "88806753",
+            "indices": [
+               12,
+               25
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674039203"
+}

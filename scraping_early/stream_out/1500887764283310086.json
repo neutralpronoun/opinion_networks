@@ -1,0 +1,163 @@
+{
+   "created_at": "Mon Mar 07 17:35:02 +0000 2022",
+   "id": 1500887764283310086,
+   "id_str": "1500887764283310086",
+   "text": "Thanks to investments from the Bipartisan #Infrastructure Law, @VP and @SecretaryPete announced today that $1.47 bi\u2026 https://t.co/cyiuzwa3wN",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080573351914061825,
+      "id_str": "1080573351914061825",
+      "name": "Rep. David Trone",
+      "screen_name": "RepDavidTrone",
+      "location": "Maryland\u2019s 6th District",
+      "url": "https://trone.house.gov",
+      "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 13931,
+      "friends_count": 1257,
+      "listed_count": 457,
+      "favourites_count": 552,
+      "statuses_count": 4205,
+      "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1636060656",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Thanks to investments from the Bipartisan #Infrastructure Law, @VP and @SecretaryPete announced today that $1.47 billion will be used to modernize bus fleets and facilities across the country! We're creating good-paying jobs and reducing our carbon emissions! #ClimateAction",
+      "display_text_range": [
+         0,
+         274
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Infrastructure",
+               "indices": [
+                  42,
+                  57
+               ]
+            },
+            {
+               "text": "ClimateAction",
+               "indices": [
+                  260,
+                  274
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "VP",
+               "name": "Vice President Kamala Harris",
+               "id": 803694179079458816,
+               "id_str": "803694179079458816",
+               "indices": [
+                  63,
+                  66
+               ]
+            },
+            {
+               "screen_name": "SecretaryPete",
+               "name": "Secretary Pete Buttigieg",
+               "id": 1356958547603513346,
+               "id_str": "1356958547603513346",
+               "indices": [
+                  71,
+                  85
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Infrastructure",
+            "indices": [
+               42,
+               57
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/cyiuzwa3wN",
+            "expanded_url": "https://twitter.com/i/web/status/1500887764283310086",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "VP",
+            "name": "Vice President Kamala Harris",
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "indices": [
+               63,
+               66
+            ]
+         },
+         {
+            "screen_name": "SecretaryPete",
+            "name": "Secretary Pete Buttigieg",
+            "id": 1356958547603513346,
+            "id_str": "1356958547603513346",
+            "indices": [
+               71,
+               85
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674502808"
+}

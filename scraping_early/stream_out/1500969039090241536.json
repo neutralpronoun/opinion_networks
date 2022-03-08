@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 22:58:00 +0000 2022",
+   "id": 1500969039090241536,
+   "id_str": "1500969039090241536",
+   "text": "57 years ago, state troopers in Selma beat and gassed John Lewis and hundreds of other peaceful marchers as they cr\u2026 https://t.co/4ONymH23ms",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 171598736,
+      "id_str": "171598736",
+      "name": "Senator Bob Casey",
+      "screen_name": "SenBobCasey",
+      "location": "Scranton, PA",
+      "url": "https://www.casey.senate.gov/",
+      "description": "Official twitter profile for U.S. Senator Bob Casey. Husband, dad, grandpa, history buff, Chairman @SenateAging. Fighting for PA\u2019s children and families.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 438052,
+      "friends_count": 904,
+      "listed_count": 3228,
+      "favourites_count": 1241,
+      "statuses_count": 14272,
+      "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "162F53",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "2F6291",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/171598736/1617400707",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "57 years ago, state troopers in Selma beat and gassed John Lewis and hundreds of other peaceful marchers as they crossed the Edmund Pettus Bridge.\n\nTheir fight for voting rights is a call to action, one I will continue to heed until we restore the Voting Rights Act.",
+      "display_text_range": [
+         0,
+         266
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/4ONymH23ms",
+            "expanded_url": "https://twitter.com/i/web/status/1500969039090241536",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693880232"
+}

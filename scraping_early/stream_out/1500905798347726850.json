@@ -1,0 +1,160 @@
+{
+   "created_at": "Mon Mar 07 18:46:42 +0000 2022",
+   "id": 1500905798347726850,
+   "id_str": "1500905798347726850",
+   "text": "Today, I joined my friends and colleagues @RepCartwright, @RepCheri and @RepNikema to introduce the Time Off to Vot\u2026 https://t.co/OwTpKuE9gT",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080277407867772930,
+      "id_str": "1080277407867772930",
+      "name": "Rep. Andy Levin",
+      "screen_name": "RepAndyLevin",
+      "location": "Bloomfield Township, MI",
+      "url": "http://andylevin.house.gov",
+      "description": "Honored to represent #MI09 in Congress. Member of @EdLaborCmte and @HouseForeign. Democrat raising the standard of living for working people.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29922,
+      "friends_count": 2809,
+      "listed_count": 577,
+      "favourites_count": 954,
+      "statuses_count": 4305,
+      "created_at": "Wed Jan 02 01:39:39 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080277407867772930/1645989909",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today, I joined my friends and colleagues @RepCartwright, @RepCheri and @RepNikema to introduce the Time Off to Vote Act. No worker should have to sacrifice their wages or jeopardize their job security to exercise their sacred right to vote.",
+      "display_text_range": [
+         0,
+         241
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepCartwright",
+               "name": "Matt Cartwright",
+               "id": 776664410,
+               "id_str": "776664410",
+               "indices": [
+                  42,
+                  56
+               ]
+            },
+            {
+               "screen_name": "RepCheri",
+               "name": "Rep. Cheri Bustos",
+               "id": 1092979962,
+               "id_str": "1092979962",
+               "indices": [
+                  58,
+                  67
+               ]
+            },
+            {
+               "screen_name": "RepNikema",
+               "name": "Congresswoman Nikema Williams",
+               "id": 1345461797361504259,
+               "id_str": "1345461797361504259",
+               "indices": [
+                  72,
+                  82
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/OwTpKuE9gT",
+            "expanded_url": "https://twitter.com/i/web/status/1500905798347726850",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepCartwright",
+            "name": "Matt Cartwright",
+            "id": 776664410,
+            "id_str": "776664410",
+            "indices": [
+               42,
+               56
+            ]
+         },
+         {
+            "screen_name": "RepCheri",
+            "name": "Rep. Cheri Bustos",
+            "id": 1092979962,
+            "id_str": "1092979962",
+            "indices": [
+               58,
+               67
+            ]
+         },
+         {
+            "screen_name": "RepNikema",
+            "name": "Congresswoman Nikema Williams",
+            "id": 1345461797361504259,
+            "id_str": "1345461797361504259",
+            "indices": [
+               72,
+               82
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678802464"
+}

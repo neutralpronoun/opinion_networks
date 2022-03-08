@@ -1,0 +1,334 @@
+{
+   "created_at": "Mon Mar 07 23:22:38 +0000 2022",
+   "id": 1500975238179266560,
+   "id_str": "1500975238179266560",
+   "text": "RT @HouseGOP: American families are already struggling under the weight of the worst inflation in 40 years.\n\nNow, drivers are paying the hi\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1457745193197780993,
+      "id_str": "1457745193197780993",
+      "name": "Congressman Mike Carey",
+      "screen_name": "RepMikeCarey",
+      "location": null,
+      "url": "https://carey.house.gov",
+      "description": "Congressman Mike Carey. Proudly serving Ohio's 15th Congressional District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 507,
+      "friends_count": 79,
+      "listed_count": 23,
+      "favourites_count": 311,
+      "statuses_count": 332,
+      "created_at": "Mon Nov 08 16:21:58 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1460275590431481857/0ZMl5M80_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460275590431481857/0ZMl5M80_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457745193197780993/1636992414",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:46:00 +0000 2022",
+      "id": 1500966019262648323,
+      "id_str": "1500966019262648323",
+      "text": "American families are already struggling under the weight of the worst inflation in 40 years.\n\nNow, drivers are pay\u2026 https://t.co/MWYgnfcUdH",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15207668,
+         "id_str": "15207668",
+         "name": "House Republicans",
+         "screen_name": "HouseGOP",
+         "location": "Washington, DC",
+         "url": "http://gop.gov",
+         "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1155113,
+         "friends_count": 791,
+         "listed_count": 7654,
+         "favourites_count": 4502,
+         "statuses_count": 40126,
+         "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "006699",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "American families are already struggling under the weight of the worst inflation in 40 years.\n\nNow, drivers are paying the highest prices EVER at the pump.\n\nDemocrats\u2019 failed Far-Left agenda is costing Americans. https://t.co/5G7N4d8Wgv",
+         "display_text_range": [
+            0,
+            212
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500924857806118924,
+                  "id_str": "1500924857806118924",
+                  "indices": [
+                     213,
+                     236
+                  ],
+                  "additional_media_info": {
+                     "title": "NBC News Report on Skyrocketing Gas Prices",
+                     "description": "Drivers are paying the highest price in 14 years at the pump.",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500924857806118924/img/5iKc4bqV6qt9SICB.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500924857806118924/img/5iKc4bqV6qt9SICB.jpg",
+                  "url": "https://t.co/5G7N4d8Wgv",
+                  "display_url": "pic.twitter.com/5G7N4d8Wgv",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500966019262648323/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        358,
+                        201
+                     ],
+                     "duration_millis": 86233,
+                     "variants": [
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/1282x720/rjiDBXX_5mTyDncI.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/480x270/PA9L_dhtnHPj6HM8.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/pl/RYVmNIrgMmb0fCQO.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/640x360/UE3gGYBsSE1b2fNV.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "large": {
+                        "w": 1432,
+                        "h": 804,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 674,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500924857806118924,
+                  "id_str": "1500924857806118924",
+                  "indices": [
+                     213,
+                     236
+                  ],
+                  "additional_media_info": {
+                     "title": "NBC News Report on Skyrocketing Gas Prices",
+                     "description": "Drivers are paying the highest price in 14 years at the pump.",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500924857806118924/img/5iKc4bqV6qt9SICB.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500924857806118924/img/5iKc4bqV6qt9SICB.jpg",
+                  "url": "https://t.co/5G7N4d8Wgv",
+                  "display_url": "pic.twitter.com/5G7N4d8Wgv",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500966019262648323/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        358,
+                        201
+                     ],
+                     "duration_millis": 86233,
+                     "variants": [
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/1282x720/rjiDBXX_5mTyDncI.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/480x270/PA9L_dhtnHPj6HM8.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/pl/RYVmNIrgMmb0fCQO.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500924857806118924/vid/640x360/UE3gGYBsSE1b2fNV.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "large": {
+                        "w": 1432,
+                        "h": 804,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 674,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 68,
+      "retweet_count": 32,
+      "favorite_count": 86,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/MWYgnfcUdH",
+               "expanded_url": "https://twitter.com/i/web/status/1500966019262648323",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "HouseGOP",
+            "name": "House Republicans",
+            "id": 15207668,
+            "id_str": "15207668",
+            "indices": [
+               3,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646695358210"
+}

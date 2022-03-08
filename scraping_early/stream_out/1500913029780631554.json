@@ -1,0 +1,203 @@
+{
+   "created_at": "Mon Mar 07 19:15:26 +0000 2022",
+   "id": 1500913029780631554,
+   "id_str": "1500913029780631554",
+   "text": "@RepSwalwell Additionally, you can't simply turn a switch on and increase oil production. Getting new production on\u2026 https://t.co/fX7tJnxIfG",
+   "display_text_range": [
+      13,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500912077149331457,
+   "in_reply_to_status_id_str": "1500912077149331457",
+   "in_reply_to_user_id": 953388631653257216,
+   "in_reply_to_user_id_str": "953388631653257216",
+   "in_reply_to_screen_name": "Manning4USCong",
+   "user": {
+      "id": 953388631653257216,
+      "id_str": "953388631653257216",
+      "name": "Chris Manning",
+      "screen_name": "Manning4USCong",
+      "location": "USA",
+      "url": null,
+      "description": "NM Native\nAZARNG Vet Afghanistan 07-08\nASU Grad Secondary Ed. History\nUT Football Fan\ud83e\udd18\nWanderlust EU SA",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 4553,
+      "friends_count": 957,
+      "listed_count": 19,
+      "favourites_count": 7175,
+      "statuses_count": 14855,
+      "created_at": "Tue Jan 16 22:08:57 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1493802967295664134/mnCx0TJc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493802967295664134/mnCx0TJc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/953388631653257216/1634877500",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepSwalwell Additionally, you can't simply turn a switch on and increase oil production. Getting new production on line takes months. This administration and Democrat's hostility toward oil and gas is why the oil and gas sector is still producing less oil than pre-pandemic. https://t.co/uxivyigsR0",
+      "display_text_range": [
+         13,
+         275
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepSwalwell",
+               "name": "Rep. Eric Swalwell",
+               "id": 942156122,
+               "id_str": "942156122",
+               "indices": [
+                  0,
+                  12
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500912889288269831,
+               "id_str": "1500912889288269831",
+               "indices": [
+                  276,
+                  299
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRQUhTVIAchlvt.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRQUhTVIAchlvt.jpg",
+               "url": "https://t.co/uxivyigsR0",
+               "display_url": "pic.twitter.com/uxivyigsR0",
+               "expanded_url": "https://twitter.com/Manning4USCong/status/1500913029780631554/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1039,
+                     "h": 409,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 268,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1039,
+                     "h": 409,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500912889288269831,
+               "id_str": "1500912889288269831",
+               "indices": [
+                  276,
+                  299
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRQUhTVIAchlvt.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRQUhTVIAchlvt.jpg",
+               "url": "https://t.co/uxivyigsR0",
+               "display_url": "pic.twitter.com/uxivyigsR0",
+               "expanded_url": "https://twitter.com/Manning4USCong/status/1500913029780631554/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1039,
+                     "h": 409,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 268,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1039,
+                     "h": 409,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/fX7tJnxIfG",
+            "expanded_url": "https://twitter.com/i/web/status/1500913029780631554",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680526572"
+}

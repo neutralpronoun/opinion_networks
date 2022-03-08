@@ -1,0 +1,199 @@
+{
+   "created_at": "Mon Mar 07 17:32:53 +0000 2022",
+   "id": 1500887221016182786,
+   "id_str": "1500887221016182786",
+   "text": "TONIGHT: Join me at 7 PM for a live tele-town hall to discuss local and federal resources available to\u2026 https://t.co/I8FXVjw7sM",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 236279233,
+      "id_str": "236279233",
+      "name": "Rep. Norma Torres",
+      "screen_name": "NormaJTorres",
+      "location": null,
+      "url": "http://torres.house.gov",
+      "description": "U.S. Representative for California's 35th District. @AppropsDems @RulesDemocrats",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 74630,
+      "friends_count": 981,
+      "listed_count": 953,
+      "favourites_count": 4632,
+      "statuses_count": 12108,
+      "created_at": "Mon Jan 10 06:30:14 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1281408567107555329/qFj8UdKN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281408567107555329/qFj8UdKN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/236279233/1585065331",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "TONIGHT: Join me at 7 PM for a live tele-town hall to discuss local and federal resources available to #InlandEmpire small businesses. Register and submit your questions at https://t.co/D54hVTZCn4. https://t.co/JPz3K05nKA",
+      "display_text_range": [
+         0,
+         197
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "InlandEmpire",
+               "indices": [
+                  103,
+                  116
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/D54hVTZCn4",
+               "expanded_url": "http://bit.ly/CA35TownHall",
+               "display_url": "bit.ly/CA35TownHall",
+               "indices": [
+                  173,
+                  196
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500887033027387395,
+               "id_str": "1500887033027387395",
+               "indices": [
+                  198,
+                  221
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ4zfOWYAMqwIl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ4zfOWYAMqwIl.jpg",
+               "url": "https://t.co/JPz3K05nKA",
+               "display_url": "pic.twitter.com/JPz3K05nKA",
+               "expanded_url": "https://twitter.com/NormaJTorres/status/1500887221016182786/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500887033027387395,
+               "id_str": "1500887033027387395",
+               "indices": [
+                  198,
+                  221
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ4zfOWYAMqwIl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ4zfOWYAMqwIl.jpg",
+               "url": "https://t.co/JPz3K05nKA",
+               "display_url": "pic.twitter.com/JPz3K05nKA",
+               "expanded_url": "https://twitter.com/NormaJTorres/status/1500887221016182786/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/I8FXVjw7sM",
+            "expanded_url": "https://twitter.com/i/web/status/1500887221016182786",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               104,
+               127
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674373283"
+}

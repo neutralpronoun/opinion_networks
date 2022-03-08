@@ -1,0 +1,226 @@
+{
+   "created_at": "Mon Mar 07 19:48:44 +0000 2022",
+   "id": 1500921410784571396,
+   "id_str": "1500921410784571396",
+   "text": "RT @RepElaineLuria: This bipartisan legislation passed today in the @HomelandDems markup will boost funding for security enhancements for n\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 208692908,
+      "id_str": "208692908",
+      "name": "House Homeland Security Committee",
+      "screen_name": "HomelandDems",
+      "location": "Washington, DC",
+      "url": "http://homeland.house.gov",
+      "description": "We oversee @DHSgov, @CBP, @USCG, @TSA, @FEMA, @CISAgov and more. Chairman @BennieGThompson (D-MS).",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 33782,
+      "friends_count": 2126,
+      "listed_count": 699,
+      "favourites_count": 1464,
+      "statuses_count": 7464,
+      "created_at": "Wed Oct 27 19:10:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "002D5D",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092817763364757505/-MJFZdax_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092817763364757505/-MJFZdax_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208692908/1550587385",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Wed Mar 02 21:10:30 +0000 2022",
+      "id": 1499130049500524552,
+      "id_str": "1499130049500524552",
+      "text": "This bipartisan legislation passed today in the @HomelandDems markup will boost funding for security enhancements f\u2026 https://t.co/8Td22G9Pzw",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1080292515939565568,
+         "id_str": "1080292515939565568",
+         "name": "Rep. Elaine Luria",
+         "screen_name": "RepElaineLuria",
+         "location": "Norfolk, VA",
+         "url": "http://luria.house.gov",
+         "description": "Navy Veteran, former small business owner, and mom. Proud to serve the people of Virginia\u2019s 2nd Congressional District!",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35222,
+         "friends_count": 410,
+         "listed_count": 681,
+         "favourites_count": 164,
+         "statuses_count": 3827,
+         "created_at": "Wed Jan 02 02:39:41 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080292515939565568/1644247907",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "This bipartisan legislation passed today in the @HomelandDems markup will boost funding for security enhancements for nonprofit organizations and places of worship across the country. \n\nTogether, we can keep America safe.\nhttps://t.co/l9NlQnFfIO",
+         "display_text_range": [
+            0,
+            245
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/l9NlQnFfIO",
+                  "expanded_url": "https://jewishinsider.com/2022/03/reps-thompson-katko-propose-massive-nonprofit-security-funding-boost/",
+                  "display_url": "jewishinsider.com/2022/03/reps-t\u2026",
+                  "indices": [
+                     222,
+                     245
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "HomelandDems",
+                  "name": "House Homeland Security Committee",
+                  "id": 208692908,
+                  "id_str": "208692908",
+                  "indices": [
+                     48,
+                     61
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 9,
+      "favorite_count": 14,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/8Td22G9Pzw",
+               "expanded_url": "https://twitter.com/i/web/status/1499130049500524552",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "HomelandDems",
+               "name": "House Homeland Security Committee",
+               "id": 208692908,
+               "id_str": "208692908",
+               "indices": [
+                  48,
+                  61
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepElaineLuria",
+            "name": "Rep. Elaine Luria",
+            "id": 1080292515939565568,
+            "id_str": "1080292515939565568",
+            "indices": [
+               3,
+               18
+            ]
+         },
+         {
+            "screen_name": "HomelandDems",
+            "name": "House Homeland Security Committee",
+            "id": 208692908,
+            "id_str": "208692908",
+            "indices": [
+               68,
+               81
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682524759"
+}

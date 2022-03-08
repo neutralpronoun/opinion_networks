@@ -1,0 +1,242 @@
+{
+   "created_at": "Tue Mar 08 01:29:27 +0000 2022",
+   "id": 1501007154756657159,
+   "id_str": "1501007154756657159",
+   "text": "RT @SenateForeign: It\u2019s dangerously na\u00efve for the Biden Admin to turn to autocratic despots in #Venezuela and #Iran as we seek to cut off #\u2026",
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 13218102,
+      "id_str": "13218102",
+      "name": "Senator John Cornyn",
+      "screen_name": "JohnCornyn",
+      "location": "Austin, Texas",
+      "url": null,
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 324855,
+      "friends_count": 12537,
+      "listed_count": 5775,
+      "favourites_count": 7680,
+      "statuses_count": 50238,
+      "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "71829E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "002D62",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "002D62",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1246564218259767296/iwEbEtCj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246564218259767296/iwEbEtCj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1584541403",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:48:44 +0000 2022",
+      "id": 1500936510115393541,
+      "id_str": "1500936510115393541",
+      "text": "It\u2019s dangerously na\u00efve for the Biden Admin to turn to autocratic despots in #Venezuela and #Iran as we seek to cut\u2026 https://t.co/b00oGgVa5e",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1121114158907428866,
+         "id_str": "1121114158907428866",
+         "name": "Senate Foreign Relations Committee Ranking Member",
+         "screen_name": "SenateForeign",
+         "location": "Washington, D.C. ",
+         "url": "http://foreign.senate.gov",
+         "description": "News and updates from the U.S. Senate Foreign Relations Committee Ranking Member, Sen. Jim Risch, R-Idaho.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 58632,
+         "friends_count": 316,
+         "listed_count": 333,
+         "favourites_count": 169,
+         "statuses_count": 1790,
+         "created_at": "Wed Apr 24 18:10:19 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1124367958799679489/KWCUZzZj_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124367958799679489/KWCUZzZj_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121114158907428866/1556911296",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "It\u2019s dangerously na\u00efve for the Biden Admin to turn to autocratic despots in #Venezuela and #Iran as we seek to cut off #Putin\u2019s oil money. Putin\u2019s friends, the Ayatollah &amp; #MaduroRegime, are no better. It\u2019s never been more clear that we need American energy independence.",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Venezuela",
+                  "indices": [
+                     76,
+                     86
+                  ]
+               },
+               {
+                  "text": "Iran",
+                  "indices": [
+                     91,
+                     96
+                  ]
+               },
+               {
+                  "text": "Putin",
+                  "indices": [
+                     119,
+                     125
+                  ]
+               },
+               {
+                  "text": "MaduroRegime",
+                  "indices": [
+                     176,
+                     189
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 9,
+      "retweet_count": 11,
+      "favorite_count": 28,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Venezuela",
+               "indices": [
+                  76,
+                  86
+               ]
+            },
+            {
+               "text": "Iran",
+               "indices": [
+                  91,
+                  96
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/b00oGgVa5e",
+               "expanded_url": "https://twitter.com/i/web/status/1500936510115393541",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Venezuela",
+            "indices": [
+               95,
+               105
+            ]
+         },
+         {
+            "text": "Iran",
+            "indices": [
+               110,
+               115
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenateForeign",
+            "name": "Senate Foreign Relations Committee Ranking Member",
+            "id": 1121114158907428866,
+            "id_str": "1121114158907428866",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702967715"
+}

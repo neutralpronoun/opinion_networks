@@ -1,0 +1,201 @@
+{
+   "created_at": "Mon Mar 07 16:41:04 +0000 2022",
+   "id": 1500874183915589632,
+   "id_str": "1500874183915589632",
+   "text": "@MarshaBlackburn That would be you, coward. https://t.co/4TVIbQzw80",
+   "display_text_range": [
+      17,
+      43
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500857045179850756,
+   "in_reply_to_status_id_str": "1500857045179850756",
+   "in_reply_to_user_id": 278145569,
+   "in_reply_to_user_id_str": "278145569",
+   "in_reply_to_screen_name": "MarshaBlackburn",
+   "user": {
+      "id": 1670794154,
+      "id_str": "1670794154",
+      "name": "Donnie Webb I\u2764\ufe0fBNA \ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "screen_name": "Donnie_Webb",
+      "location": "Nashville, TN",
+      "url": null,
+      "description": "Retired. Replaced. Relocated. Back home in Nashville. Love the town, dumbfounded by pretend cowboys, woo-hoo girls. #RiseUp #BLM #HRC",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1677,
+      "friends_count": 757,
+      "listed_count": 12,
+      "favourites_count": 2582,
+      "statuses_count": 10229,
+      "created_at": "Wed Aug 14 15:33:57 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1499865507104800772/2LkXNkm1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499865507104800772/2LkXNkm1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670794154/1633437195",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": {
+      "id": "00ab941b685334e3",
+      "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json",
+      "place_type": "city",
+      "name": "Nashville",
+      "full_name": "Nashville, TN",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+         "type": "Polygon",
+         "coordinates": [
+            [
+               [
+                  -87.022482,
+                  35.994568
+               ],
+               [
+                  -87.022482,
+                  36.405448
+               ],
+               [
+                  -86.560616,
+                  36.405448
+               ],
+               [
+                  -86.560616,
+                  35.994568
+               ]
+            ]
+         ]
+      },
+      "attributes": {}
+   },
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MarshaBlackburn",
+            "name": "Sen. Marsha Blackburn",
+            "id": 278145569,
+            "id_str": "278145569",
+            "indices": [
+               0,
+               16
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500874176973922307,
+            "id_str": "1500874176973922307",
+            "indices": [
+               44,
+               67
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNQtHKsWYAMT3Xz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQtHKsWYAMT3Xz.jpg",
+            "url": "https://t.co/4TVIbQzw80",
+            "display_url": "pic.twitter.com/4TVIbQzw80",
+            "expanded_url": "https://twitter.com/Donnie_Webb/status/1500874183915589632/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 675,
+                  "h": 680,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 896,
+                  "h": 903,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 896,
+                  "h": 903,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500874176973922307,
+            "id_str": "1500874176973922307",
+            "indices": [
+               44,
+               67
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNQtHKsWYAMT3Xz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQtHKsWYAMT3Xz.jpg",
+            "url": "https://t.co/4TVIbQzw80",
+            "display_url": "pic.twitter.com/4TVIbQzw80",
+            "expanded_url": "https://twitter.com/Donnie_Webb/status/1500874183915589632/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 675,
+                  "h": 680,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 896,
+                  "h": 903,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 896,
+                  "h": 903,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646671264996"
+}

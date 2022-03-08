@@ -1,0 +1,405 @@
+{
+   "created_at": "Mon Mar 07 16:25:49 +0000 2022",
+   "id": 1500870341958287365,
+   "id_str": "1500870341958287365",
+   "text": "I was honored to join my colleagues as we marched across the Edmund Pettus Bridge in Selma to commemorate Congressm\u2026 https://t.co/7rzptEd8GJ",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343646545955213312,
+      "id_str": "1343646545955213312",
+      "name": "Congresswoman Marilyn Strickland",
+      "screen_name": "RepStricklandWA",
+      "location": "South Puget Sound, WA",
+      "url": "https://strickland.house.gov/",
+      "description": "Proudly representing #WA10. Fighting for a nation that is safe, just and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 7119,
+      "friends_count": 748,
+      "listed_count": 187,
+      "favourites_count": 505,
+      "statuses_count": 1345,
+      "created_at": "Mon Dec 28 19:54:50 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346607547139108866/AqSREKB0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346607547139108866/AqSREKB0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343646545955213312/1609711771",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I was honored to join my colleagues as we marched across the Edmund Pettus Bridge in Selma to commemorate Congressman John Lewis and other civil rights icons.\n\nNow more than ever, we must continue to protect #VotingRights, ensuring everyone has equal access to the ballot box. https://t.co/myCLAA0hFk",
+      "display_text_range": [
+         0,
+         276
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "VotingRights",
+               "indices": [
+                  208,
+                  221
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500870119307759617,
+               "id_str": "1500870119307759617",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpa-tWUAEVifR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpa-tWUAEVifR.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 800,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 800,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870128375943172,
+               "id_str": "1500870128375943172",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpbgfX0AQPuJ7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpbgfX0AQPuJ7.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870138458947589,
+               "id_str": "1500870138458947589",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpcGDWQAUvPZe.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpcGDWQAUvPZe.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870148135215109,
+               "id_str": "1500870148135215109",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpcqGWYAU33jO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpcqGWYAU33jO.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500870119307759617,
+               "id_str": "1500870119307759617",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpa-tWUAEVifR.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpa-tWUAEVifR.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 800,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 800,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870128375943172,
+               "id_str": "1500870128375943172",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpbgfX0AQPuJ7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpbgfX0AQPuJ7.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870138458947589,
+               "id_str": "1500870138458947589",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpcGDWQAUvPZe.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpcGDWQAUvPZe.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500870148135215109,
+               "id_str": "1500870148135215109",
+               "indices": [
+                  277,
+                  300
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpcqGWYAU33jO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpcqGWYAU33jO.jpg",
+               "url": "https://t.co/myCLAA0hFk",
+               "display_url": "pic.twitter.com/myCLAA0hFk",
+               "expanded_url": "https://twitter.com/RepStricklandWA/status/1500870341958287365/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/7rzptEd8GJ",
+            "expanded_url": "https://twitter.com/i/web/status/1500870341958287365",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670349002"
+}

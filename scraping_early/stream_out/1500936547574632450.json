@@ -1,0 +1,328 @@
+{
+   "created_at": "Mon Mar 07 20:48:53 +0000 2022",
+   "id": 1500936547574632450,
+   "id_str": "1500936547574632450",
+   "text": "RT @WhiteHouse: To commemorate the 57th Anniversary of Bloody Sunday, @VP and @SecondGentleman walked the Edmund Pettus Bridge in Selma, Al\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 381152398,
+      "id_str": "381152398",
+      "name": "Rep. Terri A. Sewell",
+      "screen_name": "RepTerriSewell",
+      "location": "Washington, DC",
+      "url": "http://sewell.house.gov",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama's 7th District https://www.facebook.com/RepSewell",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 53006,
+      "friends_count": 4390,
+      "listed_count": 1361,
+      "favourites_count": 1714,
+      "statuses_count": 8413,
+      "created_at": "Tue Sep 27 20:47:50 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0F18BD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/381152398/1604786027",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:22:59 +0000 2022",
+      "id": 1500884731893792769,
+      "id_str": "1500884731893792769",
+      "text": "To commemorate the 57th Anniversary of Bloody Sunday, @VP and @SecondGentleman walked the Edmund Pettus Bridge in S\u2026 https://t.co/HKPixEf8ow",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1323730225067339784,
+         "id_str": "1323730225067339784",
+         "name": "The White House",
+         "screen_name": "WhiteHouse",
+         "location": "United States of America",
+         "url": "http://WhiteHouse.gov",
+         "description": "Welcome to the Biden-Harris White House! Tweets may be archived: http://whitehouse.gov/privacy",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 6699334,
+         "friends_count": 5,
+         "listed_count": 10352,
+         "favourites_count": 0,
+         "statuses_count": 3147,
+         "created_at": "Tue Nov 03 20:55:58 +0000 2020",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1351938473142448133/JQT93Cjo_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351938473142448133/JQT93Cjo_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1323730225067339784/1646272461",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "To commemorate the 57th Anniversary of Bloody Sunday, @VP and @SecondGentleman walked the Edmund Pettus Bridge in Selma, Alabama with civil rights and community leaders. The Biden-Harris administration is committed to passing federal legislation to protect the right to vote. https://t.co/47SQuCgJOg",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "VP",
+                  "name": "Vice President Kamala Harris",
+                  "id": 803694179079458816,
+                  "id_str": "803694179079458816",
+                  "indices": [
+                     54,
+                     57
+                  ]
+               },
+               {
+                  "screen_name": "SecondGentleman",
+                  "name": "Douglas Emhoff",
+                  "id": 1349175483989188608,
+                  "id_str": "1349175483989188608",
+                  "indices": [
+                     62,
+                     78
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500884718262398980,
+                  "id_str": "1500884718262398980",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ2swDXsAQjtD_.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ2swDXsAQjtD_.jpg",
+                  "url": "https://t.co/47SQuCgJOg",
+                  "display_url": "pic.twitter.com/47SQuCgJOg",
+                  "expanded_url": "https://twitter.com/WhiteHouse/status/1500884731893792769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500884718262398980,
+                  "id_str": "1500884718262398980",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ2swDXsAQjtD_.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ2swDXsAQjtD_.jpg",
+                  "url": "https://t.co/47SQuCgJOg",
+                  "display_url": "pic.twitter.com/47SQuCgJOg",
+                  "expanded_url": "https://twitter.com/WhiteHouse/status/1500884731893792769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 21,
+      "reply_count": 180,
+      "retweet_count": 516,
+      "favorite_count": 2852,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/HKPixEf8ow",
+               "expanded_url": "https://twitter.com/i/web/status/1500884731893792769",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "VP",
+               "name": "Vice President Kamala Harris",
+               "id": 803694179079458816,
+               "id_str": "803694179079458816",
+               "indices": [
+                  54,
+                  57
+               ]
+            },
+            {
+               "screen_name": "SecondGentleman",
+               "name": "Douglas Emhoff",
+               "id": 1349175483989188608,
+               "id_str": "1349175483989188608",
+               "indices": [
+                  62,
+                  78
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "WhiteHouse",
+            "name": "The White House",
+            "id": 1323730225067339784,
+            "id_str": "1323730225067339784",
+            "indices": [
+               3,
+               14
+            ]
+         },
+         {
+            "screen_name": "VP",
+            "name": "Vice President Kamala Harris",
+            "id": 803694179079458816,
+            "id_str": "803694179079458816",
+            "indices": [
+               70,
+               73
+            ]
+         },
+         {
+            "screen_name": "SecondGentleman",
+            "name": "Douglas Emhoff",
+            "id": 1349175483989188608,
+            "id_str": "1349175483989188608",
+            "indices": [
+               78,
+               94
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686133651"
+}

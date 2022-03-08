@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 17:18:26 +0000 2022",
+   "id": 1500883583854067717,
+   "id_str": "1500883583854067717",
+   "text": "RT @Robert_Aderholt: Putin has shut down any media that highlights the atrocities he has committed against Ukraine. The people of Russia do\u2026",
+   "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2834385621,
+      "id_str": "2834385621",
+      "name": "Helsinki Commission",
+      "screen_name": "HelsinkiComm",
+      "location": "Washington, DC",
+      "url": "http://www.csce.gov",
+      "description": "The U.S. Helsinki Commission monitors human rights and international cooperation in the 57 countries of the OSCE. RT \u2260 endorsement.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10275,
+      "friends_count": 454,
+      "listed_count": 150,
+      "favourites_count": 755,
+      "statuses_count": 10313,
+      "created_at": "Thu Oct 16 17:54:03 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/543100275414679552/FkVBqJDS_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/543100275414679552/FkVBqJDS_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2834385621/1629825696",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sun Mar 06 22:58:38 +0000 2022",
+      "id": 1500606810373431296,
+      "id_str": "1500606810373431296",
+      "text": "Putin has shut down any media that highlights the atrocities he has committed against Ukraine. The people of Russia\u2026 https://t.co/n0ZPZoQa37",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 76452765,
+         "id_str": "76452765",
+         "name": "Robert Aderholt",
+         "screen_name": "Robert_Aderholt",
+         "location": "Haleyville, AL",
+         "url": null,
+         "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 31430,
+         "friends_count": 496,
+         "listed_count": 1233,
+         "favourites_count": 504,
+         "statuses_count": 2694,
+         "created_at": "Tue Sep 22 21:16:37 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1C24B0",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "A60C25",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1245695014694420480/gUQhq7Zl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245695014694420480/gUQhq7Zl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/76452765/1643668070",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Putin has shut down any media that highlights the atrocities he has committed against Ukraine. The people of Russia do not have the freedom of speech or protest, and now they will be hidden from seeing the true nature of what their leader is doing to innocent, sovereign people. https://t.co/pohKjPCr8M",
+         "display_text_range": [
+            0,
+            278
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500606804497158145,
+                  "id_str": "1500606804497158145",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM58CmWUAElPdt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM58CmWUAElPdt.jpg",
+                  "url": "https://t.co/pohKjPCr8M",
+                  "display_url": "pic.twitter.com/pohKjPCr8M",
+                  "expanded_url": "https://twitter.com/Robert_Aderholt/status/1500606810373431296/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500606804497158145,
+                  "id_str": "1500606804497158145",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM58CmWUAElPdt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM58CmWUAElPdt.jpg",
+                  "url": "https://t.co/pohKjPCr8M",
+                  "display_url": "pic.twitter.com/pohKjPCr8M",
+                  "expanded_url": "https://twitter.com/Robert_Aderholt/status/1500606810373431296/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1364,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 78,
+      "retweet_count": 5,
+      "favorite_count": 12,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/n0ZPZoQa37",
+               "expanded_url": "https://twitter.com/i/web/status/1500606810373431296",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Robert_Aderholt",
+            "name": "Robert Aderholt",
+            "id": 76452765,
+            "id_str": "76452765",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646673506116"
+}

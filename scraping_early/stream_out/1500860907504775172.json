@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 15:48:19 +0000 2022",
+   "id": 1500860907504775172,
+   "id_str": "1500860907504775172",
+   "text": "Opening a small business is never easy, but opening one amidst a global pandemic &amp; overreaching govt. mandates is e\u2026 https://t.co/NCVQz5uSSq",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1262531473057423361,
+      "id_str": "1262531473057423361",
+      "name": "Rep. Mike Garcia",
+      "screen_name": "RepMikeGarcia",
+      "location": "Santa Clarita, CA",
+      "url": "https://mikegarcia.house.gov/",
+      "description": "Representing California's 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP & @Housesciencegop.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 8373,
+      "friends_count": 473,
+      "listed_count": 214,
+      "favourites_count": 219,
+      "statuses_count": 1569,
+      "created_at": "Mon May 18 23:54:00 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1451271455849820166/Pa-nWPGm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451271455849820166/Pa-nWPGm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262531473057423361/1630610700",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Opening a small business is never easy, but opening one amidst a global pandemic &amp; overreaching govt. mandates is even harder. Congratulations to Daniel and Lorenzo who did just that! It was an honor to attend the grand opening of their new business in Granada Hills, Cerda Vega! https://t.co/2BAtUyu2np",
+      "display_text_range": [
+         0,
+         283
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500860849057112069,
+               "id_str": "1500860849057112069",
+               "indices": [
+                  284,
+                  307
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQg_YVXIAUp-QV.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQg_YVXIAUp-QV.jpg",
+               "url": "https://t.co/2BAtUyu2np",
+               "display_url": "pic.twitter.com/2BAtUyu2np",
+               "expanded_url": "https://twitter.com/RepMikeGarcia/status/1500860907504775172/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1926,
+                     "h": 1444,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500860849057112069,
+               "id_str": "1500860849057112069",
+               "indices": [
+                  284,
+                  307
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQg_YVXIAUp-QV.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQg_YVXIAUp-QV.jpg",
+               "url": "https://t.co/2BAtUyu2np",
+               "display_url": "pic.twitter.com/2BAtUyu2np",
+               "expanded_url": "https://twitter.com/RepMikeGarcia/status/1500860907504775172/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1926,
+                     "h": 1444,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/NCVQz5uSSq",
+            "expanded_url": "https://twitter.com/i/web/status/1500860907504775172",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668099653"
+}

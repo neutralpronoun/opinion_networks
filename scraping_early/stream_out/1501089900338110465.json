@@ -1,0 +1,124 @@
+{
+   "created_at": "Tue Mar 08 06:58:15 +0000 2022",
+   "id": 1501089900338110465,
+   "id_str": "1501089900338110465",
+   "text": "@Jim_Jordan Remember when you supported the insurgent attack on our Capitol? Or how about when your wrestling stude\u2026 https://t.co/EwQ5PoFaT3",
+   "display_text_range": [
+      12,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1501002220606824454,
+   "in_reply_to_status_id_str": "1501002220606824454",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 1040954713,
+      "id_str": "1040954713",
+      "name": "Gnudz",
+      "screen_name": "TheGnudz",
+      "location": "A City Near You",
+      "url": "http://offspring.com",
+      "description": "Retired Janitor, efficient guitarist, pun master, notorious drunk, bleeding heart, no DMs. Get Vaccinated!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 14185,
+      "friends_count": 8503,
+      "listed_count": 85,
+      "favourites_count": 94421,
+      "statuses_count": 20729,
+      "created_at": "Fri Dec 28 00:28:23 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1470518404175962118/fMj83xtZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470518404175962118/fMj83xtZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040954713/1639433884",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@Jim_Jordan Remember when you supported the insurgent attack on our Capitol? Or how about when your wrestling students were sexually assaulted by a colleague of yours and you covered for the colleague rather than protecting your students?",
+      "display_text_range": [
+         12,
+         238
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "Jim_Jordan",
+               "name": "Rep. Jim Jordan",
+               "id": 18166778,
+               "id_str": "18166778",
+               "indices": [
+                  0,
+                  11
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/EwQ5PoFaT3",
+            "expanded_url": "https://twitter.com/i/web/status/1501089900338110465",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646722695799"
+}

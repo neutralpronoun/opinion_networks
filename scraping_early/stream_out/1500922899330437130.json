@@ -1,0 +1,413 @@
+{
+   "created_at": "Mon Mar 07 19:54:39 +0000 2022",
+   "id": 1500922899330437130,
+   "id_str": "1500922899330437130",
+   "text": "RT @RepJudyChu: The Texas abortion ban #SB8 opened the gates for states like Idaho &amp; Florida to introduce their own abortion bans. These ac\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 809505942186455041,
+      "id_str": "809505942186455041",
+      "name": "Pro-Choice Caucus",
+      "screen_name": "ProChoiceCaucus",
+      "location": null,
+      "url": "https://houseprochoicecaucus-degette.house.gov/",
+      "description": "The members of this caucus are fighting for constitutionally-protected rights for Americans that are under siege. Join us!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 4625,
+      "friends_count": 227,
+      "listed_count": 67,
+      "favourites_count": 62,
+      "statuses_count": 474,
+      "created_at": "Thu Dec 15 21:10:31 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811991394055294976/WE4-RUub_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811991394055294976/WE4-RUub_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/809505942186455041/1483636674",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 22:05:48 +0000 2022",
+      "id": 1499868740707565577,
+      "id_str": "1499868740707565577",
+      "text": "The Texas abortion ban #SB8 opened the gates for states like Idaho &amp; Florida to introduce their own abortion bans.\u2026 https://t.co/PZMpmxqiYY",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 193732179,
+         "id_str": "193732179",
+         "name": "Judy Chu",
+         "screen_name": "RepJudyChu",
+         "location": "Pasadena, CA",
+         "url": "http://chu.house.gov",
+         "description": "Proudly representing California's 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 83177,
+         "friends_count": 47241,
+         "listed_count": 1715,
+         "favourites_count": 806,
+         "statuses_count": 7563,
+         "created_at": "Wed Sep 22 15:18:17 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "DBF7FF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/193732179/1363272599",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499585002115321867,
+      "quoted_status_id_str": "1499585002115321867",
+      "quoted_status": {
+         "created_at": "Fri Mar 04 03:18:20 +0000 2022",
+         "id": 1499585002115321867,
+         "id_str": "1499585002115321867",
+         "text": "Florida legislature approves a Republican bill to ban abortion after 15 weeks https://t.co/e9JUdB2g0l",
+         "source": "<a href=\"http://www.washingtonpost.com\" rel=\"nofollow\">MainRevere</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 2467791,
+            "id_str": "2467791",
+            "name": "The Washington Post",
+            "screen_name": "washingtonpost",
+            "location": "Washington, DC",
+            "url": "http://washingtonpost.com",
+            "description": "Democracy Dies in Darkness",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": true,
+            "followers_count": 18899562,
+            "friends_count": 1714,
+            "listed_count": 105816,
+            "favourites_count": 4256,
+            "statuses_count": 421239,
+            "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "333333",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0057EC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DBDBDB",
+            "profile_text_color": "323232",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 40,
+         "reply_count": 93,
+         "retweet_count": 83,
+         "favorite_count": 141,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/e9JUdB2g0l",
+                  "expanded_url": "https://www.washingtonpost.com/politics/2022/03/03/abortion-florida-supreme-court/",
+                  "display_url": "washingtonpost.com/politics/2022/\u2026",
+                  "indices": [
+                     78,
+                     101
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/DM5kArlwWG",
+         "expanded": "https://twitter.com/washingtonpost/status/1499585002115321867",
+         "display": "twitter.com/washingtonpost\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "The Texas abortion ban #SB8 opened the gates for states like Idaho &amp; Florida to introduce their own abortion bans. These actions pose a threat to the health of millions, especially the most vulnerable. Only #WHPA will guarantee equal access to abortion everywhere, for everyone! https://t.co/DM5kArlwWG",
+         "display_text_range": [
+            0,
+            282
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "SB8",
+                  "indices": [
+                     23,
+                     27
+                  ]
+               },
+               {
+                  "text": "WHPA",
+                  "indices": [
+                     211,
+                     216
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/DM5kArlwWG",
+                  "expanded_url": "https://twitter.com/washingtonpost/status/1499585002115321867",
+                  "display_url": "twitter.com/washingtonpost\u2026",
+                  "indices": [
+                     283,
+                     306
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 31,
+      "retweet_count": 7,
+      "favorite_count": 15,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SB8",
+               "indices": [
+                  23,
+                  27
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/PZMpmxqiYY",
+               "expanded_url": "https://twitter.com/i/web/status/1499868740707565577",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  120,
+                  143
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1499585002115321867,
+   "quoted_status_id_str": "1499585002115321867",
+   "quoted_status": {
+      "created_at": "Fri Mar 04 03:18:20 +0000 2022",
+      "id": 1499585002115321867,
+      "id_str": "1499585002115321867",
+      "text": "Florida legislature approves a Republican bill to ban abortion after 15 weeks https://t.co/e9JUdB2g0l",
+      "source": "<a href=\"http://www.washingtonpost.com\" rel=\"nofollow\">MainRevere</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2467791,
+         "id_str": "2467791",
+         "name": "The Washington Post",
+         "screen_name": "washingtonpost",
+         "location": "Washington, DC",
+         "url": "http://washingtonpost.com",
+         "description": "Democracy Dies in Darkness",
+         "translator_type": "regular",
+         "protected": false,
+         "verified": true,
+         "followers_count": 18899562,
+         "friends_count": 1714,
+         "listed_count": 105816,
+         "favourites_count": 4256,
+         "statuses_count": 421239,
+         "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "333333",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0057EC",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DBDBDB",
+         "profile_text_color": "323232",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 40,
+      "reply_count": 93,
+      "retweet_count": 83,
+      "favorite_count": 141,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/e9JUdB2g0l",
+               "expanded_url": "https://www.washingtonpost.com/politics/2022/03/03/abortion-florida-supreme-court/",
+               "display_url": "washingtonpost.com/politics/2022/\u2026",
+               "indices": [
+                  78,
+                  101
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/DM5kArlwWG",
+      "expanded": "https://twitter.com/washingtonpost/status/1499585002115321867",
+      "display": "twitter.com/washingtonpost\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SB8",
+            "indices": [
+               39,
+               43
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepJudyChu",
+            "name": "Judy Chu",
+            "id": 193732179,
+            "id_str": "193732179",
+            "indices": [
+               3,
+               14
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682879656"
+}

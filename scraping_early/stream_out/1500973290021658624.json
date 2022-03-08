@@ -1,0 +1,100 @@
+{
+   "created_at": "Mon Mar 07 23:14:53 +0000 2022",
+   "id": 1500973290021658624,
+   "id_str": "1500973290021658624",
+   "text": "@jerseytomato54 @RepFredKeller a discharge petition is an official procedural tool that can force a bill to come to the floor for a vote.",
+   "display_text_range": [
+      31,
+      137
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500972889067118593,
+   "in_reply_to_status_id_str": "1500972889067118593",
+   "in_reply_to_user_id": 36410455,
+   "in_reply_to_user_id_str": "36410455",
+   "in_reply_to_screen_name": "jerseytomato54",
+   "user": {
+      "id": 240393970,
+      "id_str": "240393970",
+      "name": "Rep. Jeff Duncan",
+      "screen_name": "RepJeffDuncan",
+      "location": "Laurens, SC",
+      "url": "https://jeffduncan.house.gov/",
+      "description": "Christian, husband, father, & small business owner. Lover of football & the outdoors. Employee for the people of #SC03 \ud83d\udcf8 Instagram: https://t.co/RHwGavdhU4",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 63723,
+      "friends_count": 13932,
+      "listed_count": 1392,
+      "favourites_count": 2075,
+      "statuses_count": 11988,
+      "created_at": "Wed Jan 19 20:45:16 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848513070867591168/6X517ab3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848513070867591168/6X517ab3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/240393970/1591276283",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "jerseytomato54",
+            "name": "Midas Mighty Thrice Vaxed JerseySal",
+            "id": 36410455,
+            "id_str": "36410455",
+            "indices": [
+               0,
+               15
+            ]
+         },
+         {
+            "screen_name": "RepFredKeller",
+            "name": "Congressman Fred Keller",
+            "id": 1136060761422405633,
+            "id_str": "1136060761422405633",
+            "indices": [
+               16,
+               30
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646694893733"
+}

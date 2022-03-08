@@ -1,0 +1,416 @@
+{
+   "created_at": "Mon Mar 07 18:21:45 +0000 2022",
+   "id": 1500899519495647233,
+   "id_str": "1500899519495647233",
+   "text": "RT @RepRubenGallego: It was an honor to join my colleagues in Alabama this weekend to participate in a civil rights pilgrimage celebrating\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 381152398,
+      "id_str": "381152398",
+      "name": "Rep. Terri A. Sewell",
+      "screen_name": "RepTerriSewell",
+      "location": "Washington, DC",
+      "url": "http://sewell.house.gov",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama's 7th District https://www.facebook.com/RepSewell",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 53003,
+      "friends_count": 4390,
+      "listed_count": 1360,
+      "favourites_count": 1714,
+      "statuses_count": 8411,
+      "created_at": "Tue Sep 27 20:47:50 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0F18BD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/381152398/1604786027",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:21:03 +0000 2022",
+      "id": 1500899342848245765,
+      "id_str": "1500899342848245765",
+      "text": "It was an honor to join my colleagues in Alabama this weekend to participate in a civil rights pilgrimage celebrati\u2026 https://t.co/EFn54V4O51",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2966570782,
+         "id_str": "2966570782",
+         "name": "Ruben Gallego",
+         "screen_name": "RepRubenGallego",
+         "location": "Phoenix, AZ",
+         "url": "http://rubengallego.house.gov",
+         "description": "Proud representative of Arizona's 7th Congressional District. #AZ07",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 107166,
+         "friends_count": 3488,
+         "listed_count": 1223,
+         "favourites_count": 1385,
+         "statuses_count": 6858,
+         "created_at": "Wed Jan 07 19:31:08 +0000 2015",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1268183675906199552/d2RX9FhG_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268183675906199552/d2RX9FhG_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966570782/1627997898",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "It was an honor to join my colleagues in Alabama this weekend to participate in a civil rights pilgrimage celebrating our history and our shared values.\n\nThe story of the civil rights movement continues today in our efforts to deliver voting rights &amp; equal justice for all. https://t.co/eMkLpExae9",
+         "display_text_range": [
+            0,
+            277
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500898331001819147,
+                  "id_str": "1500898331001819147",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego stands on the Edmund Pettus Bridge with many other members of Congress, including Rep. Nikema Williams, Rep. Terri Sewell, and Majority leader Steny Hoyer",
+                  "media_url": "http://pbs.twimg.com/media/FNRDFHdXEAsHSnA.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDFHdXEAsHSnA.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500898977910296578,
+                  "id_str": "1500898977910296578",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego stands looking at a civil rights memorial. ",
+                  "media_url": "http://pbs.twimg.com/media/FNRDqxYXEAI21-O.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDqxYXEAI21-O.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500899129542811649,
+                  "id_str": "1500899129542811649",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego, his wife, and Rep. Terri Sewell take a selfie on the Edmund Pettus Bridge. ",
+                  "media_url": "http://pbs.twimg.com/media/FNRDzmQXoAEdRGy.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDzmQXoAEdRGy.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500898331001819147,
+                  "id_str": "1500898331001819147",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego stands on the Edmund Pettus Bridge with many other members of Congress, including Rep. Nikema Williams, Rep. Terri Sewell, and Majority leader Steny Hoyer",
+                  "media_url": "http://pbs.twimg.com/media/FNRDFHdXEAsHSnA.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDFHdXEAsHSnA.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500898977910296578,
+                  "id_str": "1500898977910296578",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego stands looking at a civil rights memorial. ",
+                  "media_url": "http://pbs.twimg.com/media/FNRDqxYXEAI21-O.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDqxYXEAI21-O.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500899129542811649,
+                  "id_str": "1500899129542811649",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "description": "Rep. Gallego, his wife, and Rep. Terri Sewell take a selfie on the Edmund Pettus Bridge. ",
+                  "media_url": "http://pbs.twimg.com/media/FNRDzmQXoAEdRGy.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRDzmQXoAEdRGy.jpg",
+                  "url": "https://t.co/eMkLpExae9",
+                  "display_url": "pic.twitter.com/eMkLpExae9",
+                  "expanded_url": "https://twitter.com/RepRubenGallego/status/1500899342848245765/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/EFn54V4O51",
+               "expanded_url": "https://twitter.com/i/web/status/1500899342848245765",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepRubenGallego",
+            "name": "Ruben Gallego",
+            "id": 2966570782,
+            "id_str": "2966570782",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677305469"
+}

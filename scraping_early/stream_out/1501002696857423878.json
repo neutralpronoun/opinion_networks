@@ -1,0 +1,281 @@
+{
+   "created_at": "Tue Mar 08 01:11:44 +0000 2022",
+   "id": 1501002696857423878,
+   "id_str": "1501002696857423878",
+   "text": "RT @lisamurkowski: No more Russian energy should come into the United States for the duration of their bloody, horrifying, and unprovoked w\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 126401831,
+      "id_str": "126401831",
+      "name": "Erik Wasson",
+      "screen_name": "elwasson",
+      "location": "Washington",
+      "url": "http://www.bloomberg.com/politics/congress",
+      "description": "I report on Congress for Bloomberg News @business Opinions are my own, RTs not endorsement. Send tips to ewasson at http://bloomberg.net",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29143,
+      "friends_count": 3482,
+      "listed_count": 1009,
+      "favourites_count": 4176,
+      "statuses_count": 51445,
+      "created_at": "Thu Mar 25 19:17:44 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "4A2B15",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "6C7CE6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "8DC9E3",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1314649667347644420/9gKRUTot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314649667347644420/9gKRUTot_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/126401831/1635249177",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 01:10:00 +0000 2022",
+      "id": 1501002257923555328,
+      "id_str": "1501002257923555328",
+      "text": "No more Russian energy should come into the United States for the duration of their bloody, horrifying, and unprovo\u2026 https://t.co/PtZ0XA8V3H",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 18061669,
+         "id_str": "18061669",
+         "name": "Sen. Lisa Murkowski",
+         "screen_name": "lisamurkowski",
+         "location": "Alaska & Washington, D.C.",
+         "url": "http://murkowski.senate.gov",
+         "description": "Official Twitter account for U.S. Senator Lisa Murkowski. Follow me for news and updates on what's happening in the Senate and across Alaska.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 328466,
+         "friends_count": 589,
+         "listed_count": 3954,
+         "favourites_count": 460,
+         "statuses_count": 11935,
+         "created_at": "Thu Dec 11 21:55:19 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "3F4C6B",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "2FC2EF",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "252429",
+         "profile_text_color": "666666",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1061074014783696897/9-RMJmIo_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061074014783696897/9-RMJmIo_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/18061669/1421099983",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "No more Russian energy should come into the United States for the duration of their bloody, horrifying, and unprovoked war against Ukraine.\n\nWe\u2019re in a good position to ban Russia\u2019s energy imports.\n\n#BanRussianImports #StandWithUkraine https://t.co/xrWMFhWJR4",
+         "display_text_range": [
+            0,
+            235
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "BanRussianImports",
+                  "indices": [
+                     199,
+                     217
+                  ]
+               },
+               {
+                  "text": "StandWithUkraine",
+                  "indices": [
+                     218,
+                     235
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500972190841425930,
+                  "id_str": "1500972190841425930",
+                  "indices": [
+                     236,
+                     259
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSGQUzX0AoHZCR.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSGQUzX0AoHZCR.jpg",
+                  "url": "https://t.co/xrWMFhWJR4",
+                  "display_url": "pic.twitter.com/xrWMFhWJR4",
+                  "expanded_url": "https://twitter.com/lisamurkowski/status/1501002257923555328/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1350,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500972190841425930,
+                  "id_str": "1500972190841425930",
+                  "indices": [
+                     236,
+                     259
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSGQUzX0AoHZCR.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSGQUzX0AoHZCR.jpg",
+                  "url": "https://t.co/xrWMFhWJR4",
+                  "display_url": "pic.twitter.com/xrWMFhWJR4",
+                  "expanded_url": "https://twitter.com/lisamurkowski/status/1501002257923555328/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1350,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/PtZ0XA8V3H",
+               "expanded_url": "https://twitter.com/i/web/status/1501002257923555328",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "lisamurkowski",
+            "name": "Sen. Lisa Murkowski",
+            "id": 18061669,
+            "id_str": "18061669",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701904869"
+}

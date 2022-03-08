@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 21:28:17 +0000 2022",
+   "id": 1500946461915291649,
+   "id_str": "1500946461915291649",
+   "text": "We are hosting my fourth annual Women of the Year Award Ceremony to honor exceptional women in the 46th Congression\u2026 https://t.co/zhN9xW5o29",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 815985039485837312,
+      "id_str": "815985039485837312",
+      "name": "Rep. Lou Correa",
+      "screen_name": "RepLouCorrea",
+      "location": "Santa Ana, CA",
+      "url": "http://correa.house.gov",
+      "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDems @HouseAgDems",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27026,
+      "friends_count": 34,
+      "listed_count": 622,
+      "favourites_count": 174,
+      "statuses_count": 1295,
+      "created_at": "Mon Jan 02 18:16:08 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/815985039485837312/1517411599",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "We are hosting my fourth annual Women of the Year Award Ceremony to honor exceptional women in the 46th Congressional District. \nIn celebration of women\u2019s history month, join me in recognizing the trailblazing women who contribute and positively influence our community. https://t.co/G8AcZNWxZA",
+      "display_text_range": [
+         0,
+         270
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500946459381964804,
+               "id_str": "1500946459381964804",
+               "indices": [
+                  271,
+                  294
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRu2jpXoAQ1p6Y.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRu2jpXoAQ1p6Y.jpg",
+               "url": "https://t.co/G8AcZNWxZA",
+               "display_url": "pic.twitter.com/G8AcZNWxZA",
+               "expanded_url": "https://twitter.com/RepLouCorrea/status/1500946461915291649/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500946459381964804,
+               "id_str": "1500946459381964804",
+               "indices": [
+                  271,
+                  294
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRu2jpXoAQ1p6Y.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRu2jpXoAQ1p6Y.jpg",
+               "url": "https://t.co/G8AcZNWxZA",
+               "display_url": "pic.twitter.com/G8AcZNWxZA",
+               "expanded_url": "https://twitter.com/RepLouCorrea/status/1500946461915291649/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/zhN9xW5o29",
+            "expanded_url": "https://twitter.com/i/web/status/1500946461915291649",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688497414"
+}

@@ -1,0 +1,322 @@
+{
+   "created_at": "Mon Mar 07 21:20:52 +0000 2022",
+   "id": 1500944594447609857,
+   "id_str": "1500944594447609857",
+   "text": "RT @LiberteAbortion: This week, we #CelebrateAbortionProviders - tomorrow, Congressmember @RepAndyLevin is introducing a historic resolutio\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080277407867772930,
+      "id_str": "1080277407867772930",
+      "name": "Rep. Andy Levin",
+      "screen_name": "RepAndyLevin",
+      "location": "Bloomfield Township, MI",
+      "url": "http://andylevin.house.gov",
+      "description": "Honored to represent #MI09 in Congress. Member of @EdLaborCmte and @HouseForeign. Democrat raising the standard of living for working people.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29927,
+      "friends_count": 2810,
+      "listed_count": 577,
+      "favourites_count": 954,
+      "statuses_count": 4307,
+      "created_at": "Wed Jan 02 01:39:39 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080277407867772930/1645989909",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:15:23 +0000 2022",
+      "id": 1500913016132546566,
+      "id_str": "1500913016132546566",
+      "text": "This week, we #CelebrateAbortionProviders - tomorrow, Congressmember @RepAndyLevin is introducing a historic resolu\u2026 https://t.co/ullm1fiKkL",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1460676326197764099,
+         "id_str": "1460676326197764099",
+         "name": "Liberate Abortion Coalition",
+         "screen_name": "LiberteAbortion",
+         "location": null,
+         "url": "https://www.liberateabortion.org/",
+         "description": "Liberate Abortion is a multitactical coalition to expand power, grow compassion, provide education, and build a groundswell of support for abortion access.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 1095,
+         "friends_count": 157,
+         "listed_count": 11,
+         "favourites_count": 302,
+         "statuses_count": 359,
+         "created_at": "Tue Nov 16 18:39:24 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1464322469767127052/5Vcqqjbb_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464322469767127052/5Vcqqjbb_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460676326197764099/1637956673",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "This week, we #CelebrateAbortionProviders - tomorrow, Congressmember @RepAndyLevin is introducing a historic resolution to honor Abortion Provider Appreciation Day. Dr. David Gunn's son, David Gunn Jr. will be speaking. Join us! https://t.co/CFiJ7mL7mH",
+         "display_text_range": [
+            0,
+            228
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "CelebrateAbortionProviders",
+                  "indices": [
+                     14,
+                     41
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepAndyLevin",
+                  "name": "Rep. Andy Levin",
+                  "id": 1080277407867772930,
+                  "id_str": "1080277407867772930",
+                  "indices": [
+                     69,
+                     82
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500912731427332109,
+                  "id_str": "1500912731427332109",
+                  "indices": [
+                     229,
+                     252
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRQLVOWYA03uaQ.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRQLVOWYA03uaQ.png",
+                  "url": "https://t.co/CFiJ7mL7mH",
+                  "display_url": "pic.twitter.com/CFiJ7mL7mH",
+                  "expanded_url": "https://twitter.com/LiberteAbortion/status/1500913016132546566/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500912731427332109,
+                  "id_str": "1500912731427332109",
+                  "indices": [
+                     229,
+                     252
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRQLVOWYA03uaQ.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRQLVOWYA03uaQ.png",
+                  "url": "https://t.co/CFiJ7mL7mH",
+                  "display_url": "pic.twitter.com/CFiJ7mL7mH",
+                  "expanded_url": "https://twitter.com/LiberteAbortion/status/1500913016132546566/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 512,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 20,
+      "favorite_count": 41,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "CelebrateAbortionProviders",
+               "indices": [
+                  14,
+                  41
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/ullm1fiKkL",
+               "expanded_url": "https://twitter.com/i/web/status/1500913016132546566",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepAndyLevin",
+               "name": "Rep. Andy Levin",
+               "id": 1080277407867772930,
+               "id_str": "1080277407867772930",
+               "indices": [
+                  69,
+                  82
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "CelebrateAbortionProviders",
+            "indices": [
+               35,
+               62
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "LiberteAbortion",
+            "name": "Liberate Abortion Coalition",
+            "id": 1460676326197764099,
+            "id_str": "1460676326197764099",
+            "indices": [
+               3,
+               19
+            ]
+         },
+         {
+            "screen_name": "RepAndyLevin",
+            "name": "Rep. Andy Levin",
+            "id": 1080277407867772930,
+            "id_str": "1080277407867772930",
+            "indices": [
+               90,
+               103
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688052175"
+}

@@ -1,0 +1,169 @@
+{
+   "created_at": "Tue Mar 08 03:31:45 +0000 2022",
+   "id": 1501037929770147841,
+   "id_str": "1501037929770147841",
+   "text": "@RepSwalwell Hey DUMBASS.... https://t.co/w2YQiUUiXd",
+   "display_text_range": [
+      13,
+      28
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1501008349554524167,
+   "in_reply_to_status_id_str": "1501008349554524167",
+   "in_reply_to_user_id": 942156122,
+   "in_reply_to_user_id_str": "942156122",
+   "in_reply_to_screen_name": "RepSwalwell",
+   "user": {
+      "id": 60113766,
+      "id_str": "60113766",
+      "name": "Kimberly Morin",
+      "screen_name": "Conservativeind",
+      "location": "New Hampshire",
+      "url": "http://granitegrok.com",
+      "description": "Writer: https://t.co/DYrYY6PUoc and weekly guest on nationally syndicated https://t.co/sdWmJPs9nb w/ Joe Messina. Frequent Flyer on https://t.co/FjxqlNaj6a #2A #NHPolitics",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26988,
+      "friends_count": 6854,
+      "listed_count": 869,
+      "favourites_count": 12882,
+      "statuses_count": 237922,
+      "created_at": "Sat Jul 25 18:14:35 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "11228F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFCCD5",
+      "profile_text_color": "100552",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086848155189215237/pRQGF1gC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086848155189215237/pRQGF1gC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/60113766/1632967023",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1501037915194941441,
+            "id_str": "1501037915194941441",
+            "indices": [
+               29,
+               52
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNTCB_GWYAEwrVJ.png",
+            "media_url_https": "https://pbs.twimg.com/media/FNTCB_GWYAEwrVJ.png",
+            "url": "https://t.co/w2YQiUUiXd",
+            "display_url": "pic.twitter.com/w2YQiUUiXd",
+            "expanded_url": "https://twitter.com/Conservativeind/status/1501037929770147841/photo/1",
+            "type": "photo",
+            "sizes": {
+               "medium": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1501037915194941441,
+            "id_str": "1501037915194941441",
+            "indices": [
+               29,
+               52
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNTCB_GWYAEwrVJ.png",
+            "media_url_https": "https://pbs.twimg.com/media/FNTCB_GWYAEwrVJ.png",
+            "url": "https://t.co/w2YQiUUiXd",
+            "display_url": "pic.twitter.com/w2YQiUUiXd",
+            "expanded_url": "https://twitter.com/Conservativeind/status/1501037929770147841/photo/1",
+            "type": "photo",
+            "sizes": {
+               "medium": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 678,
+                  "h": 649,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646710305050"
+}

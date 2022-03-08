@@ -1,0 +1,120 @@
+{
+   "created_at": "Mon Mar 07 22:07:40 +0000 2022",
+   "id": 1500956372233605124,
+   "id_str": "1500956372233605124",
+   "text": "Especially glad to bring the CNO by @SUBASE_NLON for a tour of the USS South Dakota &amp; to grab lunch with its sailor\u2026 https://t.co/0nsM2Rgpts",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500955724310102026,
+   "in_reply_to_status_id_str": "1500955724310102026",
+   "in_reply_to_user_id": 85396297,
+   "in_reply_to_user_id_str": "85396297",
+   "in_reply_to_screen_name": "RepJoeCourtney",
+   "user": {
+      "id": 85396297,
+      "id_str": "85396297",
+      "name": "Rep. Joe Courtney",
+      "screen_name": "RepJoeCourtney",
+      "location": "Vernon, CT",
+      "url": "http://courtney.house.gov",
+      "description": "U.S. Congressman proudly fighting for the residents of Connecticut\u2019s 2nd Congressional District. https://www.facebook.com/joecourtney",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27134,
+      "friends_count": 2243,
+      "listed_count": 1183,
+      "favourites_count": 621,
+      "statuses_count": 8412,
+      "created_at": "Mon Oct 26 19:45:09 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85396297/1506172730",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Especially glad to bring the CNO by @SUBASE_NLON for a tour of the USS South Dakota &amp; to grab lunch with its sailors and Captain, CDR Adam Zaker. CNO Gilday held a reenlistment ceremony, and pinned the submarine warfare \u201cDolphins\u201d on a newly qualified sailor\u2014an honor to witness!",
+      "display_text_range": [
+         0,
+         283
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SUBASE_NLON",
+               "name": "Subase New London",
+               "id": 4530852241,
+               "id_str": "4530852241",
+               "indices": [
+                  36,
+                  48
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0nsM2Rgpts",
+            "expanded_url": "https://twitter.com/i/web/status/1500956372233605124",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SUBASE_NLON",
+            "name": "Subase New London",
+            "id": 4530852241,
+            "id_str": "4530852241",
+            "indices": [
+               36,
+               48
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690860218"
+}

@@ -1,0 +1,228 @@
+{
+   "created_at": "Mon Mar 07 23:05:04 +0000 2022",
+   "id": 1500970817089376258,
+   "id_str": "1500970817089376258",
+   "text": "RT @RepGaramendi: 1/2 #BREAKING: Defense Secretary Austin just announced that the #RedHill fuel storage facility in Hawaii will be shut dow\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 74294786,
+      "id_str": "74294786",
+      "name": "House Armed Services Democrats",
+      "screen_name": "HASCDemocrats",
+      "location": "Washington, DC",
+      "url": "https://armedservices.house.gov/",
+      "description": "Oversight and funding of the @DeptofDefense, the U.S. Armed Forces, and portions of the Department of @ENERGY. Chairman: @RepAdamSmith.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 21764,
+      "friends_count": 798,
+      "listed_count": 894,
+      "favourites_count": 1444,
+      "statuses_count": 4137,
+      "created_at": "Mon Sep 14 23:09:32 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "3B4C57",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0018B3",
+      "profile_sidebar_border_color": "BF2828",
+      "profile_sidebar_fill_color": "CCDFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1498616122647756803/N8KY1aqJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498616122647756803/N8KY1aqJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/74294786/1631243299",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:20:58 +0000 2022",
+      "id": 1500944621903527936,
+      "id_str": "1500944621903527936",
+      "text": "1/2 #BREAKING: Defense Secretary Austin just announced that the #RedHill fuel storage facility in Hawaii will be sh\u2026 https://t.co/UQfePGBwuS",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 88806753,
+         "id_str": "88806753",
+         "name": "John Garamendi",
+         "screen_name": "RepGaramendi",
+         "location": "Solano County, CA",
+         "url": "http://garamendi.house.gov",
+         "description": "Congressman for California's 3rd Congressional District, former Lieutenant Governor, Insurance Commissioner, Deputy Interior Secretary, state legislator",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 32951,
+         "friends_count": 8781,
+         "listed_count": 1382,
+         "favourites_count": 2215,
+         "statuses_count": 15716,
+         "created_at": "Tue Nov 10 00:31:12 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "9AE4E8",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "BDDCAD",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/867754658919579648/_yzg8aMR_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/867754658919579648/_yzg8aMR_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/88806753/1517517127",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "1/2 #BREAKING: Defense Secretary Austin just announced that the #RedHill fuel storage facility in Hawaii will be shut down. \n\nI led a hearing into this issue after 14,000 gallons of jet fuel from Red Hill were released into local drinking water supplies.",
+         "display_text_range": [
+            0,
+            254
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "BREAKING",
+                  "indices": [
+                     4,
+                     13
+                  ]
+               },
+               {
+                  "text": "RedHill",
+                  "indices": [
+                     64,
+                     72
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BREAKING",
+               "indices": [
+                  4,
+                  13
+               ]
+            },
+            {
+               "text": "RedHill",
+               "indices": [
+                  64,
+                  72
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/UQfePGBwuS",
+               "expanded_url": "https://twitter.com/i/web/status/1500944621903527936",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "BREAKING",
+            "indices": [
+               22,
+               31
+            ]
+         },
+         {
+            "text": "RedHill",
+            "indices": [
+               82,
+               90
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepGaramendi",
+            "name": "John Garamendi",
+            "id": 88806753,
+            "id_str": "88806753",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646694304140"
+}

@@ -1,0 +1,413 @@
+{
+   "created_at": "Mon Mar 07 19:10:12 +0000 2022",
+   "id": 1500911712735748098,
+   "id_str": "1500911712735748098",
+   "text": "RT @AOC: The housing crisis is exploding.\n\nOne perk for many politicians &amp; media working to make people\u2019s knee-jerk reaction to homelessnes\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 294058435,
+      "id_str": "294058435",
+      "name": "Kevin Allison",
+      "screen_name": "TheKevinAllison",
+      "location": "RISK-show.com/book",
+      "url": "http://linktr.ee/kevinallison",
+      "description": "Proudly queer & kinky! he/him. Author of http://TheRISKbook.com. Listen to @RISKshow for uncensored true stories. Take storytelling classes @StoryStudioNYC.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12398,
+      "friends_count": 3115,
+      "listed_count": 251,
+      "favourites_count": 34208,
+      "statuses_count": 48137,
+      "created_at": "Fri May 06 13:18:21 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1165680148949209089/V0PlWy56_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165680148949209089/V0PlWy56_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/294058435/1531843707",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:37:22 +0000 2022",
+      "id": 1500903448883212292,
+      "id_str": "1500903448883212292",
+      "text": "The housing crisis is exploding.\n\nOne perk for many politicians &amp; media working to make people\u2019s knee-jerk reaction\u2026 https://t.co/zTOG5UrpQJ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 138203134,
+         "id_str": "138203134",
+         "name": "Alexandria Ocasio-Cortez",
+         "screen_name": "AOC",
+         "location": "Bronx + Queens, NYC",
+         "url": "http://www.ocasiocortez.com",
+         "description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. \ud83d\udcaf% People-Funded, no lobbyist\ud83d\udcb0. She/her.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12920938,
+         "friends_count": 3640,
+         "listed_count": 25050,
+         "favourites_count": 35125,
+         "statuses_count": 13536,
+         "created_at": "Wed Apr 28 22:38:40 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500850230891327490,
+      "quoted_status_id_str": "1500850230891327490",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 15:05:54 +0000 2022",
+         "id": 1500850230891327490,
+         "id_str": "1500850230891327490",
+         "text": "New York City tenants are discovering their rents are being raised $500, $800, $1000:  \u201cIt\u2019s just sort of mind bogg\u2026 https://t.co/7wg0vXhqVw",
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 30752163,
+            "id_str": "30752163",
+            "name": "\ud835\ude8d\ud835\ude98\ud835\ude8d\ud835\ude8a\ud835\ude92 \ud835\ude9c\ud835\ude9d\ud835\ude8e\ud835\udea0\ud835\ude8a\ud835\ude9b\ud835\ude9d",
+            "screen_name": "dodaistewart",
+            "location": "New York City",
+            "url": "http://dodaistewart.com",
+            "description": "Deputy Editor, Narrative Projects @NYTimes. Many past lives, including http://Jezebel.com. Writing a screenplay. \ud83e\udd1e\ud83c\udffd",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 53739,
+            "friends_count": 2837,
+            "listed_count": 707,
+            "favourites_count": 88355,
+            "statuses_count": 2755,
+            "created_at": "Sun Apr 12 23:48:43 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FA4CB0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "F8FFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1443906686658486275/hhh9xE0A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443906686658486275/hhh9xE0A_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30752163/1412438773",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "New York City tenants are discovering their rents are being raised $500, $800, $1000:  \u201cIt\u2019s just sort of mind boggling, the increases we\u2019re seeing now.\u201d https://t.co/LswXkeylIJ",
+            "display_text_range": [
+               0,
+               177
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [
+                  {
+                     "url": "https://t.co/LswXkeylIJ",
+                     "expanded_url": "https://www.nytimes.com/2022/03/07/nyregion/nyc-rent-surge.html?referringSource=articleShare",
+                     "display_url": "nytimes.com/2022/03/07/nyr\u2026",
+                     "indices": [
+                        154,
+                        177
+                     ]
+                  }
+               ],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 184,
+         "reply_count": 65,
+         "retweet_count": 422,
+         "favorite_count": 1010,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/7wg0vXhqVw",
+                  "expanded_url": "https://twitter.com/i/web/status/1500850230891327490",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/2Z61ocPBo7",
+         "expanded": "https://twitter.com/dodaistewart/status/1500850230891327490",
+         "display": "twitter.com/dodaistewart/s\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "The housing crisis is exploding.\n\nOne perk for many politicians &amp; media working to make people\u2019s knee-jerk reaction to homelessness be policing is it keeps ppl from seeing + organizing against the larger powers driving the housing crisis, like private equity + real estate lobbies",
+         "display_text_range": [
+            0,
+            284
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 33,
+      "reply_count": 238,
+      "retweet_count": 726,
+      "favorite_count": 3898,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/zTOG5UrpQJ",
+               "expanded_url": "https://twitter.com/i/web/status/1500903448883212292",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500850230891327490,
+   "quoted_status_id_str": "1500850230891327490",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 15:05:54 +0000 2022",
+      "id": 1500850230891327490,
+      "id_str": "1500850230891327490",
+      "text": "New York City tenants are discovering their rents are being raised $500, $800, $1000:  \u201cIt\u2019s just sort of mind bogg\u2026 https://t.co/7wg0vXhqVw",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 30752163,
+         "id_str": "30752163",
+         "name": "\ud835\ude8d\ud835\ude98\ud835\ude8d\ud835\ude8a\ud835\ude92 \ud835\ude9c\ud835\ude9d\ud835\ude8e\ud835\udea0\ud835\ude8a\ud835\ude9b\ud835\ude9d",
+         "screen_name": "dodaistewart",
+         "location": "New York City",
+         "url": "http://dodaistewart.com",
+         "description": "Deputy Editor, Narrative Projects @NYTimes. Many past lives, including http://Jezebel.com. Writing a screenplay. \ud83e\udd1e\ud83c\udffd",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 53739,
+         "friends_count": 2837,
+         "listed_count": 707,
+         "favourites_count": 88355,
+         "statuses_count": 2755,
+         "created_at": "Sun Apr 12 23:48:43 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "9AE4E8",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "FA4CB0",
+         "profile_sidebar_border_color": "BDDCAD",
+         "profile_sidebar_fill_color": "F8FFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1443906686658486275/hhh9xE0A_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443906686658486275/hhh9xE0A_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/30752163/1412438773",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "New York City tenants are discovering their rents are being raised $500, $800, $1000:  \u201cIt\u2019s just sort of mind boggling, the increases we\u2019re seeing now.\u201d https://t.co/LswXkeylIJ",
+         "display_text_range": [
+            0,
+            177
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/LswXkeylIJ",
+                  "expanded_url": "https://www.nytimes.com/2022/03/07/nyregion/nyc-rent-surge.html?referringSource=articleShare",
+                  "display_url": "nytimes.com/2022/03/07/nyr\u2026",
+                  "indices": [
+                     154,
+                     177
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 184,
+      "reply_count": 65,
+      "retweet_count": 422,
+      "favorite_count": 1010,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/7wg0vXhqVw",
+               "expanded_url": "https://twitter.com/i/web/status/1500850230891327490",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/2Z61ocPBo7",
+      "expanded": "https://twitter.com/dodaistewart/status/1500850230891327490",
+      "display": "twitter.com/dodaistewart/s\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "id": 138203134,
+            "id_str": "138203134",
+            "indices": [
+               3,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680212564"
+}

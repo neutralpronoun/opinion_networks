@@ -1,0 +1,106 @@
+{
+   "created_at": "Mon Mar 07 21:14:58 +0000 2022",
+   "id": 1500943109219311617,
+   "id_str": "1500943109219311617",
+   "text": "@RepAndyBarr your on @cnn right now lying\u2026@jaketapper says nothing!!!!! What a joke!!",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": 1089334250,
+   "in_reply_to_user_id_str": "1089334250",
+   "in_reply_to_screen_name": "RepAndyBarr",
+   "user": {
+      "id": 15209694,
+      "id_str": "15209694",
+      "name": "David Rothschild\u2122",
+      "screen_name": "RealDRothschild",
+      "location": null,
+      "url": "http://Vaccinated.me",
+      "description": "Earth|Human|David| Activist,& Lead singer In pursuit of the Truth,Transparency & Equality for ALL Human beings w/o Greed,Corruption or War.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 222864,
+      "friends_count": 53337,
+      "listed_count": 725,
+      "favourites_count": 3593,
+      "statuses_count": 48549,
+      "created_at": "Mon Jun 23 17:59:38 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496989776163086336/E4404wgv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496989776163086336/E4404wgv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15209694/1434387854",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepAndyBarr",
+            "name": "Rep. Andy Barr",
+            "id": 1089334250,
+            "id_str": "1089334250",
+            "indices": [
+               0,
+               12
+            ]
+         },
+         {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+               21,
+               25
+            ]
+         },
+         {
+            "screen_name": "jaketapper",
+            "name": "Jake Tapper",
+            "id": 14529929,
+            "id_str": "14529929",
+            "indices": [
+               42,
+               53
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646687698069"
+}

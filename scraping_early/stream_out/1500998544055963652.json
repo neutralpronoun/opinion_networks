@@ -1,0 +1,215 @@
+{
+   "created_at": "Tue Mar 08 00:55:14 +0000 2022",
+   "id": 1500998544055963652,
+   "id_str": "1500998544055963652",
+   "text": "RT @Deseret: \u201cOur report provides the institutions closest to couples \u2014 our churches, schools, communities and state and local governments\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 88784440,
+      "id_str": "88784440",
+      "name": "Mike Lee",
+      "screen_name": "SenMikeLee",
+      "location": "Utah",
+      "url": "http://www.lee.senate.gov",
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 616276,
+      "friends_count": 2142,
+      "listed_count": 4754,
+      "favourites_count": 219,
+      "statuses_count": 6502,
+      "created_at": "Mon Nov 09 22:47:47 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F1F0EC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006896016849858560/P3nNjlIe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006896016849858560/P3nNjlIe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88784440/1594150263",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:00:02 +0000 2022",
+      "id": 1500863857237143555,
+      "id_str": "1500863857237143555",
+      "text": "\u201cOur report provides the institutions closest to couples \u2014 our churches, schools, communities and state and local g\u2026 https://t.co/xjLF1ls1dQ",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15050354,
+         "id_str": "15050354",
+         "name": "Deseret News",
+         "screen_name": "Deseret",
+         "location": "Salt Lake City, UT",
+         "url": "https://www.deseret.com/",
+         "description": "Principled. Illuminating. News. Established 1850.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 112321,
+         "friends_count": 133,
+         "listed_count": 1690,
+         "favourites_count": 2579,
+         "statuses_count": 188738,
+         "created_at": "Sun Jun 08 21:32:51 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "315776",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1333823599975677953/42Q6Cww8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333823599975677953/42Q6Cww8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15050354/1645222273",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\u201cOur report provides the institutions closest to couples \u2014 our churches, schools, communities and state and local governments \u2014 with a toolbox of seven recommendations for strengthening marriage,\u201d @SenMikeLee said. | By @Loisco\nhttps://t.co/1pzcdioyPQ",
+         "display_text_range": [
+            0,
+            251
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/1pzcdioyPQ",
+                  "expanded_url": "https://www.deseret.com/2022/3/6/22961930/can-you-study-your-way-to-a-healthy-marriage-joint-economic-committee-mike-lee-utah?utm_source=twitter&utm_medium=dn-social&utm_campaign=twitter&utm_content=deseretnews",
+                  "display_url": "deseret.com/2022/3/6/22961\u2026",
+                  "indices": [
+                     228,
+                     251
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SenMikeLee",
+                  "name": "Mike Lee",
+                  "id": 88784440,
+                  "id_str": "88784440",
+                  "indices": [
+                     197,
+                     208
+                  ]
+               },
+               {
+                  "screen_name": "Loisco",
+                  "name": "Lois M. Collins",
+                  "id": 23072903,
+                  "id_str": "23072903",
+                  "indices": [
+                     220,
+                     227
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/xjLF1ls1dQ",
+               "expanded_url": "https://twitter.com/i/web/status/1500863857237143555",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Deseret",
+            "name": "Deseret News",
+            "id": 15050354,
+            "id_str": "15050354",
+            "indices": [
+               3,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646700914764"
+}

@@ -1,0 +1,602 @@
+{
+   "created_at": "Mon Mar 07 21:46:10 +0000 2022",
+   "id": 1500950960763543554,
+   "id_str": "1500950960763543554",
+   "text": "RT @GovKemp: Georgians, please remain weather aware this afternoon!",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 806583915012046854,
+      "id_str": "806583915012046854",
+      "name": "Congressman Drew Ferguson",
+      "screen_name": "RepDrewFerguson",
+      "location": "West Point, GA",
+      "url": "https://ferguson.house.gov/",
+      "description": "Proudly serving the good folks of Georgia\u2019s Third Congressional District. @WaysandMeansGOP & @GOPDoctors Caucus member. Chief Deputy Whip for @HouseGOP.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12563,
+      "friends_count": 488,
+      "listed_count": 501,
+      "favourites_count": 586,
+      "statuses_count": 2616,
+      "created_at": "Wed Dec 07 19:39:25 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1426577422690959360/kBd0TbP2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426577422690959360/kBd0TbP2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/806583915012046854/1618338905",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:31:14 +0000 2022",
+      "id": 1500947205187940354,
+      "id_str": "1500947205187940354",
+      "text": "Georgians, please remain weather aware this afternoon!",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1064659902071808000,
+         "id_str": "1064659902071808000",
+         "name": "Governor Brian P. Kemp",
+         "screen_name": "GovKemp",
+         "location": "Georgia, USA",
+         "url": "http://gov.georgia.gov",
+         "description": "83rd Governor of Georgia",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 104538,
+         "friends_count": 159,
+         "listed_count": 790,
+         "favourites_count": 628,
+         "statuses_count": 3890,
+         "created_at": "Mon Nov 19 23:21:15 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1440761559681093635/65VSEK7e_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440761559681093635/65VSEK7e_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064659902071808000/1642809186",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500914147067846668,
+      "quoted_status_id_str": "1500914147067846668",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 19:19:52 +0000 2022",
+         "id": 1500914147067846668,
+         "id_str": "1500914147067846668",
+         "text": "[2:15 PM - 3/7] A line of showers and thunderstorms is rapidly moving into northwest and west-central GA. Expect st\u2026 https://t.co/qanFOV9F0B",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 590412316,
+            "id_str": "590412316",
+            "name": "NWS Atlanta",
+            "screen_name": "NWSAtlanta",
+            "location": "Peachtree City, Georgia",
+            "url": "http://weather.gov/atlanta",
+            "description": "Official Twitter account for National Weather Service Atlanta/Peachtree City. Details: http://weather.gov/twitter",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 46782,
+            "friends_count": 808,
+            "listed_count": 1079,
+            "favourites_count": 2992,
+            "statuses_count": 15315,
+            "created_at": "Fri May 25 23:33:19 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/876443869071773696/niY9zHK7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/876443869071773696/niY9zHK7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/590412316/1392348463",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "[2:15 PM - 3/7] A line of showers and thunderstorms is rapidly moving into northwest and west-central GA. Expect storms to increase across the area through the afternoon with the threat for a few stronger storms, capable of damaging winds &amp; locally heavy rain. #gawx https://t.co/iYV5Nx4jXP",
+            "display_text_range": [
+               0,
+               270
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "gawx",
+                     "indices": [
+                        265,
+                        270
+                     ]
+                  }
+               ],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1500914144526184448,
+                     "id_str": "1500914144526184448",
+                     "indices": [
+                        271,
+                        294
+                     ],
+                     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                     "url": "https://t.co/iYV5Nx4jXP",
+                     "display_url": "pic.twitter.com/iYV5Nx4jXP",
+                     "expanded_url": "https://twitter.com/NWSAtlanta/status/1500914147067846668/photo/1",
+                     "type": "animated_gif",
+                     "video_info": {
+                        "aspect_ratio": [
+                           4,
+                           3
+                        ],
+                        "variants": [
+                           {
+                              "bitrate": 0,
+                              "content_type": "video/mp4",
+                              "url": "https://video.twimg.com/tweet_video/FNRRdlbXsAA2AYt.mp4"
+                           }
+                        ]
+                     },
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 1024,
+                           "h": 768,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1024,
+                           "h": 768,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 510,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500914144526184448,
+                     "id_str": "1500914144526184448",
+                     "indices": [
+                        271,
+                        294
+                     ],
+                     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                     "url": "https://t.co/iYV5Nx4jXP",
+                     "display_url": "pic.twitter.com/iYV5Nx4jXP",
+                     "expanded_url": "https://twitter.com/NWSAtlanta/status/1500914147067846668/photo/1",
+                     "type": "animated_gif",
+                     "video_info": {
+                        "aspect_ratio": [
+                           4,
+                           3
+                        ],
+                        "variants": [
+                           {
+                              "bitrate": 0,
+                              "content_type": "video/mp4",
+                              "url": "https://video.twimg.com/tweet_video/FNRRdlbXsAA2AYt.mp4"
+                           }
+                        ]
+                     },
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 1024,
+                           "h": 768,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1024,
+                           "h": 768,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 510,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 2,
+         "reply_count": 1,
+         "retweet_count": 8,
+         "favorite_count": 19,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/qanFOV9F0B",
+                  "expanded_url": "https://twitter.com/i/web/status/1500914147067846668",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/z6I0B53afn",
+         "expanded": "https://twitter.com/NWSAtlanta/status/1500914147067846668",
+         "display": "twitter.com/NWSAtlanta/sta\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 6,
+      "favorite_count": 14,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500914147067846668,
+   "quoted_status_id_str": "1500914147067846668",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:19:52 +0000 2022",
+      "id": 1500914147067846668,
+      "id_str": "1500914147067846668",
+      "text": "[2:15 PM - 3/7] A line of showers and thunderstorms is rapidly moving into northwest and west-central GA. Expect st\u2026 https://t.co/qanFOV9F0B",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 590412316,
+         "id_str": "590412316",
+         "name": "NWS Atlanta",
+         "screen_name": "NWSAtlanta",
+         "location": "Peachtree City, Georgia",
+         "url": "http://weather.gov/atlanta",
+         "description": "Official Twitter account for National Weather Service Atlanta/Peachtree City. Details: http://weather.gov/twitter",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 46782,
+         "friends_count": 808,
+         "listed_count": 1079,
+         "favourites_count": 2992,
+         "statuses_count": 15315,
+         "created_at": "Fri May 25 23:33:19 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/876443869071773696/niY9zHK7_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/876443869071773696/niY9zHK7_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/590412316/1392348463",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "[2:15 PM - 3/7] A line of showers and thunderstorms is rapidly moving into northwest and west-central GA. Expect storms to increase across the area through the afternoon with the threat for a few stronger storms, capable of damaging winds &amp; locally heavy rain. #gawx https://t.co/iYV5Nx4jXP",
+         "display_text_range": [
+            0,
+            270
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "gawx",
+                  "indices": [
+                     265,
+                     270
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500914144526184448,
+                  "id_str": "1500914144526184448",
+                  "indices": [
+                     271,
+                     294
+                  ],
+                  "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                  "url": "https://t.co/iYV5Nx4jXP",
+                  "display_url": "pic.twitter.com/iYV5Nx4jXP",
+                  "expanded_url": "https://twitter.com/NWSAtlanta/status/1500914147067846668/photo/1",
+                  "type": "animated_gif",
+                  "video_info": {
+                     "aspect_ratio": [
+                        4,
+                        3
+                     ],
+                     "variants": [
+                        {
+                           "bitrate": 0,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/tweet_video/FNRRdlbXsAA2AYt.mp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500914144526184448,
+                  "id_str": "1500914144526184448",
+                  "indices": [
+                     271,
+                     294
+                  ],
+                  "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNRRdlbXsAA2AYt.jpg",
+                  "url": "https://t.co/iYV5Nx4jXP",
+                  "display_url": "pic.twitter.com/iYV5Nx4jXP",
+                  "expanded_url": "https://twitter.com/NWSAtlanta/status/1500914147067846668/photo/1",
+                  "type": "animated_gif",
+                  "video_info": {
+                     "aspect_ratio": [
+                        4,
+                        3
+                     ],
+                     "variants": [
+                        {
+                           "bitrate": 0,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/tweet_video/FNRRdlbXsAA2AYt.mp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 8,
+      "favorite_count": 19,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/qanFOV9F0B",
+               "expanded_url": "https://twitter.com/i/web/status/1500914147067846668",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/z6I0B53afn",
+      "expanded": "https://twitter.com/NWSAtlanta/status/1500914147067846668",
+      "display": "twitter.com/NWSAtlanta/sta\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "GovKemp",
+            "name": "Governor Brian P. Kemp",
+            "id": 1064659902071808000,
+            "id_str": "1064659902071808000",
+            "indices": [
+               3,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689570023"
+}

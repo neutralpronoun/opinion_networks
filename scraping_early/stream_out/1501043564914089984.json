@@ -1,0 +1,593 @@
+{
+   "created_at": "Tue Mar 08 03:54:08 +0000 2022",
+   "id": 1501043564914089984,
+   "id_str": "1501043564914089984",
+   "text": "RT @AOC: In related news, we\u2019ve heard that we\u2019re soon getting a hearing date on banning members of Congress from trading individual stock w\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 252643801,
+      "id_str": "252643801",
+      "name": "Noah Berlatsky",
+      "screen_name": "nberlat",
+      "location": null,
+      "url": "https://www.patreon.com/noahberlatsky",
+      "description": "he/him. Bylines: the Editorial Board, NBC Think, Independent, Atlantic, Pacific Standard, WaPo,",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 20735,
+      "friends_count": 3712,
+      "listed_count": 458,
+      "favourites_count": 146422,
+      "statuses_count": 401542,
+      "created_at": "Tue Feb 15 16:25:21 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FCFAF9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "CC8D04",
+      "profile_sidebar_border_color": "A65E05",
+      "profile_sidebar_fill_color": "C9F7EA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245741124/SkullDude_normal.gif",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245741124/SkullDude_normal.gif",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/252643801/1637033786",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 03:50:49 +0000 2022",
+      "id": 1501042729001922561,
+      "id_str": "1501042729001922561",
+      "text": "In related news, we\u2019ve heard that we\u2019re soon getting a hearing date on banning members of Congress from trading ind\u2026 https://t.co/rmmyVbYLzZ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 138203134,
+         "id_str": "138203134",
+         "name": "Alexandria Ocasio-Cortez",
+         "screen_name": "AOC",
+         "location": "Bronx + Queens, NYC",
+         "url": "http://www.ocasiocortez.com",
+         "description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. \ud83d\udcaf% People-Funded, no lobbyist\ud83d\udcb0. She/her.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12920885,
+         "friends_count": 3642,
+         "listed_count": 25054,
+         "favourites_count": 35142,
+         "statuses_count": 13545,
+         "created_at": "Wed Apr 28 22:38:40 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500842208211181575,
+      "quoted_status_id_str": "1500842208211181575",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 14:34:01 +0000 2022",
+         "id": 1500842208211181575,
+         "id_str": "1500842208211181575",
+         "text": "Just out: Rep. Marjorie Taylor Greene bought stock in America's LARGEST defense contractor, Lockheed Martin $LMT, a\u2026 https://t.co/zOfht1OV3o",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1316474249989812224,
+            "id_str": "1316474249989812224",
+            "name": "congresstrading.com",
+            "screen_name": "congresstrading",
+            "location": null,
+            "url": "https://www.congresstrading.com/",
+            "description": "Database and forum for Congress' stock trades | As featured in CNBC & WSJ & NYT",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 37353,
+            "friends_count": 57,
+            "listed_count": 321,
+            "favourites_count": 138,
+            "statuses_count": 198,
+            "created_at": "Wed Oct 14 20:21:41 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1485644128146833417/IfNUkyQd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485644128146833417/IfNUkyQd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316474249989812224/1643040884",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "quoted_status_id": 1496490950444597250,
+         "quoted_status_id_str": "1496490950444597250",
+         "is_quote_status": true,
+         "extended_tweet": {
+            "full_text": "Just out: Rep. Marjorie Taylor Greene bought stock in America's LARGEST defense contractor, Lockheed Martin $LMT, a day before tweeting \"War and rumors of war is incredibly profitable...\" (report condensed). https://t.co/hPagelAPMA",
+            "display_text_range": [
+               0,
+               207
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": [
+                  {
+                     "text": "LMT",
+                     "indices": [
+                        108,
+                        112
+                     ]
+                  }
+               ],
+               "media": [
+                  {
+                     "id": 1500841989595668486,
+                     "id_str": "1500841989595668486",
+                     "indices": [
+                        208,
+                        231
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                     "url": "https://t.co/hPagelAPMA",
+                     "display_url": "pic.twitter.com/hPagelAPMA",
+                     "expanded_url": "https://twitter.com/congresstrading/status/1500842208211181575/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 335,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1040,
+                           "h": 512,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1040,
+                           "h": 512,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500841989595668486,
+                     "id_str": "1500841989595668486",
+                     "indices": [
+                        208,
+                        231
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                     "url": "https://t.co/hPagelAPMA",
+                     "display_url": "pic.twitter.com/hPagelAPMA",
+                     "expanded_url": "https://twitter.com/congresstrading/status/1500842208211181575/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 335,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1040,
+                           "h": 512,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1040,
+                           "h": 512,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 239,
+         "reply_count": 177,
+         "retweet_count": 1584,
+         "favorite_count": 4137,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/zOfht1OV3o",
+                  "expanded_url": "https://twitter.com/i/web/status/1500842208211181575",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": [
+               {
+                  "text": "LMT",
+                  "indices": [
+                     108,
+                     112
+                  ]
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/CGvwV4eZmi",
+         "expanded": "https://twitter.com/congresstrading/status/1500842208211181575",
+         "display": "twitter.com/congresstradin\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "In related news, we\u2019ve heard that we\u2019re soon getting a hearing date on banning members of Congress from trading individual stock while in office.\n\nThere\u2019s still a lot of resistance in Congress, though. Keep pushing. Because lots of ppl are really trying to protect this behavior\u2b07\ufe0f",
+         "display_text_range": [
+            0,
+            280
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 8,
+      "reply_count": 56,
+      "retweet_count": 239,
+      "favorite_count": 1243,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/rmmyVbYLzZ",
+               "expanded_url": "https://twitter.com/i/web/status/1501042729001922561",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500842208211181575,
+   "quoted_status_id_str": "1500842208211181575",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 14:34:01 +0000 2022",
+      "id": 1500842208211181575,
+      "id_str": "1500842208211181575",
+      "text": "Just out: Rep. Marjorie Taylor Greene bought stock in America's LARGEST defense contractor, Lockheed Martin $LMT, a\u2026 https://t.co/zOfht1OV3o",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1316474249989812224,
+         "id_str": "1316474249989812224",
+         "name": "congresstrading.com",
+         "screen_name": "congresstrading",
+         "location": null,
+         "url": "https://www.congresstrading.com/",
+         "description": "Database and forum for Congress' stock trades | As featured in CNBC & WSJ & NYT",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 37353,
+         "friends_count": 57,
+         "listed_count": 321,
+         "favourites_count": 138,
+         "statuses_count": 198,
+         "created_at": "Wed Oct 14 20:21:41 +0000 2020",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1485644128146833417/IfNUkyQd_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485644128146833417/IfNUkyQd_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316474249989812224/1643040884",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1496490950444597250,
+      "quoted_status_id_str": "1496490950444597250",
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Just out: Rep. Marjorie Taylor Greene bought stock in America's LARGEST defense contractor, Lockheed Martin $LMT, a day before tweeting \"War and rumors of war is incredibly profitable...\" (report condensed). https://t.co/hPagelAPMA",
+         "display_text_range": [
+            0,
+            207
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [
+               {
+                  "text": "LMT",
+                  "indices": [
+                     108,
+                     112
+                  ]
+               }
+            ],
+            "media": [
+               {
+                  "id": 1500841989595668486,
+                  "id_str": "1500841989595668486",
+                  "indices": [
+                     208,
+                     231
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                  "url": "https://t.co/hPagelAPMA",
+                  "display_url": "pic.twitter.com/hPagelAPMA",
+                  "expanded_url": "https://twitter.com/congresstrading/status/1500842208211181575/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 335,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1040,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1040,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500841989595668486,
+                  "id_str": "1500841989595668486",
+                  "indices": [
+                     208,
+                     231
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQP1nXXIAY2azZ.jpg",
+                  "url": "https://t.co/hPagelAPMA",
+                  "display_url": "pic.twitter.com/hPagelAPMA",
+                  "expanded_url": "https://twitter.com/congresstrading/status/1500842208211181575/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 335,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1040,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1040,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 239,
+      "reply_count": 177,
+      "retweet_count": 1584,
+      "favorite_count": 4137,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/zOfht1OV3o",
+               "expanded_url": "https://twitter.com/i/web/status/1500842208211181575",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [
+            {
+               "text": "LMT",
+               "indices": [
+                  108,
+                  112
+               ]
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/CGvwV4eZmi",
+      "expanded": "https://twitter.com/congresstrading/status/1500842208211181575",
+      "display": "twitter.com/congresstradin\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "id": 138203134,
+            "id_str": "138203134",
+            "indices": [
+               3,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646711648573"
+}

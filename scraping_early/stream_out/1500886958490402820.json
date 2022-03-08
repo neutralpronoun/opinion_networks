@@ -1,0 +1,311 @@
+{
+   "created_at": "Mon Mar 07 17:31:50 +0000 2022",
+   "id": 1500886958490402820,
+   "id_str": "1500886958490402820",
+   "text": "@RepMTG I realize you were perpetually born yesterday, but some of us remember 10 days ago, when you were attending\u2026 https://t.co/2mwWGkZ1Sq",
+   "display_text_range": [
+      8,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500826285559406593,
+   "in_reply_to_status_id_str": "1500826285559406593",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 7027112,
+      "id_str": "7027112",
+      "name": "Morten \u00d8verbye",
+      "screen_name": "morten",
+      "location": "Oslo",
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38818,
+      "friends_count": 13901,
+      "listed_count": 493,
+      "favourites_count": 188013,
+      "statuses_count": 55455,
+      "created_at": "Sat Jun 23 00:37:27 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346949802760622082/XOZWzbOu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346949802760622082/XOZWzbOu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7027112/1643505432",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1497611767006089217,
+   "quoted_status_id_str": "1497611767006089217",
+   "quoted_status": {
+      "created_at": "Sat Feb 26 16:37:24 +0000 2022",
+      "id": 1497611767006089217,
+      "id_str": "1497611767006089217",
+      "text": "Here\u2019s Marjorie Taylor Green, the \u201cJewish space laser\u201d conspiracy theorist, sharing the stage with a guy who just c\u2026 https://t.co/3JvyLYsjRT",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 7027112,
+         "id_str": "7027112",
+         "name": "Morten \u00d8verbye",
+         "screen_name": "morten",
+         "location": "Oslo",
+         "url": null,
+         "description": null,
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 38818,
+         "friends_count": 13901,
+         "listed_count": 493,
+         "favourites_count": 188013,
+         "statuses_count": 55454,
+         "created_at": "Sat Jun 23 00:37:27 +0000 2007",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C6E2EE",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "1F98C7",
+         "profile_sidebar_border_color": "C6E2EE",
+         "profile_sidebar_fill_color": "DAECF4",
+         "profile_text_color": "663B12",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1346949802760622082/XOZWzbOu_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346949802760622082/XOZWzbOu_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/7027112/1643505432",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Here\u2019s Marjorie Taylor Green, the \u201cJewish space laser\u201d conspiracy theorist, sharing the stage with a guy who just called America \u201cthe evil empire in the world,\u201d praised Putin and \u201cjoked\u201d about people saying Hitler was \u201cnot a good thing\u201d. https://t.co/Q6sE2mtjwY",
+         "display_text_range": [
+            0,
+            237
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1497611760014176258,
+                  "id_str": "1497611760014176258",
+                  "indices": [
+                     238,
+                     261
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FMiV9gcXsAIagO4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMiV9gcXsAIagO4.jpg",
+                  "url": "https://t.co/Q6sE2mtjwY",
+                  "display_url": "pic.twitter.com/Q6sE2mtjwY",
+                  "expanded_url": "https://twitter.com/morten/status/1497611767006089217/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 347,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1752,
+                        "h": 894,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 612,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1497611760014176258,
+                  "id_str": "1497611760014176258",
+                  "indices": [
+                     238,
+                     261
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FMiV9gcXsAIagO4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMiV9gcXsAIagO4.jpg",
+                  "url": "https://t.co/Q6sE2mtjwY",
+                  "display_url": "pic.twitter.com/Q6sE2mtjwY",
+                  "expanded_url": "https://twitter.com/morten/status/1497611767006089217/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 347,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1752,
+                        "h": 894,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 612,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 14,
+      "reply_count": 20,
+      "retweet_count": 108,
+      "favorite_count": 214,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/3JvyLYsjRT",
+               "expanded_url": "https://twitter.com/i/web/status/1497611767006089217",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/2pbDRmNNW2",
+      "expanded": "https://twitter.com/morten/status/1497611767006089217",
+      "display": "twitter.com/morten/status/\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "@RepMTG I realize you were perpetually born yesterday, but some of us remember 10 days ago, when you were attending a pro-Putin party with nazis.",
+      "display_text_range": [
+         8,
+         145
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  0,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/2mwWGkZ1Sq",
+            "expanded_url": "https://twitter.com/i/web/status/1500886958490402820",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674310692"
+}

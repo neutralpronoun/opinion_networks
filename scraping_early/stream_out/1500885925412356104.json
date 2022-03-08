@@ -1,0 +1,147 @@
+{
+   "created_at": "Mon Mar 07 17:27:44 +0000 2022",
+   "id": 1500885925412356104,
+   "id_str": "1500885925412356104",
+   "text": "Was glad to hear @POTUS pledge to combat the addiction epidemic during his #SOTU last week. Let\u2019s move forward by p\u2026 https://t.co/UG8kACDeXh",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 18915145,
+      "id_str": "18915145",
+      "name": "Rob Portman",
+      "screen_name": "senrobportman",
+      "location": "Ohio",
+      "url": "http://portman.senate.gov",
+      "description": "United States Senator from the Buckeye State.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 168658,
+      "friends_count": 5030,
+      "listed_count": 3247,
+      "favourites_count": 411,
+      "statuses_count": 22041,
+      "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0074DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "106CB7",
+      "profile_sidebar_border_color": "26C905",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Was glad to hear @POTUS pledge to combat the addiction epidemic during his #SOTU last week. Let\u2019s move forward by passing CARA 3.0 - sweeping legislation to expand treatment options &amp; turn the tide of this epidemic. https://t.co/MueLnzQfKw",
+      "display_text_range": [
+         0,
+         243
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SOTU",
+               "indices": [
+                  75,
+                  80
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/MueLnzQfKw",
+               "expanded_url": "https://bit.ly/3HC9zhs",
+               "display_url": "bit.ly/3HC9zhs",
+               "indices": [
+                  220,
+                  243
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  17,
+                  23
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SOTU",
+            "indices": [
+               75,
+               80
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/UG8kACDeXh",
+            "expanded_url": "https://twitter.com/i/web/status/1500885925412356104",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               17,
+               23
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674064387"
+}

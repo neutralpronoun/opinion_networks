@@ -1,0 +1,531 @@
+{
+   "created_at": "Mon Mar 07 15:33:41 +0000 2022",
+   "id": 1500857224951910403,
+   "id_str": "1500857224951910403",
+   "text": "RT @RepHartzler: Hey @DCCC, can we get an updated chart please?",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1131917492,
+      "id_str": "1131917492",
+      "name": "House Judiciary GOP",
+      "screen_name": "JudiciaryGOP",
+      "location": "Washington, D.C.",
+      "url": "https://republicans-judiciary.house.gov/",
+      "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 177182,
+      "friends_count": 721,
+      "listed_count": 1176,
+      "favourites_count": 1004,
+      "statuses_count": 21158,
+      "created_at": "Tue Jan 29 19:25:24 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0D324C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/661538870945849344/p55K_tUH_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/661538870945849344/p55K_tUH_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131917492/1584112768",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 15:14:03 +0000 2022",
+      "id": 1500852284086960129,
+      "id_str": "1500852284086960129",
+      "text": "Hey @DCCC, can we get an updated chart please?",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 237763317,
+         "id_str": "237763317",
+         "name": "Rep. Vicky Hartzler",
+         "screen_name": "RepHartzler",
+         "location": "Harrisonville, Missouri",
+         "url": "http://hartzler.house.gov",
+         "description": "Proudly representing Missouri's Fourth District in Congress. Senior member of @HASCRepublicans and @HouseAgGOP. Commissioner of @CECCgov.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 32518,
+         "friends_count": 940,
+         "listed_count": 1189,
+         "favourites_count": 1194,
+         "statuses_count": 8722,
+         "created_at": "Thu Jan 13 15:38:52 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "0D3F6E",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "930D12",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1372534400823480329/9KTI7B43_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372534400823480329/9KTI7B43_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/237763317/1624486423",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1466494036630544394,
+      "quoted_status_id_str": "1466494036630544394",
+      "quoted_status": {
+         "created_at": "Thu Dec 02 19:46:39 +0000 2021",
+         "id": 1466494036630544394,
+         "id_str": "1466494036630544394",
+         "text": "Thanks, @JoeBiden. https://t.co/0iHwTLv7fB",
+         "display_text_range": [
+            0,
+            18
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 14676022,
+            "id_str": "14676022",
+            "name": "DCCC",
+            "screen_name": "dccc",
+            "location": "Washington, DC",
+            "url": "http://dccc.org",
+            "description": "DCCC \u2022 Committed to electing Democrats to the U.S. House of Representatives",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 232829,
+            "friends_count": 244,
+            "listed_count": 3982,
+            "favourites_count": 2612,
+            "statuses_count": 22300,
+            "created_at": "Tue May 06 17:19:14 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "91B6ED",
+            "profile_text_color": "111111",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410600528837431313/haKpfBUM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410600528837431313/haKpfBUM_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14676022/1635865107",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 8709,
+         "reply_count": 11269,
+         "retweet_count": 1224,
+         "favorite_count": 4401,
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "JoeBiden",
+                  "name": "Joe Biden",
+                  "id": 939091,
+                  "id_str": "939091",
+                  "indices": [
+                     8,
+                     17
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1466494033832914948,
+                  "id_str": "1466494033832914948",
+                  "indices": [
+                     19,
+                     42
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+                  "url": "https://t.co/0iHwTLv7fB",
+                  "display_url": "pic.twitter.com/0iHwTLv7fB",
+                  "expanded_url": "https://twitter.com/dccc/status/1466494036630544394/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1466494033832914948,
+                  "id_str": "1466494033832914948",
+                  "indices": [
+                     19,
+                     42
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+                  "url": "https://t.co/0iHwTLv7fB",
+                  "display_url": "pic.twitter.com/0iHwTLv7fB",
+                  "expanded_url": "https://twitter.com/dccc/status/1466494036630544394/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/pmy8Zhm82f",
+         "expanded": "https://twitter.com/dccc/status/1466494036630544394",
+         "display": "twitter.com/dccc/status/14\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 10,
+      "retweet_count": 4,
+      "favorite_count": 8,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "dccc",
+               "name": "DCCC",
+               "id": 14676022,
+               "id_str": "14676022",
+               "indices": [
+                  4,
+                  9
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1466494036630544394,
+   "quoted_status_id_str": "1466494036630544394",
+   "quoted_status": {
+      "created_at": "Thu Dec 02 19:46:39 +0000 2021",
+      "id": 1466494036630544394,
+      "id_str": "1466494036630544394",
+      "text": "Thanks, @JoeBiden. https://t.co/0iHwTLv7fB",
+      "display_text_range": [
+         0,
+         18
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 14676022,
+         "id_str": "14676022",
+         "name": "DCCC",
+         "screen_name": "dccc",
+         "location": "Washington, DC",
+         "url": "http://dccc.org",
+         "description": "DCCC \u2022 Committed to electing Democrats to the U.S. House of Representatives",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 232829,
+         "friends_count": 244,
+         "listed_count": 3982,
+         "favourites_count": 2612,
+         "statuses_count": 22300,
+         "created_at": "Tue May 06 17:19:14 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0099CC",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "91B6ED",
+         "profile_text_color": "111111",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1410600528837431313/haKpfBUM_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410600528837431313/haKpfBUM_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/14676022/1635865107",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 8709,
+      "reply_count": 11269,
+      "retweet_count": 1224,
+      "favorite_count": 4401,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "JoeBiden",
+               "name": "Joe Biden",
+               "id": 939091,
+               "id_str": "939091",
+               "indices": [
+                  8,
+                  17
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1466494033832914948,
+               "id_str": "1466494033832914948",
+               "indices": [
+                  19,
+                  42
+               ],
+               "media_url": "http://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+               "url": "https://t.co/0iHwTLv7fB",
+               "display_url": "pic.twitter.com/0iHwTLv7fB",
+               "expanded_url": "https://twitter.com/dccc/status/1466494036630544394/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1466494033832914948,
+               "id_str": "1466494033832914948",
+               "indices": [
+                  19,
+                  42
+               ],
+               "media_url": "http://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg",
+               "url": "https://t.co/0iHwTLv7fB",
+               "display_url": "pic.twitter.com/0iHwTLv7fB",
+               "expanded_url": "https://twitter.com/dccc/status/1466494036630544394/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/pmy8Zhm82f",
+      "expanded": "https://twitter.com/dccc/status/1466494036630544394",
+      "display": "twitter.com/dccc/status/14\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepHartzler",
+            "name": "Rep. Vicky Hartzler",
+            "id": 237763317,
+            "id_str": "237763317",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "dccc",
+            "name": "DCCC",
+            "id": 14676022,
+            "id_str": "14676022",
+            "indices": [
+               21,
+               26
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667221664"
+}

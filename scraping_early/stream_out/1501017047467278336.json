@@ -1,0 +1,203 @@
+{
+   "created_at": "Tue Mar 08 02:08:46 +0000 2022",
+   "id": 1501017047467278336,
+   "id_str": "1501017047467278336",
+   "text": "@SenatorFischer Facts as usual are wrong. Also, why did Trump increase the amount of Russian oil USA imported? And,\u2026 https://t.co/PP5DVxK07N",
+   "display_text_range": [
+      16,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1501001630283673611,
+   "in_reply_to_status_id_str": "1501001630283673611",
+   "in_reply_to_user_id": 1071402577,
+   "in_reply_to_user_id_str": "1071402577",
+   "in_reply_to_screen_name": "SenatorFischer",
+   "user": {
+      "id": 14275426,
+      "id_str": "14275426",
+      "name": "Jane Fleming Kleeb",
+      "screen_name": "janekleeb",
+      "location": "Hastings, Nebraska",
+      "url": "https://www.harvestthevotebook.com",
+      "description": "Author Harvest the Vote. Chair @nebraskadems. Pres. @boldnebraska. Board @ourrevolution. Fam \ud83d\udc67\ud83d\udc69\ud83c\udffc\ud83d\udc67\ud83c\udffb \ud83e\udd20 #Recovery #NoEminentDomain #DirtRoadDem",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 21947,
+      "friends_count": 11362,
+      "listed_count": 465,
+      "favourites_count": 63874,
+      "statuses_count": 86767,
+      "created_at": "Tue Apr 01 15:16:20 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "251810",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "1D110A",
+      "profile_text_color": "A98E6F",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1389342809161875457/FBSPMVDB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389342809161875457/FBSPMVDB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14275426/1645985484",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@SenatorFischer Facts as usual are wrong. Also, why did Trump increase the amount of Russian oil USA imported? And, why do you support eminent domain for export pipelines? https://t.co/ILqSbjn0y1",
+      "display_text_range": [
+         16,
+         171
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorFischer",
+               "name": "Senator Deb Fischer",
+               "id": 1071402577,
+               "id_str": "1071402577",
+               "indices": [
+                  0,
+                  15
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1501017043847499779,
+               "id_str": "1501017043847499779",
+               "indices": [
+                  172,
+                  195
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSvDHRWUAM80Sf.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSvDHRWUAM80Sf.jpg",
+               "url": "https://t.co/ILqSbjn0y1",
+               "display_url": "pic.twitter.com/ILqSbjn0y1",
+               "expanded_url": "https://twitter.com/janekleeb/status/1501017047467278336/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1501017043847499779,
+               "id_str": "1501017043847499779",
+               "indices": [
+                  172,
+                  195
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSvDHRWUAM80Sf.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSvDHRWUAM80Sf.jpg",
+               "url": "https://t.co/ILqSbjn0y1",
+               "display_url": "pic.twitter.com/ILqSbjn0y1",
+               "expanded_url": "https://twitter.com/janekleeb/status/1501017047467278336/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 578,
+                     "h": 386,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/PP5DVxK07N",
+            "expanded_url": "https://twitter.com/i/web/status/1501017047467278336",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenatorFischer",
+            "name": "Senator Deb Fischer",
+            "id": 1071402577,
+            "id_str": "1071402577",
+            "indices": [
+               0,
+               15
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646705326321"
+}

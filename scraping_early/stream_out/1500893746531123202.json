@@ -1,0 +1,439 @@
+{
+   "created_at": "Mon Mar 07 17:58:49 +0000 2022",
+   "id": 1500893746531123202,
+   "id_str": "1500893746531123202",
+   "text": "Visited @NASAKennedy last week and toured @UofNorthDakota Space Studies Dept. Chair Dr. Pablo de Le\u00f3n\u2019s ongoing res\u2026 https://t.co/HKiq8sFDVK",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1048784496,
+      "id_str": "1048784496",
+      "name": "Sen. Kevin Cramer",
+      "screen_name": "SenKevinCramer",
+      "location": null,
+      "url": "http://cramer.senate.gov",
+      "description": "Representing the great people of North Dakota in the United States Senate.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30638,
+      "friends_count": 597,
+      "listed_count": 1144,
+      "favourites_count": 363,
+      "statuses_count": 7813,
+      "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Visited @NASAKennedy last week and toured @UofNorthDakota Space Studies Dept. Chair Dr. Pablo de Le\u00f3n\u2019s ongoing research and design for spacesuits and space habitats. \n\nIt was great to see firsthand our contributions towards the future of humanity in space. https://t.co/h4G0XDG3YB",
+      "display_text_range": [
+         0,
+         257
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "NASAKennedy",
+               "name": "NASA's Kennedy Space Center",
+               "id": 16580226,
+               "id_str": "16580226",
+               "indices": [
+                  8,
+                  20
+               ]
+            },
+            {
+               "screen_name": "UofNorthDakota",
+               "name": "U of North Dakota",
+               "id": 35790375,
+               "id_str": "35790375",
+               "indices": [
+                  42,
+                  57
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500893541253406720,
+               "id_str": "1500893541253406720",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUQWYAAQTIU.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUQWYAAQTIU.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541249298436,
+               "id_str": "1500893541249298436",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUPXsAQ3UoD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUPXsAQ3UoD.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541245009939,
+               "id_str": "1500893541245009939",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUOWQBMmhoh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUOWQBMmhoh.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541253455872,
+               "id_str": "1500893541253455872",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUQXIAAUhDd.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUQXIAAUhDd.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500893541253406720,
+               "id_str": "1500893541253406720",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUQWYAAQTIU.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUQWYAAQTIU.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541249298436,
+               "id_str": "1500893541249298436",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUPXsAQ3UoD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUPXsAQ3UoD.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541245009939,
+               "id_str": "1500893541245009939",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUOWQBMmhoh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUOWQBMmhoh.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500893541253455872,
+               "id_str": "1500893541253455872",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ-uUQXIAAUhDd.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ-uUQXIAAUhDd.jpg",
+               "url": "https://t.co/h4G0XDG3YB",
+               "display_url": "pic.twitter.com/h4G0XDG3YB",
+               "expanded_url": "https://twitter.com/SenKevinCramer/status/1500893746531123202/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 486,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1463,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 857,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/HKiq8sFDVK",
+            "expanded_url": "https://twitter.com/i/web/status/1500893746531123202",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "NASAKennedy",
+            "name": "NASA's Kennedy Space Center",
+            "id": 16580226,
+            "id_str": "16580226",
+            "indices": [
+               8,
+               20
+            ]
+         },
+         {
+            "screen_name": "UofNorthDakota",
+            "name": "U of North Dakota",
+            "id": 35790375,
+            "id_str": "35790375",
+            "indices": [
+               42,
+               57
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675929087"
+}

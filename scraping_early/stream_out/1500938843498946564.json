@@ -1,0 +1,418 @@
+{
+   "created_at": "Mon Mar 07 20:58:01 +0000 2022",
+   "id": 1500938843498946564,
+   "id_str": "1500938843498946564",
+   "text": "As Co-Chair of the Congressional Fire Service Caucus, I was honored to join firefighters from Maryland and across A\u2026 https://t.co/046jk60BWW",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 22012091,
+      "id_str": "22012091",
+      "name": "Steny Hoyer",
+      "screen_name": "LeaderHoyer",
+      "location": "Washington, DC",
+      "url": "http://MajorityLeader.gov",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland's Fifth Congressional District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 159738,
+      "friends_count": 5206,
+      "listed_count": 3023,
+      "favourites_count": 334,
+      "statuses_count": 24321,
+      "created_at": "Thu Feb 26 14:13:01 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "CC9900",
+      "profile_sidebar_fill_color": "F1F1DE",
+      "profile_text_color": "000066",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096390444685185025/TpO5twdF_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096390444685185025/TpO5twdF_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22012091/1631236234",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "As Co-Chair of the Congressional Fire Service Caucus, I was honored to join firefighters from Maryland and across America at the 2022 @IAFFNewsDesk Legislative Conference and thank them for all they do to keep our communities safe. Read my remarks here: https://t.co/X5ql9k5YUo https://t.co/IEbGTwVf5D",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/X5ql9k5YUo",
+               "expanded_url": "https://bit.ly/3vIrQaB",
+               "display_url": "bit.ly/3vIrQaB",
+               "indices": [
+                  254,
+                  277
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "IAFFNewsDesk",
+               "name": "IAFF",
+               "id": 174793500,
+               "id_str": "174793500",
+               "indices": [
+                  134,
+                  147
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500938514669744132,
+               "id_str": "1500938514669744132",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnoHSXsAQOcPB.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnoHSXsAQOcPB.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938514673938440,
+               "id_str": "1500938514673938440",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnoHTXsAgPU4S.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnoHTXsAgPU4S.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938783121973248,
+               "id_str": "1500938783121973248",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRn3vWXoAAKmlP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRn3vWXoAAKmlP.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938783243522054,
+               "id_str": "1500938783243522054",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRn3vzWUAYMtqG.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRn3vzWUAYMtqG.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500938514669744132,
+               "id_str": "1500938514669744132",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnoHSXsAQOcPB.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnoHSXsAQOcPB.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938514673938440,
+               "id_str": "1500938514673938440",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnoHTXsAgPU4S.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnoHTXsAgPU4S.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 848,
+                     "h": 636,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938783121973248,
+               "id_str": "1500938783121973248",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRn3vWXoAAKmlP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRn3vWXoAAKmlP.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938783243522054,
+               "id_str": "1500938783243522054",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRn3vzWUAYMtqG.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRn3vzWUAYMtqG.jpg",
+               "url": "https://t.co/IEbGTwVf5D",
+               "display_url": "pic.twitter.com/IEbGTwVf5D",
+               "expanded_url": "https://twitter.com/LeaderHoyer/status/1500938843498946564/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1000,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/046jk60BWW",
+            "expanded_url": "https://twitter.com/i/web/status/1500938843498946564",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686681042"
+}

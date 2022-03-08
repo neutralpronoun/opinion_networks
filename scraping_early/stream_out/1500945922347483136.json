@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 21:26:08 +0000 2022",
+   "id": 1500945922347483136,
+   "id_str": "1500945922347483136",
+   "text": "If we make\u00a0investments in renewable energy now, Americans will not be susceptible to\u00a0these\u00a0volatile swings in crude\u2026 https://t.co/bIQMnOalyp",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500945244141015040,
+   "in_reply_to_status_id_str": "1500945244141015040",
+   "in_reply_to_user_id": 14984637,
+   "in_reply_to_user_id_str": "14984637",
+   "in_reply_to_screen_name": "chelliepingree",
+   "user": {
+      "id": 14984637,
+      "id_str": "14984637",
+      "name": "Congresswoman Chellie Pingree \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6",
+      "screen_name": "chelliepingree",
+      "location": "Maine, USA",
+      "url": "http://pingree.house.gov",
+      "description": "Organic Farmer \ud83d\udc69\u200d\ud83c\udf3e. Mom of 3. Grandma of 7. Maine islander \ud83c\udf0a. @AppropsDems Interior Chair and member of @HouseAgDems.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 33407,
+      "friends_count": 1280,
+      "listed_count": 1554,
+      "favourites_count": 1877,
+      "statuses_count": 7481,
+      "created_at": "Mon Jun 02 20:29:56 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1393247423594647557/q6WQVQms_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393247423594647557/q6WQVQms_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14984637/1552927251",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "If we make\u00a0investments in renewable energy now, Americans will not be susceptible to\u00a0these\u00a0volatile swings in crude\u00a0oil\u00a0prices over the long-term nor will our nation be\u00a0devastated\u00a0by a dependance\u00a0on\u00a0fossil fuel in the face of an undeniable climate crisis.",
+      "display_text_range": [
+         0,
+         255
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/bIQMnOalyp",
+            "expanded_url": "https://twitter.com/i/web/status/1500945922347483136",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688368771"
+}

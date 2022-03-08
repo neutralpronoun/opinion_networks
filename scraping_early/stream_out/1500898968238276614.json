@@ -1,0 +1,493 @@
+{
+   "created_at": "Mon Mar 07 18:19:34 +0000 2022",
+   "id": 1500898968238276614,
+   "id_str": "1500898968238276614",
+   "text": "RT @njcrofts: There is still time to apply to be the new Digital Manager/Press Assistant or Operations Coordinator in @RepBonamici's office\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 558769636,
+      "id_str": "558769636",
+      "name": "Suzanne Bonamici",
+      "screen_name": "RepBonamici",
+      "location": null,
+      "url": "http://bonamici.house.gov/",
+      "description": "Representing Oregon's 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, & #ActOnClimate. Proud mom of two grown kids. She/her.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 35155,
+      "friends_count": 1271,
+      "listed_count": 1112,
+      "favourites_count": 920,
+      "statuses_count": 9557,
+      "created_at": "Fri Apr 20 16:30:32 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "325B9D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1227347272075272193/GH2CwHqF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227347272075272193/GH2CwHqF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/558769636/1513624686",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 18:19:09 +0000 2022",
+      "id": 1500898867306549253,
+      "id_str": "1500898867306549253",
+      "text": "There is still time to apply to be the new Digital Manager/Press Assistant or Operations Coordinator in\u2026 https://t.co/vX6onxCxct",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 19358440,
+         "id_str": "19358440",
+         "name": "Natalie Crofts",
+         "screen_name": "njcrofts",
+         "location": "Washington, DC",
+         "url": null,
+         "description": "I love sunshine, news and food. Comms Director for @RepBonamici. Former head reporter for @KSLcom. Native Oregonian \ud83c\udf32 Tweets are my own, etc. She/her.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1192,
+         "friends_count": 1267,
+         "listed_count": 76,
+         "favourites_count": 5163,
+         "statuses_count": 6740,
+         "created_at": "Thu Jan 22 20:16:20 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "ACDED6",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "9F55DB",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "F6F6F6",
+         "profile_text_color": "038543",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/19358440/1466835587",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1498404706460311554,
+      "quoted_status_id_str": "1498404706460311554",
+      "quoted_status": {
+         "created_at": "Mon Feb 28 21:08:15 +0000 2022",
+         "id": 1498404706460311554,
+         "id_str": "1498404706460311554",
+         "text": "\u26a1\ufe0fJob alert \u26a1\ufe0f \n\nTeam @RepBonamici is hiring a new Digital Manager/Press Assistant! This position will be based in\u2026 https://t.co/42yFGJ8JeG",
+         "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 19358440,
+            "id_str": "19358440",
+            "name": "Natalie Crofts",
+            "screen_name": "njcrofts",
+            "location": "Washington, DC",
+            "url": null,
+            "description": "I love sunshine, news and food. Comms Director for @RepBonamici. Former head reporter for @KSLcom. Native Oregonian \ud83c\udf32 Tweets are my own, etc. She/her.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1192,
+            "friends_count": 1267,
+            "listed_count": 76,
+            "favourites_count": 5163,
+            "statuses_count": 6740,
+            "created_at": "Thu Jan 22 20:16:20 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "9F55DB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "038543",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19358440/1466835587",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "\u26a1\ufe0fJob alert \u26a1\ufe0f \n\nTeam @RepBonamici is hiring a new Digital Manager/Press Assistant! This position will be based in our Beaverton office &amp; is a great fit for someone w/ media experience who is early in their career. Happy to answer questions! \n\nMore here:\nhttps://t.co/w9AaqGokAg",
+            "display_text_range": [
+               0,
+               282
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [
+                  {
+                     "url": "https://t.co/w9AaqGokAg",
+                     "expanded_url": "https://jobs.macslist.org/job/b5dlgc/digital-manager-and-press-assistant-office-of-congresswoman-suzanne-bonamici/beaverton/oregon",
+                     "display_url": "jobs.macslist.org/job/b5dlgc/dig\u2026",
+                     "indices": [
+                        259,
+                        282
+                     ]
+                  }
+               ],
+               "user_mentions": [
+                  {
+                     "screen_name": "RepBonamici",
+                     "name": "Suzanne Bonamici",
+                     "id": 558769636,
+                     "id_str": "558769636",
+                     "indices": [
+                        22,
+                        34
+                     ]
+                  }
+               ],
+               "symbols": []
+            }
+         },
+         "quote_count": 3,
+         "reply_count": 2,
+         "retweet_count": 5,
+         "favorite_count": 5,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/42yFGJ8JeG",
+                  "expanded_url": "https://twitter.com/i/web/status/1498404706460311554",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     116,
+                     139
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepBonamici",
+                  "name": "Suzanne Bonamici",
+                  "id": 558769636,
+                  "id_str": "558769636",
+                  "indices": [
+                     22,
+                     34
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/AxljskMEnR",
+         "expanded": "https://twitter.com/njcrofts/status/1498404706460311554",
+         "display": "twitter.com/njcrofts/statu\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "There is still time to apply to be the new Digital Manager/Press Assistant or Operations Coordinator in @RepBonamici's office! \n\nMore details about both job openings below: https://t.co/AxljskMEnR",
+         "display_text_range": [
+            0,
+            172
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/AxljskMEnR",
+                  "expanded_url": "https://twitter.com/njcrofts/status/1498404706460311554",
+                  "display_url": "twitter.com/njcrofts/statu\u2026",
+                  "indices": [
+                     173,
+                     196
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepBonamici",
+                  "name": "Suzanne Bonamici",
+                  "id": 558769636,
+                  "id_str": "558769636",
+                  "indices": [
+                     104,
+                     116
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/vX6onxCxct",
+               "expanded_url": "https://twitter.com/i/web/status/1500898867306549253",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  105,
+                  128
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1498404706460311554,
+   "quoted_status_id_str": "1498404706460311554",
+   "quoted_status": {
+      "created_at": "Mon Feb 28 21:08:15 +0000 2022",
+      "id": 1498404706460311554,
+      "id_str": "1498404706460311554",
+      "text": "\u26a1\ufe0fJob alert \u26a1\ufe0f \n\nTeam @RepBonamici is hiring a new Digital Manager/Press Assistant! This position will be based in\u2026 https://t.co/42yFGJ8JeG",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 19358440,
+         "id_str": "19358440",
+         "name": "Natalie Crofts",
+         "screen_name": "njcrofts",
+         "location": "Washington, DC",
+         "url": null,
+         "description": "I love sunshine, news and food. Comms Director for @RepBonamici. Former head reporter for @KSLcom. Native Oregonian \ud83c\udf32 Tweets are my own, etc. She/her.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1192,
+         "friends_count": 1267,
+         "listed_count": 76,
+         "favourites_count": 5163,
+         "statuses_count": 6740,
+         "created_at": "Thu Jan 22 20:16:20 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "ACDED6",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "9F55DB",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "F6F6F6",
+         "profile_text_color": "038543",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388285482363199490/G_jrwF2i_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/19358440/1466835587",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\u26a1\ufe0fJob alert \u26a1\ufe0f \n\nTeam @RepBonamici is hiring a new Digital Manager/Press Assistant! This position will be based in our Beaverton office &amp; is a great fit for someone w/ media experience who is early in their career. Happy to answer questions! \n\nMore here:\nhttps://t.co/w9AaqGokAg",
+         "display_text_range": [
+            0,
+            282
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/w9AaqGokAg",
+                  "expanded_url": "https://jobs.macslist.org/job/b5dlgc/digital-manager-and-press-assistant-office-of-congresswoman-suzanne-bonamici/beaverton/oregon",
+                  "display_url": "jobs.macslist.org/job/b5dlgc/dig\u2026",
+                  "indices": [
+                     259,
+                     282
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepBonamici",
+                  "name": "Suzanne Bonamici",
+                  "id": 558769636,
+                  "id_str": "558769636",
+                  "indices": [
+                     22,
+                     34
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 2,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/42yFGJ8JeG",
+               "expanded_url": "https://twitter.com/i/web/status/1498404706460311554",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepBonamici",
+               "name": "Suzanne Bonamici",
+               "id": 558769636,
+               "id_str": "558769636",
+               "indices": [
+                  22,
+                  34
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/AxljskMEnR",
+      "expanded": "https://twitter.com/njcrofts/status/1498404706460311554",
+      "display": "twitter.com/njcrofts/statu\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "njcrofts",
+            "name": "Natalie Crofts",
+            "id": 19358440,
+            "id_str": "19358440",
+            "indices": [
+               3,
+               12
+            ]
+         },
+         {
+            "screen_name": "RepBonamici",
+            "name": "Suzanne Bonamici",
+            "id": 558769636,
+            "id_str": "558769636",
+            "indices": [
+               118,
+               130
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677174039"
+}

@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 19:36:50 +0000 2022",
+   "id": 1500918413551706121,
+   "id_str": "1500918413551706121",
+   "text": "It\u2019s been 724 days since Speaker Pelosi closed the U.S. Capitol to the public. Proud to support legislation to re-o\u2026 https://t.co/fFANk6jQOM",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1065995022,
+      "id_str": "1065995022",
+      "name": "Jackie Walorski",
+      "screen_name": "RepWalorski",
+      "location": null,
+      "url": "http://walorski.house.gov",
+      "description": "Representing Indiana's 2nd Congressional District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 22973,
+      "friends_count": 679,
+      "listed_count": 918,
+      "favourites_count": 694,
+      "statuses_count": 6380,
+      "created_at": "Sun Jan 06 15:41:40 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1352299062301782017/F-23vywF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352299062301782017/F-23vywF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065995022/1447888516",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "It\u2019s been 724 days since Speaker Pelosi closed the U.S. Capitol to the public. Proud to support legislation to re-open the Capitol to Hoosiers &amp; Americans across the country. It\u2019s the People\u2019s House \u2013 not Pelosi\u2019s house.",
+      "display_text_range": [
+         0,
+         224
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/fFANk6jQOM",
+            "expanded_url": "https://twitter.com/i/web/status/1500918413551706121",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681810163"
+}

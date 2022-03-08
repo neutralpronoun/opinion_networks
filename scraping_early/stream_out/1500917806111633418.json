@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 19:34:25 +0000 2022",
+   "id": 1500917806111633418,
+   "id_str": "1500917806111633418",
+   "text": "Today is the 57th anniversary of Bloody Sunday, where marchers for voting rights were beaten in Selma, Alabama on t\u2026 https://t.co/3KFfIaPstP",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1345103905869455361,
+      "id_str": "1345103905869455361",
+      "name": "Congresswoman Sara Jacobs",
+      "screen_name": "RepSaraJacobs",
+      "location": null,
+      "url": "http://sarajacobs.house.gov",
+      "description": "Representing #CA53 and a new generation of leaders. Member of House Dem Steering and Policy Committee, @HouseForeign, @HASCDemocrats, and @FairGrowthCmte.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 17982,
+      "friends_count": 59,
+      "listed_count": 269,
+      "favourites_count": 51,
+      "statuses_count": 1162,
+      "created_at": "Fri Jan 01 20:26:39 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1405318967628021761/cmMWWgRY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405318967628021761/cmMWWgRY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345103905869455361/1645195515",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today is the 57th anniversary of Bloody Sunday, where marchers for voting rights were beaten in Selma, Alabama on their way to Montgomery.\n\nDecades later voting rights are still under assault. It\u2019s on all of us to speak out against injustice and keep marching forward. https://t.co/4toRGsyPy1",
+      "display_text_range": [
+         0,
+         268
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500917802911293440,
+               "id_str": "1500917802911293440",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUyh-WYAA2PS_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUyh-WYAA2PS_.jpg",
+               "url": "https://t.co/4toRGsyPy1",
+               "display_url": "pic.twitter.com/4toRGsyPy1",
+               "expanded_url": "https://twitter.com/RepSaraJacobs/status/1500917806111633418/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 676,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 676,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500917802911293440,
+               "id_str": "1500917802911293440",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUyh-WYAA2PS_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUyh-WYAA2PS_.jpg",
+               "url": "https://t.co/4toRGsyPy1",
+               "display_url": "pic.twitter.com/4toRGsyPy1",
+               "expanded_url": "https://twitter.com/RepSaraJacobs/status/1500917806111633418/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1200,
+                     "h": 676,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 676,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/3KFfIaPstP",
+            "expanded_url": "https://twitter.com/i/web/status/1500917806111633418",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681665338"
+}

@@ -1,0 +1,579 @@
+{
+   "created_at": "Tue Mar 08 02:20:49 +0000 2022",
+   "id": 1501020081861582851,
+   "id_str": "1501020081861582851",
+   "text": "RT @ChrisMurphyCT: This is the tear filled face of a child from Ukraine. It is indeed excruciating to watch. \n\nBut these faces can be found\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 176911829,
+      "id_str": "176911829",
+      "name": "Neeha Curtis",
+      "screen_name": "NeehaCurtis",
+      "location": "Cleveland, OH",
+      "url": "http://www.neehacurtis.com",
+      "description": "Journalist. #IVF Mom. Journalism Prof. Indian, dual citizen of New Zealand. All-American immigrant. Fluent in Telugu. Politics & Foreign Policy are my thing .",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3385,
+      "friends_count": 1486,
+      "listed_count": 49,
+      "favourites_count": 3850,
+      "statuses_count": 752,
+      "created_at": "Tue Aug 10 19:31:03 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1382691739186659343/RRyXxOey_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382691739186659343/RRyXxOey_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/176911829/1638591877",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:38:19 +0000 2022",
+      "id": 1500918786312097792,
+      "id_str": "1500918786312097792",
+      "text": "This is the tear filled face of a child from Ukraine. It is indeed excruciating to watch. \n\nBut these faces can be\u2026 https://t.co/X9ryxiOC03",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 150078976,
+         "id_str": "150078976",
+         "name": "Chris Murphy",
+         "screen_name": "ChrisMurphyCT",
+         "location": null,
+         "url": null,
+         "description": "U.S. Senator from Connecticut.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1075866,
+         "friends_count": 233,
+         "listed_count": 6215,
+         "favourites_count": 1370,
+         "statuses_count": 26894,
+         "created_at": "Mon May 31 01:22:43 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1608242210",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500913960274612228,
+      "quoted_status_id_str": "1500913960274612228",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 19:19:08 +0000 2022",
+         "id": 1500913960274612228,
+         "id_str": "1500913960274612228",
+         "text": "Excruciating https://t.co/PIutGEIN0F",
+         "display_text_range": [
+            0,
+            12
+         ],
+         "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 701750402786717696,
+            "id_str": "701750402786717696",
+            "name": "Josh Campbell",
+            "screen_name": "joshscampbell",
+            "location": null,
+            "url": "https://www.cnn.com/profiles/josh-campbell#about",
+            "description": "Correspondent @CNN, senior adj national security fellow @CNASdc, fmr @FBI special agent, diplomat, military officer | joshscampbell@protonmail.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 232388,
+            "friends_count": 3980,
+            "listed_count": 1654,
+            "favourites_count": 58348,
+            "statuses_count": 1046,
+            "created_at": "Mon Feb 22 12:48:28 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1486222034203865090/o1I7tUvG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486222034203865090/o1I7tUvG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/701750402786717696/1645126292",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 3334,
+         "reply_count": 2984,
+         "retweet_count": 13801,
+         "favorite_count": 43861,
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500913908390977541,
+                  "id_str": "1500913908390977541",
+                  "indices": [
+                     13,
+                     36
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+                  "url": "https://t.co/PIutGEIN0F",
+                  "display_url": "pic.twitter.com/PIutGEIN0F",
+                  "expanded_url": "https://twitter.com/joshscampbell/status/1500913960274612228/video/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500913908390977541,
+                  "id_str": "1500913908390977541",
+                  "indices": [
+                     13,
+                     36
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+                  "url": "https://t.co/PIutGEIN0F",
+                  "display_url": "pic.twitter.com/PIutGEIN0F",
+                  "expanded_url": "https://twitter.com/joshscampbell/status/1500913960274612228/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 21589,
+                     "variants": [
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/480x270/Pak0hy2krQJsmyrh.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/1280x720/M67iBIyh-Fey2SIE.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500913908390977541/pl/Orug5CteIux6S4nd.m3u8?tag=14&container=fmp4&v=5ca"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/640x360/O8aVrFAhz5YeeDB3.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/zZ9nitzGzn",
+         "expanded": "https://twitter.com/joshscampbell/status/1500913960274612228",
+         "display": "twitter.com/joshscampbell/\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "This is the tear filled face of a child from Ukraine. It is indeed excruciating to watch. \n\nBut these faces can be found in Syria, Afghanistan, Ethiopia, Yemen - anywhere there is conflict or famine.\n\nIt\u2019s time for the United States to open our hearts and raise the refugee cap.",
+         "display_text_range": [
+            0,
+            278
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 30,
+      "reply_count": 108,
+      "retweet_count": 547,
+      "favorite_count": 2464,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/X9ryxiOC03",
+               "expanded_url": "https://twitter.com/i/web/status/1500918786312097792",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500913960274612228,
+   "quoted_status_id_str": "1500913960274612228",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:19:08 +0000 2022",
+      "id": 1500913960274612228,
+      "id_str": "1500913960274612228",
+      "text": "Excruciating https://t.co/PIutGEIN0F",
+      "display_text_range": [
+         0,
+         12
+      ],
+      "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 701750402786717696,
+         "id_str": "701750402786717696",
+         "name": "Josh Campbell",
+         "screen_name": "joshscampbell",
+         "location": null,
+         "url": "https://www.cnn.com/profiles/josh-campbell#about",
+         "description": "Correspondent @CNN, senior adj national security fellow @CNASdc, fmr @FBI special agent, diplomat, military officer | joshscampbell@protonmail.com",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 232388,
+         "friends_count": 3980,
+         "listed_count": 1654,
+         "favourites_count": 58348,
+         "statuses_count": 1046,
+         "created_at": "Mon Feb 22 12:48:28 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1486222034203865090/o1I7tUvG_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486222034203865090/o1I7tUvG_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/701750402786717696/1645126292",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 3334,
+      "reply_count": 2984,
+      "retweet_count": 13801,
+      "favorite_count": 43861,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500913908390977541,
+               "id_str": "1500913908390977541",
+               "indices": [
+                  13,
+                  36
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+               "url": "https://t.co/PIutGEIN0F",
+               "display_url": "pic.twitter.com/PIutGEIN0F",
+               "expanded_url": "https://twitter.com/joshscampbell/status/1500913960274612228/video/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1280,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500913908390977541,
+               "id_str": "1500913908390977541",
+               "indices": [
+                  13,
+                  36
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500913908390977541/img/gyU2Hc3cStMDKcS5.jpg",
+               "url": "https://t.co/PIutGEIN0F",
+               "display_url": "pic.twitter.com/PIutGEIN0F",
+               "expanded_url": "https://twitter.com/joshscampbell/status/1500913960274612228/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 21589,
+                  "variants": [
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/480x270/Pak0hy2krQJsmyrh.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/1280x720/M67iBIyh-Fey2SIE.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500913908390977541/pl/Orug5CteIux6S4nd.m3u8?tag=14&container=fmp4&v=5ca"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500913908390977541/vid/640x360/O8aVrFAhz5YeeDB3.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1280,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/zZ9nitzGzn",
+      "expanded": "https://twitter.com/joshscampbell/status/1500913960274612228",
+      "display": "twitter.com/joshscampbell/\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ChrisMurphyCT",
+            "name": "Chris Murphy",
+            "id": 150078976,
+            "id_str": "150078976",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646706049777"
+}

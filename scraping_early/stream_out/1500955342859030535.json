@@ -1,0 +1,287 @@
+{
+   "created_at": "Mon Mar 07 22:03:34 +0000 2022",
+   "id": 1500955342859030535,
+   "id_str": "1500955342859030535",
+   "text": "March is #NationalNutritionMonth, so I visited @TylerTomcats on Friday to discuss their outstanding school nutritio\u2026 https://t.co/NMxt3SrqaO",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1017819745880543238,
+      "id_str": "1017819745880543238",
+      "name": "Rep. Jennifer Wexton",
+      "screen_name": "RepWexton",
+      "location": "Leesburg, VA",
+      "url": "http://wexton.house.gov",
+      "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32444,
+      "friends_count": 1345,
+      "listed_count": 590,
+      "favourites_count": 525,
+      "statuses_count": 4342,
+      "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1618181985",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "March is #NationalNutritionMonth, so I visited @TylerTomcats on Friday to discuss their outstanding school nutrition program, which strives to source foods locally and has done remarkable work to feed families during COVID\u2014made possible by programs I supported in Congress. https://t.co/EuNpq1BNqa",
+      "display_text_range": [
+         0,
+         273
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "NationalNutritionMonth",
+               "indices": [
+                  9,
+                  32
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "TylerTomcats",
+               "name": "Tyler Elementary",
+               "id": 4055813129,
+               "id_str": "4055813129",
+               "indices": [
+                  47,
+                  60
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500951766317379584,
+               "id_str": "1500951766317379584",
+               "indices": [
+                  274,
+                  297
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500951766317379584/img/2b3oBYB1DSXeEaLz.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500951766317379584/img/2b3oBYB1DSXeEaLz.jpg",
+               "url": "https://t.co/EuNpq1BNqa",
+               "display_url": "pic.twitter.com/EuNpq1BNqa",
+               "expanded_url": "https://twitter.com/RepWexton/status/1500955342859030535/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     4,
+                     3
+                  ],
+                  "duration_millis": 169154,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/480x360/jOd9hU-TvIqBMn5z.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/960x720/UNnWHcNm1qb26DuF.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/pl/T3cDhBb26GWzYvpg.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/360x270/_a06Lot6ZL5rGE2-.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 960,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 960,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500951766317379584,
+               "id_str": "1500951766317379584",
+               "indices": [
+                  274,
+                  297
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500951766317379584/img/2b3oBYB1DSXeEaLz.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500951766317379584/img/2b3oBYB1DSXeEaLz.jpg",
+               "url": "https://t.co/EuNpq1BNqa",
+               "display_url": "pic.twitter.com/EuNpq1BNqa",
+               "expanded_url": "https://twitter.com/RepWexton/status/1500955342859030535/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     4,
+                     3
+                  ],
+                  "duration_millis": 169154,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/480x360/jOd9hU-TvIqBMn5z.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/960x720/UNnWHcNm1qb26DuF.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/pl/T3cDhBb26GWzYvpg.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500951766317379584/vid/360x270/_a06Lot6ZL5rGE2-.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 960,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 960,
+                     "h": 720,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "NationalNutritionMonth",
+            "indices": [
+               9,
+               32
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/NMxt3SrqaO",
+            "expanded_url": "https://twitter.com/i/web/status/1500955342859030535",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "TylerTomcats",
+            "name": "Tyler Elementary",
+            "id": 4055813129,
+            "id_str": "4055813129",
+            "indices": [
+               47,
+               60
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690614796"
+}

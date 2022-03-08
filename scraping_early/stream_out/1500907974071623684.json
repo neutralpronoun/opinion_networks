@@ -1,0 +1,325 @@
+{
+   "created_at": "Mon Mar 07 18:55:21 +0000 2022",
+   "id": 1500907974071623684,
+   "id_str": "1500907974071623684",
+   "text": "So thankful to hear from the people of Monroe and West Monroe today. \n\nIt\u2019s always great to get out of Washington a\u2026 https://t.co/O5RhCGj9Vl",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 816683274076614656,
+      "id_str": "816683274076614656",
+      "name": "John Kennedy",
+      "screen_name": "SenJohnKennedy",
+      "location": "Louisiana",
+      "url": "https://www.kennedy.senate.gov/",
+      "description": "Official account of U.S. Senator John Kennedy of Louisiana.\nFacebook: https://www.facebook.com/SenatorJohnKennedy",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 272316,
+      "friends_count": 1306,
+      "listed_count": 1766,
+      "favourites_count": 703,
+      "statuses_count": 3149,
+      "created_at": "Wed Jan 04 16:30:40 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1478828894878945282/oc8JVTd1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478828894878945282/oc8JVTd1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816683274076614656/1608232124",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "So thankful to hear from the people of Monroe and West Monroe today. \n\nIt\u2019s always great to get out of Washington and back into America. https://t.co/1TuOnOgeWx",
+      "display_text_range": [
+         0,
+         136
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500907952299036680,
+               "id_str": "1500907952299036680",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlX0Agh6vi.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlX0Agh6vi.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907952299036678,
+               "id_str": "1500907952299036678",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlX0AYBxTh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlX0AYBxTh.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 404,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1028,
+                     "h": 611,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1028,
+                     "h": 611,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907952298942469,
+               "id_str": "1500907952298942469",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlWYAUD4ab.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlWYAUD4ab.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1046,
+                     "h": 574,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 373,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1046,
+                     "h": 574,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500907952299036680,
+               "id_str": "1500907952299036680",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlX0Agh6vi.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlX0Agh6vi.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 590,
+                     "h": 579,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907952299036678,
+               "id_str": "1500907952299036678",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlX0AYBxTh.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlX0AYBxTh.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 404,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1028,
+                     "h": 611,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1028,
+                     "h": 611,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500907952298942469,
+               "id_str": "1500907952298942469",
+               "indices": [
+                  137,
+                  160
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRL1JlWYAUD4ab.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRL1JlWYAUD4ab.jpg",
+               "url": "https://t.co/1TuOnOgeWx",
+               "display_url": "pic.twitter.com/1TuOnOgeWx",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500907974071623684/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1046,
+                     "h": 574,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 373,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1046,
+                     "h": 574,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/O5RhCGj9Vl",
+            "expanded_url": "https://twitter.com/i/web/status/1500907974071623684",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679321197"
+}

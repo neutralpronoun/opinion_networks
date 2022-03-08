@@ -1,0 +1,465 @@
+{
+   "created_at": "Tue Mar 08 05:14:04 +0000 2022",
+   "id": 1501063681618153477,
+   "id_str": "1501063681618153477",
+   "text": "RT @RitchieTorres: Russia has been reduced to a pariah state, and rightly so.\n\nWhy, then, are we negotiating with Russia as if it had never\u2026",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 315779591,
+      "id_str": "315779591",
+      "name": "Lahav Harkov",
+      "screen_name": "LahavHarkov",
+      "location": "Jerusalem\\Tel Aviv",
+      "url": "http://www.LahavHarkov.com",
+      "description": "Diplomatic correspondent & Senior Contributing Editor, The Jerusalem Post, podcast host, ex Knesset reporter. Proud Jew and Zionist. Wears pink on Wednesdays.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 94527,
+      "friends_count": 2717,
+      "listed_count": 1181,
+      "favourites_count": 117885,
+      "statuses_count": 159520,
+      "created_at": "Sun Jun 12 12:42:35 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "DBE9ED",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1473648493113790464/IQ4z3KXI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473648493113790464/IQ4z3KXI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/315779591/1643352320",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 04:11:41 +0000 2022",
+      "id": 1500685592883081220,
+      "id_str": "1500685592883081220",
+      "text": "Russia has been reduced to a pariah state, and rightly so.\n\nWhy, then, are we negotiating with Russia as if it had\u2026 https://t.co/5CckY9RRs1",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1247612029,
+         "id_str": "1247612029",
+         "name": "Ritchie Torres",
+         "screen_name": "RitchieTorres",
+         "location": "Bronx, NY",
+         "url": "http://Torres.nyc",
+         "description": "Congressman (#NY15). Born & bred in the Bronx. Product of public housing. Fighting for ppl whose struggles were my own. Personal Account.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 84333,
+         "friends_count": 4625,
+         "listed_count": 742,
+         "favourites_count": 10191,
+         "statuses_count": 8500,
+         "created_at": "Thu Mar 07 00:58:26 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1149696930198503431/hX-QzrQT_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149696930198503431/hX-QzrQT_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247612029/1600191651",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500559690111111174,
+      "quoted_status_id_str": "1500559690111111174",
+      "quoted_status": {
+         "created_at": "Sun Mar 06 19:51:23 +0000 2022",
+         "id": 1500559690111111174,
+         "id_str": "1500559690111111174",
+         "text": "Iran got a much better result in the nuclear talks than expected, the head of Russia\u2019s delegation Ambassador Mikhai\u2026 https://t.co/zBX5LWvIxm",
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 19489239,
+            "id_str": "19489239",
+            "name": "The Jerusalem Post",
+            "screen_name": "Jerusalem_Post",
+            "location": "Israel",
+            "url": "http://www.jpost.com",
+            "description": "Israel & world news from the Jewish state's leading website and best-selling English news source. | Get the JPost newsletter https://bit.ly/2PuiCZc \ud83d\udce9",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 551682,
+            "friends_count": 587,
+            "listed_count": 8895,
+            "favourites_count": 1745,
+            "statuses_count": 331447,
+            "created_at": "Sun Jan 25 14:17:26 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "BB131A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F7F2F2",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19489239/1574449515",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "Iran got a much better result in the nuclear talks than expected, the head of Russia\u2019s delegation Ambassador Mikhail Ulyanov said.\n\nReport by @LahavHarkov | #Russia | #Iran \n\nhttps://t.co/jt4sVveEBC",
+            "display_text_range": [
+               0,
+               198
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "Russia",
+                     "indices": [
+                        157,
+                        164
+                     ]
+                  },
+                  {
+                     "text": "Iran",
+                     "indices": [
+                        167,
+                        172
+                     ]
+                  }
+               ],
+               "urls": [
+                  {
+                     "url": "https://t.co/jt4sVveEBC",
+                     "expanded_url": "https://www.jpost.com/middle-east/article-700498",
+                     "display_url": "jpost.com/middle-east/ar\u2026",
+                     "indices": [
+                        175,
+                        198
+                     ]
+                  }
+               ],
+               "user_mentions": [
+                  {
+                     "screen_name": "LahavHarkov",
+                     "name": "Lahav Harkov",
+                     "id": 315779591,
+                     "id_str": "315779591",
+                     "indices": [
+                        142,
+                        154
+                     ]
+                  }
+               ],
+               "symbols": []
+            }
+         },
+         "quote_count": 11,
+         "reply_count": 13,
+         "retweet_count": 35,
+         "favorite_count": 45,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/zBX5LWvIxm",
+                  "expanded_url": "https://twitter.com/i/web/status/1500559690111111174",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/9YN7O4G8I9",
+         "expanded": "https://twitter.com/jerusalem_post/status/1500559690111111174",
+         "display": "twitter.com/jerusalem_post\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Russia has been reduced to a pariah state, and rightly so.\n\nWhy, then, are we negotiating with Russia as if it had never invaded Ukraine? As though the times we live in were business as usual?  \n\nCognitive dissonance.",
+         "display_text_range": [
+            0,
+            217
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 52,
+      "reply_count": 40,
+      "retweet_count": 67,
+      "favorite_count": 288,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5CckY9RRs1",
+               "expanded_url": "https://twitter.com/i/web/status/1500685592883081220",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500559690111111174,
+   "quoted_status_id_str": "1500559690111111174",
+   "quoted_status": {
+      "created_at": "Sun Mar 06 19:51:23 +0000 2022",
+      "id": 1500559690111111174,
+      "id_str": "1500559690111111174",
+      "text": "Iran got a much better result in the nuclear talks than expected, the head of Russia\u2019s delegation Ambassador Mikhai\u2026 https://t.co/zBX5LWvIxm",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 19489239,
+         "id_str": "19489239",
+         "name": "The Jerusalem Post",
+         "screen_name": "Jerusalem_Post",
+         "location": "Israel",
+         "url": "http://www.jpost.com",
+         "description": "Israel & world news from the Jewish state's leading website and best-selling English news source. | Get the JPost newsletter https://bit.ly/2PuiCZc \ud83d\udce9",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 551682,
+         "friends_count": 587,
+         "listed_count": 8895,
+         "favourites_count": 1745,
+         "statuses_count": 331447,
+         "created_at": "Sun Jan 25 14:17:26 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "BB131A",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "F7F2F2",
+         "profile_text_color": "3C3940",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/19489239/1574449515",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Iran got a much better result in the nuclear talks than expected, the head of Russia\u2019s delegation Ambassador Mikhail Ulyanov said.\n\nReport by @LahavHarkov | #Russia | #Iran \n\nhttps://t.co/jt4sVveEBC",
+         "display_text_range": [
+            0,
+            198
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Russia",
+                  "indices": [
+                     157,
+                     164
+                  ]
+               },
+               {
+                  "text": "Iran",
+                  "indices": [
+                     167,
+                     172
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/jt4sVveEBC",
+                  "expanded_url": "https://www.jpost.com/middle-east/article-700498",
+                  "display_url": "jpost.com/middle-east/ar\u2026",
+                  "indices": [
+                     175,
+                     198
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "LahavHarkov",
+                  "name": "Lahav Harkov",
+                  "id": 315779591,
+                  "id_str": "315779591",
+                  "indices": [
+                     142,
+                     154
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 11,
+      "reply_count": 13,
+      "retweet_count": 35,
+      "favorite_count": 45,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/zBX5LWvIxm",
+               "expanded_url": "https://twitter.com/i/web/status/1500559690111111174",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/9YN7O4G8I9",
+      "expanded": "https://twitter.com/jerusalem_post/status/1500559690111111174",
+      "display": "twitter.com/jerusalem_post\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RitchieTorres",
+            "name": "Ritchie Torres",
+            "id": 1247612029,
+            "id_str": "1247612029",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646716444769"
+}

@@ -1,0 +1,288 @@
+{
+   "created_at": "Mon Mar 07 20:39:28 +0000 2022",
+   "id": 1500934176291315730,
+   "id_str": "1500934176291315730",
+   "text": "Live look at the White House https://t.co/QtrhPvm9Ib",
+   "display_text_range": [
+      0,
+      28
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 234822928,
+      "id_str": "234822928",
+      "name": "Rep. Bob Gibbs",
+      "screen_name": "RepBobGibbs",
+      "location": "US Congress",
+      "url": "http://gibbs.house.gov",
+      "description": "R-OH http://www.facebook.com/RepBobGibbs",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38744,
+      "friends_count": 1650,
+      "listed_count": 970,
+      "favourites_count": 279,
+      "statuses_count": 3990,
+      "created_at": "Thu Jan 06 17:17:21 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "470C0F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0B14BD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "1D472F",
+      "profile_text_color": "080808",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104057806334976001/vNamx0io_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234822928/1505504628",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500917799031607300,
+   "quoted_status_id_str": "1500917799031607300",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:34:23 +0000 2022",
+      "id": 1500917799031607300,
+      "id_str": "1500917799031607300",
+      "text": "BREAKING: According to GasBuddy data, the US national average has JUST set a new all-time record: $4.104/gallon, ec\u2026 https://t.co/gxyttyamHY",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 35941034,
+         "id_str": "35941034",
+         "name": "Patrick De Haan \u26fd\ufe0f\ud83d\udcca",
+         "screen_name": "GasBuddyGuy",
+         "location": "Chicago via Grand Rapids, MI",
+         "url": "http://patrickdehaan.com",
+         "description": "truth & facts over politics. oil & refined products analyst, foremost expert on oil and gasoline prices. obsessed with data quality. gas price myth buster.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35750,
+         "friends_count": 1805,
+         "listed_count": 611,
+         "favourites_count": 20879,
+         "statuses_count": 30252,
+         "created_at": "Tue Apr 28 01:29:47 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1A4E64",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "119948",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "C0F0EF",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1415648107010957315/z72oCHPe_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415648107010957315/z72oCHPe_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/35941034/1626354263",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "BREAKING: According to GasBuddy data, the US national average has JUST set a new all-time record: $4.104/gallon, eclipsing 2008's record of $4.103/gal. The higher prices this time will likely stay around far longer. #oil #gasprices https://t.co/8RgHCC9sK3",
+         "display_text_range": [
+            0,
+            255
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "oil",
+                  "indices": [
+                     216,
+                     220
+                  ]
+               },
+               {
+                  "text": "gasprices",
+                  "indices": [
+                     221,
+                     231
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/8RgHCC9sK3",
+                  "expanded_url": "https://bit.ly/3CAqgsV",
+                  "display_url": "bit.ly/3CAqgsV",
+                  "indices": [
+                     232,
+                     255
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 146,
+      "reply_count": 56,
+      "retweet_count": 300,
+      "favorite_count": 275,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/gxyttyamHY",
+               "expanded_url": "https://twitter.com/i/web/status/1500917799031607300",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/bj7MEXfCj0",
+      "expanded": "https://twitter.com/gasbuddyguy/status/1500917799031607300",
+      "display": "twitter.com/gasbuddyguy/st\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500934174282330127,
+            "id_str": "1500934174282330127",
+            "indices": [
+               29,
+               52
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRjreFXsA8jSVP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRjreFXsA8jSVP.jpg",
+            "url": "https://t.co/QtrhPvm9Ib",
+            "display_url": "pic.twitter.com/QtrhPvm9Ib",
+            "expanded_url": "https://twitter.com/RepBobGibbs/status/1500934176291315730/photo/1",
+            "type": "photo",
+            "sizes": {
+               "large": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500934174282330127,
+            "id_str": "1500934174282330127",
+            "indices": [
+               29,
+               52
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRjreFXsA8jSVP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRjreFXsA8jSVP.jpg",
+            "url": "https://t.co/QtrhPvm9Ib",
+            "display_url": "pic.twitter.com/QtrhPvm9Ib",
+            "expanded_url": "https://twitter.com/RepBobGibbs/status/1500934176291315730/photo/1",
+            "type": "photo",
+            "sizes": {
+               "large": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 557,
+                  "h": 268,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685568293"
+}

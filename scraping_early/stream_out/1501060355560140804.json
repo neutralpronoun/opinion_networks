@@ -1,0 +1,124 @@
+{
+   "created_at": "Tue Mar 08 05:00:51 +0000 2022",
+   "id": 1501060355560140804,
+   "id_str": "1501060355560140804",
+   "text": "@Jim_Jordan And they're best friends!! -It's not fair!! You're right \n(who are you by the way?) fuckin' double stan\u2026 https://t.co/JkRsPVOd68",
+   "display_text_range": [
+      12,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500938259635052545,
+   "in_reply_to_status_id_str": "1500938259635052545",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 144576988,
+      "id_str": "144576988",
+      "name": "James Callis",
+      "screen_name": "jamescallis",
+      "location": "in your streams",
+      "url": null,
+      "description": "#StandwithUkraine",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29457,
+      "friends_count": 2654,
+      "listed_count": 490,
+      "favourites_count": 16975,
+      "statuses_count": 6349,
+      "created_at": "Sun May 16 18:15:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "E31010",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "14B863",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "695CCC",
+      "profile_text_color": "E6DF15",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1499514236698906629/F-9KEmgt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499514236698906629/F-9KEmgt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/144576988/1645888529",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@Jim_Jordan And they're best friends!! -It's not fair!! You're right \n(who are you by the way?) fuckin' double standards! I don't know! It's a hard one to wrestle with unless you just turn a blind eye -eh? like pretend you didn't see?\nDon't pretend you've never done that before -Gym is it?",
+      "display_text_range": [
+         12,
+         290
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "Jim_Jordan",
+               "name": "Rep. Jim Jordan",
+               "id": 18166778,
+               "id_str": "18166778",
+               "indices": [
+                  0,
+                  11
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/JkRsPVOd68",
+            "expanded_url": "https://twitter.com/i/web/status/1501060355560140804",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646715651775"
+}

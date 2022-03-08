@@ -1,0 +1,131 @@
+{
+   "created_at": "Tue Mar 08 01:00:18 +0000 2022",
+   "id": 1500999818147241986,
+   "id_str": "1500999818147241986",
+   "text": "Today, I joined 48 of my colleagues from both sides of the aisle to urge @POTUS to work with our NATO allies to pro\u2026 https://t.co/ZgnsYSv8eW",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1058717720,
+      "id_str": "1058717720",
+      "name": "Ann McLane Kuster",
+      "screen_name": "RepAnnieKuster",
+      "location": "NH's 2nd District",
+      "url": "http://kuster.house.gov/",
+      "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 24453,
+      "friends_count": 2222,
+      "listed_count": 908,
+      "favourites_count": 772,
+      "statuses_count": 7328,
+      "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1393312843508981761/izufJnTE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393312843508981761/izufJnTE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1610664206",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today, I joined 48 of my colleagues from both sides of the aisle to urge @POTUS to work with our NATO allies to provide the Ukrainian Air Force with the aircraft needed to defend and secure its skies.\n\nRead the full letter \u2b07\ufe0f\nhttps://t.co/I3hx9oitrR",
+      "display_text_range": [
+         0,
+         249
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/I3hx9oitrR",
+               "expanded_url": "https://kuster.house.gov/news/documentsingle.aspx?DocumentID=4355",
+               "display_url": "kuster.house.gov/news/documents\u2026",
+               "indices": [
+                  226,
+                  249
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  73,
+                  79
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/ZgnsYSv8eW",
+            "expanded_url": "https://twitter.com/i/web/status/1500999818147241986",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               73,
+               79
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701218531"
+}

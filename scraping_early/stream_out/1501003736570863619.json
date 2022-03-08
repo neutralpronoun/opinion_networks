@@ -1,0 +1,410 @@
+{
+   "created_at": "Tue Mar 08 01:15:52 +0000 2022",
+   "id": 1501003736570863619,
+   "id_str": "1501003736570863619",
+   "text": "RT @SenJoniErnst: The United States should not be relying on Vladimir Putin for energy. https://t.co/iDmp8bg6Uc",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1345807954604412929,
+      "id_str": "1345807954604412929",
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "screen_name": "RepMMM",
+      "location": "Iowa",
+      "url": "http://millermeeks.house.gov",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa's Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10847,
+      "friends_count": 300,
+      "listed_count": 231,
+      "favourites_count": 1188,
+      "statuses_count": 2235,
+      "created_at": "Sun Jan 03 19:03:30 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345807954604412929/1609711375",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:20:09 +0000 2022",
+      "id": 1500944417221451781,
+      "id_str": "1500944417221451781",
+      "text": "The United States should not be relying on Vladimir Putin for energy. https://t.co/iDmp8bg6Uc",
+      "display_text_range": [
+         0,
+         69
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2856787757,
+         "id_str": "2856787757",
+         "name": "Joni Ernst",
+         "screen_name": "SenJoniErnst",
+         "location": "Iowa",
+         "url": "http://Ernst.Senate.Gov",
+         "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 125793,
+         "friends_count": 160,
+         "listed_count": 1874,
+         "favourites_count": 455,
+         "statuses_count": 7817,
+         "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "4A913C",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1568067950",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 9,
+      "reply_count": 75,
+      "retweet_count": 18,
+      "favorite_count": 90,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500863011019538436,
+               "id_str": "1500863011019538436",
+               "indices": [
+                  70,
+                  93
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+               "url": "https://t.co/iDmp8bg6Uc",
+               "display_url": "pic.twitter.com/iDmp8bg6Uc",
+               "expanded_url": "https://twitter.com/SenJoniErnst/status/1500944417221451781/video/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500863011019538436,
+               "id_str": "1500863011019538436",
+               "indices": [
+                  70,
+                  93
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+               "url": "https://t.co/iDmp8bg6Uc",
+               "display_url": "pic.twitter.com/iDmp8bg6Uc",
+               "expanded_url": "https://twitter.com/SenJoniErnst/status/1500944417221451781/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     4,
+                     3
+                  ],
+                  "duration_millis": 60863,
+                  "variants": [
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500863011019538436/pl/BF5ykDLdSjbYzMk3.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/960x720/kOysOztjYDXT5X0V.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/480x360/GO3cNXcYoeOftnJf.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/360x270/IlV3SIFgQtY9iNqG.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 480,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenJoniErnst",
+            "name": "Joni Ernst",
+            "id": 2856787757,
+            "id_str": "2856787757",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500863011019538436,
+            "id_str": "1500863011019538436",
+            "indices": [
+               88,
+               111
+            ],
+            "additional_media_info": {
+               "title": "",
+               "description": "",
+               "embeddable": true,
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+            "url": "https://t.co/iDmp8bg6Uc",
+            "display_url": "pic.twitter.com/iDmp8bg6Uc",
+            "expanded_url": "https://twitter.com/SenJoniErnst/status/1500944417221451781/video/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500944417221451781,
+            "source_status_id_str": "1500944417221451781",
+            "source_user_id": 2856787757,
+            "source_user_id_str": "2856787757"
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500863011019538436,
+            "id_str": "1500863011019538436",
+            "indices": [
+               88,
+               111
+            ],
+            "additional_media_info": {
+               "title": "",
+               "description": "",
+               "embeddable": true,
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRoqsnWYAE7FYw.jpg",
+            "url": "https://t.co/iDmp8bg6Uc",
+            "display_url": "pic.twitter.com/iDmp8bg6Uc",
+            "expanded_url": "https://twitter.com/SenJoniErnst/status/1500944417221451781/video/1",
+            "type": "video",
+            "video_info": {
+               "aspect_ratio": [
+                  4,
+                  3
+               ],
+               "duration_millis": 60863,
+               "variants": [
+                  {
+                     "content_type": "application/x-mpegURL",
+                     "url": "https://video.twimg.com/amplify_video/1500863011019538436/pl/BF5ykDLdSjbYzMk3.m3u8?tag=14&container=fmp4"
+                  },
+                  {
+                     "bitrate": 2176000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/960x720/kOysOztjYDXT5X0V.mp4?tag=14"
+                  },
+                  {
+                     "bitrate": 832000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/480x360/GO3cNXcYoeOftnJf.mp4?tag=14"
+                  },
+                  {
+                     "bitrate": 288000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500863011019538436/vid/360x270/IlV3SIFgQtY9iNqG.mp4?tag=14"
+                  }
+               ]
+            },
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 480,
+                  "h": 360,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500944417221451781,
+            "source_status_id_str": "1500944417221451781",
+            "source_user_id": 2856787757,
+            "source_user_id_str": "2856787757"
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702152756"
+}

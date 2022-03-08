@@ -1,0 +1,189 @@
+{
+   "created_at": "Mon Mar 07 23:47:24 +0000 2022",
+   "id": 1500981471959519233,
+   "id_str": "1500981471959519233",
+   "text": "In our own small way, the Crist for Governor campaign wants to show that all Floridians stand with the Ukrainian pe\u2026 https://t.co/Nn1kJQ3fZr",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 38970940,
+      "id_str": "38970940",
+      "name": "Charlie Crist",
+      "screen_name": "CharlieCrist",
+      "location": "St. Petersburg, Florida",
+      "url": "http://www.charliecrist.com",
+      "description": "Former Governor, proud @FloridaState alum, serving the Sunshine State in Congress. Running for Governor to build a Florida for all. \n\nText CHARLIE to 54238 \ud83d\udcf1",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 92279,
+      "friends_count": 474,
+      "listed_count": 1214,
+      "favourites_count": 523,
+      "statuses_count": 5025,
+      "created_at": "Sun May 10 01:42:17 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1045A0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "88B8E6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1389549889651150851/agFfyGV1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389549889651150851/agFfyGV1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38970940/1620129485",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "In our own small way, the Crist for Governor campaign wants to show that all Floridians stand with the Ukrainian people.\n\nShow your support, and every dollar will go to the Red Cross of Ukraine. #FLwithUkraine https://t.co/QEFGE9wixW",
+      "display_text_range": [
+         0,
+         209
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "FLwithUkraine",
+               "indices": [
+                  195,
+                  209
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500981468360855559,
+               "id_str": "1500981468360855559",
+               "indices": [
+                  210,
+                  233
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSOsWQX0AcjXTi.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSOsWQX0AcjXTi.jpg",
+               "url": "https://t.co/QEFGE9wixW",
+               "display_url": "pic.twitter.com/QEFGE9wixW",
+               "expanded_url": "https://twitter.com/CharlieCrist/status/1500981471959519233/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500981468360855559,
+               "id_str": "1500981468360855559",
+               "indices": [
+                  210,
+                  233
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSOsWQX0AcjXTi.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSOsWQX0AcjXTi.jpg",
+               "url": "https://t.co/QEFGE9wixW",
+               "display_url": "pic.twitter.com/QEFGE9wixW",
+               "expanded_url": "https://twitter.com/CharlieCrist/status/1500981471959519233/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 600,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/Nn1kJQ3fZr",
+            "expanded_url": "https://twitter.com/i/web/status/1500981471959519233",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646696844459"
+}

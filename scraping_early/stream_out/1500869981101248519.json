@@ -1,0 +1,347 @@
+{
+   "created_at": "Mon Mar 07 16:24:22 +0000 2022",
+   "id": 1500869981101248519,
+   "id_str": "1500869981101248519",
+   "text": "This weekend, I had the pleasure of joining the good folks @MattieRhodes for the grand opening of the Mattie Rhodes\u2026 https://t.co/gsL49db3zP",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 163570705,
+      "id_str": "163570705",
+      "name": "Rep. Emanuel Cleaver",
+      "screen_name": "repcleaver",
+      "location": null,
+      "url": "http://cleaver.house.gov",
+      "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 51108,
+      "friends_count": 1170,
+      "listed_count": 1234,
+      "favourites_count": 210,
+      "statuses_count": 10165,
+      "created_at": "Tue Jul 06 19:14:47 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1351973559481094148/77_khClK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351973559481094148/77_khClK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/163570705/1568735623",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "This weekend, I had the pleasure of joining the good folks @MattieRhodes for the grand opening of the Mattie Rhodes Cultural Arts Center, a brand new facility that will offer enhanced education, therapy and arts programming to families on KCMO\u2019s Westside! https://t.co/GKTsm8NqNd",
+      "display_text_range": [
+         0,
+         255
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "MattieRhodes",
+               "name": "Mattie Rhodes Center",
+               "id": 73797098,
+               "id_str": "73797098",
+               "indices": [
+                  59,
+                  72
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500869453336256514,
+               "id_str": "1500869453336256514",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo0NxXoAITYLT.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo0NxXoAITYLT.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500869463335444484,
+               "id_str": "1500869463335444484",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo0zBXIAQk0qv.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo0zBXIAQk0qv.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500869503525212160,
+               "id_str": "1500869503525212160",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo3IvWUAABWzD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo3IvWUAABWzD.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500869453336256514,
+               "id_str": "1500869453336256514",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo0NxXoAITYLT.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo0NxXoAITYLT.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500869463335444484,
+               "id_str": "1500869463335444484",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo0zBXIAQk0qv.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo0zBXIAQk0qv.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500869503525212160,
+               "id_str": "1500869503525212160",
+               "indices": [
+                  256,
+                  279
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQo3IvWUAABWzD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQo3IvWUAABWzD.jpg",
+               "url": "https://t.co/GKTsm8NqNd",
+               "display_url": "pic.twitter.com/GKTsm8NqNd",
+               "expanded_url": "https://twitter.com/repcleaver/status/1500869981101248519/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/gsL49db3zP",
+            "expanded_url": "https://twitter.com/i/web/status/1500869981101248519",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "MattieRhodes",
+            "name": "Mattie Rhodes Center",
+            "id": 73797098,
+            "id_str": "73797098",
+            "indices": [
+               59,
+               72
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670262967"
+}

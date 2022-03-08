@@ -1,0 +1,310 @@
+{
+   "created_at": "Mon Mar 07 22:58:08 +0000 2022",
+   "id": 1500969075006132226,
+   "id_str": "1500969075006132226",
+   "text": "RT @NASA: \u2728 We're looking for bright minds to find their place in space, science and aeronautics as one of our @NASAInterns! \n\nKnow someone\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 20552026,
+      "id_str": "20552026",
+      "name": "Rep. Ed Perlmutter",
+      "screen_name": "RepPerlmutter",
+      "location": "Colorado",
+      "url": "http://perlmutter.house.gov",
+      "description": "Member of Congress, proudly representing the 7th District of Colorado http://facebook.com/RepPerlmutter",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38386,
+      "friends_count": 4812,
+      "listed_count": 1447,
+      "favourites_count": 2590,
+      "statuses_count": 8419,
+      "created_at": "Tue Feb 10 22:17:52 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0400B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1397948238532120582/2XX6Q977_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397948238532120582/2XX6Q977_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20552026/1403113187",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sat Mar 05 18:10:02 +0000 2022",
+      "id": 1500171795655278596,
+      "id_str": "1500171795655278596",
+      "text": "\u2728 We're looking for bright minds to find their place in space, science and aeronautics as one of our @NASAInterns!\u2026 https://t.co/IdmQuNf3hx",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 11348282,
+         "id_str": "11348282",
+         "name": "NASA",
+         "screen_name": "NASA",
+         "location": "Pale Blue Dot",
+         "url": "http://www.nasa.gov/",
+         "description": "There's space for everybody. \u2728",
+         "translator_type": "regular",
+         "protected": false,
+         "verified": true,
+         "followers_count": 53882846,
+         "friends_count": 181,
+         "listed_count": 97891,
+         "favourites_count": 13962,
+         "statuses_count": 67959,
+         "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "205BA7",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "F3F2F2",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1643827576",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\u2728 We're looking for bright minds to find their place in space, science and aeronautics as one of our @NASAInterns! \n\nKnow someone with the right stuff? Is it you? Explore opportunities for Summer and Fall 2022 &amp; apply at: https://t.co/s69uwyR1LJ https://t.co/ZIULSMksxV",
+         "display_text_range": [
+            0,
+            249
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/s69uwyR1LJ",
+                  "expanded_url": "http://intern.nasa.gov",
+                  "display_url": "intern.nasa.gov",
+                  "indices": [
+                     226,
+                     249
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "NASAInterns",
+                  "name": "NASA Internships",
+                  "id": 804001198567264256,
+                  "id_str": "804001198567264256",
+                  "indices": [
+                     101,
+                     113
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500171788575289356,
+                  "id_str": "1500171788575289356",
+                  "indices": [
+                     250,
+                     273
+                  ],
+                  "description": "Interns with a NASA Airborne Science Program collect air quality data outdoors",
+                  "media_url": "http://pbs.twimg.com/media/FNGuSyAXsAwDK59.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNGuSyAXsAwDK59.jpg",
+                  "url": "https://t.co/ZIULSMksxV",
+                  "display_url": "pic.twitter.com/ZIULSMksxV",
+                  "expanded_url": "https://twitter.com/NASA/status/1500171795655278596/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 579,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 328,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 987,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500171788575289356,
+                  "id_str": "1500171788575289356",
+                  "indices": [
+                     250,
+                     273
+                  ],
+                  "description": "Interns with a NASA Airborne Science Program collect air quality data outdoors",
+                  "media_url": "http://pbs.twimg.com/media/FNGuSyAXsAwDK59.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNGuSyAXsAwDK59.jpg",
+                  "url": "https://t.co/ZIULSMksxV",
+                  "display_url": "pic.twitter.com/ZIULSMksxV",
+                  "expanded_url": "https://twitter.com/NASA/status/1500171795655278596/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 579,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 328,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 987,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 31,
+      "reply_count": 111,
+      "retweet_count": 347,
+      "favorite_count": 2649,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/IdmQuNf3hx",
+               "expanded_url": "https://twitter.com/i/web/status/1500171795655278596",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "NASAInterns",
+               "name": "NASA Internships",
+               "id": 804001198567264256,
+               "id_str": "804001198567264256",
+               "indices": [
+                  101,
+                  113
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "NASA",
+            "name": "NASA",
+            "id": 11348282,
+            "id_str": "11348282",
+            "indices": [
+               3,
+               8
+            ]
+         },
+         {
+            "screen_name": "NASAInterns",
+            "name": "NASA Internships",
+            "id": 804001198567264256,
+            "id_str": "804001198567264256",
+            "indices": [
+               111,
+               123
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693888795"
+}

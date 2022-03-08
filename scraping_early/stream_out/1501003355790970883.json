@@ -1,0 +1,413 @@
+{
+   "created_at": "Tue Mar 08 01:14:21 +0000 2022",
+   "id": 1501003355790970883,
+   "id_str": "1501003355790970883",
+   "text": "RT @IlhanMN: Our response to Putin\u2019s immoral war shouldn\u2019t be to strengthen our relationship with the Saudis who are currently causing the\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 27187343,
+      "id_str": "27187343",
+      "name": "Linda Sarsour",
+      "screen_name": "lsarsour",
+      "location": "Brooklyn, NY",
+      "url": "http://www.lindasarsour.com",
+      "description": "co-founder, @untilfreedom @womensmarch & @mpower_change. Palestinian-Muslim-American organizer from Brooklyn, Author of \u201cWe Are Not Here to Be Bystanders\u201d\ud83c\udf39",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 326991,
+      "friends_count": 3724,
+      "listed_count": 2824,
+      "favourites_count": 6101,
+      "statuses_count": 106428,
+      "created_at": "Sat Mar 28 05:42:36 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1247735974228090880/BNbue7Id_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247735974228090880/BNbue7Id_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27187343/1604857901",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 00:20:56 +0000 2022",
+      "id": 1500627524019179522,
+      "id_str": "1500627524019179522",
+      "text": "Our response to Putin\u2019s immoral war shouldn\u2019t be to strengthen our relationship with the Saudis who are currently c\u2026 https://t.co/VtMD3yK2WK",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 783792992,
+         "id_str": "783792992",
+         "name": "Ilhan Omar",
+         "screen_name": "IlhanMN",
+         "location": "Minneapolis, MN",
+         "url": "http://www.ilhanomar.com",
+         "description": "Mom, Refugee and Congresswoman for #MN05. Progressive Caucus Whip. Fighting for a more just world. Grassroots funded progressive \u2728 http://HC.com/IlhanOmar \ud83d\udcda",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 3035344,
+         "friends_count": 1682,
+         "listed_count": 7843,
+         "favourites_count": 21262,
+         "statuses_count": 20644,
+         "created_at": "Mon Aug 27 04:21:41 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/783792992/1598461410",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500596667581620224,
+      "quoted_status_id_str": "1500596667581620224",
+      "quoted_status": {
+         "created_at": "Sun Mar 06 22:18:19 +0000 2022",
+         "id": 1500596667581620224,
+         "id_str": "1500596667581620224",
+         "text": "\ud83d\udea8 \ud83d\udea8 scoops -&gt; President Biden\u2019s advisers are discussing a possible visit to Saudi Arabia this spring to help repair\u2026 https://t.co/pO0qPCGQXE",
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 244212645,
+            "id_str": "244212645",
+            "name": "Jim VandeHei",
+            "screen_name": "JimVandeHei",
+            "location": "Alexandria, VA",
+            "url": "http://www.axios.com",
+            "description": "CEO/Co-Founder of Axios; Former Co-Founder/CEO of Politico; former White House reporter for Washington Post and Wall Street Journal; also Roll Call & New Fuels",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 48986,
+            "friends_count": 661,
+            "listed_count": 963,
+            "favourites_count": 3969,
+            "statuses_count": 13982,
+            "created_at": "Fri Jan 28 20:03:12 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1483401483408351236/XDH840G8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483401483408351236/XDH840G8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/244212645/1483833222",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "\ud83d\udea8 \ud83d\udea8 scoops -&gt; President Biden\u2019s advisers are discussing a possible visit to Saudi Arabia this spring to help repair relations and convince the Kingdom to pump more oil, Axios has learned.  https://t.co/Xfzl57agv8",
+            "display_text_range": [
+               0,
+               215
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [
+                  {
+                     "url": "https://t.co/Xfzl57agv8",
+                     "expanded_url": "https://www.axios.com/biden-saudi-trip-oil-b7a91070-8045-4155-9120-a35d59fd7603.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitt",
+                     "display_url": "axios.com/biden-saudi-tr\u2026",
+                     "indices": [
+                        192,
+                        215
+                     ]
+                  }
+               ],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 1086,
+         "reply_count": 1198,
+         "retweet_count": 588,
+         "favorite_count": 1291,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/pO0qPCGQXE",
+                  "expanded_url": "https://twitter.com/i/web/status/1500596667581620224",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     120,
+                     143
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/xv3aHzcFht",
+         "expanded": "https://twitter.com/jimvandehei/status/1500596667581620224",
+         "display": "twitter.com/jimvandehei/st\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Our response to Putin\u2019s immoral war shouldn\u2019t be to strengthen our relationship with the Saudis who are currently causing the worst humanitarian crisis on the planet in Yemen. \n\nYemenis might not matter to some geopolitically but their humanity should. This is wildly immoral act.",
+         "display_text_range": [
+            0,
+            280
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 165,
+      "reply_count": 811,
+      "retweet_count": 2048,
+      "favorite_count": 9841,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VtMD3yK2WK",
+               "expanded_url": "https://twitter.com/i/web/status/1500627524019179522",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500596667581620224,
+   "quoted_status_id_str": "1500596667581620224",
+   "quoted_status": {
+      "created_at": "Sun Mar 06 22:18:19 +0000 2022",
+      "id": 1500596667581620224,
+      "id_str": "1500596667581620224",
+      "text": "\ud83d\udea8 \ud83d\udea8 scoops -&gt; President Biden\u2019s advisers are discussing a possible visit to Saudi Arabia this spring to help repair\u2026 https://t.co/pO0qPCGQXE",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 244212645,
+         "id_str": "244212645",
+         "name": "Jim VandeHei",
+         "screen_name": "JimVandeHei",
+         "location": "Alexandria, VA",
+         "url": "http://www.axios.com",
+         "description": "CEO/Co-Founder of Axios; Former Co-Founder/CEO of Politico; former White House reporter for Washington Post and Wall Street Journal; also Roll Call & New Fuels",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 48986,
+         "friends_count": 661,
+         "listed_count": 963,
+         "favourites_count": 3969,
+         "statuses_count": 13982,
+         "created_at": "Fri Jan 28 20:03:12 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1483401483408351236/XDH840G8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483401483408351236/XDH840G8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/244212645/1483833222",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\ud83d\udea8 \ud83d\udea8 scoops -&gt; President Biden\u2019s advisers are discussing a possible visit to Saudi Arabia this spring to help repair relations and convince the Kingdom to pump more oil, Axios has learned.  https://t.co/Xfzl57agv8",
+         "display_text_range": [
+            0,
+            215
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/Xfzl57agv8",
+                  "expanded_url": "https://www.axios.com/biden-saudi-trip-oil-b7a91070-8045-4155-9120-a35d59fd7603.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitt",
+                  "display_url": "axios.com/biden-saudi-tr\u2026",
+                  "indices": [
+                     192,
+                     215
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 1086,
+      "reply_count": 1198,
+      "retweet_count": 588,
+      "favorite_count": 1291,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/pO0qPCGQXE",
+               "expanded_url": "https://twitter.com/i/web/status/1500596667581620224",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  120,
+                  143
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/xv3aHzcFht",
+      "expanded": "https://twitter.com/jimvandehei/status/1500596667581620224",
+      "display": "twitter.com/jimvandehei/st\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "IlhanMN",
+            "name": "Ilhan Omar",
+            "id": 783792992,
+            "id_str": "783792992",
+            "indices": [
+               3,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702061971"
+}

@@ -1,0 +1,343 @@
+{
+   "created_at": "Mon Mar 07 22:33:34 +0000 2022",
+   "id": 1500962891410849792,
+   "id_str": "1500962891410849792",
+   "text": "RT @ASAMorg: Thanks to @RepLoriTrahan for joining us today at #AMAC22 to speak about legislative efforts to #TreatAddictionSaveLives. #MATE\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1079802482640019456,
+      "id_str": "1079802482640019456",
+      "name": "Congresswoman Lori Trahan",
+      "screen_name": "RepLoriTrahan",
+      "location": "Massachusetts, USA",
+      "url": "https://trahan.house.gov/",
+      "description": "Proudly representing Massachusetts' Third District in Congress. @EnergyCommerce & @NRDems member. She/Hers. \ud83d\udcde (978) 459-0101",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 31326,
+      "friends_count": 1805,
+      "listed_count": 620,
+      "favourites_count": 5499,
+      "statuses_count": 7137,
+      "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1634152884",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:06:23 +0000 2022",
+      "id": 1500956051641876480,
+      "id_str": "1500956051641876480",
+      "text": "Thanks to @RepLoriTrahan for joining us today at #AMAC22 to speak about legislative efforts to\u2026 https://t.co/BKGRI3hFRf",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 382647376,
+         "id_str": "382647376",
+         "name": "ASAM",
+         "screen_name": "ASAMorg",
+         "location": "Rockville, MD",
+         "url": "https://www.asam.org/",
+         "description": "American Society of Addiction Medicine: A professional medical society representing physicians and clinicians in #AddictionMedicine. RT \u2260 endorsement",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 20971,
+         "friends_count": 769,
+         "listed_count": 337,
+         "favourites_count": 4528,
+         "statuses_count": 13234,
+         "created_at": "Fri Sep 30 12:59:05 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/819621145200758784/YETgkJuf_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/819621145200758784/YETgkJuf_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/382647376/1645072053",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Thanks to @RepLoriTrahan for joining us today at #AMAC22 to speak about legislative efforts to #TreatAddictionSaveLives. #MATEAct https://t.co/28c4lhY1Js",
+         "display_text_range": [
+            0,
+            129
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "AMAC22",
+                  "indices": [
+                     49,
+                     56
+                  ]
+               },
+               {
+                  "text": "TreatAddictionSaveLives",
+                  "indices": [
+                     95,
+                     119
+                  ]
+               },
+               {
+                  "text": "MATEAct",
+                  "indices": [
+                     121,
+                     129
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepLoriTrahan",
+                  "name": "Congresswoman Lori Trahan",
+                  "id": 1079802482640019456,
+                  "id_str": "1079802482640019456",
+                  "indices": [
+                     10,
+                     24
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500955990606458888,
+                  "id_str": "1500955990606458888",
+                  "indices": [
+                     130,
+                     153
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR3hWOXsAgMGro.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR3hWOXsAgMGro.jpg",
+                  "url": "https://t.co/28c4lhY1Js",
+                  "display_url": "pic.twitter.com/28c4lhY1Js",
+                  "expanded_url": "https://twitter.com/ASAMorg/status/1500956051641876480/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1340,
+                        "h": 1000,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 896,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 507,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500955990606458888,
+                  "id_str": "1500955990606458888",
+                  "indices": [
+                     130,
+                     153
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR3hWOXsAgMGro.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR3hWOXsAgMGro.jpg",
+                  "url": "https://t.co/28c4lhY1Js",
+                  "display_url": "pic.twitter.com/28c4lhY1Js",
+                  "expanded_url": "https://twitter.com/ASAMorg/status/1500956051641876480/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1340,
+                        "h": 1000,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 896,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 507,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "AMAC22",
+               "indices": [
+                  49,
+                  56
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/BKGRI3hFRf",
+               "expanded_url": "https://twitter.com/i/web/status/1500956051641876480",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  96,
+                  119
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepLoriTrahan",
+               "name": "Congresswoman Lori Trahan",
+               "id": 1079802482640019456,
+               "id_str": "1079802482640019456",
+               "indices": [
+                  10,
+                  24
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "AMAC22",
+            "indices": [
+               62,
+               69
+            ]
+         },
+         {
+            "text": "TreatAddictionSaveLives",
+            "indices": [
+               108,
+               132
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ASAMorg",
+            "name": "ASAM",
+            "id": 382647376,
+            "id_str": "382647376",
+            "indices": [
+               3,
+               11
+            ]
+         },
+         {
+            "screen_name": "RepLoriTrahan",
+            "name": "Congresswoman Lori Trahan",
+            "id": 1079802482640019456,
+            "id_str": "1079802482640019456",
+            "indices": [
+               23,
+               37
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646692414511"
+}

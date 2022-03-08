@@ -1,0 +1,191 @@
+{
+   "created_at": "Mon Mar 07 16:19:35 +0000 2022",
+   "id": 1500868776480358405,
+   "id_str": "1500868776480358405",
+   "text": "On the job market? Join me for my second annual GA07 Jobs Fair at the Gwinnett County Fairgrounds!\n\n\ud83d\udcc5 Mark you cale\u2026 https://t.co/7MOD55D2hx",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343620645452595200,
+      "id_str": "1343620645452595200",
+      "name": "Rep. Carolyn Bourdeaux",
+      "screen_name": "RepBourdeaux",
+      "location": null,
+      "url": "http://bourdeaux.house.gov",
+      "description": "Proudly representing #GA07. Advocate for Georgia families and a big fan of budgets. Before Congress, I taught at @aysps \u2014 go Panthers!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 7279,
+      "friends_count": 120,
+      "listed_count": 234,
+      "favourites_count": 55,
+      "statuses_count": 1721,
+      "created_at": "Mon Dec 28 18:11:43 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345745027566243846/HkshH1Ao_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345745027566243846/HkshH1Ao_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343620645452595200/1625245008",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "On the job market? Join me for my second annual GA07 Jobs Fair at the Gwinnett County Fairgrounds!\n\n\ud83d\udcc5 Mark you calendars for March 23 @ 1 - 4 PM to meet dozens of businesses looking to hire. Be sure to RSVP via Facebook: https://t.co/gvbDtgXYtw https://t.co/2DjLnE7o1R",
+      "display_text_range": [
+         0,
+         244
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/gvbDtgXYtw",
+               "expanded_url": "https://fb.me/e/9KtFntmRl",
+               "display_url": "fb.me/e/9KtFntmRl",
+               "indices": [
+                  221,
+                  244
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500868636298432515,
+               "id_str": "1500868636298432515",
+               "indices": [
+                  245,
+                  268
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQoEqEX0AM9y-8.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQoEqEX0AM9y-8.jpg",
+               "url": "https://t.co/2DjLnE7o1R",
+               "display_url": "pic.twitter.com/2DjLnE7o1R",
+               "expanded_url": "https://twitter.com/RepBourdeaux/status/1500868776480358405/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 1024,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 1024,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500868636298432515,
+               "id_str": "1500868636298432515",
+               "indices": [
+                  245,
+                  268
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQoEqEX0AM9y-8.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQoEqEX0AM9y-8.jpg",
+               "url": "https://t.co/2DjLnE7o1R",
+               "display_url": "pic.twitter.com/2DjLnE7o1R",
+               "expanded_url": "https://twitter.com/RepBourdeaux/status/1500868776480358405/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 1024,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 1024,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/7MOD55D2hx",
+            "expanded_url": "https://twitter.com/i/web/status/1500868776480358405",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669975763"
+}

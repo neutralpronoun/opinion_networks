@@ -1,0 +1,351 @@
+{
+   "created_at": "Mon Mar 07 21:03:15 +0000 2022",
+   "id": 1500940163551215618,
+   "id_str": "1500940163551215618",
+   "text": "RT @RepPressley: Student debt cancellation is a racial &amp; economic justice issue.\n \nLet\u2019s get it done, @POTUS. https://t.co/mgNOVEDTVk",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 3186878430,
+      "id_str": "3186878430",
+      "name": "Movement 4 Black Lives",
+      "screen_name": "Mvmnt4BlkLives",
+      "location": "Worldwide",
+      "url": "https://linktr.ee/M4BL",
+      "description": "M4BL is a national network of over 150 organizations creating a broad political home for Black people to learn, organize, and take action. #M4BL",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 86891,
+      "friends_count": 786,
+      "listed_count": 701,
+      "favourites_count": 3731,
+      "statuses_count": 6964,
+      "created_at": "Wed May 06 18:00:58 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1415091526821191695/gHZxyCWH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415091526821191695/gHZxyCWH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3186878430/1646350742",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sun Mar 06 19:00:00 +0000 2022",
+      "id": 1500546758186704899,
+      "id_str": "1500546758186704899",
+      "text": "Student debt cancellation is a racial &amp; economic justice issue.\n \nLet\u2019s get it done, @POTUS. https://t.co/mgNOVEDTVk",
+      "display_text_range": [
+         0,
+         96
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1080584229510172678,
+         "id_str": "1080584229510172678",
+         "name": "Congresswoman Ayanna Pressley",
+         "screen_name": "RepPressley",
+         "location": "Boston, MA",
+         "url": "https://us06web.zoom.us/webinar/register/WN_8NaK6ltUQlKXmuih3v_1Ig",
+         "description": "Proudly serving the Massachusetts 7th. Vice Chair, @FSCDems & Member, @OversightDems She/Her.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 557795,
+         "friends_count": 998,
+         "listed_count": 2385,
+         "favourites_count": 3655,
+         "statuses_count": 5495,
+         "created_at": "Wed Jan 02 21:58:51 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1399754594192920583/C_lXcydg_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399754594192920583/C_lXcydg_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080584229510172678/1628189383",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 35,
+      "reply_count": 286,
+      "retweet_count": 566,
+      "favorite_count": 3201,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  89,
+                  95
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500528904393658374,
+               "id_str": "1500528904393658374",
+               "indices": [
+                  97,
+                  120
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+               "url": "https://t.co/mgNOVEDTVk",
+               "display_url": "pic.twitter.com/mgNOVEDTVk",
+               "expanded_url": "https://twitter.com/RepPressley/status/1500546758186704899/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500528904393658374,
+               "id_str": "1500528904393658374",
+               "indices": [
+                  97,
+                  120
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+               "url": "https://t.co/mgNOVEDTVk",
+               "display_url": "pic.twitter.com/mgNOVEDTVk",
+               "expanded_url": "https://twitter.com/RepPressley/status/1500546758186704899/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepPressley",
+            "name": "Congresswoman Ayanna Pressley",
+            "id": 1080584229510172678,
+            "id_str": "1080584229510172678",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               106,
+               112
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500528904393658374,
+            "id_str": "1500528904393658374",
+            "indices": [
+               114,
+               137
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+            "url": "https://t.co/mgNOVEDTVk",
+            "display_url": "pic.twitter.com/mgNOVEDTVk",
+            "expanded_url": "https://twitter.com/RepPressley/status/1500546758186704899/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1080,
+                  "h": 1080,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1080,
+                  "h": 1080,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500546758186704899,
+            "source_status_id_str": "1500546758186704899",
+            "source_user_id": 1080584229510172678,
+            "source_user_id_str": "1080584229510172678"
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500528904393658374,
+            "id_str": "1500528904393658374",
+            "indices": [
+               114,
+               137
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNLzFqGXEAYROq-.jpg",
+            "url": "https://t.co/mgNOVEDTVk",
+            "display_url": "pic.twitter.com/mgNOVEDTVk",
+            "expanded_url": "https://twitter.com/RepPressley/status/1500546758186704899/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1080,
+                  "h": 1080,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1080,
+                  "h": 1080,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500546758186704899,
+            "source_status_id_str": "1500546758186704899",
+            "source_user_id": 1080584229510172678,
+            "source_user_id_str": "1080584229510172678"
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686995767"
+}

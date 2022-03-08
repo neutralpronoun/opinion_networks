@@ -1,0 +1,360 @@
+{
+   "created_at": "Mon Mar 07 20:16:08 +0000 2022",
+   "id": 1500928304123154434,
+   "id_str": "1500928304123154434",
+   "text": "RT @ActiveRetirees: Thanks for fighting for retirees @RepWexton! We appreciate your votes to protect #Medicare and #SocialSecurity https://\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1017819745880543238,
+      "id_str": "1017819745880543238",
+      "name": "Rep. Jennifer Wexton",
+      "screen_name": "RepWexton",
+      "location": "Leesburg, VA",
+      "url": "http://wexton.house.gov",
+      "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32443,
+      "friends_count": 1345,
+      "listed_count": 590,
+      "favourites_count": 525,
+      "statuses_count": 4341,
+      "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1618181985",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Thu Feb 24 00:01:27 +0000 2022",
+      "id": 1496636355585138689,
+      "id_str": "1496636355585138689",
+      "text": "Thanks for fighting for retirees @RepWexton! We appreciate your votes to protect #Medicare and #SocialSecurity\u2026 https://t.co/1JJITgopK9",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 73413771,
+         "id_str": "73413771",
+         "name": "Alliance for Retired Americans",
+         "screen_name": "ActiveRetirees",
+         "location": "Washington, D.C.",
+         "url": "http://www.retiredamericans.org/",
+         "description": "Alliance for Retired Americans, 4.4 million retirees strong and growing. Fighting for retirement security.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 5801,
+         "friends_count": 560,
+         "listed_count": 172,
+         "favourites_count": 1375,
+         "statuses_count": 14534,
+         "created_at": "Fri Sep 11 15:47:57 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1304068592842018817/qEpJI8p6_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304068592842018817/qEpJI8p6_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/73413771/1481139010",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Thanks for fighting for retirees @RepWexton! We appreciate your votes to protect #Medicare and #SocialSecurity https://t.co/G9m7ZxrVmM #RetireeVotes https://t.co/ECKAaWp0vJ",
+         "display_text_range": [
+            0,
+            148
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Medicare",
+                  "indices": [
+                     81,
+                     90
+                  ]
+               },
+               {
+                  "text": "SocialSecurity",
+                  "indices": [
+                     95,
+                     110
+                  ]
+               },
+               {
+                  "text": "RetireeVotes",
+                  "indices": [
+                     135,
+                     148
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/G9m7ZxrVmM",
+                  "expanded_url": "http://ow.ly/qYaB30sbBQG",
+                  "display_url": "ow.ly/qYaB30sbBQG",
+                  "indices": [
+                     111,
+                     134
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepWexton",
+                  "name": "Rep. Jennifer Wexton",
+                  "id": 1017819745880543238,
+                  "id_str": "1017819745880543238",
+                  "indices": [
+                     33,
+                     43
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1496636354280759301,
+                  "id_str": "1496636354280759301",
+                  "indices": [
+                     149,
+                     172
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FMUe1a7XIAU4NWu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMUe1a7XIAU4NWu.jpg",
+                  "url": "https://t.co/ECKAaWp0vJ",
+                  "display_url": "pic.twitter.com/ECKAaWp0vJ",
+                  "expanded_url": "https://twitter.com/ActiveRetirees/status/1496636355585138689/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1496636354280759301,
+                  "id_str": "1496636354280759301",
+                  "indices": [
+                     149,
+                     172
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FMUe1a7XIAU4NWu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMUe1a7XIAU4NWu.jpg",
+                  "url": "https://t.co/ECKAaWp0vJ",
+                  "display_url": "pic.twitter.com/ECKAaWp0vJ",
+                  "expanded_url": "https://twitter.com/ActiveRetirees/status/1496636355585138689/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Medicare",
+               "indices": [
+                  81,
+                  90
+               ]
+            },
+            {
+               "text": "SocialSecurity",
+               "indices": [
+                  95,
+                  110
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/1JJITgopK9",
+               "expanded_url": "https://twitter.com/i/web/status/1496636355585138689",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  112,
+                  135
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepWexton",
+               "name": "Rep. Jennifer Wexton",
+               "id": 1017819745880543238,
+               "id_str": "1017819745880543238",
+               "indices": [
+                  33,
+                  43
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Medicare",
+            "indices": [
+               101,
+               110
+            ]
+         },
+         {
+            "text": "SocialSecurity",
+            "indices": [
+               115,
+               130
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ActiveRetirees",
+            "name": "Alliance for Retired Americans",
+            "id": 73413771,
+            "id_str": "73413771",
+            "indices": [
+               3,
+               18
+            ]
+         },
+         {
+            "screen_name": "RepWexton",
+            "name": "Rep. Jennifer Wexton",
+            "id": 1017819745880543238,
+            "id_str": "1017819745880543238",
+            "indices": [
+               53,
+               63
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684168259"
+}

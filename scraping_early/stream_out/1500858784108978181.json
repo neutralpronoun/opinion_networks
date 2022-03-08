@@ -1,0 +1,308 @@
+{
+   "created_at": "Mon Mar 07 15:39:53 +0000 2022",
+   "id": 1500858784108978181,
+   "id_str": "1500858784108978181",
+   "text": "RT @HouseScience: TUNE IN TOMORROW - @HouseScience Committee hearing on federal climate adaptation and resilience. Watch live at 10am: http\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 168502762,
+      "id_str": "168502762",
+      "name": "Rep. Eddie Bernice Johnson",
+      "screen_name": "RepEBJ",
+      "location": "Dallas, Texas",
+      "url": "http://ebjohnson.house.gov",
+      "description": "Representing Texas\u2019s 30th Congressional District. Chairwoman of @HouseScience. Dean of the Texas Delegation. First Registered Nurse elected to Congress.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38928,
+      "friends_count": 1548,
+      "listed_count": 1344,
+      "favourites_count": 1794,
+      "statuses_count": 9581,
+      "created_at": "Mon Jul 19 14:25:48 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1415687761453932550/HevXmvom_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415687761453932550/HevXmvom_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/168502762/1626361240",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 15:39:29 +0000 2022",
+      "id": 1500858684653592582,
+      "id_str": "1500858684653592582",
+      "text": "TUNE IN TOMORROW - @HouseScience Committee hearing on federal climate adaptation and resilience. Watch live at 10am\u2026 https://t.co/YqPm8DNtLI",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 22053641,
+         "id_str": "22053641",
+         "name": "Science Committee",
+         "screen_name": "HouseScience",
+         "location": "Washington, DC",
+         "url": "http://science.house.gov/",
+         "description": "News from the U.S. House of Representatives Committee on Science, Space, and Technology - May not represent the views of Members of the Committee",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 25359,
+         "friends_count": 1415,
+         "listed_count": 870,
+         "favourites_count": 6664,
+         "statuses_count": 9285,
+         "created_at": "Thu Feb 26 20:02:26 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "001B85",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "376882",
+         "profile_sidebar_border_color": "57AEFA",
+         "profile_sidebar_fill_color": "CEFDF6",
+         "profile_text_color": "3ABCE9",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080937032963244032/0pVPYpBL_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/22053641/1546615248",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "TUNE IN TOMORROW - @HouseScience Committee hearing on federal climate adaptation and resilience. Watch live at 10am: https://t.co/DbBQ9P6JMf https://t.co/sm5RctPmgG",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/DbBQ9P6JMf",
+                  "expanded_url": "https://science.house.gov/hearings/federal-climate-adaptation-and-resilience-for-the-21st-century",
+                  "display_url": "science.house.gov/hearings/feder\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "HouseScience",
+                  "name": "Science Committee",
+                  "id": 22053641,
+                  "id_str": "22053641",
+                  "indices": [
+                     19,
+                     32
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500855154245087239,
+                  "id_str": "1500855154245087239",
+                  "indices": [
+                     141,
+                     164
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQbz5gXsAcsI_D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQbz5gXsAcsI_D.jpg",
+                  "url": "https://t.co/sm5RctPmgG",
+                  "display_url": "pic.twitter.com/sm5RctPmgG",
+                  "expanded_url": "https://twitter.com/HouseScience/status/1500858684653592582/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500855154245087239,
+                  "id_str": "1500855154245087239",
+                  "indices": [
+                     141,
+                     164
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQbz5gXsAcsI_D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQbz5gXsAcsI_D.jpg",
+                  "url": "https://t.co/sm5RctPmgG",
+                  "display_url": "pic.twitter.com/sm5RctPmgG",
+                  "expanded_url": "https://twitter.com/HouseScience/status/1500858684653592582/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/YqPm8DNtLI",
+               "expanded_url": "https://twitter.com/i/web/status/1500858684653592582",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "HouseScience",
+               "name": "Science Committee",
+               "id": 22053641,
+               "id_str": "22053641",
+               "indices": [
+                  19,
+                  32
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "HouseScience",
+            "name": "Science Committee",
+            "id": 22053641,
+            "id_str": "22053641",
+            "indices": [
+               3,
+               16
+            ]
+         },
+         {
+            "screen_name": "HouseScience",
+            "name": "Science Committee",
+            "id": 22053641,
+            "id_str": "22053641",
+            "indices": [
+               37,
+               50
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667593396"
+}

@@ -1,0 +1,106 @@
+{
+   "created_at": "Mon Mar 07 20:47:49 +0000 2022",
+   "id": 1500936278770073600,
+   "id_str": "1500936278770073600",
+   "text": "John Lewis led marchers in Selma 57 years ago to secure the right to vote on Bloody Sunday. They were beaten and sh\u2026 https://t.co/7K4aSjEegG",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 50452197,
+      "id_str": "50452197",
+      "name": "Rep. John Larson",
+      "screen_name": "RepJohnLarson",
+      "location": "Hartford, CT",
+      "url": "http://larson.house.gov",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28597,
+      "friends_count": 901,
+      "listed_count": 1162,
+      "favourites_count": 882,
+      "statuses_count": 6865,
+      "created_at": "Wed Jun 24 21:47:31 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979449416129097728/q0pTyqB9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50452197/1557852570",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "John Lewis led marchers in Selma 57 years ago to secure the right to vote on Bloody Sunday. They were beaten and shed blood for this sacred right. We must #FightForVotingRights to honor their legacy by getting the John Lewis Voting Rights Advancement Act signed into law!",
+      "display_text_range": [
+         0,
+         271
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "FightForVotingRights",
+               "indices": [
+                  155,
+                  176
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/7K4aSjEegG",
+            "expanded_url": "https://twitter.com/i/web/status/1500936278770073600",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686069563"
+}

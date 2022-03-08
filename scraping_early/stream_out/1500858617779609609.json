@@ -1,0 +1,360 @@
+{
+   "created_at": "Mon Mar 07 15:39:13 +0000 2022",
+   "id": 1500858617779609609,
+   "id_str": "1500858617779609609",
+   "text": "RT @RepBenCline: The @HouseGOP is fighting for the values that make our part of Virginia a great place to live, work, &amp; raise a family:\n\u00a0\nS\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15207668,
+      "id_str": "15207668",
+      "name": "House Republicans",
+      "screen_name": "HouseGOP",
+      "location": "Washington, DC",
+      "url": "http://gop.gov",
+      "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1155139,
+      "friends_count": 790,
+      "listed_count": 7651,
+      "favourites_count": 4495,
+      "statuses_count": 40096,
+      "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "006699",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 17:47:37 +0000 2022",
+      "id": 1499803767629389827,
+      "id_str": "1499803767629389827",
+      "text": "The @HouseGOP is fighting for the values that make our part of Virginia a great place to live, work, &amp; raise a fami\u2026 https://t.co/wQ4AUNXD0q",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1072158357237174272,
+         "id_str": "1072158357237174272",
+         "name": "Congressman Ben Cline",
+         "screen_name": "RepBenCline",
+         "location": "Rockbridge County, Virginia",
+         "url": "http://cline.house.gov",
+         "description": "Representing the 6th District of Virginia. Member of @HouseAppropsGOP and @housebudgetGOP Committees.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 14748,
+         "friends_count": 346,
+         "listed_count": 477,
+         "favourites_count": 85,
+         "statuses_count": 1631,
+         "created_at": "Mon Dec 10 15:57:26 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080526430851747841/A1ugejo0_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072158357237174272/1546453531",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The @HouseGOP is fighting for the values that make our part of Virginia a great place to live, work, &amp; raise a family:\n\u00a0\nSecuring the border \u2705\nPromoting energy independence \u2705\nDefending the Constitution \u2705\nProtecting parents \u2705\nLowering taxes \u2705\nSupporting Veterans &amp; Police \u2705 https://t.co/RcV6XzDVNP",
+         "display_text_range": [
+            0,
+            280
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "HouseGOP",
+                  "name": "House Republicans",
+                  "id": 15207668,
+                  "id_str": "15207668",
+                  "indices": [
+                     4,
+                     13
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499803736163729410,
+                  "id_str": "1499803736163729410",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499803736163729410/pu/img/O3dTOknFPxL5uoH8.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499803736163729410/pu/img/O3dTOknFPxL5uoH8.jpg",
+                  "url": "https://t.co/RcV6XzDVNP",
+                  "display_url": "pic.twitter.com/RcV6XzDVNP",
+                  "expanded_url": "https://twitter.com/RepBenCline/status/1499803767629389827/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        240,
+                        131
+                     ],
+                     "duration_millis": 75139,
+                     "variants": [
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/960x524/fpaa5yq8oIiNwV_n.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/pl/GyHl6ToqGDfR7Xtw.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/658x360/P2sqvPyfyxEaG9ek.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/494x270/6Moga2AcTJzysPQK.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 960,
+                        "h": 524,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 960,
+                        "h": 524,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 371,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499803736163729410,
+                  "id_str": "1499803736163729410",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499803736163729410/pu/img/O3dTOknFPxL5uoH8.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499803736163729410/pu/img/O3dTOknFPxL5uoH8.jpg",
+                  "url": "https://t.co/RcV6XzDVNP",
+                  "display_url": "pic.twitter.com/RcV6XzDVNP",
+                  "expanded_url": "https://twitter.com/RepBenCline/status/1499803767629389827/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        240,
+                        131
+                     ],
+                     "duration_millis": 75139,
+                     "variants": [
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/960x524/fpaa5yq8oIiNwV_n.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/pl/GyHl6ToqGDfR7Xtw.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/658x360/P2sqvPyfyxEaG9ek.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499803736163729410/pu/vid/494x270/6Moga2AcTJzysPQK.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 960,
+                        "h": 524,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 960,
+                        "h": 524,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 371,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 34,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/wQ4AUNXD0q",
+               "expanded_url": "https://twitter.com/i/web/status/1499803767629389827",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "HouseGOP",
+               "name": "House Republicans",
+               "id": 15207668,
+               "id_str": "15207668",
+               "indices": [
+                  4,
+                  13
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepBenCline",
+            "name": "Congressman Ben Cline",
+            "id": 1072158357237174272,
+            "id_str": "1072158357237174272",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "HouseGOP",
+            "name": "House Republicans",
+            "id": 15207668,
+            "id_str": "15207668",
+            "indices": [
+               21,
+               30
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667553740"
+}

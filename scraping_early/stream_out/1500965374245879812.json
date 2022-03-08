@@ -1,0 +1,169 @@
+{
+   "created_at": "Mon Mar 07 22:43:26 +0000 2022",
+   "id": 1500965374245879812,
+   "id_str": "1500965374245879812",
+   "text": "Our @CDCDirector was explicitly clear on that front.\n\n(4/ ) https://t.co/YkpAw2JE7z",
+   "display_text_range": [
+      0,
+      59
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500965370395566086,
+   "in_reply_to_status_id_str": "1500965370395566086",
+   "in_reply_to_user_id": 1082790600292925440,
+   "in_reply_to_user_id_str": "1082790600292925440",
+   "in_reply_to_screen_name": "RepChipRoy",
+   "user": {
+      "id": 1082790600292925440,
+      "id_str": "1082790600292925440",
+      "name": "Rep. Chip Roy Press Office",
+      "screen_name": "RepChipRoy",
+      "location": "Washington, DC",
+      "url": "https://roy.house.gov/",
+      "description": "This is a staff account to provide updates to our constituents in Texas' 21st District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 59102,
+      "friends_count": 120,
+      "listed_count": 680,
+      "favourites_count": 1498,
+      "statuses_count": 5680,
+      "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1621959404",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "CDCDirector",
+            "name": "Rochelle Walensky, MD, MPH",
+            "id": 426909329,
+            "id_str": "426909329",
+            "indices": [
+               4,
+               16
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500962825048662022,
+            "id_str": "1500962825048662022",
+            "indices": [
+               60,
+               83
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR9vKgXoAYB3Ul.png",
+            "media_url_https": "https://pbs.twimg.com/media/FNR9vKgXoAYB3Ul.png",
+            "url": "https://t.co/YkpAw2JE7z",
+            "display_url": "pic.twitter.com/YkpAw2JE7z",
+            "expanded_url": "https://twitter.com/RepChipRoy/status/1500965374245879812/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500962825048662022,
+            "id_str": "1500962825048662022",
+            "indices": [
+               60,
+               83
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNR9vKgXoAYB3Ul.png",
+            "media_url_https": "https://pbs.twimg.com/media/FNR9vKgXoAYB3Ul.png",
+            "url": "https://t.co/YkpAw2JE7z",
+            "display_url": "pic.twitter.com/YkpAw2JE7z",
+            "expanded_url": "https://twitter.com/RepChipRoy/status/1500965374245879812/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 599,
+                  "h": 374,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693006465"
+}

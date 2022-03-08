@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 22:05:05 +0000 2022",
+   "id": 1500955724310102026,
+   "id_str": "1500955724310102026",
+   "text": "Last week, I was joined by Admiral Mike Gilday, Chief of Naval Operations for meetings with shipbuilders and sailor\u2026 https://t.co/37Pk1ksuv9",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 85396297,
+      "id_str": "85396297",
+      "name": "Rep. Joe Courtney",
+      "screen_name": "RepJoeCourtney",
+      "location": "Vernon, CT",
+      "url": "http://courtney.house.gov",
+      "description": "U.S. Congressman proudly fighting for the residents of Connecticut\u2019s 2nd Congressional District. https://www.facebook.com/joecourtney",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27134,
+      "friends_count": 2243,
+      "listed_count": 1183,
+      "favourites_count": 621,
+      "statuses_count": 8411,
+      "created_at": "Mon Oct 26 19:45:09 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85396297/1506172730",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Last week, I was joined by Admiral Mike Gilday, Chief of Naval Operations for meetings with shipbuilders and sailors in eastern Connecticut. \n\nThe Admiral saw firsthand how our region is delivering for the U.S. Navy \u2013 and that we\u2019re prepared to take on even more opportunities. https://t.co/Rt0sr33qPn",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500954411857858566,
+               "id_str": "1500954411857858566",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2Fc7X0AYvJjO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2Fc7X0AYvJjO.jpg",
+               "url": "https://t.co/Rt0sr33qPn",
+               "display_url": "pic.twitter.com/Rt0sr33qPn",
+               "expanded_url": "https://twitter.com/RepJoeCourtney/status/1500955724310102026/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500954411857858566,
+               "id_str": "1500954411857858566",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2Fc7X0AYvJjO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2Fc7X0AYvJjO.jpg",
+               "url": "https://t.co/Rt0sr33qPn",
+               "display_url": "pic.twitter.com/Rt0sr33qPn",
+               "expanded_url": "https://twitter.com/RepJoeCourtney/status/1500955724310102026/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/37Pk1ksuv9",
+            "expanded_url": "https://twitter.com/i/web/status/1500955724310102026",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690705741"
+}

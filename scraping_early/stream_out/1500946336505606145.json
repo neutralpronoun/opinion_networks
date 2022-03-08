@@ -1,0 +1,131 @@
+{
+   "created_at": "Mon Mar 07 21:27:47 +0000 2022",
+   "id": 1500946336505606145,
+   "id_str": "1500946336505606145",
+   "text": "I applaud these companies for supporting @Ukraine &amp; its people by cutting ties with Russia. We must continue taking\u2026 https://t.co/Cdm96YtirC",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 131546062,
+      "id_str": "131546062",
+      "name": "Rick Scott",
+      "screen_name": "SenRickScott",
+      "location": "The Sunshine State",
+      "url": "http://www.rickscott.senate.gov",
+      "description": "Florida\u2019s U.S. Senator. Fighting for Florida families and to Make Washington Work. #LetsGetToWork http://instagram.com/flsenrickscott",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 367959,
+      "friends_count": 1519,
+      "listed_count": 4019,
+      "favourites_count": 39,
+      "statuses_count": 21159,
+      "created_at": "Sat Apr 10 16:03:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/131546062/1548253495",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I applaud these companies for supporting @Ukraine &amp; its people by cutting ties with Russia. We must continue taking every action to make this unlawful &amp; unjustifiable invasion as economically painful as possible for Putin &amp; his thugs in Russia &amp; Belarus. https://t.co/J2e2JcFd9m",
+      "display_text_range": [
+         0,
+         294
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/J2e2JcFd9m",
+               "expanded_url": "https://markets.businessinsider.com/news/stocks/russia-ukraine-invasion-companies-abandon-ties-sanctions-bp-exxon-disney-2022-3",
+               "display_url": "markets.businessinsider.com/news/stocks/ru\u2026",
+               "indices": [
+                  271,
+                  294
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "Ukraine",
+               "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+               "id": 732521058507620356,
+               "id_str": "732521058507620356",
+               "indices": [
+                  41,
+                  49
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/Cdm96YtirC",
+            "expanded_url": "https://twitter.com/i/web/status/1500946336505606145",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "Ukraine",
+            "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+            "id": 732521058507620356,
+            "id_str": "732521058507620356",
+            "indices": [
+               41,
+               49
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688467514"
+}

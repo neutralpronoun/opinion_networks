@@ -1,0 +1,488 @@
+{
+   "created_at": "Mon Mar 07 18:06:07 +0000 2022",
+   "id": 1500895585615990785,
+   "id_str": "1500895585615990785",
+   "text": "RT @HouseCommerce: President Biden seems to be looking everywhere BUT the United States to unleash energy production.",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2914163523,
+      "id_str": "2914163523",
+      "name": "Rep. Barry Loudermilk",
+      "screen_name": "RepLoudermilk",
+      "location": null,
+      "url": "https://loudermilk.house.gov/",
+      "description": "Representing Georgia's 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29674,
+      "friends_count": 1562,
+      "listed_count": 679,
+      "favourites_count": 539,
+      "statuses_count": 3623,
+      "created_at": "Wed Dec 10 18:53:17 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001100740792811520/yaLsE8rC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001100740792811520/yaLsE8rC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914163523/1609867580",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:35:00 +0000 2022",
+      "id": 1500887753617068034,
+      "id_str": "1500887753617068034",
+      "text": "President Biden seems to be looking everywhere BUT the United States to unleash energy production.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 114756202,
+         "id_str": "114756202",
+         "name": "Energy & Commerce GOP",
+         "screen_name": "HouseCommerce",
+         "location": "Washington, D.C.",
+         "url": "http://republicans-energycommerce.house.gov/",
+         "description": "House Energy & Commerce Committee Republicans | Republican Leader @cathymcmorris",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 33213,
+         "friends_count": 1146,
+         "listed_count": 1274,
+         "favourites_count": 3902,
+         "statuses_count": 20368,
+         "created_at": "Tue Feb 16 14:18:06 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "050000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "A79777",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "C7C5C5",
+         "profile_text_color": "28539E",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080261658612850689/ZyZO-MCx_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/114756202/1623103391",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500883885906874378,
+      "quoted_status_id_str": "1500883885906874378",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 17:19:38 +0000 2022",
+         "id": 1500883885906874378,
+         "id_str": "1500883885906874378",
+         "text": "\"Biden admin looks to oil-rich dictators for help\" https://t.co/DeF8LiTlNf",
+         "display_text_range": [
+            0,
+            50
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP",
+            "location": "Washington, DC",
+            "url": "http://gop.gov",
+            "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1155182,
+            "friends_count": 790,
+            "listed_count": 7651,
+            "favourites_count": 4496,
+            "statuses_count": 40108,
+            "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "006699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 25,
+         "reply_count": 141,
+         "retweet_count": 77,
+         "favorite_count": 178,
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500883875387559943,
+                  "id_str": "1500883875387559943",
+                  "indices": [
+                     51,
+                     74
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "url": "https://t.co/DeF8LiTlNf",
+                  "display_url": "pic.twitter.com/DeF8LiTlNf",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500883875387559943,
+                  "id_str": "1500883875387559943",
+                  "indices": [
+                     51,
+                     74
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+                  "url": "https://t.co/DeF8LiTlNf",
+                  "display_url": "pic.twitter.com/DeF8LiTlNf",
+                  "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/iHVJShxH38",
+         "expanded": "https://twitter.com/HouseGOP/status/1500883885906874378",
+         "display": "twitter.com/HouseGOP/statu\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 11,
+      "retweet_count": 17,
+      "favorite_count": 43,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500883885906874378,
+   "quoted_status_id_str": "1500883885906874378",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 17:19:38 +0000 2022",
+      "id": 1500883885906874378,
+      "id_str": "1500883885906874378",
+      "text": "\"Biden admin looks to oil-rich dictators for help\" https://t.co/DeF8LiTlNf",
+      "display_text_range": [
+         0,
+         50
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15207668,
+         "id_str": "15207668",
+         "name": "House Republicans",
+         "screen_name": "HouseGOP",
+         "location": "Washington, DC",
+         "url": "http://gop.gov",
+         "description": "We are the Republican Conference in the United States House of Representatives \ud83c\uddfa\ud83c\uddf8",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1155182,
+         "friends_count": 790,
+         "listed_count": 7651,
+         "favourites_count": 4496,
+         "statuses_count": 40108,
+         "created_at": "Mon Jun 23 14:41:52 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "006699",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345777059910586368/7Xq3mnJ8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15207668/1609693230",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 25,
+      "reply_count": 141,
+      "retweet_count": 77,
+      "favorite_count": 178,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500883875387559943,
+               "id_str": "1500883875387559943",
+               "indices": [
+                  51,
+                  74
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "url": "https://t.co/DeF8LiTlNf",
+               "display_url": "pic.twitter.com/DeF8LiTlNf",
+               "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500883875387559943,
+               "id_str": "1500883875387559943",
+               "indices": [
+                  51,
+                  74
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ17sGWUAc4BT3.jpg",
+               "url": "https://t.co/DeF8LiTlNf",
+               "display_url": "pic.twitter.com/DeF8LiTlNf",
+               "expanded_url": "https://twitter.com/HouseGOP/status/1500883885906874378/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/iHVJShxH38",
+      "expanded": "https://twitter.com/HouseGOP/status/1500883885906874378",
+      "display": "twitter.com/HouseGOP/statu\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "HouseCommerce",
+            "name": "Energy & Commerce GOP",
+            "id": 114756202,
+            "id_str": "114756202",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676367559"
+}

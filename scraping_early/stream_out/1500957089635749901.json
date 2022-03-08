@@ -1,0 +1,358 @@
+{
+   "created_at": "Mon Mar 07 22:10:31 +0000 2022",
+   "id": 1500957089635749901,
+   "id_str": "1500957089635749901",
+   "text": "RT @JenniferJJacobs: Congress members met with @POTUS and sr aides today on ways to make progress on voting rights, criminal justice reform\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 24745957,
+      "id_str": "24745957",
+      "name": "Rep. Hank Johnson",
+      "screen_name": "RepHankJohnson",
+      "location": "Lithonia, GA; Washington",
+      "url": "https://hankjohnson.house.gov",
+      "description": "CBC Secretary, Chairman of the Courts, IP & Internet Subcommittee, Senior Whip for 117th Congress; Champion for working people.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 56815,
+      "friends_count": 1465,
+      "listed_count": 1568,
+      "favourites_count": 2836,
+      "statuses_count": 8119,
+      "created_at": "Mon Mar 16 18:52:49 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1379794059557015556/_4ZOU0zP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379794059557015556/_4ZOU0zP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24745957/1617805165",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:07:50 +0000 2022",
+      "id": 1500956414814085123,
+      "id_str": "1500956414814085123",
+      "text": "Congress members met with @POTUS and sr aides today on ways to make progress on voting rights, criminal justice ref\u2026 https://t.co/5r3JRspWeh",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15433452,
+         "id_str": "15433452",
+         "name": "Jennifer Jacobs",
+         "screen_name": "JenniferJJacobs",
+         "location": "Washington, DC",
+         "url": "http://www.bloomberg.com/politics/",
+         "description": "Sr. White House reporter for Bloomberg News. Reporting what I know, not what I think. Email me: jjacobs68@bloomberg.net \ud83d\udc95Iowa",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 388881,
+         "friends_count": 49928,
+         "listed_count": 5651,
+         "favourites_count": 2613,
+         "statuses_count": 63326,
+         "created_at": "Mon Jul 14 22:44:34 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "EDECE9",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "088253",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1392970022788739076/onBovkzc_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392970022788739076/onBovkzc_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15433452/1468026333",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Congress members met with @POTUS and sr aides today on ways to make progress on voting rights, criminal justice reform, policing reform, business issues and other topics. @RepBeatty, @RepHorsford, @RepHankJohnson, @JacksonLeeTX18 @RepJeffries @WhipClyburn among those in mtg. https://t.co/XNm6inHb6G",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "POTUS",
+                  "name": "President Biden",
+                  "id": 1349149096909668363,
+                  "id_str": "1349149096909668363",
+                  "indices": [
+                     26,
+                     32
+                  ]
+               },
+               {
+                  "screen_name": "RepBeatty",
+                  "name": "Joyce Beatty",
+                  "id": 1531521632,
+                  "id_str": "1531521632",
+                  "indices": [
+                     171,
+                     181
+                  ]
+               },
+               {
+                  "screen_name": "RepHorsford",
+                  "name": "Rep. Steven Horsford",
+                  "id": 389840566,
+                  "id_str": "389840566",
+                  "indices": [
+                     183,
+                     195
+                  ]
+               },
+               {
+                  "screen_name": "RepHankJohnson",
+                  "name": "Rep. Hank Johnson",
+                  "id": 24745957,
+                  "id_str": "24745957",
+                  "indices": [
+                     197,
+                     212
+                  ]
+               },
+               {
+                  "screen_name": "JacksonLeeTX18",
+                  "name": "Sheila Jackson Lee",
+                  "id": 80612021,
+                  "id_str": "80612021",
+                  "indices": [
+                     214,
+                     229
+                  ]
+               },
+               {
+                  "screen_name": "RepJeffries",
+                  "name": "Hakeem Jeffries",
+                  "id": 467823431,
+                  "id_str": "467823431",
+                  "indices": [
+                     230,
+                     242
+                  ]
+               },
+               {
+                  "screen_name": "WhipClyburn",
+                  "name": "James E. Clyburn",
+                  "id": 188019606,
+                  "id_str": "188019606",
+                  "indices": [
+                     243,
+                     255
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500956409411874819,
+                  "id_str": "1500956409411874819",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR35uZXMAMiyaS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR35uZXMAMiyaS.jpg",
+                  "url": "https://t.co/XNm6inHb6G",
+                  "display_url": "pic.twitter.com/XNm6inHb6G",
+                  "expanded_url": "https://twitter.com/JenniferJJacobs/status/1500956414814085123/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500956409411874819,
+                  "id_str": "1500956409411874819",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR35uZXMAMiyaS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR35uZXMAMiyaS.jpg",
+                  "url": "https://t.co/XNm6inHb6G",
+                  "display_url": "pic.twitter.com/XNm6inHb6G",
+                  "expanded_url": "https://twitter.com/JenniferJJacobs/status/1500956414814085123/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 4,
+      "favorite_count": 12,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5r3JRspWeh",
+               "expanded_url": "https://twitter.com/i/web/status/1500956414814085123",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  26,
+                  32
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JenniferJJacobs",
+            "name": "Jennifer Jacobs",
+            "id": 15433452,
+            "id_str": "15433452",
+            "indices": [
+               3,
+               19
+            ]
+         },
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               47,
+               53
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691031260"
+}

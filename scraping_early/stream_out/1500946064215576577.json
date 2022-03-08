@@ -1,0 +1,498 @@
+{
+   "created_at": "Mon Mar 07 21:26:42 +0000 2022",
+   "id": 1500946064215576577,
+   "id_str": "1500946064215576577",
+   "text": "RT @Call_Me_Dutch: Today I was joined by @SenatorCardin, @ChrisVanHollen, @RepSarbanes and @BaltCoExec in #MD02\u2019s Dundalk to highlight the\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 109071031,
+      "id_str": "109071031",
+      "name": "Senator Ben Cardin",
+      "screen_name": "SenatorCardin",
+      "location": "Maryland, USA",
+      "url": "https://www.cardin.senate.gov/coronavirus-resources",
+      "description": "US Senator for Maryland. Chair, #SmallBiz Cmte. \nGet your shot and booster. Wear a mask when appropriate. Be safe. \n#TeamMaryland \n\nhttps://t.co/MWU3MnXB1D\u2026",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 261901,
+      "friends_count": 3356,
+      "listed_count": 3120,
+      "favourites_count": 2529,
+      "statuses_count": 13305,
+      "created_at": "Wed Jan 27 22:03:53 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/109071031/1625674509",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:16:26 +0000 2022",
+      "id": 1500943480348160005,
+      "id_str": "1500943480348160005",
+      "text": "Today I was joined by @SenatorCardin, @ChrisVanHollen, @RepSarbanes and @BaltCoExec in #MD02\u2019s Dundalk to highlight\u2026 https://t.co/iqTmVClLsM",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 305620929,
+         "id_str": "305620929",
+         "name": "Dutch Ruppersberger",
+         "screen_name": "Call_Me_Dutch",
+         "location": "Washington, DC",
+         "url": "http://dutch.house.gov",
+         "description": "U.S. Congressman serving Maryland's 2nd District. Member of House Appropriations Committee. Loves all things Baltimore esp. the Ravens, Orioles and crabs.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 18508,
+         "friends_count": 2319,
+         "listed_count": 908,
+         "favourites_count": 1776,
+         "statuses_count": 5728,
+         "created_at": "Thu May 26 14:39:08 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "4A913C",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "94D487",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1418661256085577730/gySYm7cY_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418661256085577730/gySYm7cY_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/305620929/1627414969",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today I was joined by @SenatorCardin, @ChrisVanHollen, @RepSarbanes and @BaltCoExec in #MD02\u2019s Dundalk to highlight the $409+M coming to #Maryland over the next 5 years to repair and replace aging and deteriorating bridges across MD thanks to the #BipartisanInfrastructure Law. https://t.co/Hl9ex27Cac",
+         "display_text_range": [
+            0,
+            277
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "MD02",
+                  "indices": [
+                     87,
+                     92
+                  ]
+               },
+               {
+                  "text": "Maryland",
+                  "indices": [
+                     137,
+                     146
+                  ]
+               },
+               {
+                  "text": "BipartisanInfrastructure",
+                  "indices": [
+                     247,
+                     272
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SenatorCardin",
+                  "name": "Senator Ben Cardin",
+                  "id": 109071031,
+                  "id_str": "109071031",
+                  "indices": [
+                     22,
+                     36
+                  ]
+               },
+               {
+                  "screen_name": "ChrisVanHollen",
+                  "name": "Senator Chris Van Hollen",
+                  "id": 18137749,
+                  "id_str": "18137749",
+                  "indices": [
+                     38,
+                     53
+                  ]
+               },
+               {
+                  "screen_name": "RepSarbanes",
+                  "name": "Rep. John Sarbanes",
+                  "id": 364415553,
+                  "id_str": "364415553",
+                  "indices": [
+                     55,
+                     67
+                  ]
+               },
+               {
+                  "screen_name": "BaltCoExec",
+                  "name": "County Executive Johnny Olszewski",
+                  "id": 1079770754814787584,
+                  "id_str": "1079770754814787584",
+                  "indices": [
+                     72,
+                     83
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500941859325198339,
+                  "id_str": "1500941859325198339",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRqqzGXwAM9Ogx.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRqqzGXwAM9Ogx.jpg",
+                  "url": "https://t.co/Hl9ex27Cac",
+                  "display_url": "pic.twitter.com/Hl9ex27Cac",
+                  "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1500943480348160005/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500941884658704386,
+                  "id_str": "1500941884658704386",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRqsReWYAIPjUl.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRqsReWYAIPjUl.jpg",
+                  "url": "https://t.co/Hl9ex27Cac",
+                  "display_url": "pic.twitter.com/Hl9ex27Cac",
+                  "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1500943480348160005/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500941859325198339,
+                  "id_str": "1500941859325198339",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRqqzGXwAM9Ogx.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRqqzGXwAM9Ogx.jpg",
+                  "url": "https://t.co/Hl9ex27Cac",
+                  "display_url": "pic.twitter.com/Hl9ex27Cac",
+                  "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1500943480348160005/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500941884658704386,
+                  "id_str": "1500941884658704386",
+                  "indices": [
+                     278,
+                     301
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRqsReWYAIPjUl.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRqsReWYAIPjUl.jpg",
+                  "url": "https://t.co/Hl9ex27Cac",
+                  "display_url": "pic.twitter.com/Hl9ex27Cac",
+                  "expanded_url": "https://twitter.com/Call_Me_Dutch/status/1500943480348160005/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "MD02",
+               "indices": [
+                  87,
+                  92
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/iqTmVClLsM",
+               "expanded_url": "https://twitter.com/i/web/status/1500943480348160005",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorCardin",
+               "name": "Senator Ben Cardin",
+               "id": 109071031,
+               "id_str": "109071031",
+               "indices": [
+                  22,
+                  36
+               ]
+            },
+            {
+               "screen_name": "ChrisVanHollen",
+               "name": "Senator Chris Van Hollen",
+               "id": 18137749,
+               "id_str": "18137749",
+               "indices": [
+                  38,
+                  53
+               ]
+            },
+            {
+               "screen_name": "RepSarbanes",
+               "name": "Rep. John Sarbanes",
+               "id": 364415553,
+               "id_str": "364415553",
+               "indices": [
+                  55,
+                  67
+               ]
+            },
+            {
+               "screen_name": "BaltCoExec",
+               "name": "County Executive Johnny Olszewski",
+               "id": 1079770754814787584,
+               "id_str": "1079770754814787584",
+               "indices": [
+                  72,
+                  83
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "MD02",
+            "indices": [
+               106,
+               111
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Call_Me_Dutch",
+            "name": "Dutch Ruppersberger",
+            "id": 305620929,
+            "id_str": "305620929",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "SenatorCardin",
+            "name": "Senator Ben Cardin",
+            "id": 109071031,
+            "id_str": "109071031",
+            "indices": [
+               41,
+               55
+            ]
+         },
+         {
+            "screen_name": "ChrisVanHollen",
+            "name": "Senator Chris Van Hollen",
+            "id": 18137749,
+            "id_str": "18137749",
+            "indices": [
+               57,
+               72
+            ]
+         },
+         {
+            "screen_name": "RepSarbanes",
+            "name": "Rep. John Sarbanes",
+            "id": 364415553,
+            "id_str": "364415553",
+            "indices": [
+               74,
+               86
+            ]
+         },
+         {
+            "screen_name": "BaltCoExec",
+            "name": "County Executive Johnny Olszewski",
+            "id": 1079770754814787584,
+            "id_str": "1079770754814787584",
+            "indices": [
+               91,
+               102
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688402595"
+}

@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 20:31:53 +0000 2022",
+   "id": 1500932269619531777,
+   "id_str": "1500932269619531777",
+   "text": "Public transit is essential to Riverside County, and public transit workers have been on the frontlines of the COVI\u2026 https://t.co/ABLOuq0THX",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500932268101181444,
+   "in_reply_to_status_id_str": "1500932268101181444",
+   "in_reply_to_user_id": 1037321378,
+   "in_reply_to_user_id_str": "1037321378",
+   "in_reply_to_screen_name": "RepMarkTakano",
+   "user": {
+      "id": 1037321378,
+      "id_str": "1037321378",
+      "name": "Mark Takano",
+      "screen_name": "RepMarkTakano",
+      "location": "Riverside, CA",
+      "url": "http://takano.house.gov",
+      "description": "Proudly Representing California's 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60113,
+      "friends_count": 597,
+      "listed_count": 1415,
+      "favourites_count": 879,
+      "statuses_count": 6077,
+      "created_at": "Wed Dec 26 14:58:17 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978257751825682432/xuo-Enea_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978257751825682432/xuo-Enea_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037321378/1552597030",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Public transit is essential to Riverside County, and public transit workers have been on the frontlines of the COVID-19 pandemic, keeping our communities connected and getting Californians where they need to go.\n\nThis funding will be a huge help. https://t.co/rpb7kfM3me",
+      "display_text_range": [
+         0,
+         270
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/rpb7kfM3me",
+               "expanded_url": "https://takano.house.gov/newsroom/press-releases/rep-takano-announces-15-million-grant-awarded-to-the-riverside-transit-agency",
+               "display_url": "takano.house.gov/newsroom/press\u2026",
+               "indices": [
+                  247,
+                  270
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/ABLOuq0THX",
+            "expanded_url": "https://twitter.com/i/web/status/1500932269619531777",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685113707"
+}

@@ -1,0 +1,268 @@
+{
+   "created_at": "Mon Mar 07 15:35:27 +0000 2022",
+   "id": 1500857670630207492,
+   "id_str": "1500857670630207492",
+   "text": "RT @SenDuckworth: 57 years ago, John Lewis and hundreds of other patriots were beaten and bloodied on the Edmund Pettus Bridge during their\u2026",
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 91214867,
+      "id_str": "91214867",
+      "name": "YOMYOMF",
+      "screen_name": "yomyomf",
+      "location": "\u00dcT: 36.093055,-115.175092",
+      "url": null,
+      "description": "Asian American pop culture with a dash of flavor",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 11792,
+      "friends_count": 530,
+      "listed_count": 177,
+      "favourites_count": 30220,
+      "statuses_count": 52756,
+      "created_at": "Thu Nov 19 23:01:14 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1155716483076411392/bli-lPYR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155716483076411392/bli-lPYR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91214867/1637262705",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 15:30:00 +0000 2022",
+      "id": 1500856296139939847,
+      "id_str": "1500856296139939847",
+      "text": "57 years ago, John Lewis and hundreds of other patriots were beaten and bloodied on the Edmund Pettus Bridge during\u2026 https://t.co/P0wIVrxnch",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1058520120,
+         "id_str": "1058520120",
+         "name": "Tammy Duckworth",
+         "screen_name": "SenDuckworth",
+         "location": null,
+         "url": "http://duckworth.senate.gov",
+         "description": "Official Twitter account for U.S. Senator Tammy Duckworth. For more information, visit",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 772123,
+         "friends_count": 7436,
+         "listed_count": 4086,
+         "favourites_count": 873,
+         "statuses_count": 10202,
+         "created_at": "Thu Jan 03 18:59:33 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1420436702007644163/Ioaqdwi0_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420436702007644163/Ioaqdwi0_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058520120/1638303962",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "57 years ago, John Lewis and hundreds of other patriots were beaten and bloodied on the Edmund Pettus Bridge during their march to secure the right to vote for every American\u2014regardless of their race.\n\nIn their names, we must continue their work to uphold this fundamental right. https://t.co/lkTVXsrrDn",
+         "display_text_range": [
+            0,
+            279
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500854265392283652,
+                  "id_str": "1500854265392283652",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "description": "Photo of hundreds of voting rights activists marching over the Edmund Pettus Bridge in Selma, Alabama, as state troopers watch.",
+                  "media_url": "http://pbs.twimg.com/media/FNQbAKRWQAQ7S5U.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQbAKRWQAQ7S5U.jpg",
+                  "url": "https://t.co/lkTVXsrrDn",
+                  "display_url": "pic.twitter.com/lkTVXsrrDn",
+                  "expanded_url": "https://twitter.com/SenDuckworth/status/1500856296139939847/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 506,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 900,
+                        "h": 506,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500854265392283652,
+                  "id_str": "1500854265392283652",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "description": "Photo of hundreds of voting rights activists marching over the Edmund Pettus Bridge in Selma, Alabama, as state troopers watch.",
+                  "media_url": "http://pbs.twimg.com/media/FNQbAKRWQAQ7S5U.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQbAKRWQAQ7S5U.jpg",
+                  "url": "https://t.co/lkTVXsrrDn",
+                  "display_url": "pic.twitter.com/lkTVXsrrDn",
+                  "expanded_url": "https://twitter.com/SenDuckworth/status/1500856296139939847/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 506,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 900,
+                        "h": 506,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18,
+      "favorite_count": 53,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/P0wIVrxnch",
+               "expanded_url": "https://twitter.com/i/web/status/1500856296139939847",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenDuckworth",
+            "name": "Tammy Duckworth",
+            "id": 1058520120,
+            "id_str": "1058520120",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667327922"
+}

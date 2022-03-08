@@ -1,0 +1,365 @@
+{
+   "created_at": "Mon Mar 07 18:44:42 +0000 2022",
+   "id": 1500905293756121095,
+   "id_str": "1500905293756121095",
+   "text": "Thank you @SBAIsabel for joining me today for a roundtable with some incredible women small biz owners in SE Michig\u2026 https://t.co/0tZ2CKlBxz",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2863006655,
+      "id_str": "2863006655",
+      "name": "Brenda Lawrence",
+      "screen_name": "RepLawrence",
+      "location": "Washington, DC",
+      "url": "https://lawrence.house.gov/",
+      "description": "Congresswoman for Michigan's 14th District: Detroit, Southfield, Oakland and Wayne Counties. Instagram: Repbrendalawrence, Facebook: Rep.BLawrence",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30963,
+      "friends_count": 1213,
+      "listed_count": 863,
+      "favourites_count": 1978,
+      "statuses_count": 7819,
+      "created_at": "Wed Nov 05 18:46:39 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863006655/1522939165",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Thank you @SBAIsabel for joining me today for a roundtable with some incredible women small biz owners in SE Michigan.\n\nAmid #WomensHistoryMonth, we discussed the challenges they were facing and how Congress and @SBAgov can help our women entrepreneurs &amp; small biz owners succeed. https://t.co/lVYkqq6VD9",
+      "display_text_range": [
+         0,
+         284
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomensHistoryMonth",
+               "indices": [
+                  125,
+                  144
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SBAIsabel",
+               "name": "Isabel Guzman",
+               "id": 1357410929001037824,
+               "id_str": "1357410929001037824",
+               "indices": [
+                  10,
+                  20
+               ]
+            },
+            {
+               "screen_name": "SBAgov",
+               "name": "SBA",
+               "id": 153149305,
+               "id_str": "153149305",
+               "indices": [
+                  212,
+                  219
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500905262827421704,
+               "id_str": "1500905262827421704",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmhXwAgDJeN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmhXwAgDJeN.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500905262827425798,
+               "id_str": "1500905262827425798",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmhX0AY-B1G.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmhX0AY-B1G.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500905262835814400,
+               "id_str": "1500905262835814400",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmjX0AAtews.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmjX0AAtews.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500905262827421704,
+               "id_str": "1500905262827421704",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmhXwAgDJeN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmhXwAgDJeN.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500905262827425798,
+               "id_str": "1500905262827425798",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmhX0AY-B1G.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmhX0AY-B1G.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500905262835814400,
+               "id_str": "1500905262835814400",
+               "indices": [
+                  285,
+                  308
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRJYmjX0AAtews.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRJYmjX0AAtews.jpg",
+               "url": "https://t.co/lVYkqq6VD9",
+               "display_url": "pic.twitter.com/lVYkqq6VD9",
+               "expanded_url": "https://twitter.com/RepLawrence/status/1500905293756121095/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0tZ2CKlBxz",
+            "expanded_url": "https://twitter.com/i/web/status/1500905293756121095",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SBAIsabel",
+            "name": "Isabel Guzman",
+            "id": 1357410929001037824,
+            "id_str": "1357410929001037824",
+            "indices": [
+               10,
+               20
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678682160"
+}

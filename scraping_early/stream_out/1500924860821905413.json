@@ -1,0 +1,101 @@
+{
+   "created_at": "Mon Mar 07 20:02:27 +0000 2022",
+   "id": 1500924860821905413,
+   "id_str": "1500924860821905413",
+   "text": "@Jim_Jordan Possibly &lt; 30 days based on this chart\n\ud83d\udc47\ud83c\udffc\nhttps://t.co/LWHSxACTkv",
+   "display_text_range": [
+      12,
+      80
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500907282036576259,
+   "in_reply_to_status_id_str": "1500907282036576259",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 1465506162472796166,
+      "id_str": "1465506162472796166",
+      "name": "KERRY RAHEB FOR U.S. SENATE - VT",
+      "screen_name": "RAHEBFORSENATE",
+      "location": "GREEN MOUNTAINS",
+      "url": "http://WWW.KERRYRAHEB.COM",
+      "description": "I am running for U.S. Senate in the INCREDIBLE state of VERMONT.\n\nContribute: https://secure.anedot.com/friends-of-kerry-raheb-for-us-senate/donate",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2760,
+      "friends_count": 3058,
+      "listed_count": 3,
+      "favourites_count": 12430,
+      "statuses_count": 12720,
+      "created_at": "Tue Nov 30 02:21:22 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1493755894584070151/Yofghatx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493755894584070151/Yofghatx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465506162472796166/1645639672",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/LWHSxACTkv",
+            "expanded_url": "https://www.cnbc.com/quotes/@CL.1",
+            "display_url": "cnbc.com/quotes/@CL.1",
+            "indices": [
+               57,
+               80
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683347312"
+}

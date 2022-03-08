@@ -1,0 +1,433 @@
+{
+   "created_at": "Mon Mar 07 20:25:14 +0000 2022",
+   "id": 1500930593336479746,
+   "id_str": "1500930593336479746",
+   "text": "RT @FinancialCmte: A new bill by @RepAndyBarr, H.R. 6894, would block these sales or ensure funds can be put in escrow for peaceful uses.\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1089334250,
+      "id_str": "1089334250",
+      "name": "Rep. Andy Barr",
+      "screen_name": "RepAndyBarr",
+      "location": "Lexington, KY",
+      "url": "https://barr.house.gov/coronavirus-updates",
+      "description": "KY-06 District Congressman & Member of House Foreign Affairs & Financial Services Committees.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28145,
+      "friends_count": 1212,
+      "listed_count": 825,
+      "favourites_count": 583,
+      "statuses_count": 5669,
+      "created_at": "Mon Jan 14 15:29:49 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "050505",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089334250/1392572667",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:28:19 +0000 2022",
+      "id": 1500916271088607235,
+      "id_str": "1500916271088607235",
+      "text": "A new bill by @RepAndyBarr, H.R. 6894, would block these sales or ensure funds can be put in escrow for peaceful us\u2026 https://t.co/YZY30C8OlV",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 42924141,
+         "id_str": "42924141",
+         "name": "Financial Services GOP",
+         "screen_name": "FinancialCmte",
+         "location": "Washington, D.C.",
+         "url": "http://republicans-financialservices.house.gov",
+         "description": "U.S. House Committee on Financial Services Republicans \u2013 Ranking Member @PatrickMcHenry",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 28081,
+         "friends_count": 3008,
+         "listed_count": 971,
+         "favourites_count": 1604,
+         "statuses_count": 13224,
+         "created_at": "Wed May 27 17:00:31 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "215B80",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "E23B30",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150826340012240898/rzk_pfE9_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/42924141/1546618381",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500772223946313730,
+      "quoted_status_id_str": "1500772223946313730",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 09:55:55 +0000 2022",
+         "id": 1500772223946313730,
+         "id_str": "1500772223946313730",
+         "text": "The current half-hearted talks on Russia energy ban is a win for the Kremlin. It is still exporting, **and benefiti\u2026 https://t.co/idozMdla43",
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1647573157,
+            "id_str": "1647573157",
+            "name": "Javier Blas",
+            "screen_name": "JavierBlas",
+            "location": "London",
+            "url": "https://www.linkedin.com/pub/javier-blas/12/b95/363",
+            "description": "Energy and commodities columnist at Bloomberg. Co-author of the 'The World for Sale' http://amzn.to/3t6dVJV Any views expressed are my own. jblas3@bloomberg.net",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 173387,
+            "friends_count": 1397,
+            "listed_count": 4218,
+            "favourites_count": 38735,
+            "statuses_count": 45374,
+            "created_at": "Mon Aug 05 11:08:00 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329570676190097408/3HJkOp4e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329570676190097408/3HJkOp4e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647573157/1645025025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "The current half-hearted talks on Russia energy ban is a win for the Kremlin. It is still exporting, **and benefiting from much higher prices**. \n\nEither put the ban in place, now, and stop the money flow. Or backtrack, and let prices drop. But the half-way only benefits Putin",
+            "display_text_range": [
+               0,
+               277
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 62,
+         "reply_count": 57,
+         "retweet_count": 675,
+         "favorite_count": 2209,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/idozMdla43",
+                  "expanded_url": "https://twitter.com/i/web/status/1500772223946313730",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/UENtfXsVXc",
+         "expanded": "https://twitter.com/JavierBlas/status/1500772223946313730",
+         "display": "twitter.com/JavierBlas/sta\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "A new bill by @RepAndyBarr, H.R. 6894, would block these sales or ensure funds can be put in escrow for peaceful uses.\n \n@USTreasury should look at options that can get EU buy-in before Putin rakes in more hard currency to fund his war.",
+         "display_text_range": [
+            0,
+            236
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepAndyBarr",
+                  "name": "Rep. Andy Barr",
+                  "id": 1089334250,
+                  "id_str": "1089334250",
+                  "indices": [
+                     14,
+                     26
+                  ]
+               },
+               {
+                  "screen_name": "USTreasury",
+                  "name": "Treasury Department",
+                  "id": 120176950,
+                  "id_str": "120176950",
+                  "indices": [
+                     121,
+                     132
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/YZY30C8OlV",
+               "expanded_url": "https://twitter.com/i/web/status/1500916271088607235",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepAndyBarr",
+               "name": "Rep. Andy Barr",
+               "id": 1089334250,
+               "id_str": "1089334250",
+               "indices": [
+                  14,
+                  26
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500772223946313730,
+   "quoted_status_id_str": "1500772223946313730",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 09:55:55 +0000 2022",
+      "id": 1500772223946313730,
+      "id_str": "1500772223946313730",
+      "text": "The current half-hearted talks on Russia energy ban is a win for the Kremlin. It is still exporting, **and benefiti\u2026 https://t.co/idozMdla43",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1647573157,
+         "id_str": "1647573157",
+         "name": "Javier Blas",
+         "screen_name": "JavierBlas",
+         "location": "London",
+         "url": "https://www.linkedin.com/pub/javier-blas/12/b95/363",
+         "description": "Energy and commodities columnist at Bloomberg. Co-author of the 'The World for Sale' http://amzn.to/3t6dVJV Any views expressed are my own. jblas3@bloomberg.net",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 173387,
+         "friends_count": 1397,
+         "listed_count": 4218,
+         "favourites_count": 38735,
+         "statuses_count": 45374,
+         "created_at": "Mon Aug 05 11:08:00 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1329570676190097408/3HJkOp4e_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329570676190097408/3HJkOp4e_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647573157/1645025025",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The current half-hearted talks on Russia energy ban is a win for the Kremlin. It is still exporting, **and benefiting from much higher prices**. \n\nEither put the ban in place, now, and stop the money flow. Or backtrack, and let prices drop. But the half-way only benefits Putin",
+         "display_text_range": [
+            0,
+            277
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 62,
+      "reply_count": 57,
+      "retweet_count": 675,
+      "favorite_count": 2209,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/idozMdla43",
+               "expanded_url": "https://twitter.com/i/web/status/1500772223946313730",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/UENtfXsVXc",
+      "expanded": "https://twitter.com/JavierBlas/status/1500772223946313730",
+      "display": "twitter.com/JavierBlas/sta\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "FinancialCmte",
+            "name": "Financial Services GOP",
+            "id": 42924141,
+            "id_str": "42924141",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "RepAndyBarr",
+            "name": "Rep. Andy Barr",
+            "id": 1089334250,
+            "id_str": "1089334250",
+            "indices": [
+               33,
+               45
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684714050"
+}

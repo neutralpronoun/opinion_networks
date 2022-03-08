@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 19:56:05 +0000 2022",
+   "id": 1500923258295754752,
+   "id_str": "1500923258295754752",
+   "text": "The Russia-Ukraine war and Biden\u2019s failed energy policies have compromised America\u2019s energy infrastructure, inflati\u2026 https://t.co/0fflyumRk1",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1074782372594413569,
+      "id_str": "1074782372594413569",
+      "name": "Rep. Dusty Johnson",
+      "screen_name": "RepDustyJohnson",
+      "location": "South Dakota",
+      "url": "https://dustyjohnson.house.gov/",
+      "description": "South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan. Member of @HouseAgGOP & @TransportGOP.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 14194,
+      "friends_count": 246,
+      "listed_count": 390,
+      "favourites_count": 500,
+      "statuses_count": 1787,
+      "created_at": "Mon Dec 17 21:44:20 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1393224232939700231/sb7DMh52_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393224232939700231/sb7DMh52_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074782372594413569/1607457164",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Russia-Ukraine war and Biden\u2019s failed energy policies have compromised America\u2019s energy infrastructure, inflating prices for Americans. President Biden has the opportunity to right wrongs and undo the damage his administration has done.",
+      "display_text_range": [
+         0,
+         240
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0fflyumRk1",
+            "expanded_url": "https://twitter.com/i/web/status/1500923258295754752",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682965240"
+}

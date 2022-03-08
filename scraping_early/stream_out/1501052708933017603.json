@@ -1,0 +1,193 @@
+{
+   "created_at": "Tue Mar 08 04:30:28 +0000 2022",
+   "id": 1501052708933017603,
+   "id_str": "1501052708933017603",
+   "text": "RT @JohnJHarwood: when you hear Republican politicians snipe at Biden on the crisis, remember:\n\nthe Republican president who left office la\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 231108733,
+      "id_str": "231108733",
+      "name": "US Rep Brendan Boyle",
+      "screen_name": "RepBrendanBoyle",
+      "location": "Philadelphia and Washington",
+      "url": "http://www.VoteBoyle.com",
+      "description": "Congressman from Philly. Proud Dad to Abby & husband to Jenny. Notre Dame & Harvard alum. Philly sports fan. Supporter of all things PA, esp. Dunder Mifflin.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60683,
+      "friends_count": 3071,
+      "listed_count": 900,
+      "favourites_count": 13142,
+      "statuses_count": 10064,
+      "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1636568625",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 14:30:44 +0000 2022",
+      "id": 1500841382264594438,
+      "id_str": "1500841382264594438",
+      "text": "when you hear Republican politicians snipe at Biden on the crisis, remember:\n\nthe Republican president who left off\u2026 https://t.co/Jn2JcvGXGR",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 259395895,
+         "id_str": "259395895",
+         "name": "John Harwood",
+         "screen_name": "JohnJHarwood",
+         "location": "Washington, DC",
+         "url": "http://www.cnn.com",
+         "description": "White House Correspondent for @CNN",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 489465,
+         "friends_count": 2085,
+         "listed_count": 6342,
+         "favourites_count": 12090,
+         "statuses_count": 148137,
+         "created_at": "Tue Mar 01 20:49:40 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "3473A3",
+         "profile_sidebar_border_color": "CFCFCF",
+         "profile_sidebar_fill_color": "E3E3E3",
+         "profile_text_color": "5E5E5E",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/868178337859911680/GJ8zcy-z_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/868178337859911680/GJ8zcy-z_normal.jpg",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "when you hear Republican politicians snipe at Biden on the crisis, remember:\n\nthe Republican president who left office last year used his term to strengthen Russia's hand and weaken Ukraine's\n\nhis party protected him as he did it\n\nhe still leads the party https://t.co/HchKLTqfQe",
+         "display_text_range": [
+            0,
+            279
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/HchKLTqfQe",
+                  "expanded_url": "https://www.cnn.com/2022/03/06/politics/trump-putin-ukraine/index.html",
+                  "display_url": "cnn.com/2022/03/06/pol\u2026",
+                  "indices": [
+                     256,
+                     279
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 43,
+      "reply_count": 162,
+      "retweet_count": 1053,
+      "favorite_count": 2817,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/Jn2JcvGXGR",
+               "expanded_url": "https://twitter.com/i/web/status/1500841382264594438",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JohnJHarwood",
+            "name": "John Harwood",
+            "id": 259395895,
+            "id_str": "259395895",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646713828677"
+}

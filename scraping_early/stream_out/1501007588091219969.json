@@ -1,0 +1,98 @@
+{
+   "created_at": "Tue Mar 08 01:31:11 +0000 2022",
+   "id": 1501007588091219969,
+   "id_str": "1501007588091219969",
+   "text": "Democrats are the party offering ideas for how to combat inflation.\n\nWe're taking aim at insulin costs.\n\nWe're work\u2026 https://t.co/hF38KbtEOY",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 17494010,
+      "id_str": "17494010",
+      "name": "Chuck Schumer",
+      "screen_name": "SenSchumer",
+      "location": "New York, NY",
+      "url": "https://www.democraticleader.senate.gov/",
+      "description": "Official Account of Senator Chuck Schumer, New York\u2019s Senator and the Senate Majority Leader.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3389349,
+      "friends_count": 24250,
+      "listed_count": 14448,
+      "favourites_count": 989,
+      "statuses_count": 22384,
+      "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "43090B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF6005",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E7E9EF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1409227745670975489/UVBQFdbf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409227745670975489/UVBQFdbf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1611181724",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Democrats are the party offering ideas for how to combat inflation.\n\nWe're taking aim at insulin costs.\n\nWe're working to repair supply chain bottlenecks.\n\nWe're zeroing in on policies to lower prices at the grocery store.",
+      "display_text_range": [
+         0,
+         222
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/hF38KbtEOY",
+            "expanded_url": "https://twitter.com/i/web/status/1501007588091219969",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646703071030"
+}

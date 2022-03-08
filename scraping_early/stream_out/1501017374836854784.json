@@ -1,0 +1,281 @@
+{
+   "created_at": "Tue Mar 08 02:10:04 +0000 2022",
+   "id": 1501017374836854784,
+   "id_str": "1501017374836854784",
+   "text": "RT @Rep_Stansbury: Nine years ago today, the Violence Against Women Reauthorization Act was signed into law after passing the Senate 78-22.\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 246088673,
+      "id_str": "246088673",
+      "name": "Progressive Caucus",
+      "screen_name": "USProgressives",
+      "location": "Washington, D.C.",
+      "url": "http://progressives.house.gov",
+      "description": "We are the voice of progressives in Congress. Fighting for working families over corporate interests. Advancing racial and social justice. Working for peace.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 132149,
+      "friends_count": 1691,
+      "listed_count": 1900,
+      "favourites_count": 8781,
+      "statuses_count": 17215,
+      "created_at": "Wed Feb 02 03:08:03 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1213156307554971648/FeIaFDg6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213156307554971648/FeIaFDg6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246088673/1575391643",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 23:02:46 +0000 2022",
+      "id": 1500970240393584643,
+      "id_str": "1500970240393584643",
+      "text": "Nine years ago today, the Violence Against Women Reauthorization Act was signed into law after passing the Senate 7\u2026 https://t.co/VFMVp1dLC8",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1404519992582942724,
+         "id_str": "1404519992582942724",
+         "name": "Rep. Melanie Stansbury",
+         "screen_name": "Rep_Stansbury",
+         "location": "Albuquerque, NM",
+         "url": "https://stansbury.house.gov/",
+         "description": "Representing New Mexico\u2019s 1st Congressional District. Fighting for our future. Working everyday to build a more just, equitable & resilient world. #nmpol",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 4771,
+         "friends_count": 194,
+         "listed_count": 84,
+         "favourites_count": 859,
+         "statuses_count": 1364,
+         "created_at": "Mon Jun 14 19:25:16 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1456487474843340806/E-jaow7u_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456487474843340806/E-jaow7u_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404519992582942724/1636079551",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Nine years ago today, the Violence Against Women Reauthorization Act was signed into law after passing the Senate 78-22. The Senate MUST reauthorize #VAWA, which includes key actions to address the Missing and Murdered Indigenous Women crisis. #NoMoreStolenSisters https://t.co/CsHtsTvsmj",
+         "display_text_range": [
+            0,
+            264
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "VAWA",
+                  "indices": [
+                     149,
+                     154
+                  ]
+               },
+               {
+                  "text": "NoMoreStolenSisters",
+                  "indices": [
+                     244,
+                     264
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500970237335846913,
+                  "id_str": "1500970237335846913",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSEenbWQAEyA9D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSEenbWQAEyA9D.jpg",
+                  "url": "https://t.co/CsHtsTvsmj",
+                  "display_url": "pic.twitter.com/CsHtsTvsmj",
+                  "expanded_url": "https://twitter.com/Rep_Stansbury/status/1500970240393584643/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500970237335846913,
+                  "id_str": "1500970237335846913",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSEenbWQAEyA9D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSEenbWQAEyA9D.jpg",
+                  "url": "https://t.co/CsHtsTvsmj",
+                  "display_url": "pic.twitter.com/CsHtsTvsmj",
+                  "expanded_url": "https://twitter.com/Rep_Stansbury/status/1500970240393584643/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9,
+      "favorite_count": 23,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VFMVp1dLC8",
+               "expanded_url": "https://twitter.com/i/web/status/1500970240393584643",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Rep_Stansbury",
+            "name": "Rep. Melanie Stansbury",
+            "id": 1404519992582942724,
+            "id_str": "1404519992582942724",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646705404372"
+}

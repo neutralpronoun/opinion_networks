@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 22:38:21 +0000 2022",
+   "id": 1500964094291365890,
+   "id_str": "1500964094291365890",
+   "text": "\ud83d\ude11Once more, Governor DeSantis and his administration are pushing inaccurate and dangerous anti-vaccine policies tha\u2026 https://t.co/CoBzzKu8gT",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1880674038,
+      "id_str": "1880674038",
+      "name": "US Rep Kathy Castor",
+      "screen_name": "USRepKCastor",
+      "location": null,
+      "url": "http://Castor.House.gov",
+      "description": "Representing the City of Champions \ud83c\udfc6\u26a1\ufe0f Tampa Bay's Congresswoman\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Chair, @ClimateCrisis \ud83c\udf24\ud83c\udf05\ud83c\udf34 \ud83d\udc97\ud83c\uddfa\ud83c\udde6",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 24710,
+      "friends_count": 5319,
+      "listed_count": 1012,
+      "favourites_count": 7006,
+      "statuses_count": 10996,
+      "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1487851197868425217/1Pj6AeUg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487851197868425217/1Pj6AeUg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1646051868",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "\ud83d\ude11Once more, Governor DeSantis and his administration are pushing inaccurate and dangerous anti-vaccine policies that could put Florida children and families at risk. https://t.co/Wo0BVsEJiI",
+      "display_text_range": [
+         0,
+         165
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500963032515715077,
+               "id_str": "1500963032515715077",
+               "indices": [
+                  166,
+                  189
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR97PYXoAUo55v.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR97PYXoAUo55v.png",
+               "url": "https://t.co/Wo0BVsEJiI",
+               "display_url": "pic.twitter.com/Wo0BVsEJiI",
+               "expanded_url": "https://twitter.com/USRepKCastor/status/1500964094291365890/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 351,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 887,
+                     "h": 458,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 887,
+                     "h": 458,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500963032515715077,
+               "id_str": "1500963032515715077",
+               "indices": [
+                  166,
+                  189
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR97PYXoAUo55v.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR97PYXoAUo55v.png",
+               "url": "https://t.co/Wo0BVsEJiI",
+               "display_url": "pic.twitter.com/Wo0BVsEJiI",
+               "expanded_url": "https://twitter.com/USRepKCastor/status/1500964094291365890/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 351,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 887,
+                     "h": 458,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 887,
+                     "h": 458,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/CoBzzKu8gT",
+            "expanded_url": "https://twitter.com/i/web/status/1500964094291365890",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646692701300"
+}

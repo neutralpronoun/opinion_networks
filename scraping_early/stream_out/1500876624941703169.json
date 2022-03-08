@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 16:50:46 +0000 2022",
+   "id": 1500876624941703169,
+   "id_str": "1500876624941703169",
+   "text": "RT @LatestAnonPress: Ukraine, Syria, Yemen, Afghanistan, it doesn't matter. War is war. Our condolences to those who lost everything withou\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 783792992,
+      "id_str": "783792992",
+      "name": "Ilhan Omar",
+      "screen_name": "IlhanMN",
+      "location": "Minneapolis, MN",
+      "url": "http://www.ilhanomar.com",
+      "description": "Mom, Refugee and Congresswoman for #MN05. Progressive Caucus Whip. Fighting for a more just world. Grassroots funded progressive \u2728 http://HC.com/IlhanOmar \ud83d\udcda",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3035319,
+      "friends_count": 1682,
+      "listed_count": 7844,
+      "favourites_count": 21257,
+      "statuses_count": 20635,
+      "created_at": "Mon Aug 27 04:21:41 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783792992/1598461410",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sun Mar 06 23:20:32 +0000 2022",
+      "id": 1500612321936388096,
+      "id_str": "1500612321936388096",
+      "text": "Ukraine, Syria, Yemen, Afghanistan, it doesn't matter. War is war. Our condolences to those who lost everything wit\u2026 https://t.co/OsWyVvZavA",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 939486738543796224,
+         "id_str": "939486738543796224",
+         "name": "Anonymous",
+         "screen_name": "LatestAnonPress",
+         "location": "Everywhere",
+         "url": "https://paper.li/LatestAnonPress",
+         "description": "We show what the mainstream media ignore.\nAnonymous operations around the world.\nOccupation movement and resistance.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 276821,
+         "friends_count": 77,
+         "listed_count": 583,
+         "favourites_count": 2591,
+         "statuses_count": 217,
+         "created_at": "Sat Dec 09 13:27:48 +0000 2017",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1455926553322344449/bmfM9nY1_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455926553322344449/bmfM9nY1_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/939486738543796224/1645835396",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Ukraine, Syria, Yemen, Afghanistan, it doesn't matter. War is war. Our condolences to those who lost everything without having a choice. Having more empathy would be an achievement for humanity https://t.co/Woqusn7jVQ",
+         "display_text_range": [
+            0,
+            193
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500612141304459268,
+                  "id_str": "1500612141304459268",
+                  "indices": [
+                     194,
+                     217
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM-yrwXMAQMmZJ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM-yrwXMAQMmZJ.jpg",
+                  "url": "https://t.co/Woqusn7jVQ",
+                  "display_url": "pic.twitter.com/Woqusn7jVQ",
+                  "expanded_url": "https://twitter.com/LatestAnonPress/status/1500612321936388096/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 613,
+                        "h": 895,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 613,
+                        "h": 895,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 466,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500612141304459268,
+                  "id_str": "1500612141304459268",
+                  "indices": [
+                     194,
+                     217
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM-yrwXMAQMmZJ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM-yrwXMAQMmZJ.jpg",
+                  "url": "https://t.co/Woqusn7jVQ",
+                  "display_url": "pic.twitter.com/Woqusn7jVQ",
+                  "expanded_url": "https://twitter.com/LatestAnonPress/status/1500612321936388096/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 613,
+                        "h": 895,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 613,
+                        "h": 895,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 466,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 477,
+      "reply_count": 611,
+      "retweet_count": 13746,
+      "favorite_count": 63064,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/OsWyVvZavA",
+               "expanded_url": "https://twitter.com/i/web/status/1500612321936388096",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "LatestAnonPress",
+            "name": "Anonymous",
+            "id": 939486738543796224,
+            "id_str": "939486738543796224",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646671846982"
+}

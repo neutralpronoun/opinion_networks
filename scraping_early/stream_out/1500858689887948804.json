@@ -1,0 +1,100 @@
+{
+   "created_at": "Mon Mar 07 15:39:30 +0000 2022",
+   "id": 1500858689887948804,
+   "id_str": "1500858689887948804",
+   "text": "@Jim_Jordan @GOPLeader Yeah, Gym, all over the world. I guess you won't mention that you traitorous tool!",
+   "display_text_range": [
+      23,
+      105
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500856926967586817,
+   "in_reply_to_status_id_str": "1500856926967586817",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 27459374,
+      "id_str": "27459374",
+      "name": "John Melendez",
+      "screen_name": "stutteringjohnm",
+      "location": "California, USA",
+      "url": "http://stutteringjohnmelendez.com",
+      "description": "John Melendez, from The Tonight Show, I was Stuttering John, I am the real deal don't believe the impostors.",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 53103,
+      "friends_count": 6986,
+      "listed_count": 286,
+      "favourites_count": 25094,
+      "statuses_count": 52629,
+      "created_at": "Sun Mar 29 17:04:21 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1030520465301749760/VS_j5qFU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030520465301749760/VS_j5qFU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27459374/1469046225",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         },
+         {
+            "screen_name": "GOPLeader",
+            "name": "Kevin McCarthy",
+            "id": 19739126,
+            "id_str": "19739126",
+            "indices": [
+               12,
+               22
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667570932"
+}

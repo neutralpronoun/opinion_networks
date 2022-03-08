@@ -1,0 +1,191 @@
+{
+   "created_at": "Mon Mar 07 23:37:35 +0000 2022",
+   "id": 1500979002038702080,
+   "id_str": "1500979002038702080",
+   "text": "Today I held a press conference to give a debrief on what I witnessed and learned on my recent fact-finding trip to\u2026 https://t.co/F7niRptRWc",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1276232539510919168,
+      "id_str": "1276232539510919168",
+      "name": "Rep. Chris Jacobs",
+      "screen_name": "RepJacobs",
+      "location": null,
+      "url": "http://jacobs.house.gov",
+      "description": "Proudly representing the great people of New York's 27th Congressional District. Official Account of Congressman Chris Jacobs",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 4301,
+      "friends_count": 123,
+      "listed_count": 178,
+      "favourites_count": 40,
+      "statuses_count": 752,
+      "created_at": "Thu Jun 25 19:15:35 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1288864965550583814/myiHUrAr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288864965550583814/myiHUrAr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276232539510919168/1595463013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today I held a press conference to give a debrief on what I witnessed and learned on my recent fact-finding trip to the southern border.\n\u00a0\nRead more here: https://t.co/b790SyHbzH https://t.co/xtZa8qCzsY",
+      "display_text_range": [
+         0,
+         178
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/b790SyHbzH",
+               "expanded_url": "http://jacobs.house.gov/media/press-releases/jacobs-gives-debrief-situation-southern-border",
+               "display_url": "jacobs.house.gov/media/press-re\u2026",
+               "indices": [
+                  155,
+                  178
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500978996879806464,
+               "id_str": "1500978996879806464",
+               "indices": [
+                  179,
+                  202
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSMcfRX0AA0tbH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSMcfRX0AA0tbH.jpg",
+               "url": "https://t.co/xtZa8qCzsY",
+               "display_url": "pic.twitter.com/xtZa8qCzsY",
+               "expanded_url": "https://twitter.com/RepJacobs/status/1500979002038702080/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500978996879806464,
+               "id_str": "1500978996879806464",
+               "indices": [
+                  179,
+                  202
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSMcfRX0AA0tbH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSMcfRX0AA0tbH.jpg",
+               "url": "https://t.co/xtZa8qCzsY",
+               "display_url": "pic.twitter.com/xtZa8qCzsY",
+               "expanded_url": "https://twitter.com/RepJacobs/status/1500979002038702080/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/F7niRptRWc",
+            "expanded_url": "https://twitter.com/i/web/status/1500979002038702080",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646696255584"
+}

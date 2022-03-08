@@ -1,0 +1,109 @@
+{
+   "created_at": "Tue Mar 08 00:47:55 +0000 2022",
+   "id": 1500996701964087296,
+   "id_str": "1500996701964087296",
+   "text": "He has the rare ability to amass friends while amassing power. It's hard to drive around Grand Forks and not see Ra\u2026 https://t.co/zwCs8Cep9v",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500996699237621761,
+   "in_reply_to_status_id_str": "1500996699237621761",
+   "in_reply_to_user_id": 1048784496,
+   "in_reply_to_user_id_str": "1048784496",
+   "in_reply_to_screen_name": "SenKevinCramer",
+   "user": {
+      "id": 1048784496,
+      "id_str": "1048784496",
+      "name": "Sen. Kevin Cramer",
+      "screen_name": "SenKevinCramer",
+      "location": null,
+      "url": "http://cramer.senate.gov",
+      "description": "Representing the great people of North Dakota in the United States Senate.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30628,
+      "friends_count": 597,
+      "listed_count": 1144,
+      "favourites_count": 363,
+      "statuses_count": 7818,
+      "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "He has the rare ability to amass friends while amassing power. It's hard to drive around Grand Forks and not see Ray's beneficial influence in the institutions surrounding the city. https://t.co/NaVejUz90z",
+      "display_text_range": [
+         0,
+         205
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/NaVejUz90z",
+               "expanded_url": "https://www.cramer.senate.gov/news/press-releases/sen-cramer-statement-on-senator-holmbergs-retirement",
+               "display_url": "cramer.senate.gov/news/press-rel\u2026",
+               "indices": [
+                  182,
+                  205
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/zwCs8Cep9v",
+            "expanded_url": "https://twitter.com/i/web/status/1500996701964087296",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646700475575"
+}

@@ -1,0 +1,124 @@
+{
+   "created_at": "Mon Mar 07 21:57:38 +0000 2022",
+   "id": 1500953849586094080,
+   "id_str": "1500953849586094080",
+   "text": "@IlhanMN Worse humanitarian crisis than in the Ukraine huh? Why don\u2019t you tell your fellow Democrats to open up the\u2026 https://t.co/EneaGL88JX",
+   "display_text_range": [
+      9,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500627524019179522,
+   "in_reply_to_status_id_str": "1500627524019179522",
+   "in_reply_to_user_id": 783792992,
+   "in_reply_to_user_id_str": "783792992",
+   "in_reply_to_screen_name": "IlhanMN",
+   "user": {
+      "id": 246106352,
+      "id_str": "246106352",
+      "name": "Spence Needle",
+      "screen_name": "spencerhawes00",
+      "location": "206",
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 46475,
+      "friends_count": 967,
+      "listed_count": 629,
+      "favourites_count": 8458,
+      "statuses_count": 7586,
+      "created_at": "Wed Feb 02 04:06:47 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496728342254346243/6Xfh0-qL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496728342254346243/6Xfh0-qL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246106352/1534897606",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@IlhanMN Worse humanitarian crisis than in the Ukraine huh? Why don\u2019t you tell your fellow Democrats to open up the drilling back on the home turf then?",
+      "display_text_range": [
+         9,
+         152
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "IlhanMN",
+               "name": "Ilhan Omar",
+               "id": 783792992,
+               "id_str": "783792992",
+               "indices": [
+                  0,
+                  8
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/EneaGL88JX",
+            "expanded_url": "https://twitter.com/i/web/status/1500953849586094080",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "IlhanMN",
+            "name": "Ilhan Omar",
+            "id": 783792992,
+            "id_str": "783792992",
+            "indices": [
+               0,
+               8
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690258772"
+}

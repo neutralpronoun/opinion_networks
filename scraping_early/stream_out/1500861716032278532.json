@@ -1,0 +1,1030 @@
+{
+   "created_at": "Mon Mar 07 15:51:32 +0000 2022",
+   "id": 1500861716032278532,
+   "id_str": "1500861716032278532",
+   "text": "RT @NDI: \"Democratic instability is allowing malign influences from Moscow &amp; Beijing to gain ground in the Western Balkans &amp; threatening ye\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 122174004,
+      "id_str": "122174004",
+      "name": "Dina Titus",
+      "screen_name": "repdinatitus",
+      "location": "Las Vegas, NV",
+      "url": "http://titus.house.gov",
+      "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 41710,
+      "friends_count": 1922,
+      "listed_count": 1128,
+      "favourites_count": 6499,
+      "statuses_count": 15769,
+      "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 13:38:47 +0000 2022",
+      "id": 1500828309667655683,
+      "id_str": "1500828309667655683",
+      "text": "\"Democratic instability is allowing malign influences from Moscow &amp; Beijing to gain ground in the Western Balkans &amp;\u2026 https://t.co/i4TgEMUYkq",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15035484,
+         "id_str": "15035484",
+         "name": "National Democratic Institute",
+         "screen_name": "NDI",
+         "location": "Global",
+         "url": "http://www.ndi.org",
+         "description": "The National Democratic Institute (@NDI) is a nonprofit, nonpartisan organization working for democracy and making democracy work worldwide.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 51239,
+         "friends_count": 3097,
+         "listed_count": 873,
+         "favourites_count": 6225,
+         "statuses_count": 12146,
+         "created_at": "Sat Jun 07 03:52:04 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "9AE4E8",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "BDDCAD",
+         "profile_sidebar_fill_color": "DDFFCC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1470395561505345536/QV1QzBNg_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470395561505345536/QV1QzBNg_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15035484/1646139797",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499830355024613386,
+      "quoted_status_id_str": "1499830355024613386",
+      "quoted_status": {
+         "created_at": "Fri Mar 04 19:33:16 +0000 2022",
+         "id": 1499830355024613386,
+         "id_str": "1499830355024613386",
+         "text": "As the world watches Russia\u2019s unlawful invasion of Ukraine unfold, it is more important than ever for the U.S. to d\u2026 https://t.co/5zfAEwjLkC",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 122174004,
+            "id_str": "122174004",
+            "name": "Dina Titus",
+            "screen_name": "repdinatitus",
+            "location": "Las Vegas, NV",
+            "url": "http://titus.house.gov",
+            "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 41710,
+            "friends_count": 1922,
+            "listed_count": 1128,
+            "favourites_count": 6499,
+            "statuses_count": 15768,
+            "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "As the world watches Russia\u2019s unlawful invasion of Ukraine unfold, it is more important than ever for the U.S. to deepen its engagement in the Balkans. Today I led a letter with my colleagues urging @StateDept to demonstrate our readiness to support democratic values abroad. https://t.co/c0FVz7iEYI",
+            "display_text_range": [
+               0,
+               275
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [
+                  {
+                     "screen_name": "StateDept",
+                     "name": "Department of State",
+                     "id": 9624742,
+                     "id_str": "9624742",
+                     "indices": [
+                        199,
+                        209
+                     ]
+                  }
+               ],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1499827231648063495,
+                     "id_str": "1499827231648063495",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 701,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 525,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 701,
+                           "h": 908,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827241575976965,
+                     "id_str": "1499827241575976965",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 700,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 700,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 524,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827248425230343,
+                     "id_str": "1499827248425230343",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 700,
+                           "h": 906,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 700,
+                           "h": 906,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 525,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827255035506689,
+                     "id_str": "1499827255035506689",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 701,
+                           "h": 909,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 701,
+                           "h": 909,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 524,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1499827231648063495,
+                     "id_str": "1499827231648063495",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 701,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 525,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 701,
+                           "h": 908,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827241575976965,
+                     "id_str": "1499827241575976965",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 700,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 700,
+                           "h": 908,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 524,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827248425230343,
+                     "id_str": "1499827248425230343",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 700,
+                           "h": 906,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 700,
+                           "h": 906,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 525,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499827255035506689,
+                     "id_str": "1499827255035506689",
+                     "indices": [
+                        276,
+                        299
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                     "url": "https://t.co/c0FVz7iEYI",
+                     "display_url": "pic.twitter.com/c0FVz7iEYI",
+                     "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 701,
+                           "h": 909,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 701,
+                           "h": 909,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 524,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 23,
+         "reply_count": 46,
+         "retweet_count": 71,
+         "favorite_count": 228,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/5zfAEwjLkC",
+                  "expanded_url": "https://twitter.com/i/web/status/1499830355024613386",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/mSsXM8OmIF",
+         "expanded": "https://twitter.com/repdinatitus/status/1499830355024613386",
+         "display": "twitter.com/repdinatitus/s\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "\"Democratic instability is allowing malign influences from Moscow &amp; Beijing to gain ground in the Western Balkans &amp; threatening years of international work to support resilient democracies.\" \nThank you, @repdinatitus, for your leadership in supporting democracy in the #Balkans.\u2b07\ufe0f",
+         "display_text_range": [
+            0,
+            288
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Balkans",
+                  "indices": [
+                     277,
+                     285
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "repdinatitus",
+                  "name": "Dina Titus",
+                  "id": 122174004,
+                  "id_str": "122174004",
+                  "indices": [
+                     211,
+                     224
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/i4TgEMUYkq",
+               "expanded_url": "https://twitter.com/i/web/status/1500828309667655683",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  125,
+                  148
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1499830355024613386,
+   "quoted_status_id_str": "1499830355024613386",
+   "quoted_status": {
+      "created_at": "Fri Mar 04 19:33:16 +0000 2022",
+      "id": 1499830355024613386,
+      "id_str": "1499830355024613386",
+      "text": "As the world watches Russia\u2019s unlawful invasion of Ukraine unfold, it is more important than ever for the U.S. to d\u2026 https://t.co/5zfAEwjLkC",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 122174004,
+         "id_str": "122174004",
+         "name": "Dina Titus",
+         "screen_name": "repdinatitus",
+         "location": "Las Vegas, NV",
+         "url": "http://titus.house.gov",
+         "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 41710,
+         "friends_count": 1922,
+         "listed_count": 1128,
+         "favourites_count": 6499,
+         "statuses_count": 15768,
+         "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "As the world watches Russia\u2019s unlawful invasion of Ukraine unfold, it is more important than ever for the U.S. to deepen its engagement in the Balkans. Today I led a letter with my colleagues urging @StateDept to demonstrate our readiness to support democratic values abroad. https://t.co/c0FVz7iEYI",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "StateDept",
+                  "name": "Department of State",
+                  "id": 9624742,
+                  "id_str": "9624742",
+                  "indices": [
+                     199,
+                     209
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499827231648063495,
+                  "id_str": "1499827231648063495",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 701,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 701,
+                        "h": 908,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827241575976965,
+                  "id_str": "1499827241575976965",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 700,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 700,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 524,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827248425230343,
+                  "id_str": "1499827248425230343",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 700,
+                        "h": 906,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 700,
+                        "h": 906,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827255035506689,
+                  "id_str": "1499827255035506689",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 701,
+                        "h": 909,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 701,
+                        "h": 909,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 524,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499827231648063495,
+                  "id_str": "1499827231648063495",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB067bXIAc8eNt.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 701,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 701,
+                        "h": 908,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827241575976965,
+                  "id_str": "1499827241575976965",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB07gaXEAU7Q-3.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 700,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 700,
+                        "h": 908,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 524,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827248425230343,
+                  "id_str": "1499827248425230343",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB0757WYAchJMT.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 700,
+                        "h": 906,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 700,
+                        "h": 906,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 525,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499827255035506689,
+                  "id_str": "1499827255035506689",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNB08SjXMAEp-k1.jpg",
+                  "url": "https://t.co/c0FVz7iEYI",
+                  "display_url": "pic.twitter.com/c0FVz7iEYI",
+                  "expanded_url": "https://twitter.com/repdinatitus/status/1499830355024613386/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 701,
+                        "h": 909,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 701,
+                        "h": 909,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 524,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 23,
+      "reply_count": 46,
+      "retweet_count": 71,
+      "favorite_count": 228,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5zfAEwjLkC",
+               "expanded_url": "https://twitter.com/i/web/status/1499830355024613386",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/mSsXM8OmIF",
+      "expanded": "https://twitter.com/repdinatitus/status/1499830355024613386",
+      "display": "twitter.com/repdinatitus/s\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "NDI",
+            "name": "National Democratic Institute",
+            "id": 15035484,
+            "id_str": "15035484",
+            "indices": [
+               3,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668292421"
+}

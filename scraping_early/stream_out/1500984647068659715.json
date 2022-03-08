@@ -1,0 +1,114 @@
+{
+   "created_at": "Tue Mar 08 00:00:01 +0000 2022",
+   "id": 1500984647068659715,
+   "id_str": "1500984647068659715",
+   "text": "Today marks the 57th anniversary of #BloodySunday.\n\nWe must honor the legacy of those who marched, bled &amp; put their\u2026 https://t.co/BjafSo6Pna",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080584229510172678,
+      "id_str": "1080584229510172678",
+      "name": "Congresswoman Ayanna Pressley",
+      "screen_name": "RepPressley",
+      "location": "Boston, MA",
+      "url": "https://us06web.zoom.us/webinar/register/WN_8NaK6ltUQlKXmuih3v_1Ig",
+      "description": "Proudly serving the Massachusetts 7th. Vice Chair, @FSCDems & Member, @OversightDems She/Her.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 557805,
+      "friends_count": 998,
+      "listed_count": 2385,
+      "favourites_count": 3655,
+      "statuses_count": 5498,
+      "created_at": "Wed Jan 02 21:58:51 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1399754594192920583/C_lXcydg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399754594192920583/C_lXcydg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080584229510172678/1628189383",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today marks the 57th anniversary of #BloodySunday.\n\nWe must honor the legacy of those who marched, bled &amp; put their bodies on the line in Selma by abolishing the Jim Crow filibuster &amp; protecting the right to vote. \n\nLet's get it done.",
+      "display_text_range": [
+         0,
+         242
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BloodySunday",
+               "indices": [
+                  36,
+                  49
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "BloodySunday",
+            "indices": [
+               36,
+               49
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/BjafSo6Pna",
+            "expanded_url": "https://twitter.com/i/web/status/1500984647068659715",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646697601464"
+}

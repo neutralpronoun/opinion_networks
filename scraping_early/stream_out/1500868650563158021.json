@@ -1,0 +1,338 @@
+{
+   "created_at": "Mon Mar 07 16:19:05 +0000 2022",
+   "id": 1500868650563158021,
+   "id_str": "1500868650563158021",
+   "text": "RT @JacksonLeeTX18: Marching over the Edmund Pettus Bridge with Vice President Kamala Harris  to demand voting rights now and to honor the\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 44498699,
+      "id_str": "44498699",
+      "name": "Texas College Democrats",
+      "screen_name": "CollegeDemsTX",
+      "location": "The Great State of Texas",
+      "url": "http://txcollegedems.org",
+      "description": "\ud83e\udd20 A better Texas is possible \u2014 if we work for it.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 7860,
+      "friends_count": 420,
+      "listed_count": 154,
+      "favourites_count": 3649,
+      "statuses_count": 4985,
+      "created_at": "Thu Jun 04 00:19:14 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496667669705240580/DjGBrhat_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496667669705240580/DjGBrhat_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44498699/1642203649",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 04:14:06 +0000 2022",
+      "id": 1500686203221417986,
+      "id_str": "1500686203221417986",
+      "text": "Marching over the Edmund Pettus Bridge with Vice President Kamala Harris  to demand voting rights now and to honor\u2026 https://t.co/HI367dhoCJ",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 80612021,
+         "id_str": "80612021",
+         "name": "Sheila Jackson Lee",
+         "screen_name": "JacksonLeeTX18",
+         "location": "Houston, TX",
+         "url": "http://www.jacksonlee.house.gov",
+         "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 112372,
+         "friends_count": 2379,
+         "listed_count": 1981,
+         "favourites_count": 11840,
+         "statuses_count": 12417,
+         "created_at": "Wed Oct 07 16:13:13 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F7FF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "0A2AFC",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "E4E4E4",
+         "profile_text_color": "E61212",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1439039200037330951/oeghiSsd_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439039200037330951/oeghiSsd_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/80612021/1632197208",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Marching over the Edmund Pettus Bridge with Vice President Kamala Harris  to demand voting rights now and to honor the late John Robert Lewis! https://t.co/ZD4SwzLZBq",
+         "display_text_range": [
+            0,
+            142
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500686199505264642,
+                  "id_str": "1500686199505264642",
+                  "indices": [
+                     143,
+                     166
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNOCJcDXoAIUjR_.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNOCJcDXoAIUjR_.jpg",
+                  "url": "https://t.co/ZD4SwzLZBq",
+                  "display_url": "pic.twitter.com/ZD4SwzLZBq",
+                  "expanded_url": "https://twitter.com/JacksonLeeTX18/status/1500686203221417986/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1440,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500686199501078536,
+                  "id_str": "1500686199501078536",
+                  "indices": [
+                     143,
+                     166
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNOCJcCXwAgyT58.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNOCJcCXwAgyT58.jpg",
+                  "url": "https://t.co/ZD4SwzLZBq",
+                  "display_url": "pic.twitter.com/ZD4SwzLZBq",
+                  "expanded_url": "https://twitter.com/JacksonLeeTX18/status/1500686203221417986/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1320,
+                        "h": 990,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500686199505264642,
+                  "id_str": "1500686199505264642",
+                  "indices": [
+                     143,
+                     166
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNOCJcDXoAIUjR_.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNOCJcDXoAIUjR_.jpg",
+                  "url": "https://t.co/ZD4SwzLZBq",
+                  "display_url": "pic.twitter.com/ZD4SwzLZBq",
+                  "expanded_url": "https://twitter.com/JacksonLeeTX18/status/1500686203221417986/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1440,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500686199501078536,
+                  "id_str": "1500686199501078536",
+                  "indices": [
+                     143,
+                     166
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNOCJcCXwAgyT58.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNOCJcCXwAgyT58.jpg",
+                  "url": "https://t.co/ZD4SwzLZBq",
+                  "display_url": "pic.twitter.com/ZD4SwzLZBq",
+                  "expanded_url": "https://twitter.com/JacksonLeeTX18/status/1500686203221417986/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1320,
+                        "h": 990,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 25,
+      "retweet_count": 34,
+      "favorite_count": 186,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/HI367dhoCJ",
+               "expanded_url": "https://twitter.com/i/web/status/1500686203221417986",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JacksonLeeTX18",
+            "name": "Sheila Jackson Lee",
+            "id": 80612021,
+            "id_str": "80612021",
+            "indices": [
+               3,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669945742"
+}

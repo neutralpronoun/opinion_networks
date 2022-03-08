@@ -1,0 +1,164 @@
+{
+   "created_at": "Tue Mar 08 00:00:42 +0000 2022",
+   "id": 1500984818242396162,
+   "id_str": "1500984818242396162",
+   "text": "@RepMaloney @benjamindickman @RepEspaillat As Dr. Dickman mentioned, I too would welcome attention to a legend who\u2019\u2026 https://t.co/mYefXEq0oX",
+   "display_text_range": [
+      43,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500954625830178822,
+   "in_reply_to_status_id_str": "1500954625830178822",
+   "in_reply_to_user_id": 258900199,
+   "in_reply_to_user_id_str": "258900199",
+   "in_reply_to_screen_name": "RepMaloney",
+   "user": {
+      "id": 15051291,
+      "id_str": "15051291",
+      "name": "Jos\u00e9 Vilson knows.",
+      "screen_name": "TheJLV",
+      "location": "New York, NY",
+      "url": "https://thejosevilson.com",
+      "description": "The educator Gotham deserves. #EduColor ED. Doc student @TeachersCollege. Author. NBCT. Father. Husband. Also: Politics. Justice. Faith. This is our moment. \ud83d\udc10",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 49049,
+      "friends_count": 4215,
+      "listed_count": 1270,
+      "favourites_count": 143084,
+      "statuses_count": 170180,
+      "created_at": "Sun Jun 08 23:27:57 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1489052042870112260/XsmZRODH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489052042870112260/XsmZRODH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15051291/1640574246",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepMaloney @benjamindickman @RepEspaillat As Dr. Dickman mentioned, I too would welcome attention to a legend who\u2019s been influential to both the civil rights movement and education. Thank you!",
+      "display_text_range": [
+         43,
+         193
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepMaloney",
+               "name": "Carolyn B. Maloney",
+               "id": 258900199,
+               "id_str": "258900199",
+               "indices": [
+                  0,
+                  11
+               ]
+            },
+            {
+               "screen_name": "benjamindickman",
+               "name": "Benjamin Dickman (\ud83e\uddd4\ud83c\udffb)",
+               "id": 84445396,
+               "id_str": "84445396",
+               "indices": [
+                  12,
+                  28
+               ]
+            },
+            {
+               "screen_name": "RepEspaillat",
+               "name": "Adriano Espaillat",
+               "id": 817076257770835968,
+               "id_str": "817076257770835968",
+               "indices": [
+                  29,
+                  42
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/mYefXEq0oX",
+            "expanded_url": "https://twitter.com/i/web/status/1500984818242396162",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMaloney",
+            "name": "Carolyn B. Maloney",
+            "id": 258900199,
+            "id_str": "258900199",
+            "indices": [
+               0,
+               11
+            ]
+         },
+         {
+            "screen_name": "benjamindickman",
+            "name": "Benjamin Dickman (\ud83e\uddd4\ud83c\udffb)",
+            "id": 84445396,
+            "id_str": "84445396",
+            "indices": [
+               12,
+               28
+            ]
+         },
+         {
+            "screen_name": "RepEspaillat",
+            "name": "Adriano Espaillat",
+            "id": 817076257770835968,
+            "id_str": "817076257770835968",
+            "indices": [
+               29,
+               42
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646697642275"
+}

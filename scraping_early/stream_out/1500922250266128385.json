@@ -1,0 +1,343 @@
+{
+   "created_at": "Mon Mar 07 19:52:04 +0000 2022",
+   "id": 1500922250266128385,
+   "id_str": "1500922250266128385",
+   "text": "Try telling that to hardworking Montana families, farmers and ranchers. \n\nThis isn\u2019t going to cut it\u2014we must unleas\u2026 https://t.co/oi9WKJb47R",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 11651202,
+      "id_str": "11651202",
+      "name": "Steve Daines",
+      "screen_name": "SteveDaines",
+      "location": "Bozeman, MT",
+      "url": null,
+      "description": "Serving the people of Montana in the U.S. Senate. \ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 77582,
+      "friends_count": 651,
+      "listed_count": 1730,
+      "favourites_count": 5410,
+      "statuses_count": 8184,
+      "created_at": "Sun Dec 30 05:52:03 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "88D0F7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0B60BA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1469073116185960458/12Mh8GAf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469073116185960458/12Mh8GAf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11651202/1639090329",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500878771615940613,
+   "quoted_status_id_str": "1500878771615940613",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 16:59:18 +0000 2022",
+      "id": 1500878771615940613,
+      "id_str": "1500878771615940613",
+      "text": "Pete Buttigieg: Upset with near-record gas prices? Too bad. Buy an electric vehicle.\n\n(The average cost of an elect\u2026 https://t.co/FzArSvtDTj",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 55329156,
+         "id_str": "55329156",
+         "name": "RNC Research",
+         "screen_name": "RNCResearch",
+         "location": "Washington, DC",
+         "url": "https://gop.com/research/",
+         "description": "Exposing the lies, hypocrisy, and failed far-left policies of Joe Biden and the Democrat Party. Managed by the Republican National Committee.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 151967,
+         "friends_count": 2895,
+         "listed_count": 1480,
+         "favourites_count": 26,
+         "statuses_count": 28708,
+         "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "CC0A0A",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "F50808",
+         "profile_sidebar_border_color": "030303",
+         "profile_sidebar_fill_color": "8A8585",
+         "profile_text_color": "050505",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1431349594978504710/yDNLhX4Y_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431349594978504710/yDNLhX4Y_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1629786772",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Pete Buttigieg: Upset with near-record gas prices? Too bad. Buy an electric vehicle.\n\n(The average cost of an electric vehicle is over $55,000) https://t.co/VjBvhx4RGd",
+         "display_text_range": [
+            0,
+            143
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500878276419534852,
+                  "id_str": "1500878276419534852",
+                  "indices": [
+                     144,
+                     167
+                  ],
+                  "additional_media_info": {
+                     "title": "Pete Buttigieg: Upset by gas prices? Buy an electric vehicle",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500878276419534852/img/V6L2EMfoI1i7vPx8.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500878276419534852/img/V6L2EMfoI1i7vPx8.jpg",
+                  "url": "https://t.co/VjBvhx4RGd",
+                  "display_url": "pic.twitter.com/VjBvhx4RGd",
+                  "expanded_url": "https://twitter.com/RNCResearch/status/1500878771615940613/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        360,
+                        203
+                     ],
+                     "duration_millis": 18621,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/pl/M9tKOMcF8CF7iwTn.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/vid/478x270/-WUitND55e2QDXbp.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/vid/720x406/zAUQY2qGp7JkPwWT.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500878276419534852,
+                  "id_str": "1500878276419534852",
+                  "indices": [
+                     144,
+                     167
+                  ],
+                  "additional_media_info": {
+                     "title": "Pete Buttigieg: Upset by gas prices? Buy an electric vehicle",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500878276419534852/img/V6L2EMfoI1i7vPx8.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500878276419534852/img/V6L2EMfoI1i7vPx8.jpg",
+                  "url": "https://t.co/VjBvhx4RGd",
+                  "display_url": "pic.twitter.com/VjBvhx4RGd",
+                  "expanded_url": "https://twitter.com/RNCResearch/status/1500878771615940613/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        360,
+                        203
+                     ],
+                     "duration_millis": 18621,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/pl/M9tKOMcF8CF7iwTn.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/vid/478x270/-WUitND55e2QDXbp.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500878276419534852/vid/720x406/zAUQY2qGp7JkPwWT.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 406,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 205,
+      "reply_count": 376,
+      "retweet_count": 370,
+      "favorite_count": 942,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/FzArSvtDTj",
+               "expanded_url": "https://twitter.com/i/web/status/1500878771615940613",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/bxVLJaI2dD",
+      "expanded": "https://twitter.com/RNCResearch/status/1500878771615940613",
+      "display": "twitter.com/RNCResearch/st\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Try telling that to hardworking Montana families, farmers and ranchers. \n\nThis isn\u2019t going to cut it\u2014we must unleash American energy and bring costs down for Americans.",
+      "display_text_range": [
+         0,
+         168
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/oi9WKJb47R",
+            "expanded_url": "https://twitter.com/i/web/status/1500922250266128385",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682724907"
+}

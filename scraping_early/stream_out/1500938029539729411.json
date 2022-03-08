@@ -1,0 +1,306 @@
+{
+   "created_at": "Mon Mar 07 20:54:46 +0000 2022",
+   "id": 1500938029539729411,
+   "id_str": "1500938029539729411",
+   "text": "RT @RepTroyCarter: Today, @USEdGov announced that Louisiana\u2019s colleges and universities have received a historic $683M from the American Re\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 59869729,
+      "id_str": "59869729",
+      "name": "Louisiana Democrats",
+      "screen_name": "LaDemos",
+      "location": "Louisiana",
+      "url": "http://secure.actblue.com/donate/beatkennedy22",
+      "description": "We're a united group of diverse people working to raise wages, lower health care costs, and protect voting rights across Louisiana. \u2b07\ufe0f DONATE",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 18784,
+      "friends_count": 3793,
+      "listed_count": 365,
+      "favourites_count": 8529,
+      "statuses_count": 29557,
+      "created_at": "Fri Jul 24 19:47:15 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "00AFF3",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1374952127555108865/TgPrH2OO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374952127555108865/TgPrH2OO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/59869729/1616649617",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:29:47 +0000 2022",
+      "id": 1500931741200134153,
+      "id_str": "1500931741200134153",
+      "text": "Today, @USEdGov announced that Louisiana\u2019s colleges and universities have received a historic $683M from the Americ\u2026 https://t.co/bdwZ931PdX",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1352760304271241218,
+         "id_str": "1352760304271241218",
+         "name": "Congressman Troy A. Carter",
+         "screen_name": "RepTroyCarter",
+         "location": "District 02, Louisiana",
+         "url": "http://troycarter.house.gov",
+         "description": "Proudly representing Louisiana\u2019s 2nd Congressional District.                                Member, @TransportDems & @HouseSmallBiz #TheVoiceOfThePeople",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 2804,
+         "friends_count": 1909,
+         "listed_count": 47,
+         "favourites_count": 959,
+         "statuses_count": 1342,
+         "created_at": "Fri Jan 22 23:29:39 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1448410803279912961/hUgUA2XN_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448410803279912961/hUgUA2XN_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352760304271241218/1627504416",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today, @USEdGov announced that Louisiana\u2019s colleges and universities have received a historic $683M from the American Rescue Plan (ARP) in relief for higher ed.\n\nThe ARP requires at least half of these funds to be used to provide direct financial relief to students. #ForThePeople https://t.co/FPnYMEVkpR",
+         "display_text_range": [
+            0,
+            280
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "ForThePeople",
+                  "indices": [
+                     267,
+                     280
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "usedgov",
+                  "name": "U.S. Department of Education",
+                  "id": 20437286,
+                  "id_str": "20437286",
+                  "indices": [
+                     7,
+                     15
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500931648103321604,
+                  "id_str": "1500931648103321604",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRhYbVXEAQw88D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRhYbVXEAQw88D.jpg",
+                  "url": "https://t.co/FPnYMEVkpR",
+                  "display_url": "pic.twitter.com/FPnYMEVkpR",
+                  "expanded_url": "https://twitter.com/RepTroyCarter/status/1500931741200134153/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500931648103321604,
+                  "id_str": "1500931648103321604",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRhYbVXEAQw88D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRhYbVXEAQw88D.jpg",
+                  "url": "https://t.co/FPnYMEVkpR",
+                  "display_url": "pic.twitter.com/FPnYMEVkpR",
+                  "expanded_url": "https://twitter.com/RepTroyCarter/status/1500931741200134153/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1600,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/bdwZ931PdX",
+               "expanded_url": "https://twitter.com/i/web/status/1500931741200134153",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "usedgov",
+               "name": "U.S. Department of Education",
+               "id": 20437286,
+               "id_str": "20437286",
+               "indices": [
+                  7,
+                  15
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepTroyCarter",
+            "name": "Congressman Troy A. Carter",
+            "id": 1352760304271241218,
+            "id_str": "1352760304271241218",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "usedgov",
+            "name": "U.S. Department of Education",
+            "id": 20437286,
+            "id_str": "20437286",
+            "indices": [
+               26,
+               34
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686486979"
+}

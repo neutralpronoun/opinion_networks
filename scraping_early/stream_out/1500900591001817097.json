@@ -1,0 +1,272 @@
+{
+   "created_at": "Mon Mar 07 18:26:00 +0000 2022",
+   "id": 1500900591001817097,
+   "id_str": "1500900591001817097",
+   "text": "I'm a proud co-sponsor of the Lymphedema Treatment Act that I have supported since coming to Congress. Advocates li\u2026 https://t.co/h9WAIM7jNn",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 993153006,
+      "id_str": "993153006",
+      "name": "US Rep Rodney Davis",
+      "screen_name": "RodneyDavis",
+      "location": "Taylorville, IL",
+      "url": "http://rodneydavis.house.gov",
+      "description": "Proudly representing #IL13 and marginalized Nickelback fans everywhere. Leader of @HouseAdmnGOP and member of @TransportGOP and @HouseAgGOP.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27777,
+      "friends_count": 1194,
+      "listed_count": 955,
+      "favourites_count": 542,
+      "statuses_count": 8432,
+      "created_at": "Thu Dec 06 14:20:04 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/861602080712216576/Qa1f4EOG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/993153006/1497639898",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500516527631597570,
+   "quoted_status_id_str": "1500516527631597570",
+   "quoted_status": {
+      "created_at": "Sun Mar 06 16:59:53 +0000 2022",
+      "id": 1500516527631597570,
+      "id_str": "1500516527631597570",
+      "text": "WLD is here! Enjoy free access to the 2021 Lymphatic Summit! https://t.co/XyUcRmxfhJ https://t.co/wbVDtedGK1",
+      "display_text_range": [
+         0,
+         84
+      ],
+      "source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 125692735,
+         "id_str": "125692735",
+         "name": "LE&RN",
+         "screen_name": "LymphaticNet",
+         "location": "New York",
+         "url": "http://www.LymphaticNetwork.org",
+         "description": "Fighting lymphedema and lymphatic disease through education, research, and advocacy.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 3226,
+         "friends_count": 600,
+         "listed_count": 47,
+         "favourites_count": 1043,
+         "statuses_count": 4753,
+         "created_at": "Tue Mar 23 15:21:52 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1F8A92",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "131516",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/378800000538024683/896efa7e56d75fd6036b13c980ecbaee_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000538024683/896efa7e56d75fd6036b13c980ecbaee_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/125692735/1559743868",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 6,
+      "favorite_count": 12,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/XyUcRmxfhJ",
+               "expanded_url": "https://mailchi.mp/lymphaticnetwork/8ojhihondc-1047092",
+               "display_url": "mailchi.mp/lymphaticnetwo\u2026",
+               "indices": [
+                  61,
+                  84
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500516525324787726,
+               "id_str": "1500516525324787726",
+               "indices": [
+                  85,
+                  108
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNLn1GeWYA4ZUW1.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNLn1GeWYA4ZUW1.jpg",
+               "url": "https://t.co/wbVDtedGK1",
+               "display_url": "pic.twitter.com/wbVDtedGK1",
+               "expanded_url": "https://twitter.com/LymphaticNet/status/1500516527631597570/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500516525324787726,
+               "id_str": "1500516525324787726",
+               "indices": [
+                  85,
+                  108
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNLn1GeWYA4ZUW1.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNLn1GeWYA4ZUW1.jpg",
+               "url": "https://t.co/wbVDtedGK1",
+               "display_url": "pic.twitter.com/wbVDtedGK1",
+               "expanded_url": "https://twitter.com/LymphaticNet/status/1500516527631597570/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 263,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/BnBygQAEqn",
+      "expanded": "https://twitter.com/LymphaticNet/status/1500516527631597570",
+      "display": "twitter.com/LymphaticNet/s\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "I'm a proud co-sponsor of the Lymphedema Treatment Act that I have supported since coming to Congress. Advocates like my friend Melvin Osburn of Jerseyville, IL work hard to raise awareness of this disease and I'll continue to be their advocate.",
+      "display_text_range": [
+         0,
+         245
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/h9WAIM7jNn",
+            "expanded_url": "https://twitter.com/i/web/status/1500900591001817097",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677560936"
+}

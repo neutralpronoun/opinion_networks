@@ -1,0 +1,197 @@
+{
+   "created_at": "Mon Mar 07 16:26:20 +0000 2022",
+   "id": 1500870473906798594,
+   "id_str": "1500870473906798594",
+   "text": "During #WomensHistoryMonth, we recognize female leaders of the Labor Movement who fought for gender equality, bette\u2026 https://t.co/H91X7Tbvdw",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2968007206,
+      "id_str": "2968007206",
+      "name": "Mark DeSaulnier",
+      "screen_name": "RepDeSaulnier",
+      "location": "Concord, CA",
+      "url": "https://desaulnier.house.gov/",
+      "description": "Representing CA-11. Member of @transportdems @EdLaborCmte @oversightdems @RulesDemocrats. Dad, amateur historian, marathon runner & former small business owner.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 22906,
+      "friends_count": 1013,
+      "listed_count": 823,
+      "favourites_count": 298,
+      "statuses_count": 8077,
+      "created_at": "Thu Jan 08 15:32:13 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979126569070485505/TChO0ixS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979126569070485505/TChO0ixS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968007206/1533589054",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "During #WomensHistoryMonth, we recognize female leaders of the Labor Movement who fought for gender equality, better working conditions, and higher wages. This week we recognize Rosina Corrothers Tucker. (1/3) https://t.co/kc5hqTSB93",
+      "display_text_range": [
+         0,
+         209
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomensHistoryMonth",
+               "indices": [
+                  7,
+                  26
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500870471490973699,
+               "id_str": "1500870471490973699",
+               "indices": [
+                  210,
+                  233
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpvesXsAM2a2Z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpvesXsAM2a2Z.jpg",
+               "url": "https://t.co/kc5hqTSB93",
+               "display_url": "pic.twitter.com/kc5hqTSB93",
+               "expanded_url": "https://twitter.com/RepDeSaulnier/status/1500870473906798594/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 544,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 750,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500870471490973699,
+               "id_str": "1500870471490973699",
+               "indices": [
+                  210,
+                  233
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQpvesXsAM2a2Z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQpvesXsAM2a2Z.jpg",
+               "url": "https://t.co/kc5hqTSB93",
+               "display_url": "pic.twitter.com/kc5hqTSB93",
+               "expanded_url": "https://twitter.com/RepDeSaulnier/status/1500870473906798594/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 600,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 544,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 600,
+                     "h": 750,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "WomensHistoryMonth",
+            "indices": [
+               7,
+               26
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/H91X7Tbvdw",
+            "expanded_url": "https://twitter.com/i/web/status/1500870473906798594",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670380461"
+}

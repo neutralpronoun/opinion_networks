@@ -1,0 +1,264 @@
+{
+   "created_at": "Mon Mar 07 22:43:31 +0000 2022",
+   "id": 1500965394563092483,
+   "id_str": "1500965394563092483",
+   "text": "These same experts seemed to have actively suppressed information on natural immunity acquired from the virus. In O\u2026 https://t.co/b74jRMpVZ5",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500965390201073670,
+   "in_reply_to_status_id_str": "1500965390201073670",
+   "in_reply_to_user_id": 1082790600292925440,
+   "in_reply_to_user_id_str": "1082790600292925440",
+   "in_reply_to_screen_name": "RepChipRoy",
+   "user": {
+      "id": 1082790600292925440,
+      "id_str": "1082790600292925440",
+      "name": "Rep. Chip Roy Press Office",
+      "screen_name": "RepChipRoy",
+      "location": "Washington, DC",
+      "url": "https://roy.house.gov/",
+      "description": "This is a staff account to provide updates to our constituents in Texas' 21st District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 59102,
+      "friends_count": 120,
+      "listed_count": 680,
+      "favourites_count": 1498,
+      "statuses_count": 5687,
+      "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1621959404",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "These same experts seemed to have actively suppressed information on natural immunity acquired from the virus. In Oct '20 our @CDCDirector said that \"there is no evidence\" for natural immunity to COVID. \n\n(11/ ) https://t.co/QSOTL0prOz",
+      "display_text_range": [
+         0,
+         211
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "CDCDirector",
+               "name": "Rochelle Walensky, MD, MPH",
+               "id": 426909329,
+               "id_str": "426909329",
+               "indices": [
+                  126,
+                  138
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500963570682634241,
+               "id_str": "1500963570682634241",
+               "indices": [
+                  212,
+                  235
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-akNXIAElPQu.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-akNXIAElPQu.png",
+               "url": "https://t.co/QSOTL0prOz",
+               "display_url": "pic.twitter.com/QSOTL0prOz",
+               "expanded_url": "https://twitter.com/RepChipRoy/status/1500965394563092483/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 378,
+                     "h": 773,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 333,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 378,
+                     "h": 773,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            },
+            {
+               "id": 1500963589003395073,
+               "id_str": "1500963589003395073",
+               "indices": [
+                  212,
+                  235
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-bodXwAEjP8B.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-bodXwAEjP8B.png",
+               "url": "https://t.co/QSOTL0prOz",
+               "display_url": "pic.twitter.com/QSOTL0prOz",
+               "expanded_url": "https://twitter.com/RepChipRoy/status/1500965394563092483/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 386,
+                     "h": 784,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 386,
+                     "h": 784,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 335,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500963570682634241,
+               "id_str": "1500963570682634241",
+               "indices": [
+                  212,
+                  235
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-akNXIAElPQu.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-akNXIAElPQu.png",
+               "url": "https://t.co/QSOTL0prOz",
+               "display_url": "pic.twitter.com/QSOTL0prOz",
+               "expanded_url": "https://twitter.com/RepChipRoy/status/1500965394563092483/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 378,
+                     "h": 773,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 333,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 378,
+                     "h": 773,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            },
+            {
+               "id": 1500963589003395073,
+               "id_str": "1500963589003395073",
+               "indices": [
+                  212,
+                  235
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-bodXwAEjP8B.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-bodXwAEjP8B.png",
+               "url": "https://t.co/QSOTL0prOz",
+               "display_url": "pic.twitter.com/QSOTL0prOz",
+               "expanded_url": "https://twitter.com/RepChipRoy/status/1500965394563092483/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 386,
+                     "h": 784,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 386,
+                     "h": 784,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 335,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/b74jRMpVZ5",
+            "expanded_url": "https://twitter.com/i/web/status/1500965394563092483",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693011309"
+}

@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 20:50:25 +0000 2022",
+   "id": 1500936932209082368,
+   "id_str": "1500936932209082368",
+   "text": "The Biden administration would rather negotiate with Iran and Venezuela than boost American energy production.\n\nAs\u2026 https://t.co/wHIjf1XiOB",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500931981001043968,
+   "in_reply_to_status_id_str": "1500931981001043968",
+   "in_reply_to_user_id": 935033864,
+   "in_reply_to_user_id_str": "935033864",
+   "in_reply_to_screen_name": "RepRichHudson",
+   "user": {
+      "id": 935033864,
+      "id_str": "935033864",
+      "name": "Richard Hudson",
+      "screen_name": "RepRichHudson",
+      "location": "Concord, NC",
+      "url": "https://hudson.house.gov/",
+      "description": "Proudly representing #NC08 in the U.S. House \ud83c\uddfa\ud83c\uddf8 | Member of @HouseGOP & @HouseCommerce",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 23239,
+      "friends_count": 2807,
+      "listed_count": 842,
+      "favourites_count": 10508,
+      "statuses_count": 9210,
+      "created_at": "Thu Nov 08 17:41:00 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345780278325817359/-SGkyzAX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345780278325817359/-SGkyzAX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/935033864/1582145228",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Biden administration would rather negotiate with Iran and Venezuela than boost American energy production.\n\nAs gas prices continue to soar, President Biden needs to unleash American energy, not fund our adversaries.\n\nhttps://t.co/hZY8xKMJ49",
+      "display_text_range": [
+         0,
+         244
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/hZY8xKMJ49",
+               "expanded_url": "https://www.washingtonpost.com/world/2022/03/06/venezuela-american-officials-visit/",
+               "display_url": "washingtonpost.com/world/2022/03/\u2026",
+               "indices": [
+                  221,
+                  244
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/wHIjf1XiOB",
+            "expanded_url": "https://twitter.com/i/web/status/1500936932209082368",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686225355"
+}

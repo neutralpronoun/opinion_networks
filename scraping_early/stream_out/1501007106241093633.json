@@ -1,0 +1,410 @@
+{
+   "created_at": "Tue Mar 08 01:29:16 +0000 2022",
+   "id": 1501007106241093633,
+   "id_str": "1501007106241093633",
+   "text": "RT @NormaJTorres: Last time I spoke to Fathers Gomez &amp; Restituto, they asked for help getting tests for their most at-risk parishioners. On\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 33989747,
+      "id_str": "33989747",
+      "name": "Juan Escalante",
+      "screen_name": "JuanSaaa",
+      "location": "Washington, DC",
+      "url": "http://bit.ly/inboxone",
+      "description": "FORMER Undocumented Immigrant. NOW Digital, Politics, National Parks. ALWAYS Floridian. Opinionated #SpacesHost",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32418,
+      "friends_count": 10544,
+      "listed_count": 601,
+      "favourites_count": 161533,
+      "statuses_count": 194565,
+      "created_at": "Tue Apr 21 18:23:41 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "FF0088",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1470781473569583109/ID1lwz4R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470781473569583109/ID1lwz4R_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33989747/1609115656",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 00:24:25 +0000 2022",
+      "id": 1500990786619559938,
+      "id_str": "1500990786619559938",
+      "text": "Last time I spoke to Fathers Gomez &amp; Restituto, they asked for help getting tests for their most at-risk parishione\u2026 https://t.co/SPXrsyGzhE",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 236279233,
+         "id_str": "236279233",
+         "name": "Rep. Norma Torres",
+         "screen_name": "NormaJTorres",
+         "location": null,
+         "url": "http://torres.house.gov",
+         "description": "U.S. Representative for California's 35th District. @AppropsDems @RulesDemocrats",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 74645,
+         "friends_count": 981,
+         "listed_count": 953,
+         "favourites_count": 4635,
+         "statuses_count": 12112,
+         "created_at": "Mon Jan 10 06:30:14 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "EBEBEB",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "990000",
+         "profile_sidebar_border_color": "DFDFDF",
+         "profile_sidebar_fill_color": "F3F3F3",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1281408567107555329/qFj8UdKN_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281408567107555329/qFj8UdKN_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/236279233/1585065331",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Last time I spoke to Fathers Gomez &amp; Restituto, they asked for help getting tests for their most at-risk parishioners. On Friday, I stopped by St. Margaret Mary Church in Chino to drop off 2,000 at-home COVID-19 rapid tests to be distributed to members of their church. https://t.co/uaDTPdxvTp",
+         "display_text_range": [
+            0,
+            273
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500990748128428035,
+                  "id_str": "1500990748128428035",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgFXwAMvnZ1.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgFXwAMvnZ1.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500990748149399560,
+                  "id_str": "1500990748149399560",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgKXwAgg0aQ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgKXwAgg0aQ.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 1002,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 568,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1709,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500990748124196865,
+                  "id_str": "1500990748124196865",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgEXMAEILrA.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgEXMAEILrA.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500990748128428035,
+                  "id_str": "1500990748128428035",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgFXwAMvnZ1.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgFXwAMvnZ1.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500990748149399560,
+                  "id_str": "1500990748149399560",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgKXwAgg0aQ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgKXwAgg0aQ.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 1002,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 568,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1709,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500990748124196865,
+                  "id_str": "1500990748124196865",
+                  "indices": [
+                     274,
+                     297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSXIgEXMAEILrA.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSXIgEXMAEILrA.jpg",
+                  "url": "https://t.co/uaDTPdxvTp",
+                  "display_url": "pic.twitter.com/uaDTPdxvTp",
+                  "expanded_url": "https://twitter.com/NormaJTorres/status/1500990786619559938/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 3,
+      "favorite_count": 24,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/SPXrsyGzhE",
+               "expanded_url": "https://twitter.com/i/web/status/1500990786619559938",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "NormaJTorres",
+            "name": "Rep. Norma Torres",
+            "id": 236279233,
+            "id_str": "236279233",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702956148"
+}

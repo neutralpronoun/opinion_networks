@@ -1,0 +1,158 @@
+{
+   "created_at": "Mon Mar 07 21:01:36 +0000 2022",
+   "id": 1500939745706319872,
+   "id_str": "1500939745706319872",
+   "text": "Great meeting with the Iowa Civil Air Patrol today! https://t.co/aFdSwKUoHY",
+   "display_text_range": [
+      0,
+      51
+   ],
+   "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1345807954604412929,
+      "id_str": "1345807954604412929",
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "screen_name": "RepMMM",
+      "location": "Iowa",
+      "url": "http://millermeeks.house.gov",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa's Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10845,
+      "friends_count": 300,
+      "listed_count": 230,
+      "favourites_count": 1186,
+      "statuses_count": 2230,
+      "created_at": "Sun Jan 03 19:03:30 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345807954604412929/1609711375",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500939742862618626,
+            "id_str": "1500939742862618626",
+            "indices": [
+               52,
+               75
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRovmqXsAIrs31.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRovmqXsAIrs31.jpg",
+            "url": "https://t.co/aFdSwKUoHY",
+            "display_url": "pic.twitter.com/aFdSwKUoHY",
+            "expanded_url": "https://twitter.com/RepMMM/status/1500939745706319872/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 680,
+                  "h": 407,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1335,
+                  "h": 800,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 719,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500939742862618626,
+            "id_str": "1500939742862618626",
+            "indices": [
+               52,
+               75
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRovmqXsAIrs31.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRovmqXsAIrs31.jpg",
+            "url": "https://t.co/aFdSwKUoHY",
+            "display_url": "pic.twitter.com/aFdSwKUoHY",
+            "expanded_url": "https://twitter.com/RepMMM/status/1500939745706319872/photo/1",
+            "type": "photo",
+            "sizes": {
+               "small": {
+                  "w": 680,
+                  "h": 407,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1335,
+                  "h": 800,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 719,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686896145"
+}

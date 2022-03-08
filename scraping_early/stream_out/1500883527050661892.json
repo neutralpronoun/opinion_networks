@@ -1,0 +1,276 @@
+{
+   "created_at": "Mon Mar 07 17:18:12 +0000 2022",
+   "id": 1500883527050661892,
+   "id_str": "1500883527050661892",
+   "text": "RT @IADeptAg: A positive case of highly pathogenic avian influenza (HPAI) has been confirmed in a commercial turkey flock in Buena Vista Co\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2856787757,
+      "id_str": "2856787757",
+      "name": "Joni Ernst",
+      "screen_name": "SenJoniErnst",
+      "location": "Iowa",
+      "url": "http://Ernst.Senate.Gov",
+      "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 125769,
+      "friends_count": 160,
+      "listed_count": 1874,
+      "favourites_count": 455,
+      "statuses_count": 7815,
+      "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1568067950",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:10:30 +0000 2022",
+      "id": 1500866490089840644,
+      "id_str": "1500866490089840644",
+      "text": "A positive case of highly pathogenic avian influenza (HPAI) has been confirmed in a commercial turkey flock in Buen\u2026 https://t.co/bCN4gGok7q",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 39524364,
+         "id_str": "39524364",
+         "name": "Iowa Dept of Agriculture & Land Stewardship",
+         "screen_name": "IADeptAg",
+         "location": "Iowa",
+         "url": "http://www.iowaagriculture.gov",
+         "description": "Led by Secretary @MikeNaigIA, the Department ensures animal health, food safety, consumer protection and promotes soil health and water conservation practices.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 12366,
+         "friends_count": 1249,
+         "listed_count": 244,
+         "favourites_count": 4410,
+         "statuses_count": 6904,
+         "created_at": "Tue May 12 15:38:58 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "131516",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "4A913C",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1098333995094413317/CvJGSdEb_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098333995094413317/CvJGSdEb_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/39524364/1549899826",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "A positive case of highly pathogenic avian influenza (HPAI) has been confirmed in a commercial turkey flock in Buena Vista County, Iowa. If producers suspect signs of HPAI in their flocks, they should report them immediately (515) 281-5305. https://t.co/OXDfkktkmi https://t.co/cSvvBjN8QF",
+         "display_text_range": [
+            0,
+            264
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/OXDfkktkmi",
+                  "expanded_url": "https://bit.ly/HPAIBV",
+                  "display_url": "bit.ly/HPAIBV",
+                  "indices": [
+                     241,
+                     264
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500865893374562311,
+                  "id_str": "1500865893374562311",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQlk_4XEAc9Hn1.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQlk_4XEAc9Hn1.png",
+                  "url": "https://t.co/cSvvBjN8QF",
+                  "display_url": "pic.twitter.com/cSvvBjN8QF",
+                  "expanded_url": "https://twitter.com/IADeptAg/status/1500866490089840644/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500865893374562311,
+                  "id_str": "1500865893374562311",
+                  "indices": [
+                     265,
+                     288
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQlk_4XEAc9Hn1.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQlk_4XEAc9Hn1.png",
+                  "url": "https://t.co/cSvvBjN8QF",
+                  "display_url": "pic.twitter.com/cSvvBjN8QF",
+                  "expanded_url": "https://twitter.com/IADeptAg/status/1500866490089840644/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/bCN4gGok7q",
+               "expanded_url": "https://twitter.com/i/web/status/1500866490089840644",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "IADeptAg",
+            "name": "Iowa Dept of Agriculture & Land Stewardship",
+            "id": 39524364,
+            "id_str": "39524364",
+            "indices": [
+               3,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646673492573"
+}

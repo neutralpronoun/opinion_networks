@@ -1,0 +1,512 @@
+{
+   "created_at": "Mon Mar 07 18:15:42 +0000 2022",
+   "id": 1500897995100991488,
+   "id_str": "1500897995100991488",
+   "text": "The same two stations just days apart.\n\nGas over $4 a gallon and drastic price hikes: it's time to expand American\u2026 https://t.co/Lmfiph1c7t",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 935368364,
+      "id_str": "935368364",
+      "name": "Rep. Mike Kelly",
+      "screen_name": "MikeKellyPA",
+      "location": "Washington, DC",
+      "url": "http://kelly.house.gov",
+      "description": "U.S. Representative Mike Kelly proudly serves the people of Pennsylvania's 16th District (#PA16) and is a member of the House Ways & Means Committee. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26179,
+      "friends_count": 1345,
+      "listed_count": 893,
+      "favourites_count": 2160,
+      "statuses_count": 3504,
+      "created_at": "Thu Nov 08 20:31:21 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/935368364/1642522198",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1499760157198372866,
+   "quoted_status_id_str": "1499760157198372866",
+   "quoted_status": {
+      "created_at": "Fri Mar 04 14:54:20 +0000 2022",
+      "id": 1499760157198372866,
+      "id_str": "1499760157198372866",
+      "text": "Gas prices are officially over $4 per gallon in Northwestern Pennsylvania. These photos were taken in Mercer County\u2026 https://t.co/tZr8MnO9Ux",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 935368364,
+         "id_str": "935368364",
+         "name": "Rep. Mike Kelly",
+         "screen_name": "MikeKellyPA",
+         "location": "Washington, DC",
+         "url": "http://kelly.house.gov",
+         "description": "U.S. Representative Mike Kelly proudly serves the people of Pennsylvania's 16th District (#PA16) and is a member of the House Ways & Means Committee. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 26179,
+         "friends_count": 1345,
+         "listed_count": 893,
+         "favourites_count": 2160,
+         "statuses_count": 3503,
+         "created_at": "Thu Nov 08 20:31:21 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/935368364/1642522198",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Gas prices are officially over $4 per gallon in Northwestern Pennsylvania. These photos were taken in Mercer County.\n\nNow is the time to make America more energy independent! https://t.co/2O856RZEaO",
+         "display_text_range": [
+            0,
+            174
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499759714187501571,
+                  "id_str": "1499759714187501571",
+                  "indices": [
+                     175,
+                     198
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNA3g5SWYAMP4Uc.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNA3g5SWYAMP4Uc.jpg",
+                  "url": "https://t.co/2O856RZEaO",
+                  "display_url": "pic.twitter.com/2O856RZEaO",
+                  "expanded_url": "https://twitter.com/MikeKellyPA/status/1499760157198372866/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499759714183352325,
+                  "id_str": "1499759714183352325",
+                  "indices": [
+                     175,
+                     198
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNA3g5RXEAUJYDl.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNA3g5RXEAUJYDl.jpg",
+                  "url": "https://t.co/2O856RZEaO",
+                  "display_url": "pic.twitter.com/2O856RZEaO",
+                  "expanded_url": "https://twitter.com/MikeKellyPA/status/1499760157198372866/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499759714187501571,
+                  "id_str": "1499759714187501571",
+                  "indices": [
+                     175,
+                     198
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNA3g5SWYAMP4Uc.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNA3g5SWYAMP4Uc.jpg",
+                  "url": "https://t.co/2O856RZEaO",
+                  "display_url": "pic.twitter.com/2O856RZEaO",
+                  "expanded_url": "https://twitter.com/MikeKellyPA/status/1499760157198372866/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499759714183352325,
+                  "id_str": "1499759714183352325",
+                  "indices": [
+                     175,
+                     198
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNA3g5RXEAUJYDl.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNA3g5RXEAUJYDl.jpg",
+                  "url": "https://t.co/2O856RZEaO",
+                  "display_url": "pic.twitter.com/2O856RZEaO",
+                  "expanded_url": "https://twitter.com/MikeKellyPA/status/1499760157198372866/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 40,
+      "retweet_count": 16,
+      "favorite_count": 31,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/tZr8MnO9Ux",
+               "expanded_url": "https://twitter.com/i/web/status/1499760157198372866",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/MUEY8fK6CS",
+      "expanded": "https://twitter.com/MikeKellyPA/status/1499760157198372866",
+      "display": "twitter.com/MikeKellyPA/st\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "The same two stations just days apart.\n\nGas over $4 a gallon and drastic price hikes: it's time to expand American oil and gas production. https://t.co/EjYC5N1yum",
+      "display_text_range": [
+         0,
+         138
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500895395387527174,
+               "id_str": "1500895395387527174",
+               "indices": [
+                  139,
+                  162
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRAaPcX0AYfVuZ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRAaPcX0AYfVuZ.jpg",
+               "url": "https://t.co/EjYC5N1yum",
+               "display_url": "pic.twitter.com/EjYC5N1yum",
+               "expanded_url": "https://twitter.com/MikeKellyPA/status/1500897995100991488/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500895395387523078,
+               "id_str": "1500895395387523078",
+               "indices": [
+                  139,
+                  162
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRAaPcXwAYGJ00.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRAaPcXwAYGJ00.jpg",
+               "url": "https://t.co/EjYC5N1yum",
+               "display_url": "pic.twitter.com/EjYC5N1yum",
+               "expanded_url": "https://twitter.com/MikeKellyPA/status/1500897995100991488/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500895395387527174,
+               "id_str": "1500895395387527174",
+               "indices": [
+                  139,
+                  162
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRAaPcX0AYfVuZ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRAaPcX0AYfVuZ.jpg",
+               "url": "https://t.co/EjYC5N1yum",
+               "display_url": "pic.twitter.com/EjYC5N1yum",
+               "expanded_url": "https://twitter.com/MikeKellyPA/status/1500897995100991488/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500895395387523078,
+               "id_str": "1500895395387523078",
+               "indices": [
+                  139,
+                  162
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRAaPcXwAYGJ00.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRAaPcXwAYGJ00.jpg",
+               "url": "https://t.co/EjYC5N1yum",
+               "display_url": "pic.twitter.com/EjYC5N1yum",
+               "expanded_url": "https://twitter.com/MikeKellyPA/status/1500897995100991488/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/Lmfiph1c7t",
+            "expanded_url": "https://twitter.com/i/web/status/1500897995100991488",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676942025"
+}

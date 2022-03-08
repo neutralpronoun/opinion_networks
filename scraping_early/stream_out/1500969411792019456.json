@@ -1,0 +1,219 @@
+{
+   "created_at": "Mon Mar 07 22:59:29 +0000 2022",
+   "id": 1500969411792019456,
+   "id_str": "1500969411792019456",
+   "text": "RT @DJournalnow: OPINION: President #Biden fails to shift course in State of the Union\n\nvia @SenatorWicker https://t.co/37QF5KSUrk",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 264219447,
+      "id_str": "264219447",
+      "name": "Senator Roger Wicker",
+      "screen_name": "SenatorWicker",
+      "location": "Mississippi & Washington, DC",
+      "url": "http://wicker.senate.gov",
+      "description": "Senior U.S. Senator for Mississippi. Ranking Member @SenateCommerce. Please visit my website for updates.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 105558,
+      "friends_count": 527,
+      "listed_count": 2130,
+      "favourites_count": 2317,
+      "statuses_count": 8844,
+      "created_at": "Fri Mar 11 14:59:01 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053286698438803456/c5VspcNT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264219447/1610552738",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:43:49 +0000 2022",
+      "id": 1500965470484242438,
+      "id_str": "1500965470484242438",
+      "text": "OPINION: President #Biden fails to shift course in State of the Union\n\nvia @SenatorWicker https://t.co/37QF5KSUrk",
+      "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 33609668,
+         "id_str": "33609668",
+         "name": "Northeast Mississippi Daily Journal",
+         "screen_name": "DJournalnow",
+         "location": "Tupelo, MS",
+         "url": "http://djournal.com/",
+         "description": "The best source for local news since 1870 \u2022 Tips? \ud83d\udce7 news@djournal.com \u2022 IG: djournalnow \u2022 Follow our team: https://twitter.com/i/lists/143402\u2026",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 20402,
+         "friends_count": 340,
+         "listed_count": 280,
+         "favourites_count": 2266,
+         "statuses_count": 130619,
+         "created_at": "Mon Apr 20 18:26:05 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "ECECEC",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "246C1E",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "ECECEC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1460418034322051077/buJWk1UR_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460418034322051077/buJWk1UR_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/33609668/1643771985",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Biden",
+               "indices": [
+                  19,
+                  25
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/37QF5KSUrk",
+               "expanded_url": "https://www.djournal.com/opinion/columnists/president-biden-fails-to-shift-course-in-state-of-the-union/article_1a470c3f-b798-58f0-8e71-f174bf9037ff.html?utm_medium=Social&utm_source=Twitter#Echobox=1646688160",
+               "display_url": "djournal.com/opinion/column\u2026",
+               "indices": [
+                  90,
+                  113
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorWicker",
+               "name": "Senator Roger Wicker",
+               "id": 264219447,
+               "id_str": "264219447",
+               "indices": [
+                  75,
+                  89
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Biden",
+            "indices": [
+               36,
+               42
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/37QF5KSUrk",
+            "expanded_url": "https://www.djournal.com/opinion/columnists/president-biden-fails-to-shift-course-in-state-of-the-union/article_1a470c3f-b798-58f0-8e71-f174bf9037ff.html?utm_medium=Social&utm_source=Twitter#Echobox=1646688160",
+            "display_url": "djournal.com/opinion/column\u2026",
+            "indices": [
+               107,
+               130
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "DJournalnow",
+            "name": "Northeast Mississippi Daily Journal",
+            "id": 33609668,
+            "id_str": "33609668",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "SenatorWicker",
+            "name": "Senator Roger Wicker",
+            "id": 264219447,
+            "id_str": "264219447",
+            "indices": [
+               92,
+               106
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693969091"
+}

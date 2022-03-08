@@ -1,0 +1,325 @@
+{
+   "created_at": "Mon Mar 07 22:03:34 +0000 2022",
+   "id": 1500955339864387584,
+   "id_str": "1500955339864387584",
+   "text": "This weekend, I joined thousands of Californians at the State Capitol to send a clear message to the Ukrainian peop\u2026 https://t.co/a26NmOaGND",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 950783972,
+      "id_str": "950783972",
+      "name": "Ami Bera, M.D.",
+      "screen_name": "RepBera",
+      "location": "Elk Grove, California",
+      "url": "http://bera.house.gov/",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 46051,
+      "friends_count": 2109,
+      "listed_count": 1143,
+      "favourites_count": 716,
+      "statuses_count": 5988,
+      "created_at": "Fri Nov 16 01:39:54 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/950783972/1621953682",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "This weekend, I joined thousands of Californians at the State Capitol to send a clear message to the Ukrainian people: the United States stands with you. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 https://t.co/NV9kT324ri",
+      "display_text_range": [
+         0,
+         158
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500954965531152389,
+               "id_str": "1500954965531152389",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2lrhX0AUtErN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2lrhX0AUtErN.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500954984199954434,
+               "id_str": "1500954984199954434",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2mxEXIAIBe2x.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2mxEXIAIBe2x.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 438,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 659,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 659,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500955010028474371,
+               "id_str": "1500955010028474371",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2oRSXEAM7Re_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2oRSXEAM7Re_.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 768,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 768,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500954965531152389,
+               "id_str": "1500954965531152389",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2lrhX0AUtErN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2lrhX0AUtErN.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500954984199954434,
+               "id_str": "1500954984199954434",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2mxEXIAIBe2x.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2mxEXIAIBe2x.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 438,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 659,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 659,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500955010028474371,
+               "id_str": "1500955010028474371",
+               "indices": [
+                  159,
+                  182
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR2oRSXEAM7Re_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR2oRSXEAM7Re_.jpg",
+               "url": "https://t.co/NV9kT324ri",
+               "display_url": "pic.twitter.com/NV9kT324ri",
+               "expanded_url": "https://twitter.com/RepBera/status/1500955339864387584/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 768,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 768,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/a26NmOaGND",
+            "expanded_url": "https://twitter.com/i/web/status/1500955339864387584",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690614082"
+}

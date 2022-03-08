@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 20:39:48 +0000 2022",
+   "id": 1500934260617850881,
+   "id_str": "1500934260617850881",
+   "text": "This week we vote on Ukraine Relief Bill:\n\ud83d\udcb4 $10B in military / humanitarian relief to Ukraine\n\u2708\ufe0f US planes to NATO\u2026 https://t.co/dbpSlBUNHG",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 818713465653051392,
+      "id_str": "818713465653051392",
+      "name": "Rep. Darren Soto",
+      "screen_name": "RepDarrenSoto",
+      "location": "Kissimmee, Florida",
+      "url": "https://soto.house.gov",
+      "description": "Proudly representing #FL9: Osceola County & parts of Orange & Polk Counties. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7 Chair of @FFCongress. Member of @EnergyCommerce, @NRDems & @HispanicCaucus",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 23070,
+      "friends_count": 6934,
+      "listed_count": 729,
+      "favourites_count": 10956,
+      "statuses_count": 7413,
+      "created_at": "Tue Jan 10 06:57:55 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268566855909851136/pMeXN2R2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268566855909851136/pMeXN2R2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818713465653051392/1553613132",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "This week we vote on Ukraine Relief Bill:\n\ud83d\udcb4 $10B in military / humanitarian relief to Ukraine\n\u2708\ufe0f US planes to NATO allies to supply other planes to Ukraine\n\u26fd\ufe0f Ban Russian oil &amp; boost US energy production\n\ud83d\udea2  Repeal trade relations w/ Russian &amp; add tariffs https://t.co/eQs4Xlyvzu",
+      "display_text_range": [
+         0,
+         286
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/eQs4Xlyvzu",
+               "expanded_url": "https://www.cbsnews.com/news/ukraine-russia-nato-fighter-jets-antony-blinken-face-the-nation/",
+               "display_url": "cbsnews.com/news/ukraine-r\u2026",
+               "indices": [
+                  263,
+                  286
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/dbpSlBUNHG",
+            "expanded_url": "https://twitter.com/i/web/status/1500934260617850881",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685588398"
+}

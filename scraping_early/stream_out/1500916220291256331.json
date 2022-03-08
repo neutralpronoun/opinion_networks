@@ -1,0 +1,482 @@
+{
+   "created_at": "Mon Mar 07 19:28:07 +0000 2022",
+   "id": 1500916220291256331,
+   "id_str": "1500916220291256331",
+   "text": "RT @Kyiv: Kyiv before Russian invasion. Ukraine will persevere, fight back and the day will come when its golden domes will shine even brig\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1069636653353000962,
+      "id_str": "1069636653353000962",
+      "name": "Rep. Susan Wild",
+      "screen_name": "RepSusanWild",
+      "location": "United States",
+      "url": "http://wild.house.gov",
+      "description": "Proud to represent Pennsylvania's 7th Congressional District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 15254,
+      "friends_count": 1007,
+      "listed_count": 520,
+      "favourites_count": 2554,
+      "statuses_count": 3483,
+      "created_at": "Mon Dec 03 16:57:05 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1164937658554040322/arqv20xX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164937658554040322/arqv20xX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069636653353000962/1559144985",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:06:54 +0000 2022",
+      "id": 1500910883077296129,
+      "id_str": "1500910883077296129",
+      "text": "Kyiv before Russian invasion. Ukraine will persevere, fight back and the day will come when its golden domes will s\u2026 https://t.co/N6ACahXUbc",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1499831533414371342,
+         "id_str": "1499831533414371342",
+         "name": "Kyiv. The City of Courage",
+         "screen_name": "Kyiv",
+         "location": null,
+         "url": null,
+         "description": "The capital of @Ukraine. Fighting for freedom and democratic values while kicking Russian ass with style and class",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 196963,
+         "friends_count": 1,
+         "listed_count": 586,
+         "favourites_count": 0,
+         "statuses_count": 5,
+         "created_at": "Fri Mar 04 19:38:07 +0000 2022",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1499858673568464897/Zae3Kg7t_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499858673568464897/Zae3Kg7t_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499831533414371342/1646425577",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Kyiv before Russian invasion. Ukraine will persevere, fight back and the day will come when its golden domes will shine even brighter. We will stand firm https://t.co/ccdXHi3Hkk",
+         "display_text_range": [
+            0,
+            153
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500910362790670342,
+                  "id_str": "1500910362790670342",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROBdXXMAYuXR-.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROBdXXMAYuXR-.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910366599036935,
+                  "id_str": "1500910366599036935",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROBrjWQAclBTO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROBrjWQAclBTO.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 430,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 758,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1294,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910541577015298,
+                  "id_str": "1500910541577015298",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROL3ZWUAIZsiO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROL3ZWUAIZsiO.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1363,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910826592653313,
+                  "id_str": "1500910826592653313",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROcdKX0AEXL8D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROcdKX0AEXL8D.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 455,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1369,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500910362790670342,
+                  "id_str": "1500910362790670342",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROBdXXMAYuXR-.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROBdXXMAYuXR-.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910366599036935,
+                  "id_str": "1500910366599036935",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROBrjWQAclBTO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROBrjWQAclBTO.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 430,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 758,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1294,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910541577015298,
+                  "id_str": "1500910541577015298",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROL3ZWUAIZsiO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROL3ZWUAIZsiO.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 799,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1363,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500910826592653313,
+                  "id_str": "1500910826592653313",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNROcdKX0AEXL8D.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNROcdKX0AEXL8D.jpg",
+                  "url": "https://t.co/ccdXHi3Hkk",
+                  "display_url": "pic.twitter.com/ccdXHi3Hkk",
+                  "expanded_url": "https://twitter.com/Kyiv/status/1500910883077296129/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 455,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1369,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 33,
+      "reply_count": 45,
+      "retweet_count": 501,
+      "favorite_count": 2536,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/N6ACahXUbc",
+               "expanded_url": "https://twitter.com/i/web/status/1500910883077296129",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Kyiv",
+            "name": "Kyiv. The City of Courage",
+            "id": 1499831533414371342,
+            "id_str": "1499831533414371342",
+            "indices": [
+               3,
+               8
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681287249"
+}

@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 17:49:01 +0000 2022",
+   "id": 1500891280133529608,
+   "id_str": "1500891280133529608",
+   "text": "RT @RepHaleyStevens: Yesterday, I met with a group of seniors and Medicare Advantage advocates to hear positive stories about their coverag\u2026",
+   "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1195343436,
+      "id_str": "1195343436",
+      "name": "The Coalition for Medicare Choices",
+      "screen_name": "protectmyMA",
+      "location": null,
+      "url": "http://www.medicarechoices.org",
+      "description": "Protecting and Strengthening Medicare Advantage. Join us!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3663,
+      "friends_count": 964,
+      "listed_count": 84,
+      "favourites_count": 998,
+      "statuses_count": 4879,
+      "created_at": "Tue Feb 19 00:21:33 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202714354782810113/A4ENTL0J_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202714354782810113/A4ENTL0J_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195343436/1634922877",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 18:32:42 +0000 2022",
+      "id": 1499815110390525961,
+      "id_str": "1499815110390525961",
+      "text": "Yesterday, I met with a group of seniors and Medicare Advantage advocates to hear positive stories about their cove\u2026 https://t.co/lO5QyTSNbu",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1076161611033968640,
+         "id_str": "1076161611033968640",
+         "name": "Rep. Haley Stevens",
+         "screen_name": "RepHaleyStevens",
+         "location": "Waterford, MI",
+         "url": "http://stevens.house.gov",
+         "description": "Congresswoman for Michigan's 11th District. Chair, Research and Technology Subcommittee, House Science. Education and Labor Committee.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 42346,
+         "friends_count": 498,
+         "listed_count": 673,
+         "favourites_count": 728,
+         "statuses_count": 4529,
+         "created_at": "Fri Dec 21 17:04:56 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080877539986497536/65XghImd_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076161611033968640/1642611463",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Yesterday, I met with a group of seniors and Medicare Advantage advocates to hear positive stories about their coverage. Medicare advantage is an important program and I will always work to ensure that seniors have access to high quality health coverage! https://t.co/DMtK1s9Y1r",
+         "display_text_range": [
+            0,
+            254
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499815106561064960,
+                  "id_str": "1499815106561064960",
+                  "indices": [
+                     255,
+                     278
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBp5J9WQAAYnHd.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBp5J9WQAAYnHd.jpg",
+                  "url": "https://t.co/DMtK1s9Y1r",
+                  "display_url": "pic.twitter.com/DMtK1s9Y1r",
+                  "expanded_url": "https://twitter.com/RepHaleyStevens/status/1499815110390525961/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499815106561064960,
+                  "id_str": "1499815106561064960",
+                  "indices": [
+                     255,
+                     278
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBp5J9WQAAYnHd.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBp5J9WQAAYnHd.jpg",
+                  "url": "https://t.co/DMtK1s9Y1r",
+                  "display_url": "pic.twitter.com/DMtK1s9Y1r",
+                  "expanded_url": "https://twitter.com/RepHaleyStevens/status/1499815110390525961/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 4,
+      "favorite_count": 12,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/lO5QyTSNbu",
+               "expanded_url": "https://twitter.com/i/web/status/1499815110390525961",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepHaleyStevens",
+            "name": "Rep. Haley Stevens",
+            "id": 1076161611033968640,
+            "id_str": "1076161611033968640",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675341052"
+}

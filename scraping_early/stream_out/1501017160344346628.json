@@ -1,0 +1,405 @@
+{
+   "created_at": "Tue Mar 08 02:09:13 +0000 2022",
+   "id": 1501017160344346628,
+   "id_str": "1501017160344346628",
+   "text": "RT @RepWilson: Today, as a member of @TheBlackCaucus executive board, I met with @POTUS at the White House to raise several priorities incl\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 234014087,
+      "id_str": "234014087",
+      "name": "Rep. Frederica Wilson",
+      "screen_name": "RepWilson",
+      "location": "Washington DC",
+      "url": "http://wilson.house.gov/",
+      "description": "\ud83d\udccdFL\u2019s 24th District. \ud83c\udf4e Former Educator. Founder, Chair of FL Ports Caucus, @5000RoleModels, and CSSBMB. #WhereAreOurGirls #CancelStudentDebt",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 75381,
+      "friends_count": 4118,
+      "listed_count": 1550,
+      "favourites_count": 3046,
+      "statuses_count": 16657,
+      "created_at": "Tue Jan 04 17:08:09 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1487207978914693120/G2gj0duq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487207978914693120/G2gj0duq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234014087/1389881659",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 01:02:30 +0000 2022",
+      "id": 1501000370360918017,
+      "id_str": "1501000370360918017",
+      "text": "Today, as a member of @TheBlackCaucus executive board, I met with @POTUS at the White House to raise several priori\u2026 https://t.co/5xm5m9lkwe",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 234014087,
+         "id_str": "234014087",
+         "name": "Rep. Frederica Wilson",
+         "screen_name": "RepWilson",
+         "location": "Washington DC",
+         "url": "http://wilson.house.gov/",
+         "description": "\ud83d\udccdFL\u2019s 24th District. \ud83c\udf4e Former Educator. Founder, Chair of FL Ports Caucus, @5000RoleModels, and CSSBMB. #WhereAreOurGirls #CancelStudentDebt",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 75381,
+         "friends_count": 4118,
+         "listed_count": 1550,
+         "favourites_count": 3046,
+         "statuses_count": 16656,
+         "created_at": "Tue Jan 04 17:08:09 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1487207978914693120/G2gj0duq_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487207978914693120/G2gj0duq_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/234014087/1389881659",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today, as a member of @TheBlackCaucus executive board, I met with @POTUS at the White House to raise several priorities including empowering our nation\u2019s Black men and boys, addressing #HBCU bomb threats, supporting #Haiti, and a myriad of other issues facing the Black community. https://t.co/MHKo3YlA3b",
+         "display_text_range": [
+            0,
+            280
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "HBCU",
+                  "indices": [
+                     185,
+                     190
+                  ]
+               },
+               {
+                  "text": "Haiti",
+                  "indices": [
+                     216,
+                     222
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "TheBlackCaucus",
+                  "name": "The Black Caucus",
+                  "id": 233783568,
+                  "id_str": "233783568",
+                  "indices": [
+                     22,
+                     37
+                  ]
+               },
+               {
+                  "screen_name": "POTUS",
+                  "name": "President Biden",
+                  "id": 1349149096909668363,
+                  "id_str": "1349149096909668363",
+                  "indices": [
+                     66,
+                     72
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1501000013710860289,
+                  "id_str": "1501000013710860289",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501000013710860289/pu/img/A1lLsqssSzpp75cu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501000013710860289/pu/img/A1lLsqssSzpp75cu.jpg",
+                  "url": "https://t.co/MHKo3YlA3b",
+                  "display_url": "pic.twitter.com/MHKo3YlA3b",
+                  "expanded_url": "https://twitter.com/RepWilson/status/1501000370360918017/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        74,
+                        41
+                     ],
+                     "duration_millis": 114473,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/648x360/fld19GBCHDyJD-yc.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/pl/IvkDF9ZHeKDDJC2A.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/888x492/wwu0oI8HtTAhost8.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/486x270/OWLLbUmLGx77FYxL.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "medium": {
+                        "w": 888,
+                        "h": 492,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 377,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 888,
+                        "h": 492,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1501000013710860289,
+                  "id_str": "1501000013710860289",
+                  "indices": [
+                     281,
+                     304
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501000013710860289/pu/img/A1lLsqssSzpp75cu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501000013710860289/pu/img/A1lLsqssSzpp75cu.jpg",
+                  "url": "https://t.co/MHKo3YlA3b",
+                  "display_url": "pic.twitter.com/MHKo3YlA3b",
+                  "expanded_url": "https://twitter.com/RepWilson/status/1501000370360918017/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        74,
+                        41
+                     ],
+                     "duration_millis": 114473,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/648x360/fld19GBCHDyJD-yc.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/pl/IvkDF9ZHeKDDJC2A.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/888x492/wwu0oI8HtTAhost8.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1501000013710860289/pu/vid/486x270/OWLLbUmLGx77FYxL.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "medium": {
+                        "w": 888,
+                        "h": 492,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 377,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 888,
+                        "h": 492,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5xm5m9lkwe",
+               "expanded_url": "https://twitter.com/i/web/status/1501000370360918017",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "TheBlackCaucus",
+               "name": "The Black Caucus",
+               "id": 233783568,
+               "id_str": "233783568",
+               "indices": [
+                  22,
+                  37
+               ]
+            },
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  66,
+                  72
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepWilson",
+            "name": "Rep. Frederica Wilson",
+            "id": 234014087,
+            "id_str": "234014087",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "TheBlackCaucus",
+            "name": "The Black Caucus",
+            "id": 233783568,
+            "id_str": "233783568",
+            "indices": [
+               37,
+               52
+            ]
+         },
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               81,
+               87
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646705353233"
+}

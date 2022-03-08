@@ -1,0 +1,1005 @@
+{
+   "created_at": "Mon Mar 07 21:45:46 +0000 2022",
+   "id": 1500950861689737216,
+   "id_str": "1500950861689737216",
+   "text": "RT @RepNewhouse: The need for us to strengthen our domestic production of critical oil, gas, and minerals grows day by day.\n\n@resolutioncu\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 155623673,
+      "id_str": "155623673",
+      "name": "Resolution Copper",
+      "screen_name": "resolutioncu",
+      "location": "Superior, Arizona",
+      "url": "http://resolutioncopper.com",
+      "description": "The official Twitter page for Resolution Copper.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1928,
+      "friends_count": 948,
+      "listed_count": 46,
+      "favourites_count": 1551,
+      "statuses_count": 3427,
+      "created_at": "Mon Jun 14 17:09:33 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/746414111332794369/tQakaEbu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/746414111332794369/tQakaEbu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/155623673/1605871377",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:02:06 +0000 2022",
+      "id": 1500909672693485579,
+      "id_str": "1500909672693485579",
+      "text": "The need for us to strengthen our domestic production of critical oil, gas, and minerals grows day by day.\u2026 https://t.co/7s0fRbNgoS",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2930635215,
+         "id_str": "2930635215",
+         "name": "Rep. Dan Newhouse",
+         "screen_name": "RepNewhouse",
+         "location": null,
+         "url": "https://newhouse.house.gov/",
+         "description": "Proud to represent Washington's 4th District in the U.S. Congress",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 23398,
+         "friends_count": 1150,
+         "listed_count": 696,
+         "favourites_count": 1949,
+         "statuses_count": 4306,
+         "created_at": "Thu Dec 18 20:19:23 +0000 2014",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2930635215/1621290304",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500900994393251843,
+      "quoted_status_id_str": "1500900994393251843",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 18:27:37 +0000 2022",
+         "id": 1500900994393251843,
+         "id_str": "1500900994393251843",
+         "text": "Chairman @RepNewhouse &amp; @RepDLesko toured @resolutioncu to learn how they could contribute to a strong domestic min\u2026 https://t.co/K2KpFfBD7V",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 144986277,
+            "id_str": "144986277",
+            "name": "Western Caucus",
+            "screen_name": "westerncaucus",
+            "location": "Washington, D.C.",
+            "url": "https://westerncaucus.house.gov",
+            "description": "Chairman @RepNewhouse | The Voice for Rural America \ud83e\uddac",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 6031,
+            "friends_count": 2421,
+            "listed_count": 123,
+            "favourites_count": 9907,
+            "statuses_count": 11925,
+            "created_at": "Mon May 17 21:03:10 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "537D8F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/144986277/1626126006",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "Chairman @RepNewhouse &amp; @RepDLesko toured @resolutioncu to learn how they could contribute to a strong domestic mineral supply chain.\n\nResolution Copper has the potential to be one of the world's largest copper development projects, create jobs &amp; contribute to the AZ economy. https://t.co/03BtNW5vo8",
+            "display_text_range": [
+               0,
+               284
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [
+                  {
+                     "screen_name": "RepNewhouse",
+                     "name": "Rep. Dan Newhouse",
+                     "id": 2930635215,
+                     "id_str": "2930635215",
+                     "indices": [
+                        9,
+                        21
+                     ]
+                  },
+                  {
+                     "screen_name": "RepDLesko",
+                     "name": "Congresswoman Debbie Lesko",
+                     "id": 996094929733652481,
+                     "id_str": "996094929733652481",
+                     "indices": [
+                        28,
+                        38
+                     ]
+                  },
+                  {
+                     "screen_name": "resolutioncu",
+                     "name": "Resolution Copper",
+                     "id": 155623673,
+                     "id_str": "155623673",
+                     "indices": [
+                        46,
+                        59
+                     ]
+                  }
+               ],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1500900423053496322,
+                     "id_str": "1500900423053496322",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 2048,
+                           "h": 1366,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 453,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1200,
+                           "h": 800,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1500900475801067520,
+                     "id_str": "1500900475801067520",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 900,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1536,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 510,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1500900475906007045,
+                     "id_str": "1500900475906007045",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 900,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 510,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1536,
+                           "h": 2048,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500900423053496322,
+                     "id_str": "1500900423053496322",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 2048,
+                           "h": 1366,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 453,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1200,
+                           "h": 800,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1500900475801067520,
+                     "id_str": "1500900475801067520",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 900,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1536,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 510,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1500900475906007045,
+                     "id_str": "1500900475906007045",
+                     "indices": [
+                        285,
+                        308
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                     "url": "https://t.co/03BtNW5vo8",
+                     "display_url": "pic.twitter.com/03BtNW5vo8",
+                     "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 900,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 510,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1536,
+                           "h": 2048,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 1,
+         "reply_count": 2,
+         "retweet_count": 5,
+         "favorite_count": 6,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/K2KpFfBD7V",
+                  "expanded_url": "https://twitter.com/i/web/status/1500900994393251843",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     121,
+                     144
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepNewhouse",
+                  "name": "Rep. Dan Newhouse",
+                  "id": 2930635215,
+                  "id_str": "2930635215",
+                  "indices": [
+                     9,
+                     21
+                  ]
+               },
+               {
+                  "screen_name": "RepDLesko",
+                  "name": "Congresswoman Debbie Lesko",
+                  "id": 996094929733652481,
+                  "id_str": "996094929733652481",
+                  "indices": [
+                     28,
+                     38
+                  ]
+               },
+               {
+                  "screen_name": "resolutioncu",
+                  "name": "Resolution Copper",
+                  "id": 155623673,
+                  "id_str": "155623673",
+                  "indices": [
+                     46,
+                     59
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/rUyZrfK7MM",
+         "expanded": "https://twitter.com/westerncaucus/status/1500900994393251843",
+         "display": "twitter.com/westerncaucus/\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "The need for us to strengthen our domestic production of critical oil, gas, and minerals grows day by day.\n\n@resolutioncu is an excellent example of how we can do that responsibly, benefiting American\u2019s economy AND the environment. https://t.co/rUyZrfK7MM",
+         "display_text_range": [
+            0,
+            231
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/rUyZrfK7MM",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843",
+                  "display_url": "twitter.com/westerncaucus/\u2026",
+                  "indices": [
+                     232,
+                     255
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "resolutioncu",
+                  "name": "Resolution Copper",
+                  "id": 155623673,
+                  "id_str": "155623673",
+                  "indices": [
+                     108,
+                     121
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 11,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/7s0fRbNgoS",
+               "expanded_url": "https://twitter.com/i/web/status/1500909672693485579",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  108,
+                  131
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500900994393251843,
+   "quoted_status_id_str": "1500900994393251843",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 18:27:37 +0000 2022",
+      "id": 1500900994393251843,
+      "id_str": "1500900994393251843",
+      "text": "Chairman @RepNewhouse &amp; @RepDLesko toured @resolutioncu to learn how they could contribute to a strong domestic min\u2026 https://t.co/K2KpFfBD7V",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 144986277,
+         "id_str": "144986277",
+         "name": "Western Caucus",
+         "screen_name": "westerncaucus",
+         "location": "Washington, D.C.",
+         "url": "https://westerncaucus.house.gov",
+         "description": "Chairman @RepNewhouse | The Voice for Rural America \ud83e\uddac",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 6031,
+         "friends_count": 2421,
+         "listed_count": 123,
+         "favourites_count": 9907,
+         "statuses_count": 11925,
+         "created_at": "Mon May 17 21:03:10 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "537D8F",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "1F98C7",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DAECF4",
+         "profile_text_color": "663B12",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351630124857307138/iCSWeSmh_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/144986277/1626126006",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Chairman @RepNewhouse &amp; @RepDLesko toured @resolutioncu to learn how they could contribute to a strong domestic mineral supply chain.\n\nResolution Copper has the potential to be one of the world's largest copper development projects, create jobs &amp; contribute to the AZ economy. https://t.co/03BtNW5vo8",
+         "display_text_range": [
+            0,
+            284
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepNewhouse",
+                  "name": "Rep. Dan Newhouse",
+                  "id": 2930635215,
+                  "id_str": "2930635215",
+                  "indices": [
+                     9,
+                     21
+                  ]
+               },
+               {
+                  "screen_name": "RepDLesko",
+                  "name": "Congresswoman Debbie Lesko",
+                  "id": 996094929733652481,
+                  "id_str": "996094929733652481",
+                  "indices": [
+                     28,
+                     38
+                  ]
+               },
+               {
+                  "screen_name": "resolutioncu",
+                  "name": "Resolution Copper",
+                  "id": 155623673,
+                  "id_str": "155623673",
+                  "indices": [
+                     46,
+                     59
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500900423053496322,
+                  "id_str": "1500900423053496322",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500900475801067520,
+                  "id_str": "1500900475801067520",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500900475906007045,
+                  "id_str": "1500900475906007045",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500900423053496322,
+                  "id_str": "1500900423053496322",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRE-49WUAI-lOX.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500900475801067520,
+                  "id_str": "1500900475801067520",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRFB9dWYAA6X7q.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500900475906007045,
+                  "id_str": "1500900475906007045",
+                  "indices": [
+                     285,
+                     308
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRFB92XoAUpLwF.jpg",
+                  "url": "https://t.co/03BtNW5vo8",
+                  "display_url": "pic.twitter.com/03BtNW5vo8",
+                  "expanded_url": "https://twitter.com/westerncaucus/status/1500900994393251843/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 5,
+      "favorite_count": 6,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/K2KpFfBD7V",
+               "expanded_url": "https://twitter.com/i/web/status/1500900994393251843",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepNewhouse",
+               "name": "Rep. Dan Newhouse",
+               "id": 2930635215,
+               "id_str": "2930635215",
+               "indices": [
+                  9,
+                  21
+               ]
+            },
+            {
+               "screen_name": "RepDLesko",
+               "name": "Congresswoman Debbie Lesko",
+               "id": 996094929733652481,
+               "id_str": "996094929733652481",
+               "indices": [
+                  28,
+                  38
+               ]
+            },
+            {
+               "screen_name": "resolutioncu",
+               "name": "Resolution Copper",
+               "id": 155623673,
+               "id_str": "155623673",
+               "indices": [
+                  46,
+                  59
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/rUyZrfK7MM",
+      "expanded": "https://twitter.com/westerncaucus/status/1500900994393251843",
+      "display": "twitter.com/westerncaucus/\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepNewhouse",
+            "name": "Rep. Dan Newhouse",
+            "id": 2930635215,
+            "id_str": "2930635215",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "resolutioncu",
+            "name": "Resolution Copper",
+            "id": 155623673,
+            "id_str": "155623673",
+            "indices": [
+               125,
+               138
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689546402"
+}

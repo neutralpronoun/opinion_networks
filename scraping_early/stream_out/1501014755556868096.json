@@ -1,0 +1,169 @@
+{
+   "created_at": "Tue Mar 08 01:59:39 +0000 2022",
+   "id": 1501014755556868096,
+   "id_str": "1501014755556868096",
+   "text": "@MarshaBlackburn and then he brought that Trump Steaks magic to the table https://t.co/1E02eo89Fj",
+   "display_text_range": [
+      17,
+      73
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500589718186172421,
+   "in_reply_to_status_id_str": "1500589718186172421",
+   "in_reply_to_user_id": 278145569,
+   "in_reply_to_user_id_str": "278145569",
+   "in_reply_to_screen_name": "MarshaBlackburn",
+   "user": {
+      "id": 16369805,
+      "id_str": "16369805",
+      "name": "Max Kennerly",
+      "screen_name": "MaxKennerly",
+      "location": "Philadelphia, Pennsylvania",
+      "url": "http://www.litigationandtrial.com/about-max-kennerly/",
+      "description": "Trial lawyer by day. Cookie monster by night.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 81757,
+      "friends_count": 3235,
+      "listed_count": 791,
+      "favourites_count": 244076,
+      "statuses_count": 34596,
+      "created_at": "Fri Sep 19 20:33:24 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2272212478/b00wlaliuo2qbd5vyit8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2272212478/b00wlaliuo2qbd5vyit8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16369805/1481924980",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MarshaBlackburn",
+            "name": "Sen. Marsha Blackburn",
+            "id": 278145569,
+            "id_str": "278145569",
+            "indices": [
+               0,
+               16
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1501014423405748227,
+            "id_str": "1501014423405748227",
+            "indices": [
+               74,
+               97
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNSsqlXWYAMLPOQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNSsqlXWYAMLPOQ.jpg",
+            "url": "https://t.co/1E02eo89Fj",
+            "display_url": "pic.twitter.com/1E02eo89Fj",
+            "expanded_url": "https://twitter.com/MaxKennerly/status/1501014755556868096/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1445,
+                  "h": 606,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 503,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 285,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1501014423405748227,
+            "id_str": "1501014423405748227",
+            "indices": [
+               74,
+               97
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNSsqlXWYAMLPOQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNSsqlXWYAMLPOQ.jpg",
+            "url": "https://t.co/1E02eo89Fj",
+            "display_url": "pic.twitter.com/1E02eo89Fj",
+            "expanded_url": "https://twitter.com/MaxKennerly/status/1501014755556868096/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1445,
+                  "h": 606,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 503,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 285,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646704779887"
+}

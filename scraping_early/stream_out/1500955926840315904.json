@@ -1,0 +1,124 @@
+{
+   "created_at": "Mon Mar 07 22:05:54 +0000 2022",
+   "id": 1500955926840315904,
+   "id_str": "1500955926840315904",
+   "text": "@RepMTG Holy shit, you\u2019re about to get dragged so hard for this, and you deserve every hateful tweet. Alexander Vin\u2026 https://t.co/e8O8DtkhJ9",
+   "display_text_range": [
+      8,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500826285559406593,
+   "in_reply_to_status_id_str": "1500826285559406593",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 325162750,
+      "id_str": "325162750",
+      "name": "Dana Goldberg",
+      "screen_name": "DGComedy",
+      "location": "Los Angeles",
+      "url": "http://www.danagoldberg.com",
+      "description": "I write jokes, tell them on stages, & do some other things to make the world better. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 she/her #BlackLivesMatter SiriusXM 127 and co-host of @dailybeanspod",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 74506,
+      "friends_count": 2247,
+      "listed_count": 534,
+      "favourites_count": 44263,
+      "statuses_count": 20554,
+      "created_at": "Mon Jun 27 20:57:34 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "BDBFBF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445097926322102273/dZe8g5va_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445097926322102273/dZe8g5va_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/325162750/1617808988",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepMTG Holy shit, you\u2019re about to get dragged so hard for this, and you deserve every hateful tweet. Alexander Vindman is more a Patriot to this country than you will ever be.",
+      "display_text_range": [
+         8,
+         176
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  0,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/e8O8DtkhJ9",
+            "expanded_url": "https://twitter.com/i/web/status/1500955926840315904",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690754028"
+}

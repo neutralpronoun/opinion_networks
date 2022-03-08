@@ -1,0 +1,143 @@
+{
+   "created_at": "Mon Mar 07 22:44:35 +0000 2022",
+   "id": 1500965661958455296,
+   "id_str": "1500965661958455296",
+   "text": "The Biden Administration is \u2018point blank\u2019 complicit in assisting Moscow\u2019s war effort against #Ukraine by continuing\u2026 https://t.co/fgbGM3F3Q1",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1173978070535024642,
+      "id_str": "1173978070535024642",
+      "name": "Congressman Greg Murphy, M.D.",
+      "screen_name": "RepGregMurphy",
+      "location": "Eastern North Carolina",
+      "url": "https://gregmurphy.house.gov/",
+      "description": "Proudly representing North Carolina's Third District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 16573,
+      "friends_count": 348,
+      "listed_count": 287,
+      "favourites_count": 1367,
+      "statuses_count": 1762,
+      "created_at": "Tue Sep 17 15:13:06 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186400513966952449/D9981GLb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186400513966952449/D9981GLb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173978070535024642/1605217336",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Biden Administration is \u2018point blank\u2019 complicit in assisting Moscow\u2019s war effort against #Ukraine by continuing to allow the purchase of #Russian oil. More via @newsmax: https://t.co/l1mdr12aCJ",
+      "display_text_range": [
+         0,
+         197
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Ukraine",
+               "indices": [
+                  93,
+                  101
+               ]
+            },
+            {
+               "text": "Russian",
+               "indices": [
+                  141,
+                  149
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/l1mdr12aCJ",
+               "expanded_url": "https://www.newsmax.com/newsmax-tv/greg-murphy-oil-invasion-sanctions/2022/03/07/id/1060038/",
+               "display_url": "newsmax.com/newsmax-tv/gre\u2026",
+               "indices": [
+                  174,
+                  197
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "newsmax",
+               "name": "Newsmax",
+               "id": 20545835,
+               "id_str": "20545835",
+               "indices": [
+                  164,
+                  172
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Ukraine",
+            "indices": [
+               93,
+               101
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/fgbGM3F3Q1",
+            "expanded_url": "https://twitter.com/i/web/status/1500965661958455296",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693075061"
+}

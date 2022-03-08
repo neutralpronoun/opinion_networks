@@ -1,0 +1,313 @@
+{
+   "created_at": "Mon Mar 07 22:10:31 +0000 2022",
+   "id": 1500957088738160643,
+   "id_str": "1500957088738160643",
+   "text": "Congratulations to Salt Lake City's @bren_hucks on an incredible performance in para snowboard cross, bringing\u2026 https://t.co/1EBJk0ZEK1",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1078693601356509184,
+      "id_str": "1078693601356509184",
+      "name": "Senator Mitt Romney",
+      "screen_name": "SenatorRomney",
+      "location": "Salt Lake City, UT",
+      "url": "http://romney.senate.gov",
+      "description": "United States Senator from the great state of Utah.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 201807,
+      "friends_count": 138,
+      "listed_count": 1447,
+      "favourites_count": 160,
+      "statuses_count": 1814,
+      "created_at": "Fri Dec 28 16:46:10 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0C3C59",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1087166952009805824/5R_xZExa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087166952009805824/5R_xZExa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078693601356509184/1619549547",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500713511617384448,
+   "quoted_status_id_str": "1500713511617384448",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 06:02:37 +0000 2022",
+      "id": 1500713511617384448,
+      "id_str": "1500713511617384448",
+      "text": "Big smile for scoring bronze \ud83d\ude03\n\n@bren_hucks x #WinterParalympics https://t.co/Z7tqlTCO2F",
+      "display_text_range": [
+         0,
+         64
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 21870081,
+         "id_str": "21870081",
+         "name": "Team USA",
+         "screen_name": "TeamUSA",
+         "location": null,
+         "url": "http://TeamUSA.org",
+         "description": "Celebrating America\u2019s Olympic and Paralympic athletes. #TeamUSA",
+         "translator_type": "regular",
+         "protected": false,
+         "verified": true,
+         "followers_count": 2093171,
+         "friends_count": 2863,
+         "listed_count": 6773,
+         "favourites_count": 26455,
+         "statuses_count": 58730,
+         "created_at": "Wed Feb 25 14:25:28 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "152C53",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "AA182C",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1429079211289956354/-1olliob_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429079211289956354/-1olliob_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/21870081/1635335435",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 3,
+      "reply_count": 4,
+      "retweet_count": 22,
+      "favorite_count": 378,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WinterParalympics",
+               "indices": [
+                  46,
+                  64
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "bren_hucks",
+               "name": "Brenna Huckaby",
+               "id": 2999593861,
+               "id_str": "2999593861",
+               "indices": [
+                  32,
+                  43
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500710484105781252,
+               "id_str": "1500710484105781252",
+               "indices": [
+                  65,
+                  88
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNOYO_PUYAQKvUW.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNOYO_PUYAQKvUW.jpg",
+               "url": "https://t.co/Z7tqlTCO2F",
+               "display_url": "pic.twitter.com/Z7tqlTCO2F",
+               "expanded_url": "https://twitter.com/TeamUSA/status/1500713511617384448/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 960,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 544,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 2000,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500710484105781252,
+               "id_str": "1500710484105781252",
+               "indices": [
+                  65,
+                  88
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNOYO_PUYAQKvUW.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNOYO_PUYAQKvUW.jpg",
+               "url": "https://t.co/Z7tqlTCO2F",
+               "display_url": "pic.twitter.com/Z7tqlTCO2F",
+               "expanded_url": "https://twitter.com/TeamUSA/status/1500713511617384448/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 960,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 544,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 2000,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/c28H26CCHA",
+      "expanded": "https://twitter.com/TeamUSA/status/1500713511617384448",
+      "display": "twitter.com/TeamUSA/status\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Congratulations to Salt Lake City's @bren_hucks on an incredible performance in para snowboard cross, bringing @TeamUSA a bronze medal! Brenna, you make us proud.",
+      "display_text_range": [
+         0,
+         162
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "bren_hucks",
+               "name": "Brenna Huckaby",
+               "id": 2999593861,
+               "id_str": "2999593861",
+               "indices": [
+                  36,
+                  47
+               ]
+            },
+            {
+               "screen_name": "TeamUSA",
+               "name": "Team USA",
+               "id": 21870081,
+               "id_str": "21870081",
+               "indices": [
+                  111,
+                  119
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/1EBJk0ZEK1",
+            "expanded_url": "https://twitter.com/i/web/status/1500957088738160643",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               112,
+               135
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "bren_hucks",
+            "name": "Brenna Huckaby",
+            "id": 2999593861,
+            "id_str": "2999593861",
+            "indices": [
+               36,
+               47
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691031046"
+}

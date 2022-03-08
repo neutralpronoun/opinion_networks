@@ -1,0 +1,97 @@
+{
+   "created_at": "Mon Mar 07 16:32:37 +0000 2022",
+   "id": 1500872054131859459,
+   "id_str": "1500872054131859459",
+   "text": "Unbelievable and unconscionable that the Biden Administration is pursuing deals for oil from the likes of Venezuela\u2026 https://t.co/Kb6yqsZXp1",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 281540744,
+      "id_str": "281540744",
+      "name": "Daniel Webster",
+      "screen_name": "RepWebster",
+      "location": "Central Florida",
+      "url": "http://webster.house.gov",
+      "description": "A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26388,
+      "friends_count": 314,
+      "listed_count": 953,
+      "favourites_count": 318,
+      "statuses_count": 4024,
+      "created_at": "Wed Apr 13 13:47:05 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Unbelievable and unconscionable that the Biden Administration is pursuing deals for oil from the likes of Venezuela and Iran. President Biden must reverse his disastrous policies and encourage Speaker Pelosi to allow a vote on our American Energy Independence bill, H.R. 6858.",
+      "display_text_range": [
+         0,
+         276
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/Kb6yqsZXp1",
+            "expanded_url": "https://twitter.com/i/web/status/1500872054131859459",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670757216"
+}

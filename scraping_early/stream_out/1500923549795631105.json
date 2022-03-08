@@ -1,0 +1,114 @@
+{
+   "created_at": "Mon Mar 07 19:57:14 +0000 2022",
+   "id": 1500923549795631105,
+   "id_str": "1500923549795631105",
+   "text": "President Biden mentioned the need to secure our border in #SOTU. Yet his actions since day 1 in office have weaken\u2026 https://t.co/BAMBN9zmKT",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1908143071,
+      "id_str": "1908143071",
+      "name": "Rep. Brett Guthrie",
+      "screen_name": "RepGuthrie",
+      "location": "Kentucky's Second District",
+      "url": "https://guthrie.house.gov/",
+      "description": "Fighting for conservative values in Washington while representing the people of Kentucky's 2nd Congressional District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19930,
+      "friends_count": 247,
+      "listed_count": 607,
+      "favourites_count": 165,
+      "statuses_count": 1695,
+      "created_at": "Thu Sep 26 14:37:17 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/689479180568829952/sNv4Qrl3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908143071/1398802844",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "President Biden mentioned the need to secure our border in #SOTU. Yet his actions since day 1 in office have weakened our border security and emboldened cartels trafficking these poisons. Kentucky has essentially become a border state due to drugs flowing into our communities.",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SOTU",
+               "indices": [
+                  59,
+                  64
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SOTU",
+            "indices": [
+               59,
+               64
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/BAMBN9zmKT",
+            "expanded_url": "https://twitter.com/i/web/status/1500923549795631105",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683034739"
+}

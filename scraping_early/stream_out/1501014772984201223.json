@@ -1,0 +1,334 @@
+{
+   "created_at": "Tue Mar 08 01:59:44 +0000 2022",
+   "id": 1501014772984201223,
+   "id_str": "1501014772984201223",
+   "text": "RT @GOPLeader: President Biden is working with Russia to negotiate a nuclear deal with Iran. At the same time, he's haggling over fuel with\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 849880970,
+      "id_str": "849880970",
+      "name": "Nile Gardiner",
+      "screen_name": "NileGardiner",
+      "location": "Washington, DC",
+      "url": null,
+      "description": "Foreign policy analyst. Former aide to Margaret Thatcher.\nContributor @telegraph https://t.co/nqc5ElWQaC\nViews expressed are my own.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 18640,
+      "friends_count": 1624,
+      "listed_count": 270,
+      "favourites_count": 8482,
+      "statuses_count": 61868,
+      "created_at": "Thu Sep 27 20:07:18 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2733485826/ea8198a6b76c267e8ef27468d31291ee_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2733485826/ea8198a6b76c267e8ef27468d31291ee_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/849880970/1474491305",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 01:59:00 +0000 2022",
+      "id": 1501014589202485253,
+      "id_str": "1501014589202485253",
+      "text": "President Biden is working with Russia to negotiate a nuclear deal with Iran. At the same time, he's haggling over\u2026 https://t.co/AYYh0mu75I",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 19739126,
+         "id_str": "19739126",
+         "name": "Kevin McCarthy",
+         "screen_name": "GOPLeader",
+         "location": "Bakersfield, CA",
+         "url": "https://www.republicanleader.gov/",
+         "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1422485,
+         "friends_count": 1422,
+         "listed_count": 7162,
+         "favourites_count": 2179,
+         "statuses_count": 19068,
+         "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "3B94D9",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "0A2644",
+         "profile_sidebar_border_color": "FF0000",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "122C73",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1627574605",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "President Biden is working with Russia to negotiate a nuclear deal with Iran. At the same time, he's haggling over fuel with Venezuela.\n\nHe is joining up with the worst despots and dictators in the world. https://t.co/dv1F0vIKBl",
+         "display_text_range": [
+            0,
+            204
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500961900657614849,
+                  "id_str": "1500961900657614849",
+                  "indices": [
+                     205,
+                     228
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500961900657614849/img/JkwPvxzxaz85Uthf.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500961900657614849/img/JkwPvxzxaz85Uthf.jpg",
+                  "url": "https://t.co/dv1F0vIKBl",
+                  "display_url": "pic.twitter.com/dv1F0vIKBl",
+                  "expanded_url": "https://twitter.com/GOPLeader/status/1501014589202485253/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        640,
+                        359
+                     ],
+                     "duration_millis": 20420,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/pl/Ry0tUVzageZ8wq_T.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/480x270/sFARR_5auCDPaR3o.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/640x360/qwPdbdI6Uv7AY6zG.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/1280x718/kd00yyFInxF9rCTA.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 381,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 718,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 673,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500961900657614849,
+                  "id_str": "1500961900657614849",
+                  "indices": [
+                     205,
+                     228
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500961900657614849/img/JkwPvxzxaz85Uthf.jpg",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500961900657614849/img/JkwPvxzxaz85Uthf.jpg",
+                  "url": "https://t.co/dv1F0vIKBl",
+                  "display_url": "pic.twitter.com/dv1F0vIKBl",
+                  "expanded_url": "https://twitter.com/GOPLeader/status/1501014589202485253/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        640,
+                        359
+                     ],
+                     "duration_millis": 20420,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/pl/Ry0tUVzageZ8wq_T.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 288000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/480x270/sFARR_5auCDPaR3o.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/640x360/qwPdbdI6Uv7AY6zG.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500961900657614849/vid/1280x718/kd00yyFInxF9rCTA.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 381,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 718,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 673,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 6,
+      "favorite_count": 10,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/AYYh0mu75I",
+               "expanded_url": "https://twitter.com/i/web/status/1501014589202485253",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "GOPLeader",
+            "name": "Kevin McCarthy",
+            "id": 19739126,
+            "id_str": "19739126",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646704784042"
+}

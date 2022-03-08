@@ -1,0 +1,235 @@
+{
+   "created_at": "Mon Mar 07 23:02:42 +0000 2022",
+   "id": 1500970222936805382,
+   "id_str": "1500970222936805382",
+   "text": "RT @RyanZinke: Tune in to Fox News at 8:05pm mt tonight. I\u2019ll be on the @IngrahamAngle with my good friend from Alaska, @SenDanSullivan. Ta\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2891210047,
+      "id_str": "2891210047",
+      "name": "Sen. Dan Sullivan",
+      "screen_name": "SenDanSullivan",
+      "location": null,
+      "url": "http://www.sullivan.senate.gov",
+      "description": "Official twitter account for U.S. Senator Dan Sullivan.  Proudly serving the state of Alaska.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 61072,
+      "friends_count": 723,
+      "listed_count": 1364,
+      "favourites_count": 397,
+      "statuses_count": 3877,
+      "created_at": "Wed Nov 05 21:25:42 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2891210047/1616188095",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:02:26 +0000 2022",
+      "id": 1500955057243803650,
+      "id_str": "1500955057243803650",
+      "text": "Tune in to Fox News at 8:05pm mt tonight. I\u2019ll be on the @IngrahamAngle with my good friend from Alaska,\u2026 https://t.co/2cqRuTRkOk",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1906282568,
+         "id_str": "1906282568",
+         "name": "Ryan Zinke",
+         "screen_name": "RyanZinke",
+         "location": "Whitefish, Montana",
+         "url": "https://ryanzinke.com",
+         "description": "Former Secretary of the Interior, Congressman & Navy SEAL. Proud Montanan. Husband, father & grandfather. Running for Congress to fight for Montana again",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 18114,
+         "friends_count": 1755,
+         "listed_count": 328,
+         "favourites_count": 335,
+         "statuses_count": 2156,
+         "created_at": "Thu Sep 26 02:31:43 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "022330",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "A8C7F7",
+         "profile_sidebar_fill_color": "C0DFEC",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1479623830054211584/lUc9uoYK_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479623830054211584/lUc9uoYK_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906282568/1629150365",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Tune in to Fox News at 8:05pm mt tonight. I\u2019ll be on the @IngrahamAngle with my good friend from Alaska, @SenDanSullivan. Talking Russia and the White House looking to Iran &amp; Venezuela for oil rather than Montana &amp; Alaska oil and gas workers.",
+         "display_text_range": [
+            0,
+            250
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "IngrahamAngle",
+                  "name": "Laura Ingraham",
+                  "id": 50769180,
+                  "id_str": "50769180",
+                  "indices": [
+                     57,
+                     71
+                  ]
+               },
+               {
+                  "screen_name": "SenDanSullivan",
+                  "name": "Sen. Dan Sullivan",
+                  "id": 2891210047,
+                  "id_str": "2891210047",
+                  "indices": [
+                     105,
+                     120
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 11,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/2cqRuTRkOk",
+               "expanded_url": "https://twitter.com/i/web/status/1500955057243803650",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  106,
+                  129
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "IngrahamAngle",
+               "name": "Laura Ingraham",
+               "id": 50769180,
+               "id_str": "50769180",
+               "indices": [
+                  57,
+                  71
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RyanZinke",
+            "name": "Ryan Zinke",
+            "id": 1906282568,
+            "id_str": "1906282568",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "IngrahamAngle",
+            "name": "Laura Ingraham",
+            "id": 50769180,
+            "id_str": "50769180",
+            "indices": [
+               72,
+               86
+            ]
+         },
+         {
+            "screen_name": "SenDanSullivan",
+            "name": "Sen. Dan Sullivan",
+            "id": 2891210047,
+            "id_str": "2891210047",
+            "indices": [
+               120,
+               135
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646694162483"
+}

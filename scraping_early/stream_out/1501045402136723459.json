@@ -1,0 +1,491 @@
+{
+   "created_at": "Tue Mar 08 04:01:26 +0000 2022",
+   "id": 1501045402136723459,
+   "id_str": "1501045402136723459",
+   "text": "Thank you to our firefighters, first responders, and emergency service teams! You\u2019re all doing an incredible job!\u2026 https://t.co/kV5vv6wbEJ",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 815952318487298048,
+      "id_str": "815952318487298048",
+      "name": "Dr. Neal Dunn",
+      "screen_name": "DrNealDunnFL2",
+      "location": null,
+      "url": "http://www.dunn.house.gov",
+      "description": "Official government Twitter account for Congressman Neal Dunn (FL-02).",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10514,
+      "friends_count": 290,
+      "listed_count": 524,
+      "favourites_count": 744,
+      "statuses_count": 2559,
+      "created_at": "Mon Jan 02 16:06:07 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/817396749270732800/5rj6yCMh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/817396749270732800/5rj6yCMh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/815952318487298048/1498081645",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1501026906145239044,
+   "quoted_status_id_str": "1501026906145239044",
+   "quoted_status": {
+      "created_at": "Tue Mar 08 02:47:56 +0000 2022",
+      "id": 1501026906145239044,
+      "id_str": "1501026906145239044",
+      "text": "#ChipolaComplex Evening Update: More than 70 tractor-plow units &amp; 10 air assets fighting the wildfires.\n\ud83d\udd25\u2026 https://t.co/D5mqlxoO9r",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 385037555,
+         "id_str": "385037555",
+         "name": "Florida Forest Service",
+         "screen_name": "FLForestService",
+         "location": "Florida, USA",
+         "url": "http://FDACS.gov/FLForestService",
+         "description": "Protecting Florida and its people from the dangers of wildfire while managing forest resources to ensure they are available for future generations.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 9148,
+         "friends_count": 624,
+         "listed_count": 287,
+         "favourites_count": 1984,
+         "statuses_count": 3697,
+         "created_at": "Tue Oct 04 19:21:21 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "009906",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1572880159/FFSLogo_TwitterProfile_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572880159/FFSLogo_TwitterProfile_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/385037555/1580748086",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "#ChipolaComplex Evening Update: More than 70 tractor-plow units &amp; 10 air assets fighting the wildfires.\n\ud83d\udd25 #BerthaSwampRoadFire 14k+ acres, 10% contained\n\ud83d\udd25 #AdkinsAvenueFire 875 acres, 50% contained\n\ud83d\udd25 #StarAveFire 250 acres, 60% contained\nFull update: https://t.co/K68fLPKPnm https://t.co/EyeYMopVRq",
+         "display_text_range": [
+            0,
+            278
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "ChipolaComplex",
+                  "indices": [
+                     0,
+                     15
+                  ]
+               },
+               {
+                  "text": "BerthaSwampRoadFire",
+                  "indices": [
+                     110,
+                     130
+                  ]
+               },
+               {
+                  "text": "AdkinsAvenueFire",
+                  "indices": [
+                     159,
+                     176
+                  ]
+               },
+               {
+                  "text": "StarAveFire",
+                  "indices": [
+                     204,
+                     216
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/K68fLPKPnm",
+                  "expanded_url": "https://bit.ly/3pI1JMX",
+                  "display_url": "bit.ly/3pI1JMX",
+                  "indices": [
+                     255,
+                     278
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1501026462387818499,
+                  "id_str": "1501026462387818499",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWEWUAM32SJ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWEWUAM32SJ.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1501026462383620101,
+                  "id_str": "1501026462383620101",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWDWQAUe2gR.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWDWQAUe2gR.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1501026462400495619,
+                  "id_str": "1501026462400495619",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWHXwAMWFJ0.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWHXwAMWFJ0.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1501026462387818499,
+                  "id_str": "1501026462387818499",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWEWUAM32SJ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWEWUAM32SJ.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1501026462383620101,
+                  "id_str": "1501026462383620101",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWDWQAUe2gR.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWDWQAUe2gR.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1501026462400495619,
+                  "id_str": "1501026462400495619",
+                  "indices": [
+                     279,
+                     302
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNS3nWHXwAMWFJ0.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNS3nWHXwAMWFJ0.jpg",
+                  "url": "https://t.co/EyeYMopVRq",
+                  "display_url": "pic.twitter.com/EyeYMopVRq",
+                  "expanded_url": "https://twitter.com/FLForestService/status/1501026906145239044/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 5,
+      "reply_count": 2,
+      "retweet_count": 19,
+      "favorite_count": 30,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "ChipolaComplex",
+               "indices": [
+                  0,
+                  15
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/D5mqlxoO9r",
+               "expanded_url": "https://twitter.com/i/web/status/1501026906145239044",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  111,
+                  134
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/cmuNzZjwsr",
+      "expanded": "https://twitter.com/flforestservice/status/1501026906145239044",
+      "display": "twitter.com/flforestservic\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Thank you to our firefighters, first responders, and emergency service teams! You\u2019re all doing an incredible job!\n\nPlease continue to keep this area in your prayers. #850strong #FL02",
+      "display_text_range": [
+         0,
+         182
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "850strong",
+               "indices": [
+                  166,
+                  176
+               ]
+            },
+            {
+               "text": "FL02",
+               "indices": [
+                  177,
+                  182
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/kV5vv6wbEJ",
+            "expanded_url": "https://twitter.com/i/web/status/1501045402136723459",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               115,
+               138
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646712086601"
+}

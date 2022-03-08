@@ -1,0 +1,557 @@
+{
+   "created_at": "Tue Mar 08 05:31:28 +0000 2022",
+   "id": 1501068060429594626,
+   "id_str": "1501068060429594626",
+   "text": "RT @JoyceWhiteVance: I think we can all do a little bit more &amp; whine a little bit less about the price we\u2019re paying at the pump (&amp; encourag\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 151603912,
+      "id_str": "151603912",
+      "name": "Bruno J. Navarro \ud83c\uddfa\ud83c\uddf8\ud83c\udf3b\ud83c\uddfa\ud83c\udde6",
+      "screen_name": "Bruno_J_Navarro",
+      "location": "New York, USA",
+      "url": "http://linkd.in/1pwdNy0",
+      "description": "newsroom veteran, fledgling cellist, former emt | he/him | views my own | RT \u2260 endorsement | ex @CNBC, @WWD, @TODAYshow, @NBCNews, @AP, @azcentral etc",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 7018,
+      "friends_count": 9939,
+      "listed_count": 412,
+      "favourites_count": 199007,
+      "statuses_count": 187657,
+      "created_at": "Thu Jun 03 20:16:06 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1337089302308773893/QxBjo2-X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337089302308773893/QxBjo2-X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/151603912/1645967255",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 03:52:06 +0000 2022",
+      "id": 1501043051598389251,
+      "id_str": "1501043051598389251",
+      "text": "I think we can all do a little bit more &amp; whine a little bit less about the price we\u2019re paying at the pump (&amp; encou\u2026 https://t.co/5UeHVxzEn1",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 548384458,
+         "id_str": "548384458",
+         "name": "Joyce Alene",
+         "screen_name": "JoyceWhiteVance",
+         "location": "Alabama",
+         "url": "https://www.law.ua.edu/directory/People/view/Joyce_Vance",
+         "description": "@UALawSchool Prof |Legal analyst @MSNBC @NBCNews |Podcasts #SistersInLaw & Cafe Insider|Obama US Atty |25 year fed'l prosecutor |Wife & Mom of 4 |Knits a lot",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 849603,
+         "friends_count": 1662,
+         "listed_count": 4951,
+         "favourites_count": 106082,
+         "statuses_count": 43711,
+         "created_at": "Sun Apr 08 12:20:45 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/548384458/1485185212",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500681487989018626,
+      "quoted_status_id_str": "1500681487989018626",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 03:55:22 +0000 2022",
+         "id": 1500681487989018626,
+         "id_str": "1500681487989018626",
+         "text": "The Ukrainian Supreme Court judge, Ivan Mishchenko, evacuated his family from Kyiv and returned to volunteer for on\u2026 https://t.co/xnsS3VODek",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1222773302441148416,
+            "id_str": "1222773302441148416",
+            "name": "Visegr\u00e1d 24",
+            "screen_name": "visegrad24",
+            "location": "Visegrad",
+            "url": "http://visegrad24.org",
+            "description": "News, politics, current affairs, history and culture from the Visegrad countries. \ud83c\udde8\ud83c\uddff\ud83c\udded\ud83c\uddfa\ud83c\uddf5\ud83c\uddf1\ud83c\uddf8\ud83c\uddf0",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 187597,
+            "friends_count": 537,
+            "listed_count": 1576,
+            "favourites_count": 4471,
+            "statuses_count": 8745,
+            "created_at": "Thu Jan 30 06:48:04 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1645556779",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "The Ukrainian Supreme Court judge, Ivan Mishchenko, evacuated his family from Kyiv and returned to volunteer for one of the Territorial Defence Force units. https://t.co/ZykpIdMury",
+            "display_text_range": [
+               0,
+               156
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1500681469282377730,
+                     "id_str": "1500681469282377730",
+                     "indices": [
+                        157,
+                        180
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                     "url": "https://t.co/ZykpIdMury",
+                     "display_url": "pic.twitter.com/ZykpIdMury",
+                     "expanded_url": "https://twitter.com/visegrad24/status/1500681487989018626/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "small": {
+                           "w": 548,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 686,
+                           "h": 851,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 686,
+                           "h": 851,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500681469282377730,
+                     "id_str": "1500681469282377730",
+                     "indices": [
+                        157,
+                        180
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                     "url": "https://t.co/ZykpIdMury",
+                     "display_url": "pic.twitter.com/ZykpIdMury",
+                     "expanded_url": "https://twitter.com/visegrad24/status/1500681487989018626/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "small": {
+                           "w": 548,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 686,
+                           "h": 851,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 686,
+                           "h": 851,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 276,
+         "reply_count": 150,
+         "retweet_count": 1777,
+         "favorite_count": 8550,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/xnsS3VODek",
+                  "expanded_url": "https://twitter.com/i/web/status/1500681487989018626",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/W9i5ixJF8N",
+         "expanded": "https://twitter.com/visegrad24/status/1500681487989018626",
+         "display": "twitter.com/visegrad24/sta\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "I think we can all do a little bit more &amp; whine a little bit less about the price we\u2019re paying at the pump (&amp; encourage Congress to adopt measures to help poor people with this) to support these brave people.",
+         "display_text_range": [
+            0,
+            216
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 45,
+      "reply_count": 127,
+      "retweet_count": 1122,
+      "favorite_count": 5108,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5UeHVxzEn1",
+               "expanded_url": "https://twitter.com/i/web/status/1501043051598389251",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  125,
+                  148
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500681487989018626,
+   "quoted_status_id_str": "1500681487989018626",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 03:55:22 +0000 2022",
+      "id": 1500681487989018626,
+      "id_str": "1500681487989018626",
+      "text": "The Ukrainian Supreme Court judge, Ivan Mishchenko, evacuated his family from Kyiv and returned to volunteer for on\u2026 https://t.co/xnsS3VODek",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1222773302441148416,
+         "id_str": "1222773302441148416",
+         "name": "Visegr\u00e1d 24",
+         "screen_name": "visegrad24",
+         "location": "Visegrad",
+         "url": "http://visegrad24.org",
+         "description": "News, politics, current affairs, history and culture from the Visegrad countries. \ud83c\udde8\ud83c\uddff\ud83c\udded\ud83c\uddfa\ud83c\uddf5\ud83c\uddf1\ud83c\uddf8\ud83c\uddf0",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 187597,
+         "friends_count": 537,
+         "listed_count": 1576,
+         "favourites_count": 4471,
+         "statuses_count": 8745,
+         "created_at": "Thu Jan 30 06:48:04 +0000 2020",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1645556779",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The Ukrainian Supreme Court judge, Ivan Mishchenko, evacuated his family from Kyiv and returned to volunteer for one of the Territorial Defence Force units. https://t.co/ZykpIdMury",
+         "display_text_range": [
+            0,
+            156
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500681469282377730,
+                  "id_str": "1500681469282377730",
+                  "indices": [
+                     157,
+                     180
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                  "url": "https://t.co/ZykpIdMury",
+                  "display_url": "pic.twitter.com/ZykpIdMury",
+                  "expanded_url": "https://twitter.com/visegrad24/status/1500681487989018626/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 548,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 686,
+                        "h": 851,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 686,
+                        "h": 851,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500681469282377730,
+                  "id_str": "1500681469282377730",
+                  "indices": [
+                     157,
+                     180
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNN92GmWYAICchq.jpg",
+                  "url": "https://t.co/ZykpIdMury",
+                  "display_url": "pic.twitter.com/ZykpIdMury",
+                  "expanded_url": "https://twitter.com/visegrad24/status/1500681487989018626/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 548,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 686,
+                        "h": 851,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 686,
+                        "h": 851,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 276,
+      "reply_count": 150,
+      "retweet_count": 1777,
+      "favorite_count": 8550,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/xnsS3VODek",
+               "expanded_url": "https://twitter.com/i/web/status/1500681487989018626",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/W9i5ixJF8N",
+      "expanded": "https://twitter.com/visegrad24/status/1500681487989018626",
+      "display": "twitter.com/visegrad24/sta\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JoyceWhiteVance",
+            "name": "Joyce Alene",
+            "id": 548384458,
+            "id_str": "548384458",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646717488759"
+}

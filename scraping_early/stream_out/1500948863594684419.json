@@ -1,0 +1,120 @@
+{
+   "created_at": "Mon Mar 07 21:37:50 +0000 2022",
+   "id": 1500948863594684419,
+   "id_str": "1500948863594684419",
+   "text": "@RepThomasMassie @Delta @united @AmericanAir How do you get from KY to dc? That must be a long drive \ud83d\ude33",
+   "display_text_range": [
+      45,
+      102
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500919176508198914,
+   "in_reply_to_status_id_str": "1500919176508198914",
+   "in_reply_to_user_id": 975200486,
+   "in_reply_to_user_id_str": "975200486",
+   "in_reply_to_screen_name": "RepThomasMassie",
+   "user": {
+      "id": 848280544152608769,
+      "id_str": "848280544152608769",
+      "name": "Brad Polumbo \ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "screen_name": "brad_polumbo",
+      "location": "Washington, DC",
+      "url": "http://based-politics.com",
+      "description": "Policy Correspondent, http://FEE.org (@feeonline) | Co-Founder, BASEDPolitics | Contributor @DCExaminer | Views My Own | #BTC #Bitcoin Curious \ud83d\ude0f",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 47254,
+      "friends_count": 1725,
+      "listed_count": 371,
+      "favourites_count": 85254,
+      "statuses_count": 15451,
+      "created_at": "Sat Apr 01 21:06:56 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1493797085602361356/lGrfDp_E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493797085602361356/lGrfDp_E_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/848280544152608769/1645995849",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepThomasMassie",
+            "name": "Thomas Massie",
+            "id": 975200486,
+            "id_str": "975200486",
+            "indices": [
+               0,
+               16
+            ]
+         },
+         {
+            "screen_name": "Delta",
+            "name": "Delta",
+            "id": 5920532,
+            "id_str": "5920532",
+            "indices": [
+               17,
+               23
+            ]
+         },
+         {
+            "screen_name": "united",
+            "name": "United Airlines",
+            "id": 260907612,
+            "id_str": "260907612",
+            "indices": [
+               24,
+               31
+            ]
+         },
+         {
+            "screen_name": "AmericanAir",
+            "name": "americanair",
+            "id": 22536055,
+            "id_str": "22536055",
+            "indices": [
+               32,
+               44
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689070019"
+}

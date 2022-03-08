@@ -1,0 +1,404 @@
+{
+   "created_at": "Mon Mar 07 18:02:05 +0000 2022",
+   "id": 1500894569050906625,
+   "id_str": "1500894569050906625",
+   "text": "RT @Rep_Clyde: On behalf of the American people, we must fight to #DefundVaxMandates!",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1082790600292925440,
+      "id_str": "1082790600292925440",
+      "name": "Rep. Chip Roy Press Office",
+      "screen_name": "RepChipRoy",
+      "location": "Washington, DC",
+      "url": "https://roy.house.gov/",
+      "description": "This is a staff account to provide updates to our constituents in Texas' 21st District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 59087,
+      "friends_count": 119,
+      "listed_count": 680,
+      "favourites_count": 1496,
+      "statuses_count": 5667,
+      "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1621959404",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:52:15 +0000 2022",
+      "id": 1500892094390579210,
+      "id_str": "1500892094390579210",
+      "text": "On behalf of the American people, we must fight to #DefundVaxMandates!",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1357017361568694274,
+         "id_str": "1357017361568694274",
+         "name": "Rep. Andrew Clyde",
+         "screen_name": "Rep_Clyde",
+         "location": "Gainesville,GA & Washington,DC",
+         "url": "http://clyde.house.gov",
+         "description": "U.S. Representative for #GA09 | Proudly serving on @HomelandGOP & @GOPoversight Committees",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 3210,
+         "friends_count": 536,
+         "listed_count": 209,
+         "favourites_count": 36,
+         "statuses_count": 987,
+         "created_at": "Wed Feb 03 17:25:52 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1357017586647629826/0Gp14jBE_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357017586647629826/0Gp14jBE_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357017361568694274/1641925341",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500876215342751748,
+      "quoted_status_id_str": "1500876215342751748",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 16:49:09 +0000 2022",
+         "id": 1500876215342751748,
+         "id_str": "1500876215342751748",
+         "text": "\"Congress has passed three continuing resolutions (CRs) since President Biden announced his plan to unilaterally im\u2026 https://t.co/LXWijRNRZy",
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1082790600292925440,
+            "id_str": "1082790600292925440",
+            "name": "Rep. Chip Roy Press Office",
+            "screen_name": "RepChipRoy",
+            "location": "Washington, DC",
+            "url": "https://roy.house.gov/",
+            "description": "This is a staff account to provide updates to our constituents in Texas' 21st District.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 59087,
+            "friends_count": 119,
+            "listed_count": 680,
+            "favourites_count": 1496,
+            "statuses_count": 5666,
+            "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1621959404",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "quoted_status_id": 1499852535783374849,
+         "quoted_status_id_str": "1499852535783374849",
+         "is_quote_status": true,
+         "extended_tweet": {
+            "full_text": "\"Congress has passed three continuing resolutions (CRs) since President Biden announced his plan to unilaterally impose COVID-19 vaccine mandates on Americans\" ...all with R votes...\n\nNew deadline is FRIDAY.\n\nNO EXCUSES. Time to DIG IN, FIGHT &amp; END this NOW! \n\n#defundvaxmandates",
+            "display_text_range": [
+               0,
+               283
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "defundvaxmandates",
+                     "indices": [
+                        265,
+                        283
+                     ]
+                  }
+               ],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": []
+            }
+         },
+         "quote_count": 9,
+         "reply_count": 27,
+         "retweet_count": 108,
+         "favorite_count": 268,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/LXWijRNRZy",
+                  "expanded_url": "https://twitter.com/i/web/status/1500876215342751748",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/ihD9bhnyOi",
+         "expanded": "https://twitter.com/repchiproy/status/1500876215342751748",
+         "display": "twitter.com/repchiproy/sta\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 9,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "DefundVaxMandates",
+               "indices": [
+                  51,
+                  69
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500876215342751748,
+   "quoted_status_id_str": "1500876215342751748",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 16:49:09 +0000 2022",
+      "id": 1500876215342751748,
+      "id_str": "1500876215342751748",
+      "text": "\"Congress has passed three continuing resolutions (CRs) since President Biden announced his plan to unilaterally im\u2026 https://t.co/LXWijRNRZy",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1082790600292925440,
+         "id_str": "1082790600292925440",
+         "name": "Rep. Chip Roy Press Office",
+         "screen_name": "RepChipRoy",
+         "location": "Washington, DC",
+         "url": "https://roy.house.gov/",
+         "description": "This is a staff account to provide updates to our constituents in Texas' 21st District.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 59087,
+         "friends_count": 119,
+         "listed_count": 680,
+         "favourites_count": 1496,
+         "statuses_count": 5666,
+         "created_at": "Wed Jan 09 00:06:11 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395466528288645133/IEpiPyY9_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082790600292925440/1621959404",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499852535783374849,
+      "quoted_status_id_str": "1499852535783374849",
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "\"Congress has passed three continuing resolutions (CRs) since President Biden announced his plan to unilaterally impose COVID-19 vaccine mandates on Americans\" ...all with R votes...\n\nNew deadline is FRIDAY.\n\nNO EXCUSES. Time to DIG IN, FIGHT &amp; END this NOW! \n\n#defundvaxmandates",
+         "display_text_range": [
+            0,
+            283
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "defundvaxmandates",
+                  "indices": [
+                     265,
+                     283
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 9,
+      "reply_count": 27,
+      "retweet_count": 108,
+      "favorite_count": 268,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/LXWijRNRZy",
+               "expanded_url": "https://twitter.com/i/web/status/1500876215342751748",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/ihD9bhnyOi",
+      "expanded": "https://twitter.com/repchiproy/status/1500876215342751748",
+      "display": "twitter.com/repchiproy/sta\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "DefundVaxMandates",
+            "indices": [
+               66,
+               84
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Rep_Clyde",
+            "name": "Rep. Andrew Clyde",
+            "id": 1357017361568694274,
+            "id_str": "1357017361568694274",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676125191"
+}

@@ -1,0 +1,98 @@
+{
+   "created_at": "Tue Mar 08 01:01:25 +0000 2022",
+   "id": 1501000097341005826,
+   "id_str": "1501000097341005826",
+   "text": "425 days ago insurrectionists ransacked the US Capitol and *hours later* 138-of-202 (68%) House republicans voted t\u2026 https://t.co/VN6E9UXuWw",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 74508260,
+      "id_str": "74508260",
+      "name": "Bill Pascrell, Jr. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+      "screen_name": "BillPascrell",
+      "location": "Paterson, NJ",
+      "url": "http://pascrell.house.gov",
+      "description": "Representing the 9th District of New Jersey in the House of Representatives. Proud Patersonian. Chairman, House Ways & Means Subcommittee on Oversight.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 118069,
+      "friends_count": 366,
+      "listed_count": 1450,
+      "favourites_count": 7410,
+      "statuses_count": 12286,
+      "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "004080",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1452745718763073541/TU41bcWT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1452745718763073541/TU41bcWT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1592668707",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "425 days ago insurrectionists ransacked the US Capitol and *hours later* 138-of-202 (68%) House republicans voted to make trump a dictator. They tried to finish the rioters\u2019 job and end democracy. Never forget it.",
+      "display_text_range": [
+         0,
+         213
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/VN6E9UXuWw",
+            "expanded_url": "https://twitter.com/i/web/status/1501000097341005826",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701285096"
+}

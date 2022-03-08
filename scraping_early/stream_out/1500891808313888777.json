@@ -1,0 +1,197 @@
+{
+   "created_at": "Mon Mar 07 17:51:06 +0000 2022",
+   "id": 1500891808313888777,
+   "id_str": "1500891808313888777",
+   "text": "#WomensHistoryMonth Nimrata \"Nikki\" Randhawa Haley served as the first female governor of South Carolina from 2011\u2026 https://t.co/0171rPZwsU",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343597700542038017,
+      "id_str": "1343597700542038017",
+      "name": "Rep. Nancy Mace",
+      "screen_name": "RepNancyMace",
+      "location": "Charleston, SC",
+      "url": "https://mace.house.gov/",
+      "description": "From @WaffleHouse to #Citadel to US House. Working hard serving the Lowcountry. Ranking Member Civil Rights sub on Oversight. #SC01 #LowcountryFirst.\ud83c\udf19\ud83c\udf34\ud83c\udf0a\ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60280,
+      "friends_count": 960,
+      "listed_count": 406,
+      "favourites_count": 1155,
+      "statuses_count": 1937,
+      "created_at": "Mon Dec 28 16:41:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344644863191560196/_sLBt0UA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344644863191560196/_sLBt0UA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343597700542038017/1626982165",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "#WomensHistoryMonth Nimrata \"Nikki\" Randhawa Haley served as the first female governor of South Carolina from 2011 to 2017. (1/2) https://t.co/vZB5k8ATsE",
+      "display_text_range": [
+         0,
+         129
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomensHistoryMonth",
+               "indices": [
+                  0,
+                  19
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500891803611979777,
+               "id_str": "1500891803611979777",
+               "indices": [
+                  130,
+                  153
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ9JLCWYAEsPSl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ9JLCWYAEsPSl.jpg",
+               "url": "https://t.co/vZB5k8ATsE",
+               "display_url": "pic.twitter.com/vZB5k8ATsE",
+               "expanded_url": "https://twitter.com/RepNancyMace/status/1500891808313888777/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 466,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 740,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 740,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500891803611979777,
+               "id_str": "1500891803611979777",
+               "indices": [
+                  130,
+                  153
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ9JLCWYAEsPSl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ9JLCWYAEsPSl.jpg",
+               "url": "https://t.co/vZB5k8ATsE",
+               "display_url": "pic.twitter.com/vZB5k8ATsE",
+               "expanded_url": "https://twitter.com/RepNancyMace/status/1500891808313888777/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 466,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 740,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 740,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "WomensHistoryMonth",
+            "indices": [
+               0,
+               19
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/0171rPZwsU",
+            "expanded_url": "https://twitter.com/i/web/status/1500891808313888777",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675466980"
+}

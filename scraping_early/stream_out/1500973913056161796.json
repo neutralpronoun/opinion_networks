@@ -1,0 +1,98 @@
+{
+   "created_at": "Mon Mar 07 23:17:22 +0000 2022",
+   "id": 1500973913056161796,
+   "id_str": "1500973913056161796",
+   "text": "Today, 57 years ago, a then-25-year-old John Lewis fought to ensure equal access to the ballot box. He led over 600\u2026 https://t.co/nz3ZgZxvkv",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344389506963808264,
+      "id_str": "1344389506963808264",
+      "name": "Congressman Jamaal Bowman",
+      "screen_name": "RepBowman",
+      "location": "Washington, DC",
+      "url": "https://linktr.ee/RepJamaalBowman",
+      "description": "Humbled to serve New York's 16th Congressional District. Vice Chair, @EdLaborCmte & Member, @HouseScience. Providing updates on services and legislation.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38468,
+      "friends_count": 202,
+      "listed_count": 349,
+      "favourites_count": 180,
+      "statuses_count": 1759,
+      "created_at": "Wed Dec 30 21:07:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345714590869549058/2Evp_Hpa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345714590869549058/2Evp_Hpa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344389506963808264/1609678457",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Today, 57 years ago, a then-25-year-old John Lewis fought to ensure equal access to the ballot box. He led over 600 people across the Edmund Pettus Bridge in Selma, Alabama. We must honor their bravery and sacrifice on what is known as Bloody Sunday by passing voting rights now!",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/nz3ZgZxvkv",
+            "expanded_url": "https://twitter.com/i/web/status/1500973913056161796",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646695042276"
+}

@@ -1,0 +1,233 @@
+{
+   "created_at": "Mon Mar 07 17:56:39 +0000 2022",
+   "id": 1500893201590280193,
+   "id_str": "1500893201590280193",
+   "text": "The sanctions that the Biden Administration has imposed on Russia thus far have been crippling.\n \nAs this devastati\u2026 https://t.co/cIowuiTyni",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 18909919,
+      "id_str": "18909919",
+      "name": "Jim Langevin",
+      "screen_name": "JimLangevin",
+      "location": "Warwick, RI and Washington, DC",
+      "url": "http://Langevin.house.gov/",
+      "description": "U.S. Congressman for Rhode Island's Second District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29699,
+      "friends_count": 4609,
+      "listed_count": 1112,
+      "favourites_count": 3406,
+      "statuses_count": 14456,
+      "created_at": "Mon Jan 12 18:36:58 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1182731438426394626/j40QWnU9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182731438426394626/j40QWnU9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18909919/1571327958",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The sanctions that the Biden Administration has imposed on Russia thus far have been crippling.\n \nAs this devastating invasion of Ukraine continues, let us leave no stone unturned as we exert further economic and political pressure on Vladimir Putin and his cronies. https://t.co/0FkS1BjwOd",
+      "display_text_range": [
+         0,
+         266
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500893108883632133,
+               "id_str": "1500893108883632133",
+               "indices": [
+                  267,
+                  290
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500893108883632133/pu/img/rO1e_pTHTxzzdoPb.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500893108883632133/pu/img/rO1e_pTHTxzzdoPb.jpg",
+               "url": "https://t.co/0FkS1BjwOd",
+               "display_url": "pic.twitter.com/0FkS1BjwOd",
+               "expanded_url": "https://twitter.com/JimLangevin/status/1500893201590280193/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     185,
+                     93
+                  ],
+                  "duration_millis": 36240,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/vid/740x372/0gkWivJ_ZEWFQslb.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/pl/t52_1ChNwskFbk7p.m3u8?tag=12&container=fmp4"
+                     },
+                     {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/vid/536x270/2W9BWvY1-vU7pZ4D.mp4?tag=12"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "large": {
+                     "w": 740,
+                     "h": 372,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 342,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 740,
+                     "h": 372,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500893108883632133,
+               "id_str": "1500893108883632133",
+               "indices": [
+                  267,
+                  290
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500893108883632133/pu/img/rO1e_pTHTxzzdoPb.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500893108883632133/pu/img/rO1e_pTHTxzzdoPb.jpg",
+               "url": "https://t.co/0FkS1BjwOd",
+               "display_url": "pic.twitter.com/0FkS1BjwOd",
+               "expanded_url": "https://twitter.com/JimLangevin/status/1500893201590280193/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     185,
+                     93
+                  ],
+                  "duration_millis": 36240,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/vid/740x372/0gkWivJ_ZEWFQslb.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/pl/t52_1ChNwskFbk7p.m3u8?tag=12&container=fmp4"
+                     },
+                     {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500893108883632133/pu/vid/536x270/2W9BWvY1-vU7pZ4D.mp4?tag=12"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "large": {
+                     "w": 740,
+                     "h": 372,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 342,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 740,
+                     "h": 372,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/cIowuiTyni",
+            "expanded_url": "https://twitter.com/i/web/status/1500893201590280193",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675799163"
+}

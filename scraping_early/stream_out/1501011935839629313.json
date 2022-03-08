@@ -1,0 +1,109 @@
+{
+   "created_at": "Tue Mar 08 01:48:27 +0000 2022",
+   "id": 1501011935839629313,
+   "id_str": "1501011935839629313",
+   "text": "The House is back in session this week. We may not always agree, but you will know how I voted and why! Click the l\u2026 https://t.co/mDmwNggwrm",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 797201048490430465,
+      "id_str": "797201048490430465",
+      "name": "Rep. Claudia Tenney",
+      "screen_name": "RepTenney",
+      "location": "New York-22",
+      "url": "http://tenney.house.gov",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP & @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit http://Tenney.House.Gov.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19553,
+      "friends_count": 563,
+      "listed_count": 242,
+      "favourites_count": 533,
+      "statuses_count": 4490,
+      "created_at": "Fri Nov 11 22:15:16 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1417920430086803460/2BhjdJk8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417920430086803460/2BhjdJk8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/797201048490430465/1625070858",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The House is back in session this week. We may not always agree, but you will know how I voted and why! Click the link below to read more.\nhttps://t.co/MBrbnZa6t6",
+      "display_text_range": [
+         0,
+         162
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/MBrbnZa6t6",
+               "expanded_url": "https://tenney.house.gov/about/my-votes-explained",
+               "display_url": "tenney.house.gov/about/my-votes\u2026",
+               "indices": [
+                  139,
+                  162
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/mDmwNggwrm",
+            "expanded_url": "https://twitter.com/i/web/status/1501011935839629313",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646704107614"
+}

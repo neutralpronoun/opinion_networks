@@ -1,0 +1,139 @@
+{
+   "created_at": "Mon Mar 07 20:08:40 +0000 2022",
+   "id": 1500926425154695177,
+   "id_str": "1500926425154695177",
+   "text": ".@SenRonJohnson once again revealing Republicans' insatiable hunger for repealing the Affordable Care Act and strip\u2026 https://t.co/eotRLrVunK",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 305216911,
+      "id_str": "305216911",
+      "name": "Bobby L. Rush",
+      "screen_name": "RepBobbyRush",
+      "location": "Chicago, IL",
+      "url": "http://rush.house.gov",
+      "description": "Proudly representing the 1st Congressional District of Illinois. #SubEnergy Chair of @EnergyCommerce and member of @HouseAgDems. Father, Grandfather, Pastor.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 41105,
+      "friends_count": 1607,
+      "listed_count": 1124,
+      "favourites_count": 2211,
+      "statuses_count": 6233,
+      "created_at": "Wed May 25 20:59:25 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1468663990616268804/c_KlPu8m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1468663990616268804/c_KlPu8m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1638991711",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": ".@SenRonJohnson once again revealing Republicans' insatiable hunger for repealing the Affordable Care Act and stripping #healthcare away from vulnerable Americans and people with pre-existing conditions.\n\nWe can't let it happen.\nhttps://t.co/zI9xe1pYnf",
+      "display_text_range": [
+         0,
+         252
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "healthcare",
+               "indices": [
+                  120,
+                  131
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/zI9xe1pYnf",
+               "expanded_url": "https://www.washingtonpost.com/politics/2022/03/07/sen-ron-johnson-obamacare-repeal-gop-majority-midterms-2024/?utm_source=twitter&utm_medium=social&utm_campaign=wp_politics",
+               "display_url": "washingtonpost.com/politics/2022/\u2026",
+               "indices": [
+                  229,
+                  252
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenRonJohnson",
+               "name": "Senator Ron Johnson",
+               "id": 233737858,
+               "id_str": "233737858",
+               "indices": [
+                  1,
+                  15
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/eotRLrVunK",
+            "expanded_url": "https://twitter.com/i/web/status/1500926425154695177",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenRonJohnson",
+            "name": "Senator Ron Johnson",
+            "id": 233737858,
+            "id_str": "233737858",
+            "indices": [
+               1,
+               15
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683720278"
+}

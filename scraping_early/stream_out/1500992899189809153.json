@@ -1,0 +1,325 @@
+{
+   "created_at": "Tue Mar 08 00:32:48 +0000 2022",
+   "id": 1500992899189809153,
+   "id_str": "1500992899189809153",
+   "text": "Proud to join Ukrainian-Americans and many others last night at a rally in faith to show our region\u2019s solidarity wi\u2026 https://t.co/0f3np81Y9f",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1058917562,
+      "id_str": "1058917562",
+      "name": "Rep. Derek Kilmer",
+      "screen_name": "RepDerekKilmer",
+      "location": null,
+      "url": "http://kilmer.house.gov/",
+      "description": "Proudly Representing Washington's 6th District in the House of Representatives",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30700,
+      "friends_count": 424,
+      "listed_count": 928,
+      "favourites_count": 1016,
+      "statuses_count": 6863,
+      "created_at": "Thu Jan 03 22:15:02 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1184144961215840256/4YG5c1Yf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184144961215840256/4YG5c1Yf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058917562/1535400212",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Proud to join Ukrainian-Americans and many others last night at a rally in faith to show our region\u2019s solidarity with the Ukrainian people. As a region, state, and nation, we will continue to support and pray for Ukraine and the Ukrainian people \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 https://t.co/epYhBUuKc7",
+      "display_text_range": [
+         0,
+         251
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500991677028306957,
+               "id_str": "1500991677028306957",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSX-kgXEA0L4NI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSX-kgXEA0L4NI.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500991488645287941,
+               "id_str": "1500991488645287941",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSXzmuWUAUQ9t8.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSXzmuWUAUQ9t8.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2048,
+                     "h": 1374,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 456,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 805,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500991488657874944,
+               "id_str": "1500991488657874944",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSXzmxWYAA3zqc.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSXzmxWYAA3zqc.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 508,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 896,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1530,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500991677028306957,
+               "id_str": "1500991677028306957",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSX-kgXEA0L4NI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSX-kgXEA0L4NI.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500991488645287941,
+               "id_str": "1500991488645287941",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSXzmuWUAUQ9t8.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSXzmuWUAUQ9t8.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 2048,
+                     "h": 1374,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 456,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 805,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500991488657874944,
+               "id_str": "1500991488657874944",
+               "indices": [
+                  252,
+                  275
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSXzmxWYAA3zqc.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSXzmxWYAA3zqc.jpg",
+               "url": "https://t.co/epYhBUuKc7",
+               "display_url": "pic.twitter.com/epYhBUuKc7",
+               "expanded_url": "https://twitter.com/RepDerekKilmer/status/1500992899189809153/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 508,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 896,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1530,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0f3np81Y9f",
+            "expanded_url": "https://twitter.com/i/web/status/1500992899189809153",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646699568923"
+}

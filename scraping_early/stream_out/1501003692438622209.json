@@ -1,0 +1,205 @@
+{
+   "created_at": "Tue Mar 08 01:15:42 +0000 2022",
+   "id": 1501003692438622209,
+   "id_str": "1501003692438622209",
+   "text": "RT @ChinaPowerCSIS: \u201cThe pandemic really did expose an overreliance on a single source for many of our critical supply chains\u2026 We are activ\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 950783972,
+      "id_str": "950783972",
+      "name": "Ami Bera, M.D.",
+      "screen_name": "RepBera",
+      "location": "Elk Grove, California",
+      "url": "http://bera.house.gov/",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 46050,
+      "friends_count": 2109,
+      "listed_count": 1143,
+      "favourites_count": 717,
+      "statuses_count": 5989,
+      "created_at": "Fri Nov 16 01:39:54 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/950783972/1621953682",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:00:02 +0000 2022",
+      "id": 1500909152431841282,
+      "id_str": "1500909152431841282",
+      "text": "\u201cThe pandemic really did expose an overreliance on a single source for many of our critical supply chains\u2026 We are a\u2026 https://t.co/YV5orMMQkE",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 4061566936,
+         "id_str": "4061566936",
+         "name": "ChinaPower",
+         "screen_name": "ChinaPowerCSIS",
+         "location": "Washington, DC",
+         "url": "http://chinapower.csis.org",
+         "description": "Unpacking the complexity of China\u2019s rise through objective analysis and data visualization. Follows, RTs \u2260 endorsements.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 34452,
+         "friends_count": 949,
+         "listed_count": 904,
+         "favourites_count": 959,
+         "statuses_count": 19804,
+         "created_at": "Wed Oct 28 15:35:25 +0000 2015",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "DD2E44",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1166382685322960897/11V3r0JP_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166382685322960897/11V3r0JP_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4061566936/1452183741",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\u201cThe pandemic really did expose an overreliance on a single source for many of our critical supply chains\u2026 We are actively thinking about how we can shore up our supply chains.\u201d - Rep. Ami Bera (@RepBera) on the current state of supply chains. Listen: https://t.co/KevFMnkCTv",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/KevFMnkCTv",
+                  "expanded_url": "https://bit.ly/3sY074q",
+                  "display_url": "bit.ly/3sY074q",
+                  "indices": [
+                     252,
+                     275
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RepBera",
+                  "name": "Ami Bera, M.D.",
+                  "id": 950783972,
+                  "id_str": "950783972",
+                  "indices": [
+                     195,
+                     203
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/YV5orMMQkE",
+               "expanded_url": "https://twitter.com/i/web/status/1500909152431841282",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ChinaPowerCSIS",
+            "name": "ChinaPower",
+            "id": 4061566936,
+            "id_str": "4061566936",
+            "indices": [
+               3,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702142234"
+}

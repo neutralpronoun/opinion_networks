@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 16:27:21 +0000 2022",
+   "id": 1500870728505307136,
+   "id_str": "1500870728505307136",
+   "text": "Starting today, every home in the U.S. will be able to order an additional set of 4 free at-home COVID-19 tests. Th\u2026 https://t.co/axv1HZEq6b",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 234374703,
+      "id_str": "234374703",
+      "name": "Senator Joe Manchin",
+      "screen_name": "Sen_JoeManchin",
+      "location": "West Virginia, USA",
+      "url": "https://www.manchin.senate.gov",
+      "description": "U.S. Senator for #WV. Chairman of @EnergyDems. Please do not hesitate to contact me to share your commonsense ideas, concerns or if you need assistance.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 338415,
+      "friends_count": 891,
+      "listed_count": 3129,
+      "favourites_count": 499,
+      "statuses_count": 8960,
+      "created_at": "Wed Jan 05 14:13:33 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EDEDED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "006BB3",
+      "profile_sidebar_border_color": "D1D1D1",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234374703/1428611282",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Starting today, every home in the U.S. will be able to order an additional set of 4 free at-home COVID-19 tests. These tests can be taken anywhere &amp; give results within 30 minutes. To order your free tests, visit https://t.co/0ypIDVrUzi or call 1-800-232-0233.",
+      "display_text_range": [
+         0,
+         264
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/0ypIDVrUzi",
+               "expanded_url": "http://covidtests.gov",
+               "display_url": "covidtests.gov",
+               "indices": [
+                  217,
+                  240
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/axv1HZEq6b",
+            "expanded_url": "https://twitter.com/i/web/status/1500870728505307136",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670441162"
+}

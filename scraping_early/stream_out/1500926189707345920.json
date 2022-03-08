@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 20:07:44 +0000 2022",
+   "id": 1500926189707345920,
+   "id_str": "1500926189707345920",
+   "text": "The average gas price in South Florida today is $4.099, an almost 50% increase from a year ago.\n\nJen Psaki is wrong\u2026 https://t.co/5FKQ90vUB9",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343679195034103808,
+      "id_str": "1343679195034103808",
+      "name": "Rep. Carlos A. Gimenez",
+      "screen_name": "RepCarlos",
+      "location": "Miami, FL",
+      "url": "https://gimenez.house.gov/",
+      "description": "U.S. Congressman serving #FL26 | Working past the gridlock to deliver results for South Florida | Member of @TransportGOP, @HomelandGOP & @HouseScienceGOP",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12182,
+      "friends_count": 247,
+      "listed_count": 249,
+      "favourites_count": 100,
+      "statuses_count": 1202,
+      "created_at": "Mon Dec 28 22:04:32 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1377250715215749126/1oDKoLXH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377250715215749126/1oDKoLXH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343679195034103808/1644443354",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The average gas price in South Florida today is $4.099, an almost 50% increase from a year ago.\n\nJen Psaki is wrong. Gas prices have been skyrocketing for well over a year now, before Putin's horrific invasion of Ukraine. The American people deserve honesty from this White House. https://t.co/WHtJQZZ6Nt",
+      "display_text_range": [
+         0,
+         280
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500926086867308548,
+               "id_str": "1500926086867308548",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRcUuHX0AQ9LOV.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRcUuHX0AQ9LOV.jpg",
+               "url": "https://t.co/WHtJQZZ6Nt",
+               "display_url": "pic.twitter.com/WHtJQZZ6Nt",
+               "expanded_url": "https://twitter.com/RepCarlos/status/1500926189707345920/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 466,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1398,
+                     "h": 958,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 822,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500926086867308548,
+               "id_str": "1500926086867308548",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRcUuHX0AQ9LOV.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRcUuHX0AQ9LOV.jpg",
+               "url": "https://t.co/WHtJQZZ6Nt",
+               "display_url": "pic.twitter.com/WHtJQZZ6Nt",
+               "expanded_url": "https://twitter.com/RepCarlos/status/1500926189707345920/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 466,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1398,
+                     "h": 958,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 822,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/5FKQ90vUB9",
+            "expanded_url": "https://twitter.com/i/web/status/1500926189707345920",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683664143"
+}

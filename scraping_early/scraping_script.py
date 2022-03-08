@@ -84,7 +84,7 @@ class Listener(tweepy.Stream):
     def report(self, tweet):
         width, height = os.get_terminal_size()
         username = tweet.user.screen_name
-        text = tweet.text
+        text = tweet.text.replace("\n"," ")
 
         printed_item = f"{username}: {text}"[:width - 5] + "..."
 
@@ -93,11 +93,16 @@ class Listener(tweepy.Stream):
     def on_status(self, tweet):
         # self.decompose_tweet(tweet)
         #print(tweet._json)
-        self.report(tweet)
-        tweet_id = tweet.id
+        
+        if tweet.user.verified:
+            tweet_id = tweet.id
+            with open(f"{tweet_id}.json", "w") as f:
+                json.dump(tweet._json, f, indent=3)
+        if self.count % 10 == 0:
+            self.report(tweet)
+        
 
-        with open(f"{tweet_id}.json", "w") as f:
-            json.dump(tweet._json, f, indent=6)
+
 
         self.count += 1
 
@@ -112,10 +117,10 @@ def get_stream(ids):
 
 if __name__ == "__main__":
     data, usernames, ids = load_data()
-
+#    sleep(120)
     stream = get_stream(ids)
 
-    stream.filter(languages=["en"], follow=ids, filter_level="low")
+    stream.filter(languages=["en"], follow=ids, filter_level="mediun")
 
 
 

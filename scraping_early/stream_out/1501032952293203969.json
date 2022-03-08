@@ -1,0 +1,98 @@
+{
+   "created_at": "Tue Mar 08 03:11:58 +0000 2022",
+   "id": 1501032952293203969,
+   "id_str": "1501032952293203969",
+   "text": "If the troubling reports of HSBC restricting accounts in Hong Kong are true, Congress needs to know, and it needs t\u2026 https://t.co/GAKF56dV8p",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1501032950292697088,
+   "in_reply_to_status_id_str": "1501032950292697088",
+   "in_reply_to_user_id": 1343740146630451200,
+   "in_reply_to_user_id_str": "1343740146630451200",
+   "in_reply_to_screen_name": "RepSteel",
+   "user": {
+      "id": 1343740146630451200,
+      "id_str": "1343740146630451200",
+      "name": "Rep. Michelle Steel",
+      "screen_name": "RepSteel",
+      "location": null,
+      "url": "https://steel.house.gov/",
+      "description": "Korean-American wife, mother & tax fighter serving #CA48 in Congress. @TransportGOP & @EdLaborGOP. Living the American dream. \ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 14657,
+      "friends_count": 169,
+      "listed_count": 236,
+      "favourites_count": 52,
+      "statuses_count": 1133,
+      "created_at": "Tue Dec 29 02:06:41 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408435725109010434/b_FM97YL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408435725109010434/b_FM97YL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343740146630451200/1638218423",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "If the troubling reports of HSBC restricting accounts in Hong Kong are true, Congress needs to know, and it needs to be rectified immediately.",
+      "display_text_range": [
+         0,
+         142
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/GAKF56dV8p",
+            "expanded_url": "https://twitter.com/i/web/status/1501032952293203969",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646709118327"
+}

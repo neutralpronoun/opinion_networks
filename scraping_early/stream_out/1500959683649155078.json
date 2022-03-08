@@ -1,0 +1,117 @@
+{
+   "created_at": "Mon Mar 07 22:20:49 +0000 2022",
+   "id": 1500959683649155078,
+   "id_str": "1500959683649155078",
+   "text": "\ud83c\uddfa\ud83c\udde6 Praying for the safety of everyone in Ukraine. We need to continue to support all of our allies abroad and provi\u2026 https://t.co/rwjruO1akM",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1345807954604412929,
+      "id_str": "1345807954604412929",
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "screen_name": "RepMMM",
+      "location": "Iowa",
+      "url": "http://millermeeks.house.gov",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa's Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10846,
+      "friends_count": 300,
+      "listed_count": 230,
+      "favourites_count": 1186,
+      "statuses_count": 2231,
+      "created_at": "Sun Jan 03 19:03:30 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483826185180176387/_5L6m8fN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345807954604412929/1609711375",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "\ud83c\uddfa\ud83c\udde6 Praying for the safety of everyone in Ukraine. We need to continue to support all of our allies abroad and provide resources where we can.\n\nI am proud to #StandWithUkraine. \ud83c\uddfa\ud83c\udde6\n\nhttps://t.co/KlYhhGKOBh",
+      "display_text_range": [
+         0,
+         203
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "StandWithUkraine",
+               "indices": [
+                  157,
+                  174
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/KlYhhGKOBh",
+               "expanded_url": "https://millermeeks.house.gov/media/press-releases/miller-meeks-speaks-support-people-ukraine",
+               "display_url": "millermeeks.house.gov/media/press-re\u2026",
+               "indices": [
+                  180,
+                  203
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/rwjruO1akM",
+            "expanded_url": "https://twitter.com/i/web/status/1500959683649155078",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691649721"
+}

@@ -1,0 +1,188 @@
+{
+   "created_at": "Mon Mar 07 18:30:04 +0000 2022",
+   "id": 1500901613699018757,
+   "id_str": "1500901613699018757",
+   "text": "@RepMichaelGuest @GOPLeader @POTUS This is November 2020 in Meridian when I was visiting my father https://t.co/2ArJ9Nhz8V",
+   "display_text_range": [
+      35,
+      98
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500875204926521353,
+   "in_reply_to_status_id_str": "1500875204926521353",
+   "in_reply_to_user_id": 1081243468327018496,
+   "in_reply_to_user_id_str": "1081243468327018496",
+   "in_reply_to_screen_name": "RepMichaelGuest",
+   "user": {
+      "id": 839312384657338368,
+      "id_str": "839312384657338368",
+      "name": "Bill Engelbrecht",
+      "screen_name": "Bill_4_Congress",
+      "location": "Orange Park, FL",
+      "url": null,
+      "description": "Married, Father of four children, Business Owner, Republican",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 186,
+      "friends_count": 161,
+      "listed_count": 2,
+      "favourites_count": 18515,
+      "statuses_count": 672,
+      "created_at": "Wed Mar 08 03:10:40 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1299365416507117570/8OZAbJK4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299365416507117570/8OZAbJK4_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMichaelGuest",
+            "name": "Congressman Michael Guest",
+            "id": 1081243468327018496,
+            "id_str": "1081243468327018496",
+            "indices": [
+               0,
+               16
+            ]
+         },
+         {
+            "screen_name": "GOPLeader",
+            "name": "Kevin McCarthy",
+            "id": 19739126,
+            "id_str": "19739126",
+            "indices": [
+               17,
+               27
+            ]
+         },
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               28,
+               34
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500901607772508164,
+            "id_str": "1500901607772508164",
+            "indices": [
+               99,
+               122
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRGD2YX0AQW2qL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRGD2YX0AQW2qL.jpg",
+            "url": "https://t.co/2ArJ9Nhz8V",
+            "display_url": "pic.twitter.com/2ArJ9Nhz8V",
+            "expanded_url": "https://twitter.com/Bill_4_Congress/status/1500901613699018757/photo/1",
+            "type": "photo",
+            "sizes": {
+               "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500901607772508164,
+            "id_str": "1500901607772508164",
+            "indices": [
+               99,
+               122
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRGD2YX0AQW2qL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRGD2YX0AQW2qL.jpg",
+            "url": "https://t.co/2ArJ9Nhz8V",
+            "display_url": "pic.twitter.com/2ArJ9Nhz8V",
+            "expanded_url": "https://twitter.com/Bill_4_Congress/status/1500901613699018757/photo/1",
+            "type": "photo",
+            "sizes": {
+               "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677804766"
+}

@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 23:46:50 +0000 2022",
+   "id": 1500981329781010434,
+   "id_str": "1500981329781010434",
+   "text": "Democrats worked hard to defend protections for people with pre-existing conditions. Republicans tried to dismantle\u2026 https://t.co/M7EjNao4Wa",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1243902714,
+      "id_str": "1243902714",
+      "name": "Congresswoman Julia Brownley",
+      "screen_name": "RepBrownley",
+      "location": "Ventura County & Washington, DC",
+      "url": null,
+      "description": "Fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee & #WomenVetsTaskForce. Member of @TransportDems, @ClimateCrisis, and @NRDems.",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 21779,
+      "friends_count": 1055,
+      "listed_count": 912,
+      "favourites_count": 484,
+      "statuses_count": 7724,
+      "created_at": "Tue Mar 05 14:51:28 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243902714/1618932961",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Democrats worked hard to defend protections for people with pre-existing conditions. Republicans tried to dismantle them. \n\nNow, the real GOP Agenda has emerged and it includes tax hikes for the middle-class and repealing the Affordable Care Act. \nhttps://t.co/vTaEQUUQ6x",
+      "display_text_range": [
+         0,
+         271
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/vTaEQUUQ6x",
+               "expanded_url": "https://www.washingtonpost.com/politics/2022/03/07/sen-ron-johnson-obamacare-repeal-gop-majority-midterms-2024",
+               "display_url": "washingtonpost.com/politics/2022/\u2026",
+               "indices": [
+                  248,
+                  271
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/M7EjNao4Wa",
+            "expanded_url": "https://twitter.com/i/web/status/1500981329781010434",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646696810561"
+}

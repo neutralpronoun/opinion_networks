@@ -1,0 +1,339 @@
+{
+   "created_at": "Mon Mar 07 16:31:41 +0000 2022",
+   "id": 1500871819347349506,
+   "id_str": "1500871819347349506",
+   "text": "Erie County Residents: Did you know that @ECSocServices offers day care assistance to working families? Learn more\u2026 https://t.co/WaORhKSmXb",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 33576489,
+      "id_str": "33576489",
+      "name": "Brian Higgins",
+      "screen_name": "RepBrianHiggins",
+      "location": "WNY and Washington, DC",
+      "url": "http://higgins.house.gov",
+      "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://on.fb.me/repbrianhiggins",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28012,
+      "friends_count": 3752,
+      "listed_count": 1195,
+      "favourites_count": 838,
+      "statuses_count": 17527,
+      "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0B868C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500853779960315910,
+   "quoted_status_id_str": "1500853779960315910",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 15:20:00 +0000 2022",
+      "id": 1500853779960315910,
+      "id_str": "1500853779960315910",
+      "text": "Please Retweet! @ECSocServices offers day care assistance for working parents but many who qualify don't know it. A\u2026 https://t.co/suJZZACTqE",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 45490102,
+         "id_str": "45490102",
+         "name": "Mark Poloncarz",
+         "screen_name": "markpoloncarz",
+         "location": "Buffalo, New York",
+         "url": "http://www.markpoloncarz.com",
+         "description": "Former hockey coach, frustrated golfer, political and history nerd. Just a kid from Sunny LA (Lackawanna that is) who grew up to be Erie County's Executive.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 46524,
+         "friends_count": 817,
+         "listed_count": 329,
+         "favourites_count": 37206,
+         "statuses_count": 55585,
+         "created_at": "Mon Jun 08 03:24:44 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "64969C",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "3B94D9",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "A0C5C7",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1323291995289300993/ebNlOpvF_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323291995289300993/ebNlOpvF_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/45490102/1645567622",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Please Retweet! @ECSocServices offers day care assistance for working parents but many who qualify don't know it. A family of 5 qualifies for assistance even if their combined income is $62,080!\nLearn more and request an application at: https://t.co/jnwjUO9Neh https://t.co/qanBvkFDkW",
+         "display_text_range": [
+            0,
+            260
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/jnwjUO9Neh",
+                  "expanded_url": "https://www3.erie.gov/socialservices/day-care-eligibility-guidelines-payment-procedures",
+                  "display_url": "www3.erie.gov/socialservices\u2026",
+                  "indices": [
+                     237,
+                     260
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "ECSocServices",
+                  "name": "Erie County Department of Social Services",
+                  "id": 2416222136,
+                  "id_str": "2416222136",
+                  "indices": [
+                     16,
+                     30
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500844222299222018,
+                  "id_str": "1500844222299222018",
+                  "indices": [
+                     261,
+                     284
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQR3k1XsAIJ6zS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQR3k1XsAIJ6zS.jpg",
+                  "url": "https://t.co/qanBvkFDkW",
+                  "display_url": "pic.twitter.com/qanBvkFDkW",
+                  "expanded_url": "https://twitter.com/markpoloncarz/status/1500853779960315910/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500844222299222018,
+                  "id_str": "1500844222299222018",
+                  "indices": [
+                     261,
+                     284
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQR3k1XsAIJ6zS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQR3k1XsAIJ6zS.jpg",
+                  "url": "https://t.co/qanBvkFDkW",
+                  "display_url": "pic.twitter.com/qanBvkFDkW",
+                  "expanded_url": "https://twitter.com/markpoloncarz/status/1500853779960315910/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/suJZZACTqE",
+               "expanded_url": "https://twitter.com/i/web/status/1500853779960315910",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "ECSocServices",
+               "name": "Erie County Department of Social Services",
+               "id": 2416222136,
+               "id_str": "2416222136",
+               "indices": [
+                  16,
+                  30
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/d1sau2diw9",
+      "expanded": "https://twitter.com/markpoloncarz/status/1500853779960315910",
+      "display": "twitter.com/markpoloncarz/\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Erie County Residents: Did you know that @ECSocServices offers day care assistance to working families? Learn more \u2935\ufe0f",
+      "display_text_range": [
+         0,
+         117
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "ECSocServices",
+               "name": "Erie County Department of Social Services",
+               "id": 2416222136,
+               "id_str": "2416222136",
+               "indices": [
+                  41,
+                  55
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/WaORhKSmXb",
+            "expanded_url": "https://twitter.com/i/web/status/1500871819347349506",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "ECSocServices",
+            "name": "Erie County Department of Social Services",
+            "id": 2416222136,
+            "id_str": "2416222136",
+            "indices": [
+               41,
+               55
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646670701239"
+}

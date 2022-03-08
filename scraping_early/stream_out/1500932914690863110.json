@@ -1,0 +1,193 @@
+{
+   "created_at": "Mon Mar 07 20:34:27 +0000 2022",
+   "id": 1500932914690863110,
+   "id_str": "1500932914690863110",
+   "text": "Are you a student interested in learning more about our government? Apply to be a summer intern in my Arizona or Wa\u2026 https://t.co/NiNvqXgquO",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1324926274888888320,
+      "id_str": "1324926274888888320",
+      "name": "Senator Mark Kelly",
+      "screen_name": "SenMarkKelly",
+      "location": "Arizona, USA",
+      "url": "http://kelly.senate.gov",
+      "description": "United States Senator for Arizona. Father, husband, Navy combat veteran, and retired NASA astronaut.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 116915,
+      "friends_count": 1,
+      "listed_count": 564,
+      "favourites_count": 98,
+      "statuses_count": 984,
+      "created_at": "Sat Nov 07 04:12:32 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334158015130320899/jwQnwuaZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334158015130320899/jwQnwuaZ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324926274888888320/1606923090",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Are you a student interested in learning more about our government? Apply to be a summer intern in my Arizona or Washington offices. All majors encouraged!\n \nThe deadline to apply is March 15 \u27a1\ufe0f https://t.co/5KzbJHVA4X https://t.co/1SLT5oDyh9",
+      "display_text_range": [
+         0,
+         218
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/5KzbJHVA4X",
+               "expanded_url": "https://sen.gov/L8OL",
+               "display_url": "sen.gov/L8OL",
+               "indices": [
+                  195,
+                  218
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500932451702562825,
+               "id_str": "1500932451702562825",
+               "indices": [
+                  219,
+                  242
+               ],
+               "description": "Internships - Summer Application Deadline: March 15",
+               "media_url": "http://pbs.twimg.com/media/FNRiHM-WYAk9aFr.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRiHM-WYAk9aFr.jpg",
+               "url": "https://t.co/1SLT5oDyh9",
+               "display_url": "pic.twitter.com/1SLT5oDyh9",
+               "expanded_url": "https://twitter.com/SenMarkKelly/status/1500932914690863110/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 512,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500932451702562825,
+               "id_str": "1500932451702562825",
+               "indices": [
+                  219,
+                  242
+               ],
+               "description": "Internships - Summer Application Deadline: March 15",
+               "media_url": "http://pbs.twimg.com/media/FNRiHM-WYAk9aFr.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRiHM-WYAk9aFr.jpg",
+               "url": "https://t.co/1SLT5oDyh9",
+               "display_url": "pic.twitter.com/1SLT5oDyh9",
+               "expanded_url": "https://twitter.com/SenMarkKelly/status/1500932914690863110/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1024,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1024,
+                     "h": 512,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/NiNvqXgquO",
+            "expanded_url": "https://twitter.com/i/web/status/1500932914690863110",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685267504"
+}

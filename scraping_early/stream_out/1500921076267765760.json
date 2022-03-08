@@ -1,0 +1,243 @@
+{
+   "created_at": "Mon Mar 07 19:47:25 +0000 2022",
+   "id": 1500921076267765760,
+   "id_str": "1500921076267765760",
+   "text": "Ending Putin's brutal war against the Ukrainian people demands the US lead a multilateral ban on Russian oil import\u2026 https://t.co/eh9PTKZFOx",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1083472286089396224,
+      "id_str": "1083472286089396224",
+      "name": "Rep. Sean Casten",
+      "screen_name": "RepCasten",
+      "location": null,
+      "url": "https://casten.house.gov/",
+      "description": "Proudly serving IL-06. Dad, husband, former clean energy entrepreneur. Climate nerd & consumer advocate @ClimateCrisis, @HouseScience, @FSCdems. He.Him.His.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 22988,
+      "friends_count": 3529,
+      "listed_count": 567,
+      "favourites_count": 2498,
+      "statuses_count": 7322,
+      "created_at": "Thu Jan 10 21:14:57 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "46819C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083472286089396224/1599621916",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Ending Putin's brutal war against the Ukrainian people demands the US lead a multilateral ban on Russian oil imports. Preventing oil-rich despots from being able to afford military aggression going forward demands that we double down on cleaner, cheaper energy produced in the US. https://t.co/wVFNJn9GUu",
+      "display_text_range": [
+         0,
+         280
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500919975808278534,
+               "id_str": "1500919975808278534",
+               "indices": [
+                  281,
+                  304
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500919975808278534/pu/img/jbu6wZ3atREdnXpP.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500919975808278534/pu/img/jbu6wZ3atREdnXpP.jpg",
+               "url": "https://t.co/wVFNJn9GUu",
+               "display_url": "pic.twitter.com/wVFNJn9GUu",
+               "expanded_url": "https://twitter.com/RepCasten/status/1500921076267765760/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     1,
+                     1
+                  ],
+                  "duration_millis": 86832,
+                  "variants": [
+                     {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/720x720/rM0bZoHfvRNP3Tj7.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/540x540/_KZkM39r-ppBmm-z.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/320x320/ZiyqaIlQWemN0Pf-.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/pl/6etGm2a_GX8CX-sM.m3u8?tag=12&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500919975808278534,
+               "id_str": "1500919975808278534",
+               "indices": [
+                  281,
+                  304
+               ],
+               "additional_media_info": {
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500919975808278534/pu/img/jbu6wZ3atREdnXpP.jpg",
+               "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500919975808278534/pu/img/jbu6wZ3atREdnXpP.jpg",
+               "url": "https://t.co/wVFNJn9GUu",
+               "display_url": "pic.twitter.com/wVFNJn9GUu",
+               "expanded_url": "https://twitter.com/RepCasten/status/1500921076267765760/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     1,
+                     1
+                  ],
+                  "duration_millis": 86832,
+                  "variants": [
+                     {
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/720x720/rM0bZoHfvRNP3Tj7.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/540x540/_KZkM39r-ppBmm-z.mp4?tag=12"
+                     },
+                     {
+                        "bitrate": 432000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/vid/320x320/ZiyqaIlQWemN0Pf-.mp4?tag=12"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1500919975808278534/pu/pl/6etGm2a_GX8CX-sM.m3u8?tag=12&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1080,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/eh9PTKZFOx",
+            "expanded_url": "https://twitter.com/i/web/status/1500921076267765760",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682445004"
+}

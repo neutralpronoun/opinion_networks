@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 20:21:31 +0000 2022",
+   "id": 1500929658241568769,
+   "id_str": "1500929658241568769",
+   "text": "On Friday, I met with Elder High School Principal, Kurt Ruffing, and their Director of Admissions, Brian Hiles. We\u2026 https://t.co/worfg7xozt",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 237750442,
+      "id_str": "237750442",
+      "name": "Rep. Steve Chabot",
+      "screen_name": "RepSteveChabot",
+      "location": "Cincinnati",
+      "url": "http://chabot.house.gov",
+      "description": "Husband, Dad, Grandpa & proud Cincinnatian. Dean of Ohio GOP Delegation, Ranking Member on @HouseForeignGOP Asia Subcommittee & senior member on @JudiciaryGOP.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 35860,
+      "friends_count": 2841,
+      "listed_count": 1165,
+      "favourites_count": 1960,
+      "statuses_count": 5103,
+      "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "666666",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "B1D3E3",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907699267170656256/PlbYkRah_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1506718866",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "On Friday, I met with Elder High School Principal, Kurt Ruffing, and their Director of Admissions, Brian Hiles. We discussed problems they\u2019re having with the postal service regarding admissions letters. I appreciate the update on this important matter. https://t.co/JkhvkOrs1R",
+      "display_text_range": [
+         0,
+         252
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500928281268400135,
+               "id_str": "1500928281268400135",
+               "indices": [
+                  253,
+                  276
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNReUc5XMAckxFI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNReUc5XMAckxFI.jpg",
+               "url": "https://t.co/JkhvkOrs1R",
+               "display_url": "pic.twitter.com/JkhvkOrs1R",
+               "expanded_url": "https://twitter.com/RepSteveChabot/status/1500929658241568769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 398,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 914,
+                     "h": 535,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 914,
+                     "h": 535,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500928281268400135,
+               "id_str": "1500928281268400135",
+               "indices": [
+                  253,
+                  276
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNReUc5XMAckxFI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNReUc5XMAckxFI.jpg",
+               "url": "https://t.co/JkhvkOrs1R",
+               "display_url": "pic.twitter.com/JkhvkOrs1R",
+               "expanded_url": "https://twitter.com/RepSteveChabot/status/1500929658241568769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 398,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 914,
+                     "h": 535,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 914,
+                     "h": 535,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/worfg7xozt",
+            "expanded_url": "https://twitter.com/i/web/status/1500929658241568769",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684491106"
+}

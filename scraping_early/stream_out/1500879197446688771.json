@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 17:01:00 +0000 2022",
+   "id": 1500879197446688771,
+   "id_str": "1500879197446688771",
+   "text": "I recently attended the State of the United States Coast Guard Address given Commandant Schultz in Clearwater.  A s\u2026 https://t.co/TZq6j2m7Fu",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 26051676,
+      "id_str": "26051676",
+      "name": "Gus Bilirakis",
+      "screen_name": "RepGusBilirakis",
+      "location": "Palm Harbor, Fla.",
+      "url": "http://bilirakis.house.gov",
+      "description": "#FL12. #TampaBay Most Effective/FL Most Effective @HouseGOP Legislator. @HouseCommerce. @GOP Ldr. of Consumer Protect & Comm. Subcommittee. Husband. Father. Son",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 34138,
+      "friends_count": 1137,
+      "listed_count": 1382,
+      "favourites_count": 703,
+      "statuses_count": 7441,
+      "created_at": "Mon Mar 23 17:56:32 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DCDAD0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "AD0733",
+      "profile_sidebar_border_color": "4D52A3",
+      "profile_sidebar_fill_color": "F8F7F7",
+      "profile_text_color": "CA021E",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/694914426131111936/hTyLQllD_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/694914426131111936/hTyLQllD_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26051676/1565626351",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I recently attended the State of the United States Coast Guard Address given Commandant Schultz in Clearwater.  A special thank you to the brave men and women who are doing a tremendous job defending our nation\u2019s coastline!  Our Coasties are second to none! https://t.co/efoP7XIAB3",
+      "display_text_range": [
+         0,
+         257
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1499112787125186566,
+               "id_str": "1499112787125186566",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FM3rIyLXsAYnk9H.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FM3rIyLXsAYnk9H.jpg",
+               "url": "https://t.co/efoP7XIAB3",
+               "display_url": "pic.twitter.com/efoP7XIAB3",
+               "expanded_url": "https://twitter.com/RepGusBilirakis/status/1500879197446688771/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 684,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 388,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1282,
+                     "h": 731,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1499112787125186566,
+               "id_str": "1499112787125186566",
+               "indices": [
+                  258,
+                  281
+               ],
+               "media_url": "http://pbs.twimg.com/media/FM3rIyLXsAYnk9H.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FM3rIyLXsAYnk9H.jpg",
+               "url": "https://t.co/efoP7XIAB3",
+               "display_url": "pic.twitter.com/efoP7XIAB3",
+               "expanded_url": "https://twitter.com/RepGusBilirakis/status/1500879197446688771/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 684,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 388,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1282,
+                     "h": 731,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/TZq6j2m7Fu",
+            "expanded_url": "https://twitter.com/i/web/status/1500879197446688771",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672460315"
+}

@@ -1,0 +1,216 @@
+{
+   "created_at": "Mon Mar 07 23:19:58 +0000 2022",
+   "id": 1500974568923701251,
+   "id_str": "1500974568923701251",
+   "text": "@MarshaBlackburn Blackburn is beholden to authoritarian regimes. https://t.co/RjLks6gf82",
+   "display_text_range": [
+      17,
+      64
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500964525461450758,
+   "in_reply_to_status_id_str": "1500964525461450758",
+   "in_reply_to_user_id": 278145569,
+   "in_reply_to_user_id_str": "278145569",
+   "in_reply_to_screen_name": "MarshaBlackburn",
+   "user": {
+      "id": 1670794154,
+      "id_str": "1670794154",
+      "name": "Donnie Webb I\u2764\ufe0fBNA \ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "screen_name": "Donnie_Webb",
+      "location": "Nashville, TN",
+      "url": null,
+      "description": "Retired. Replaced. Relocated. Back home in Nashville. Love the town, dumbfounded by pretend cowboys, woo-hoo girls. #RiseUp #BLM #HRC",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1677,
+      "friends_count": 757,
+      "listed_count": 12,
+      "favourites_count": 2585,
+      "statuses_count": 10231,
+      "created_at": "Wed Aug 14 15:33:57 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1499865507104800772/2LkXNkm1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499865507104800772/2LkXNkm1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670794154/1633437195",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": {
+      "id": "00ab941b685334e3",
+      "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json",
+      "place_type": "city",
+      "name": "Nashville",
+      "full_name": "Nashville, TN",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+         "type": "Polygon",
+         "coordinates": [
+            [
+               [
+                  -87.022482,
+                  35.994568
+               ],
+               [
+                  -87.022482,
+                  36.405448
+               ],
+               [
+                  -86.560616,
+                  36.405448
+               ],
+               [
+                  -86.560616,
+                  35.994568
+               ]
+            ]
+         ]
+      },
+      "attributes": {}
+   },
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MarshaBlackburn",
+            "name": "Sen. Marsha Blackburn",
+            "id": 278145569,
+            "id_str": "278145569",
+            "indices": [
+               0,
+               16
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500974563278077953,
+            "id_str": "1500974563278077953",
+            "indices": [
+               65,
+               88
+            ],
+            "description": "Donald Trump Sword GIF",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNSIaa0WQAEYGOl.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNSIaa0WQAEYGOl.jpg",
+            "url": "https://t.co/RjLks6gf82",
+            "display_url": "pic.twitter.com/RjLks6gf82",
+            "expanded_url": "https://twitter.com/Donnie_Webb/status/1500974568923701251/photo/1",
+            "type": "photo",
+            "sizes": {
+               "medium": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 124,
+                  "h": 124,
+                  "resize": "crop"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500974563278077953,
+            "id_str": "1500974563278077953",
+            "indices": [
+               65,
+               88
+            ],
+            "description": "Donald Trump Sword GIF",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNSIaa0WQAEYGOl.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNSIaa0WQAEYGOl.jpg",
+            "url": "https://t.co/RjLks6gf82",
+            "display_url": "pic.twitter.com/RjLks6gf82",
+            "expanded_url": "https://twitter.com/Donnie_Webb/status/1500974568923701251/photo/1",
+            "type": "animated_gif",
+            "video_info": {
+               "aspect_ratio": [
+                  55,
+                  31
+               ],
+               "variants": [
+                  {
+                     "bitrate": 0,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/tweet_video/FNSIaa0WQAEYGOl.mp4"
+                  }
+               ]
+            },
+            "sizes": {
+               "medium": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+               },
+               "thumb": {
+                  "w": 124,
+                  "h": 124,
+                  "resize": "crop"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646695198647"
+}

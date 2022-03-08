@@ -1,0 +1,515 @@
+{
+   "created_at": "Tue Mar 08 05:56:35 +0000 2022",
+   "id": 1501074381249945601,
+   "id_str": "1501074381249945601",
+   "text": "RT @RepSwalwell: Verdict: Slick Rick rolled with the Nazis. Thanks for playing @RichardGrenell. Do us a favor and sit out future conversati\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2966770391,
+      "id_str": "2966770391",
+      "name": "Pam Keith, Esq.",
+      "screen_name": "PamKeithFL",
+      "location": "Fort Pierce FL",
+      "url": "http://fight4fl.com",
+      "description": "Exec. Dir Fight 4 FL\u2019s Future, 2020 Dem Cong. Nominee, ex-Navy JAG, litigator & expert on workplace law. BC Law Grad. AKA\ud83d\udc9a\ud83d\udc97 (she/her)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 143871,
+      "friends_count": 5737,
+      "listed_count": 1088,
+      "favourites_count": 17161,
+      "statuses_count": 104574,
+      "created_at": "Wed Jan 07 21:55:48 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361380373314363394/TgET_kBA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361380373314363394/TgET_kBA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966770391/1420667848",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 04:14:13 +0000 2022",
+      "id": 1501048618916225027,
+      "id_str": "1501048618916225027",
+      "text": "Verdict: Slick Rick rolled with the Nazis. Thanks for playing @RichardGrenell. Do us a favor and sit out future con\u2026 https://t.co/jkgAzZ9PJF",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 942156122,
+         "id_str": "942156122",
+         "name": "Rep. Eric Swalwell",
+         "screen_name": "RepSwalwell",
+         "location": "East Bay, CA & DC (CA-15)",
+         "url": "http://swalwell.house.gov",
+         "description": "Husband | Dad to Nelson, Cricket & Hank | CA Congressman | @HouseJudiciary @HouseIntel @HomelandDems | social media policy: http://bit.ly/3gxdzVm",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1229231,
+         "friends_count": 11092,
+         "listed_count": 6090,
+         "favourites_count": 30745,
+         "statuses_count": 17637,
+         "created_at": "Sun Nov 11 20:26:01 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "2967B3",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1478575870243655681/U0jtKirY_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478575870243655681/U0jtKirY_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/942156122/1604948102",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1501046690748452870,
+      "quoted_status_id_str": "1501046690748452870",
+      "quoted_status": {
+         "created_at": "Tue Mar 08 04:06:33 +0000 2022",
+         "id": 1501046690748452870,
+         "id_str": "1501046690748452870",
+         "text": "@RichardGrenell Hmmm\u2026 you pulled a trump. You actually avoided directly responding to @RepSwalwell\u2019s accusation.\u2026 https://t.co/ueDUXB0KDZ",
+         "display_text_range": [
+            16,
+            140
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": true,
+         "in_reply_to_status_id": 1501045412475535361,
+         "in_reply_to_status_id_str": "1501045412475535361",
+         "in_reply_to_user_id": 90480218,
+         "in_reply_to_user_id_str": "90480218",
+         "in_reply_to_screen_name": "RichardGrenell",
+         "user": {
+            "id": 1287496640857808904,
+            "id_str": "1287496640857808904",
+            "name": "We almost lost democracy under trump",
+            "screen_name": "CollinOwtKrazi",
+            "location": "Taj Mahal",
+            "url": null,
+            "description": "Triggering the traitorous trump cult members who are destroying \ud83c\uddfa\ud83c\uddf8. I do not eat horse dewormer or drink my own pee. trumpers responding to trolling = win.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 265,
+            "friends_count": 263,
+            "listed_count": 4,
+            "favourites_count": 6092,
+            "statuses_count": 3277,
+            "created_at": "Sun Jul 26 21:15:05 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1500587035693883397/Pn7poAwG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500587035693883397/Pn7poAwG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287496640857808904/1646602814",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "@RichardGrenell Hmmm\u2026 you pulled a trump. You actually avoided directly responding to @RepSwalwell\u2019s accusation. \n\nNext thing you know you\u2019ll be telling them to stand back and stand by.",
+            "display_text_range": [
+               16,
+               185
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [
+                  {
+                     "screen_name": "RichardGrenell",
+                     "name": "Richard Grenell",
+                     "id": 90480218,
+                     "id_str": "90480218",
+                     "indices": [
+                        0,
+                        15
+                     ]
+                  },
+                  {
+                     "screen_name": "RepSwalwell",
+                     "name": "Rep. Eric Swalwell",
+                     "id": 942156122,
+                     "id_str": "942156122",
+                     "indices": [
+                        86,
+                        98
+                     ]
+                  }
+               ],
+               "symbols": []
+            }
+         },
+         "quote_count": 3,
+         "reply_count": 34,
+         "retweet_count": 10,
+         "favorite_count": 122,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/ueDUXB0KDZ",
+                  "expanded_url": "https://twitter.com/i/web/status/1501046690748452870",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     114,
+                     137
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "RichardGrenell",
+                  "name": "Richard Grenell",
+                  "id": 90480218,
+                  "id_str": "90480218",
+                  "indices": [
+                     0,
+                     15
+                  ]
+               },
+               {
+                  "screen_name": "RepSwalwell",
+                  "name": "Rep. Eric Swalwell",
+                  "id": 942156122,
+                  "id_str": "942156122",
+                  "indices": [
+                     86,
+                     98
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/x899jQS2ts",
+         "expanded": "https://twitter.com/collinowtkrazi/status/1501046690748452870",
+         "display": "twitter.com/collinowtkrazi\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Verdict: Slick Rick rolled with the Nazis. Thanks for playing @RichardGrenell. Do us a favor and sit out future conversations about Europe. You showed your true colors when you betrayed America for the AFD Nazi party.",
+         "display_text_range": [
+            0,
+            217
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RichardGrenell",
+                  "name": "Richard Grenell",
+                  "id": 90480218,
+                  "id_str": "90480218",
+                  "indices": [
+                     62,
+                     77
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 36,
+      "reply_count": 426,
+      "retweet_count": 197,
+      "favorite_count": 1193,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/jkgAzZ9PJF",
+               "expanded_url": "https://twitter.com/i/web/status/1501048618916225027",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RichardGrenell",
+               "name": "Richard Grenell",
+               "id": 90480218,
+               "id_str": "90480218",
+               "indices": [
+                  62,
+                  77
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1501046690748452870,
+   "quoted_status_id_str": "1501046690748452870",
+   "quoted_status": {
+      "created_at": "Tue Mar 08 04:06:33 +0000 2022",
+      "id": 1501046690748452870,
+      "id_str": "1501046690748452870",
+      "text": "@RichardGrenell Hmmm\u2026 you pulled a trump. You actually avoided directly responding to @RepSwalwell\u2019s accusation.\u2026 https://t.co/ueDUXB0KDZ",
+      "display_text_range": [
+         16,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1501045412475535361,
+      "in_reply_to_status_id_str": "1501045412475535361",
+      "in_reply_to_user_id": 90480218,
+      "in_reply_to_user_id_str": "90480218",
+      "in_reply_to_screen_name": "RichardGrenell",
+      "user": {
+         "id": 1287496640857808904,
+         "id_str": "1287496640857808904",
+         "name": "We almost lost democracy under trump",
+         "screen_name": "CollinOwtKrazi",
+         "location": "Taj Mahal",
+         "url": null,
+         "description": "Triggering the traitorous trump cult members who are destroying \ud83c\uddfa\ud83c\uddf8. I do not eat horse dewormer or drink my own pee. trumpers responding to trolling = win.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 265,
+         "friends_count": 263,
+         "listed_count": 4,
+         "favourites_count": 6092,
+         "statuses_count": 3277,
+         "created_at": "Sun Jul 26 21:15:05 +0000 2020",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1500587035693883397/Pn7poAwG_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500587035693883397/Pn7poAwG_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287496640857808904/1646602814",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "@RichardGrenell Hmmm\u2026 you pulled a trump. You actually avoided directly responding to @RepSwalwell\u2019s accusation. \n\nNext thing you know you\u2019ll be telling them to stand back and stand by.",
+         "display_text_range": [
+            16,
+            185
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RichardGrenell",
+                  "name": "Richard Grenell",
+                  "id": 90480218,
+                  "id_str": "90480218",
+                  "indices": [
+                     0,
+                     15
+                  ]
+               },
+               {
+                  "screen_name": "RepSwalwell",
+                  "name": "Rep. Eric Swalwell",
+                  "id": 942156122,
+                  "id_str": "942156122",
+                  "indices": [
+                     86,
+                     98
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 34,
+      "retweet_count": 10,
+      "favorite_count": 122,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/ueDUXB0KDZ",
+               "expanded_url": "https://twitter.com/i/web/status/1501046690748452870",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  114,
+                  137
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RichardGrenell",
+               "name": "Richard Grenell",
+               "id": 90480218,
+               "id_str": "90480218",
+               "indices": [
+                  0,
+                  15
+               ]
+            },
+            {
+               "screen_name": "RepSwalwell",
+               "name": "Rep. Eric Swalwell",
+               "id": 942156122,
+               "id_str": "942156122",
+               "indices": [
+                  86,
+                  98
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/x899jQS2ts",
+      "expanded": "https://twitter.com/collinowtkrazi/status/1501046690748452870",
+      "display": "twitter.com/collinowtkrazi\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "RichardGrenell",
+            "name": "Richard Grenell",
+            "id": 90480218,
+            "id_str": "90480218",
+            "indices": [
+               79,
+               94
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646718995760"
+}

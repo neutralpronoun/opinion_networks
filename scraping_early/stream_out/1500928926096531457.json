@@ -1,0 +1,203 @@
+{
+   "created_at": "Mon Mar 07 20:18:36 +0000 2022",
+   "id": 1500928926096531457,
+   "id_str": "1500928926096531457",
+   "text": "RT @SenTedCruz: .@realDailyWire : Sen. Ted Cruz Joins Elon Musk In Call For Increased American Oil And Gas Output\n \nhttps://t.co/nN4R6Qn12g",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 4081106480,
+      "id_str": "4081106480",
+      "name": "Daily Wire",
+      "screen_name": "realDailyWire",
+      "location": "Nashville, USA",
+      "url": "http://utm.io/uelek",
+      "description": "Official Twitter feed of The Daily Wire. Our new movie \"The Hyperions\" premieres Thursday 3/10 at 8:30pm ET! \n\nClick the link below to set your reminders on YT!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 771291,
+      "friends_count": 2503,
+      "listed_count": 3246,
+      "favourites_count": 10318,
+      "statuses_count": 161865,
+      "created_at": "Sat Oct 31 15:42:25 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1493271719150342145/dSr1R5Tb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493271719150342145/dSr1R5Tb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4081106480/1645829629",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:16:18 +0000 2022",
+      "id": 1500928345906765830,
+      "id_str": "1500928345906765830",
+      "text": ".@realDailyWire : Sen. Ted Cruz Joins Elon Musk In Call For Increased American Oil And Gas Output\n \nhttps://t.co/nN4R6Qn12g",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1074480192,
+         "id_str": "1074480192",
+         "name": "Senator Ted Cruz",
+         "screen_name": "SenTedCruz",
+         "location": "Houston, Texas",
+         "url": "http://cruz.senate.gov",
+         "description": "Representing the State of Texas in the United States Senate.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 2368950,
+         "friends_count": 5541,
+         "listed_count": 10726,
+         "favourites_count": 522,
+         "statuses_count": 18685,
+         "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "131516",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": true,
+         "profile_link_color": "009999",
+         "profile_sidebar_border_color": "EEEEEE",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1618321873",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 1,
+      "reply_count": 10,
+      "retweet_count": 20,
+      "favorite_count": 84,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/nN4R6Qn12g",
+               "expanded_url": "https://www.dailywire.com/news/sen-ted-cruz-joins-elon-musk-in-call-for-increased-american-oil-and-gas-output",
+               "display_url": "dailywire.com/news/sen-ted-c\u2026",
+               "indices": [
+                  100,
+                  123
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "realDailyWire",
+               "name": "Daily Wire",
+               "id": 4081106480,
+               "id_str": "4081106480",
+               "indices": [
+                  1,
+                  15
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/nN4R6Qn12g",
+            "expanded_url": "https://www.dailywire.com/news/sen-ted-cruz-joins-elon-musk-in-call-for-increased-american-oil-and-gas-output",
+            "display_url": "dailywire.com/news/sen-ted-c\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenTedCruz",
+            "name": "Senator Ted Cruz",
+            "id": 1074480192,
+            "id_str": "1074480192",
+            "indices": [
+               3,
+               14
+            ]
+         },
+         {
+            "screen_name": "realDailyWire",
+            "name": "Daily Wire",
+            "id": 4081106480,
+            "id_str": "4081106480",
+            "indices": [
+               17,
+               31
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684316549"
+}

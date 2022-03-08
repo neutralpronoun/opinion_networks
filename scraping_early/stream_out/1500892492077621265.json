@@ -1,0 +1,222 @@
+{
+   "created_at": "Mon Mar 07 17:53:50 +0000 2022",
+   "id": 1500892492077621265,
+   "id_str": "1500892492077621265",
+   "text": "Sister Mary Scullion has advocated for Philadelphia's &amp; the Nation's homeless since 1978. She co-founded Woman of H\u2026 https://t.co/kM8mWDmJOH",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 171598736,
+      "id_str": "171598736",
+      "name": "Senator Bob Casey",
+      "screen_name": "SenBobCasey",
+      "location": "Scranton, PA",
+      "url": "https://www.casey.senate.gov/",
+      "description": "Official twitter profile for U.S. Senator Bob Casey. Husband, dad, grandpa, history buff, Chairman @SenateAging. Fighting for PA\u2019s children and families.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 437981,
+      "friends_count": 905,
+      "listed_count": 3228,
+      "favourites_count": 1241,
+      "statuses_count": 14270,
+      "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "162F53",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "2F6291",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285704237838630916/v9BxaY3T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/171598736/1617400707",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Sister Mary Scullion has advocated for Philadelphia's &amp; the Nation's homeless since 1978. She co-founded Woman of Hope and @ProjectHOME, serves on the Board of Trustees of @saintjosephs and on the Board of the @JBJSoulFound. #WomensHistoryMonth https://t.co/z0zbG5JvEX",
+      "display_text_range": [
+         0,
+         248
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomensHistoryMonth",
+               "indices": [
+                  229,
+                  248
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "ProjectHOME",
+               "name": "Project HOME",
+               "id": 62012195,
+               "id_str": "62012195",
+               "indices": [
+                  127,
+                  139
+               ]
+            },
+            {
+               "screen_name": "saintjosephs",
+               "name": "Saint Joseph\u2019s University",
+               "id": 34362629,
+               "id_str": "34362629",
+               "indices": [
+                  176,
+                  189
+               ]
+            },
+            {
+               "screen_name": "JBJSoulFound",
+               "name": "Jon Bon Jovi Soul Foundation",
+               "id": 201427510,
+               "id_str": "201427510",
+               "indices": [
+                  214,
+                  227
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500892252973015052,
+               "id_str": "1500892252973015052",
+               "indices": [
+                  249,
+                  272
+               ],
+               "description": "[Photo cutout of Sister Mary Scullion] Sister Mary Scullion - Philadelphia - Social justice advocate, co-founder of Project HOME and co-founder of Woman of Hope",
+               "media_url": "http://pbs.twimg.com/media/FNQ9jVCXoAw5aIH.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ9jVCXoAw5aIH.png",
+               "url": "https://t.co/z0zbG5JvEX",
+               "display_url": "pic.twitter.com/z0zbG5JvEX",
+               "expanded_url": "https://twitter.com/SenBobCasey/status/1500892492077621265/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 750,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 750,
+                     "h": 750,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500892252973015052,
+               "id_str": "1500892252973015052",
+               "indices": [
+                  249,
+                  272
+               ],
+               "description": "[Photo cutout of Sister Mary Scullion] Sister Mary Scullion - Philadelphia - Social justice advocate, co-founder of Project HOME and co-founder of Woman of Hope",
+               "media_url": "http://pbs.twimg.com/media/FNQ9jVCXoAw5aIH.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ9jVCXoAw5aIH.png",
+               "url": "https://t.co/z0zbG5JvEX",
+               "display_url": "pic.twitter.com/z0zbG5JvEX",
+               "expanded_url": "https://twitter.com/SenBobCasey/status/1500892492077621265/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 750,
+                     "h": 750,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 750,
+                     "h": 750,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/kM8mWDmJOH",
+            "expanded_url": "https://twitter.com/i/web/status/1500892492077621265",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               121,
+               144
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675630002"
+}

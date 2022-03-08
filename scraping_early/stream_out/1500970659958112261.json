@@ -1,0 +1,285 @@
+{
+   "created_at": "Mon Mar 07 23:04:26 +0000 2022",
+   "id": 1500970659958112261,
+   "id_str": "1500970659958112261",
+   "text": "57 years since Bloody Sunday, we must not forget those who risked their lives to march from Selma to Montgomery in\u2026 https://t.co/m87igkNPGE",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 249787913,
+      "id_str": "249787913",
+      "name": "Senator Tom Carper",
+      "screen_name": "SenatorCarper",
+      "location": "Delaware",
+      "url": "http://www.carper.senate.gov",
+      "description": "Husband, father, proud @USNavy veteran and former governor. U.S. Senator for Delaware and Chairman @EPWCmte",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 113779,
+      "friends_count": 1918,
+      "listed_count": 2123,
+      "favourites_count": 1730,
+      "statuses_count": 11513,
+      "created_at": "Wed Feb 09 19:46:42 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "D6DDE1",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1E3F66",
+      "profile_sidebar_border_color": "BAC1C4",
+      "profile_sidebar_fill_color": "E2E8EB",
+      "profile_text_color": "737373",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/249787913/1577996692",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500642386631741441,
+   "quoted_status_id_str": "1500642386631741441",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 01:20:00 +0000 2022",
+      "id": 1500642386631741441,
+      "id_str": "1500642386631741441",
+      "text": "I stand on the shoulders of giants, who risked everything for our freedoms. The baton has been passed to us to cont\u2026 https://t.co/mVNsPs4pTh",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 803694179079458816,
+         "id_str": "803694179079458816",
+         "name": "Vice President Kamala Harris",
+         "screen_name": "VP",
+         "location": null,
+         "url": "http://whitehouse.gov",
+         "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 12435553,
+         "friends_count": 6,
+         "listed_count": 15711,
+         "favourites_count": 1112,
+         "statuses_count": 7202,
+         "created_at": "Tue Nov 29 20:16:39 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/803694179079458816/1646319120",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "I stand on the shoulders of giants, who risked everything for our freedoms. The baton has been passed to us to continue the fight to protect our right to vote. https://t.co/NgKogsqx1T",
+         "display_text_range": [
+            0,
+            159
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500639335854579714,
+                  "id_str": "1500639335854579714",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNNXhnWXIAIqH1o.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNNXhnWXIAIqH1o.jpg",
+                  "url": "https://t.co/NgKogsqx1T",
+                  "display_url": "pic.twitter.com/NgKogsqx1T",
+                  "expanded_url": "https://twitter.com/VP/status/1500642386631741441/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500639335854579714,
+                  "id_str": "1500639335854579714",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNNXhnWXIAIqH1o.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNNXhnWXIAIqH1o.jpg",
+                  "url": "https://t.co/NgKogsqx1T",
+                  "display_url": "pic.twitter.com/NgKogsqx1T",
+                  "expanded_url": "https://twitter.com/VP/status/1500642386631741441/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 155,
+      "reply_count": 994,
+      "retweet_count": 3706,
+      "favorite_count": 24843,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/mVNsPs4pTh",
+               "expanded_url": "https://twitter.com/i/web/status/1500642386631741441",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/11BI57efpR",
+      "expanded": "https://twitter.com/VP/status/1500642386631741441",
+      "display": "twitter.com/VP/status/1500\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "57 years since Bloody Sunday, we must not forget those who risked their lives to march from Selma to Montgomery in the name of justice. \n \nIt\u2019s now on us to honor their legacy and pass voting rights legislation to protect every American\u2019s access to the ballot box.",
+      "display_text_range": [
+         0,
+         264
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/m87igkNPGE",
+            "expanded_url": "https://twitter.com/i/web/status/1500970659958112261",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646694266677"
+}

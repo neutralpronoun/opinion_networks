@@ -1,0 +1,169 @@
+{
+   "created_at": "Mon Mar 07 21:13:18 +0000 2022",
+   "id": 1500942691256971269,
+   "id_str": "1500942691256971269",
+   "text": "Just shut up and wear the shirt. Wear two in fact. This is science. @TheBabylonBee https://t.co/VUihlFSRU1",
+   "display_text_range": [
+      0,
+      82
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 975200486,
+      "id_str": "975200486",
+      "name": "Thomas Massie",
+      "screen_name": "RepThomasMassie",
+      "location": "Swamp",
+      "url": "https://massie.house.gov/media/social.htm",
+      "description": "U.S. Rep KY4, #LibertyVariant, co-Chair 2A Caucus, greenest member of congress, MIT 93 BS EE, MIT 96 Master of Science #sassywithmassie #politicalsciencedenier",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 341299,
+      "friends_count": 5507,
+      "listed_count": 2669,
+      "favourites_count": 68298,
+      "statuses_count": 13164,
+      "created_at": "Wed Nov 28 02:33:14 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1339685912872177664/EKpZGLli_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339685912872177664/EKpZGLli_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/975200486/1367276184",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "TheBabylonBee",
+            "name": "The Babylon Bee",
+            "id": 4914384040,
+            "id_str": "4914384040",
+            "indices": [
+               68,
+               82
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500942681463308294,
+            "id_str": "1500942681463308294",
+            "indices": [
+               83,
+               106
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRrapzXwAYS3CQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRrapzXwAYS3CQ.jpg",
+            "url": "https://t.co/VUihlFSRU1",
+            "display_url": "pic.twitter.com/VUihlFSRU1",
+            "expanded_url": "https://twitter.com/RepThomasMassie/status/1500942691256971269/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 1084,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1284,
+                  "h": 1422,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 614,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500942681463308294,
+            "id_str": "1500942681463308294",
+            "indices": [
+               83,
+               106
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRrapzXwAYS3CQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRrapzXwAYS3CQ.jpg",
+            "url": "https://t.co/VUihlFSRU1",
+            "display_url": "pic.twitter.com/VUihlFSRU1",
+            "expanded_url": "https://twitter.com/RepThomasMassie/status/1500942691256971269/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 1084,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1284,
+                  "h": 1422,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 614,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646687598419"
+}

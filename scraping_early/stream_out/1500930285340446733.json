@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 20:24:00 +0000 2022",
+   "id": 1500930285340446733,
+   "id_str": "1500930285340446733",
+   "text": "A new study found cloth masks only block 10% of particles. With deaths down around the country particularly in Kans\u2026 https://t.co/AvB2QK8Eoi",
+   "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1240107944,
+      "id_str": "1240107944",
+      "name": "Dr. Roger Marshall",
+      "screen_name": "RogerMarshallMD",
+      "location": "Great Bend, KS",
+      "url": null,
+      "description": "Husband, father, grandfather, doctor, and U.S. Senator for Kansas.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 31853,
+      "friends_count": 1006,
+      "listed_count": 663,
+      "favourites_count": 830,
+      "statuses_count": 6646,
+      "created_at": "Sun Mar 03 23:50:35 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FFCC4D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1460999008453861383/l50MDUN__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460999008453861383/l50MDUN__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240107944/1641820872",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "A new study found cloth masks only block 10% of particles. With deaths down around the country particularly in Kansas, it\u2019s time to let the American people breathe freely. https://t.co/0kIMHqWkeV",
+      "display_text_range": [
+         0,
+         195
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/0kIMHqWkeV",
+               "expanded_url": "https://www.dailymail.co.uk/health/article-10565993/Cloth-masks-allow-90-particles-filter-giving-little-ability-prevent-Covid.html",
+               "display_url": "dailymail.co.uk/health/article\u2026",
+               "indices": [
+                  172,
+                  195
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/AvB2QK8Eoi",
+            "expanded_url": "https://twitter.com/i/web/status/1500930285340446733",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684640618"
+}

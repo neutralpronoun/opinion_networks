@@ -1,0 +1,275 @@
+{
+   "created_at": "Mon Mar 07 20:56:17 +0000 2022",
+   "id": 1500938411124961284,
+   "id_str": "1500938411124961284",
+   "text": "Thank you to our brave @CBP officers for having me in Del Rio, and for all you do to keep our border safe and secur\u2026 https://t.co/q9NYzsumrv",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1081318716573470720,
+      "id_str": "1081318716573470720",
+      "name": "Rep. Carol Miller",
+      "screen_name": "RepCarolMiller",
+      "location": "Huntington, WV",
+      "url": "https://miller.house.gov/",
+      "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia's 3rd Congressional District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 11146,
+      "friends_count": 305,
+      "listed_count": 416,
+      "favourites_count": 288,
+      "statuses_count": 1867,
+      "created_at": "Fri Jan 04 22:37:26 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081319065514323968/DK8CD7JB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081318716573470720/1578499859",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Thank you to our brave @CBP officers for having me in Del Rio, and for all you do to keep our border safe and secure.\n\nI am committed to ensuring you have the advanced technologies and support necessary to hold those who seek to cross our border illegally accountable. https://t.co/3j0goLArPx",
+      "display_text_range": [
+         0,
+         268
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "CBP",
+               "name": "CBP",
+               "id": 16613128,
+               "id_str": "16613128",
+               "indices": [
+                  23,
+                  27
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500938192899481601,
+               "id_str": "1500938192899481601",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnVYmXIAEJqci.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnVYmXIAEJqci.jpg",
+               "url": "https://t.co/3j0goLArPx",
+               "display_url": "pic.twitter.com/3j0goLArPx",
+               "expanded_url": "https://twitter.com/RepCarolMiller/status/1500938411124961284/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1365,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938249740722178,
+               "id_str": "1500938249740722178",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnYsWXoAIOCso.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnYsWXoAIOCso.jpg",
+               "url": "https://t.co/3j0goLArPx",
+               "display_url": "pic.twitter.com/3j0goLArPx",
+               "expanded_url": "https://twitter.com/RepCarolMiller/status/1500938411124961284/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1440,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500938192899481601,
+               "id_str": "1500938192899481601",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnVYmXIAEJqci.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnVYmXIAEJqci.jpg",
+               "url": "https://t.co/3j0goLArPx",
+               "display_url": "pic.twitter.com/3j0goLArPx",
+               "expanded_url": "https://twitter.com/RepCarolMiller/status/1500938411124961284/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1365,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500938249740722178,
+               "id_str": "1500938249740722178",
+               "indices": [
+                  269,
+                  292
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnYsWXoAIOCso.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnYsWXoAIOCso.jpg",
+               "url": "https://t.co/3j0goLArPx",
+               "display_url": "pic.twitter.com/3j0goLArPx",
+               "expanded_url": "https://twitter.com/RepCarolMiller/status/1500938411124961284/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1440,
+                     "h": 1080,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/q9NYzsumrv",
+            "expanded_url": "https://twitter.com/i/web/status/1500938411124961284",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "CBP",
+            "name": "CBP",
+            "id": 16613128,
+            "id_str": "16613128",
+            "indices": [
+               23,
+               27
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686577956"
+}

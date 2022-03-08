@@ -1,0 +1,249 @@
+{
+   "created_at": "Mon Mar 07 22:44:23 +0000 2022",
+   "id": 1500965614134996992,
+   "id_str": "1500965614134996992",
+   "text": "The Biden admin can deny it all they want, but they have declared war on America's oil, gas, LNG, pipelines, and pe\u2026 https://t.co/4AMwj4fyp4",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 816683274076614656,
+      "id_str": "816683274076614656",
+      "name": "John Kennedy",
+      "screen_name": "SenJohnKennedy",
+      "location": "Louisiana",
+      "url": "https://www.kennedy.senate.gov/",
+      "description": "Official account of U.S. Senator John Kennedy of Louisiana.\nFacebook: https://www.facebook.com/SenatorJohnKennedy",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 272391,
+      "friends_count": 1306,
+      "listed_count": 1766,
+      "favourites_count": 703,
+      "statuses_count": 3150,
+      "created_at": "Wed Jan 04 16:30:40 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1478828894878945282/oc8JVTd1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478828894878945282/oc8JVTd1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816683274076614656/1608232124",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Biden admin can deny it all they want, but they have declared war on America's oil, gas, LNG, pipelines, and petrochemicals. https://t.co/bkQA0nY4CL",
+      "display_text_range": [
+         0,
+         128
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500964366274940931,
+               "id_str": "1500964366274940931",
+               "indices": [
+                  129,
+                  152
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNSAPUeXIAM1C2z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSAPUeXIAM1C2z.jpg",
+               "url": "https://t.co/bkQA0nY4CL",
+               "display_url": "pic.twitter.com/bkQA0nY4CL",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500965614134996992/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     30,
+                     17
+                  ],
+                  "duration_millis": 50200,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/960x544/sIbFHuC6cDP96sbQ.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/pl/QUTizWIuXSDlKLtb.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/476x270/66_xCvyH3CU9YTPZ.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/634x360/gDHPz7rfzAwk7iPv.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 828,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 828,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500964366274940931,
+               "id_str": "1500964366274940931",
+               "indices": [
+                  129,
+                  152
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNSAPUeXIAM1C2z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSAPUeXIAM1C2z.jpg",
+               "url": "https://t.co/bkQA0nY4CL",
+               "display_url": "pic.twitter.com/bkQA0nY4CL",
+               "expanded_url": "https://twitter.com/SenJohnKennedy/status/1500965614134996992/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     30,
+                     17
+                  ],
+                  "duration_millis": 50200,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/960x544/sIbFHuC6cDP96sbQ.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/pl/QUTizWIuXSDlKLtb.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/476x270/66_xCvyH3CU9YTPZ.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500964366274940931/vid/634x360/gDHPz7rfzAwk7iPv.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 828,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 828,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/4AMwj4fyp4",
+            "expanded_url": "https://twitter.com/i/web/status/1500965614134996992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693063659"
+}

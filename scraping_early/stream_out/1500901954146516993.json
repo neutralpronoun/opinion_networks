@@ -1,0 +1,248 @@
+{
+   "created_at": "Mon Mar 07 18:31:25 +0000 2022",
+   "id": 1500901954146516993,
+   "id_str": "1500901954146516993",
+   "text": "We are here today to emphasize the importance of the #InfrastructureBill, what it represents, and the future invest\u2026 https://t.co/bLIDvCoZSQ",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 109071031,
+      "id_str": "109071031",
+      "name": "Senator Ben Cardin",
+      "screen_name": "SenatorCardin",
+      "location": "Maryland, USA",
+      "url": "https://www.cardin.senate.gov/coronavirus-resources",
+      "description": "US Senator for Maryland. Chair, #SmallBiz Cmte. \nGet your shot and booster. Wear a mask when appropriate. Be safe. \n#TeamMaryland \n\nhttps://t.co/MWU3MnXB1D\u2026",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 261897,
+      "friends_count": 3356,
+      "listed_count": 3120,
+      "favourites_count": 2529,
+      "statuses_count": 13302,
+      "created_at": "Wed Jan 27 22:03:53 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/109071031/1625674509",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "We are here today to emphasize the importance of the #InfrastructureBill, what it represents, and the future investments it will bring to Maryland, including rebuilding and repairing the bridges across our state. @BaltCoGov @ChrisVanHollen @Call_Me_Dutch @RepSarbanes @JohnnyOJr https://t.co/eVBNPAm7RR",
+      "display_text_range": [
+         0,
+         278
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "InfrastructureBill",
+               "indices": [
+                  53,
+                  72
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "BaltCoGov",
+               "name": "Baltimore County",
+               "id": 39575290,
+               "id_str": "39575290",
+               "indices": [
+                  213,
+                  223
+               ]
+            },
+            {
+               "screen_name": "ChrisVanHollen",
+               "name": "Senator Chris Van Hollen",
+               "id": 18137749,
+               "id_str": "18137749",
+               "indices": [
+                  224,
+                  239
+               ]
+            },
+            {
+               "screen_name": "Call_Me_Dutch",
+               "name": "Dutch Ruppersberger",
+               "id": 305620929,
+               "id_str": "305620929",
+               "indices": [
+                  240,
+                  254
+               ]
+            },
+            {
+               "screen_name": "RepSarbanes",
+               "name": "Rep. John Sarbanes",
+               "id": 364415553,
+               "id_str": "364415553",
+               "indices": [
+                  255,
+                  267
+               ]
+            },
+            {
+               "screen_name": "JohnnyOJr",
+               "name": "Johnny Olszewski, Jr.",
+               "id": 131703803,
+               "id_str": "131703803",
+               "indices": [
+                  268,
+                  278
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500901413156704257,
+               "id_str": "1500901413156704257",
+               "indices": [
+                  279,
+                  302
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRF4hYWUAE_4W7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRF4hYWUAE_4W7.jpg",
+               "url": "https://t.co/eVBNPAm7RR",
+               "display_url": "pic.twitter.com/eVBNPAm7RR",
+               "expanded_url": "https://twitter.com/SenatorCardin/status/1500901954146516993/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500901413156704257,
+               "id_str": "1500901413156704257",
+               "indices": [
+                  279,
+                  302
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRF4hYWUAE_4W7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRF4hYWUAE_4W7.jpg",
+               "url": "https://t.co/eVBNPAm7RR",
+               "display_url": "pic.twitter.com/eVBNPAm7RR",
+               "expanded_url": "https://twitter.com/SenatorCardin/status/1500901954146516993/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "InfrastructureBill",
+            "indices": [
+               53,
+               72
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/bLIDvCoZSQ",
+            "expanded_url": "https://twitter.com/i/web/status/1500901954146516993",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646677885935"
+}

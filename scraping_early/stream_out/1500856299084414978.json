@@ -1,0 +1,271 @@
+{
+   "created_at": "Mon Mar 07 15:30:00 +0000 2022",
+   "id": 1500856299084414978,
+   "id_str": "1500856299084414978",
+   "text": "I joined @foxbusiness to discuss the need to stop Russian oil imports. We must increase our oil production here in\u2026 https://t.co/frXT6ZFEWf",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343597700542038017,
+      "id_str": "1343597700542038017",
+      "name": "Rep. Nancy Mace",
+      "screen_name": "RepNancyMace",
+      "location": "Charleston, SC",
+      "url": "https://mace.house.gov/",
+      "description": "From @WaffleHouse to #Citadel to US House. Working hard serving the Lowcountry. Ranking Member Civil Rights sub on Oversight. #SC01 #LowcountryFirst.\ud83c\udf19\ud83c\udf34\ud83c\udf0a\ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60275,
+      "friends_count": 960,
+      "listed_count": 404,
+      "favourites_count": 1154,
+      "statuses_count": 1936,
+      "created_at": "Mon Dec 28 16:41:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344644863191560196/_sLBt0UA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344644863191560196/_sLBt0UA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343597700542038017/1626982165",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I joined @foxbusiness to discuss the need to stop Russian oil imports. We must increase our oil production here in the United States. Check it out: https://t.co/MX9VuBwI5i",
+      "display_text_range": [
+         0,
+         147
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "FoxBusiness",
+               "name": "FOX Business",
+               "id": 56413858,
+               "id_str": "56413858",
+               "indices": [
+                  9,
+                  21
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500847154511896576,
+               "id_str": "1500847154511896576",
+               "indices": [
+                  148,
+                  171
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500847154511896576/img/Ve382QATVFH8ddNP.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500847154511896576/img/Ve382QATVFH8ddNP.jpg",
+               "url": "https://t.co/MX9VuBwI5i",
+               "display_url": "pic.twitter.com/MX9VuBwI5i",
+               "expanded_url": "https://twitter.com/RepNancyMace/status/1500856299084414978/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     657,
+                     367
+                  ],
+                  "duration_millis": 346066,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/644x360/58x7PLD-gM4Zk2Vs.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/pl/it22JE4-kgRbaO6T.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/482x270/HQFeIIDIr9jDjjHW.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/1288x720/vFe0TbNHw3dZ0T_v.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1314,
+                     "h": 734,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 670,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 380,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500847154511896576,
+               "id_str": "1500847154511896576",
+               "indices": [
+                  148,
+                  171
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500847154511896576/img/Ve382QATVFH8ddNP.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500847154511896576/img/Ve382QATVFH8ddNP.jpg",
+               "url": "https://t.co/MX9VuBwI5i",
+               "display_url": "pic.twitter.com/MX9VuBwI5i",
+               "expanded_url": "https://twitter.com/RepNancyMace/status/1500856299084414978/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     657,
+                     367
+                  ],
+                  "duration_millis": 346066,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/644x360/58x7PLD-gM4Zk2Vs.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/pl/it22JE4-kgRbaO6T.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/482x270/HQFeIIDIr9jDjjHW.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500847154511896576/vid/1288x720/vFe0TbNHw3dZ0T_v.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1314,
+                     "h": 734,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 670,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 380,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/frXT6ZFEWf",
+            "expanded_url": "https://twitter.com/i/web/status/1500856299084414978",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "FoxBusiness",
+            "name": "FOX Business",
+            "id": 56413858,
+            "id_str": "56413858",
+            "indices": [
+               9,
+               21
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667000920"
+}

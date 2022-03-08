@@ -1,0 +1,334 @@
+{
+   "created_at": "Mon Mar 07 17:55:48 +0000 2022",
+   "id": 1500892989136281606,
+   "id_str": "1500892989136281606",
+   "text": "RT @JudiciaryDems: A highly qualified jurist with a breadth of experience and a record of evenhandedness and impartiality\u2014and the first Bla\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 476256944,
+      "id_str": "476256944",
+      "name": "Senator Dianne Feinstein",
+      "screen_name": "SenFeinstein",
+      "location": "California",
+      "url": "http://www.feinstein.senate.gov",
+      "description": "United States Senator from California. On Facebook at: http://facebook.com/senatorfeinstein",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1499896,
+      "friends_count": 256,
+      "listed_count": 7099,
+      "favourites_count": 112,
+      "statuses_count": 13165,
+      "created_at": "Fri Jan 27 23:06:59 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269997520694005760/Xpo4-5Px_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269997520694005760/Xpo4-5Px_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/476256944/1401304971",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:13:16 +0000 2022",
+      "id": 1500882285117251587,
+      "id_str": "1500882285117251587",
+      "text": "A highly qualified jurist with a breadth of experience and a record of evenhandedness and impartiality\u2014and the firs\u2026 https://t.co/8JGNIVZuQp",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 818513652814843906,
+         "id_str": "818513652814843906",
+         "name": "Senate Judiciary Committee",
+         "screen_name": "JudiciaryDems",
+         "location": "Washington, DC",
+         "url": "http://judiciary.senate.gov",
+         "description": "News from the Senate Judiciary Committee, chaired by @SenatorDurbin, author of the Dream Act and the Fair Sentencing Act, fighter for equal justice under law.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 58841,
+         "friends_count": 262,
+         "listed_count": 577,
+         "favourites_count": 194,
+         "statuses_count": 3141,
+         "created_at": "Mon Jan 09 17:43:56 +0000 2017",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1416081066889261061/Iyl5hJQ__normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1416081066889261061/Iyl5hJQ__normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/818513652814843906/1626454953",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "A highly qualified jurist with a breadth of experience and a record of evenhandedness and impartiality\u2014and the first Black woman nominated to the Supreme Court in American history.\n\nThis is Judge Ketanji Brown Jackson \u2b07\ufe0f https://t.co/qFmTjJyIya",
+         "display_text_range": [
+            0,
+            220
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500872514758758400,
+                  "id_str": "1500872514758758400",
+                  "indices": [
+                     221,
+                     244
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FNQsjOfWQAwdRsw.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQsjOfWQAwdRsw.jpg",
+                  "url": "https://t.co/qFmTjJyIya",
+                  "display_url": "pic.twitter.com/qFmTjJyIya",
+                  "expanded_url": "https://twitter.com/JudiciaryDems/status/1500882285117251587/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 113680,
+                     "variants": [
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/320x320/D2BMkSTERO3IuI_C.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/pl/Qh0OZ201XJOlYNGI.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/720x720/D2j1kv2MoO-1EWRU.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/540x540/1xUWZM9JrCpMNni7.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500872514758758400,
+                  "id_str": "1500872514758758400",
+                  "indices": [
+                     221,
+                     244
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FNQsjOfWQAwdRsw.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQsjOfWQAwdRsw.jpg",
+                  "url": "https://t.co/qFmTjJyIya",
+                  "display_url": "pic.twitter.com/qFmTjJyIya",
+                  "expanded_url": "https://twitter.com/JudiciaryDems/status/1500882285117251587/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 113680,
+                     "variants": [
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/320x320/D2BMkSTERO3IuI_C.mp4?tag=14"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/pl/Qh0OZ201XJOlYNGI.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/720x720/D2j1kv2MoO-1EWRU.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500872514758758400/vid/540x540/1xUWZM9JrCpMNni7.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 7,
+      "retweet_count": 46,
+      "favorite_count": 159,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/8JGNIVZuQp",
+               "expanded_url": "https://twitter.com/i/web/status/1500882285117251587",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "JudiciaryDems",
+            "name": "Senate Judiciary Committee",
+            "id": 818513652814843906,
+            "id_str": "818513652814843906",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675748510"
+}

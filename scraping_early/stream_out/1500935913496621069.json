@@ -1,0 +1,365 @@
+{
+   "created_at": "Mon Mar 07 20:46:22 +0000 2022",
+   "id": 1500935913496621069,
+   "id_str": "1500935913496621069",
+   "text": "Stoney was the road our ancestors trod, but what courage and faith they must have had to get to this place on this\u2026 https://t.co/0jGUZbvW1I",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 381152398,
+      "id_str": "381152398",
+      "name": "Rep. Terri A. Sewell",
+      "screen_name": "RepTerriSewell",
+      "location": "Washington, DC",
+      "url": "http://sewell.house.gov",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama's 7th District https://www.facebook.com/RepSewell",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 53006,
+      "friends_count": 4390,
+      "listed_count": 1361,
+      "favourites_count": 1714,
+      "statuses_count": 8412,
+      "created_at": "Tue Sep 27 20:47:50 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0F18BD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365353497533775876/xnkOsYz7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/381152398/1604786027",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": {
+      "id": "ba2e7f7eb278521d",
+      "url": "https://api.twitter.com/1.1/geo/id/ba2e7f7eb278521d.json",
+      "place_type": "city",
+      "name": "Selma",
+      "full_name": "Selma, AL",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+         "type": "Polygon",
+         "coordinates": [
+            [
+               [
+                  -87.095997,
+                  32.372411
+               ],
+               [
+                  -87.095997,
+                  32.457178
+               ],
+               [
+                  -86.978868,
+                  32.457178
+               ],
+               [
+                  -86.978868,
+                  32.372411
+               ]
+            ]
+         ]
+      },
+      "attributes": {}
+   },
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Stoney was the road our ancestors trod, but what courage and faith they must have had to get to this place on this day, 57 years ago.\n\nRemember. Reflect. Rededicate. #BloodySunday https://t.co/ppx0xbqcra",
+      "display_text_range": [
+         0,
+         179
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BloodySunday",
+               "indices": [
+                  166,
+                  179
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500935334573625347,
+               "id_str": "1500935334573625347",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRkvAgX0AMQsmz.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRkvAgX0AMQsmz.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 899,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1534,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 509,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500935462105591813,
+               "id_str": "1500935462105591813",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRk2bmXMAUL42H.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRk2bmXMAUL42H.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1404,
+                     "h": 790,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500935503230775299,
+               "id_str": "1500935503230775299",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRk40zXsAMxyQg.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRk40zXsAMxyQg.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1021,
+                     "h": 574,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1021,
+                     "h": 574,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500935334573625347,
+               "id_str": "1500935334573625347",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRkvAgX0AMQsmz.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRkvAgX0AMQsmz.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 899,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1534,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 509,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500935462105591813,
+               "id_str": "1500935462105591813",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRk2bmXMAUL42H.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRk2bmXMAUL42H.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1404,
+                     "h": 790,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500935503230775299,
+               "id_str": "1500935503230775299",
+               "indices": [
+                  180,
+                  203
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRk40zXsAMxyQg.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRk40zXsAMxyQg.jpg",
+               "url": "https://t.co/ppx0xbqcra",
+               "display_url": "pic.twitter.com/ppx0xbqcra",
+               "expanded_url": "https://twitter.com/RepTerriSewell/status/1500935913496621069/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1021,
+                     "h": 574,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1021,
+                     "h": 574,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0jGUZbvW1I",
+            "expanded_url": "https://twitter.com/i/web/status/1500935913496621069",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685982475"
+}

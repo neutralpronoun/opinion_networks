@@ -1,0 +1,197 @@
+{
+   "created_at": "Mon Mar 07 23:14:25 +0000 2022",
+   "id": 1500973170114895878,
+   "id_str": "1500973170114895878",
+   "text": "My first #WomensHistoryMonth highlight is Arkansan Hattie Wyatt Caraway. Caraway was the first woman elected to the\u2026 https://t.co/Uol8qFNGTj",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500973165815767045,
+   "in_reply_to_status_id_str": "1500973165815767045",
+   "in_reply_to_user_id": 5558312,
+   "in_reply_to_user_id_str": "5558312",
+   "in_reply_to_screen_name": "JohnBoozman",
+   "user": {
+      "id": 5558312,
+      "id_str": "5558312",
+      "name": "Senator John Boozman",
+      "screen_name": "JohnBoozman",
+      "location": "Arkansas",
+      "url": "http://boozman.senate.gov",
+      "description": "U.S. Senator for Arkansas serving as @SenateAgGOP leader and on the Appropriations, EPW & Veterans\u2019 Affairs committees #ServingAR #ARinDC  Contact: 202-224-4843",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 104164,
+      "friends_count": 856,
+      "listed_count": 2582,
+      "favourites_count": 3353,
+      "statuses_count": 8437,
+      "created_at": "Fri Apr 27 16:05:52 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "A60000",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5558312/1520286185",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "My first #WomensHistoryMonth highlight is Arkansan Hattie Wyatt Caraway. Caraway was the first woman elected to the U.S. Senate and would serve for 14 years. She is an inspiration to girls everywhere, teaching them they can achieve their highest aspirations. https://t.co/CJCSDO8p1O",
+      "display_text_range": [
+         0,
+         258
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomensHistoryMonth",
+               "indices": [
+                  9,
+                  28
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500971274738225152,
+               "id_str": "1500971274738225152",
+               "indices": [
+                  259,
+                  282
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSFbADWUAAk-BN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSFbADWUAAk-BN.jpg",
+               "url": "https://t.co/CJCSDO8p1O",
+               "display_url": "pic.twitter.com/CJCSDO8p1O",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500973170114895878/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500971274738225152,
+               "id_str": "1500971274738225152",
+               "indices": [
+                  259,
+                  282
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSFbADWUAAk-BN.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSFbADWUAAk-BN.jpg",
+               "url": "https://t.co/CJCSDO8p1O",
+               "display_url": "pic.twitter.com/CJCSDO8p1O",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500973170114895878/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "WomensHistoryMonth",
+            "indices": [
+               9,
+               28
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/Uol8qFNGTj",
+            "expanded_url": "https://twitter.com/i/web/status/1500973170114895878",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646694865145"
+}

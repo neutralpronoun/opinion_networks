@@ -1,0 +1,226 @@
+{
+   "created_at": "Tue Mar 08 00:30:53 +0000 2022",
+   "id": 1500992415594946560,
+   "id_str": "1500992415594946560",
+   "text": "RT @RepElaineLuria: This week, @HomelandDems successfully marked up my President\u2019s Cup Cybersecurity Competition Act legislation to financi\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 208692908,
+      "id_str": "208692908",
+      "name": "House Homeland Security Committee",
+      "screen_name": "HomelandDems",
+      "location": "Washington, DC",
+      "url": "http://homeland.house.gov",
+      "description": "We oversee @DHSgov, @CBP, @USCG, @TSA, @FEMA, @CISAgov and more. Chairman @BennieGThompson (D-MS).",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 33777,
+      "friends_count": 2126,
+      "listed_count": 698,
+      "favourites_count": 1464,
+      "statuses_count": 7472,
+      "created_at": "Wed Oct 27 19:10:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "002D5D",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092817763364757505/-MJFZdax_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092817763364757505/-MJFZdax_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208692908/1550587385",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 16:38:36 +0000 2022",
+      "id": 1499786398165094405,
+      "id_str": "1499786398165094405",
+      "text": "This week, @HomelandDems successfully marked up my President\u2019s Cup Cybersecurity Competition Act legislation to fin\u2026 https://t.co/jRVp0MIRKx",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1080292515939565568,
+         "id_str": "1080292515939565568",
+         "name": "Rep. Elaine Luria",
+         "screen_name": "RepElaineLuria",
+         "location": "Norfolk, VA",
+         "url": "http://luria.house.gov",
+         "description": "Navy Veteran, former small business owner, and mom. Proud to serve the people of Virginia\u2019s 2nd Congressional District!",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35225,
+         "friends_count": 410,
+         "listed_count": 681,
+         "favourites_count": 164,
+         "statuses_count": 3829,
+         "created_at": "Wed Jan 02 02:39:41 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490710843528556549/twFymQem_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080292515939565568/1644247907",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "This week, @HomelandDems successfully marked up my President\u2019s Cup Cybersecurity Competition Act legislation to financially reward the best and brightest federal employees and service members who prove their skills by completing cyber challenges. \n\n\ud83d\udcf0: https://t.co/nJEhRJMaBp",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/nJEhRJMaBp",
+                  "expanded_url": "https://luria.house.gov/media/press-releases/rep-luria-introduces-bill-reward-nation-s-best-cybersecurity-talent",
+                  "display_url": "luria.house.gov/media/press-re\u2026",
+                  "indices": [
+                     252,
+                     275
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "HomelandDems",
+                  "name": "House Homeland Security Committee",
+                  "id": 208692908,
+                  "id_str": "208692908",
+                  "indices": [
+                     11,
+                     24
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 40,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/jRVp0MIRKx",
+               "expanded_url": "https://twitter.com/i/web/status/1499786398165094405",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "HomelandDems",
+               "name": "House Homeland Security Committee",
+               "id": 208692908,
+               "id_str": "208692908",
+               "indices": [
+                  11,
+                  24
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepElaineLuria",
+            "name": "Rep. Elaine Luria",
+            "id": 1080292515939565568,
+            "id_str": "1080292515939565568",
+            "indices": [
+               3,
+               18
+            ]
+         },
+         {
+            "screen_name": "HomelandDems",
+            "name": "House Homeland Security Committee",
+            "id": 208692908,
+            "id_str": "208692908",
+            "indices": [
+               31,
+               44
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646699453625"
+}

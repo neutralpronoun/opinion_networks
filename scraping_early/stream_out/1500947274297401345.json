@@ -1,0 +1,622 @@
+{
+   "created_at": "Mon Mar 07 21:31:31 +0000 2022",
+   "id": 1500947274297401345,
+   "id_str": "1500947274297401345",
+   "text": "RT @SBAIsabel: Today, I joined @LtGovGilchrist, @RepLawrence, @RepRashida, @RepHaleyStevens, small business owners, and leaders @Centrepoli\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2863006655,
+      "id_str": "2863006655",
+      "name": "Brenda Lawrence",
+      "screen_name": "RepLawrence",
+      "location": "Washington, DC",
+      "url": "https://lawrence.house.gov/",
+      "description": "Congresswoman for Michigan's 14th District: Detroit, Southfield, Oakland and Wayne Counties. Instagram: Repbrendalawrence, Facebook: Rep.BLawrence",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 30962,
+      "friends_count": 1213,
+      "listed_count": 863,
+      "favourites_count": 1980,
+      "statuses_count": 7821,
+      "created_at": "Wed Nov 05 18:46:39 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979045446420172800/GQ59mg30_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863006655/1522939165",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:17:51 +0000 2022",
+      "id": 1500928736438353921,
+      "id_str": "1500928736438353921",
+      "text": "Today, I joined @LtGovGilchrist, @RepLawrence, @RepRashida, @RepHaleyStevens, small business owners, and leaders\u2026 https://t.co/UfpGOFUq91",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1357410929001037824,
+         "id_str": "1357410929001037824",
+         "name": "Isabel Guzman",
+         "screen_name": "SBAIsabel",
+         "location": "Washington, DC",
+         "url": "https://www.sba.gov",
+         "description": "27th Administrator of @SBAGov. We help America\u2019s entrepreneurs start, grow, expand or recover their businesses.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 13202,
+         "friends_count": 197,
+         "listed_count": 240,
+         "favourites_count": 124,
+         "statuses_count": 802,
+         "created_at": "Thu Feb 04 19:29:36 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1415666311372419073/QAQNBVED_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415666311372419073/QAQNBVED_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357410929001037824/1644342914",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today, I joined @LtGovGilchrist, @RepLawrence, @RepRashida, @RepHaleyStevens, small business owners, and leaders @CentrepolisXLR8 to discuss SBA\u2019s support of small business manufacturing and the valuable economic contributions of women-owned businesses. https://t.co/WZZeNm1aR1",
+         "display_text_range": [
+            0,
+            253
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "LtGovGilchrist",
+                  "name": "Garlin Gilchrist II",
+                  "id": 12046642,
+                  "id_str": "12046642",
+                  "indices": [
+                     16,
+                     31
+                  ]
+               },
+               {
+                  "screen_name": "RepLawrence",
+                  "name": "Brenda Lawrence",
+                  "id": 2863006655,
+                  "id_str": "2863006655",
+                  "indices": [
+                     33,
+                     45
+                  ]
+               },
+               {
+                  "screen_name": "RepRashida",
+                  "name": "Congresswoman Rashida Tlaib",
+                  "id": 1079769536730140672,
+                  "id_str": "1079769536730140672",
+                  "indices": [
+                     47,
+                     58
+                  ]
+               },
+               {
+                  "screen_name": "RepHaleyStevens",
+                  "name": "Rep. Haley Stevens",
+                  "id": 1076161611033968640,
+                  "id_str": "1076161611033968640",
+                  "indices": [
+                     60,
+                     76
+                  ]
+               },
+               {
+                  "screen_name": "CentrepolisXLR8",
+                  "name": "Centrepolis Accelerator",
+                  "id": 4443579193,
+                  "id_str": "4443579193",
+                  "indices": [
+                     113,
+                     129
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500928725843513345,
+                  "id_str": "1500928725843513345",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Five people standing.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVEVEAE39I7.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVEVEAE39I7.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928725847666690,
+                  "id_str": "1500928725847666690",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Multiple people sitting at a table.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVFUcAIgkmS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVFUcAIgkmS.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928726007050244,
+                  "id_str": "1500928726007050244",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Multiple people sitting at a table.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVrUcAQjLot.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVrUcAQjLot.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928726007050242,
+                  "id_str": "1500928726007050242",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Five people standing.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVrUcAIpnQO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVrUcAIpnQO.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500928725843513345,
+                  "id_str": "1500928725843513345",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Five people standing.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVEVEAE39I7.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVEVEAE39I7.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928725847666690,
+                  "id_str": "1500928725847666690",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Multiple people sitting at a table.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVFUcAIgkmS.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVFUcAIgkmS.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928726007050244,
+                  "id_str": "1500928726007050244",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Multiple people sitting at a table.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVrUcAQjLot.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVrUcAQjLot.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500928726007050242,
+                  "id_str": "1500928726007050242",
+                  "indices": [
+                     254,
+                     277
+                  ],
+                  "description": "Five people standing.",
+                  "media_url": "http://pbs.twimg.com/media/FNReuVrUcAIpnQO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNReuVrUcAIpnQO.jpg",
+                  "url": "https://t.co/WZZeNm1aR1",
+                  "display_url": "pic.twitter.com/WZZeNm1aR1",
+                  "expanded_url": "https://twitter.com/SBAIsabel/status/1500928736438353921/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2000,
+                        "h": 1334,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/UfpGOFUq91",
+               "expanded_url": "https://twitter.com/i/web/status/1500928736438353921",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  114,
+                  137
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "LtGovGilchrist",
+               "name": "Garlin Gilchrist II",
+               "id": 12046642,
+               "id_str": "12046642",
+               "indices": [
+                  16,
+                  31
+               ]
+            },
+            {
+               "screen_name": "RepLawrence",
+               "name": "Brenda Lawrence",
+               "id": 2863006655,
+               "id_str": "2863006655",
+               "indices": [
+                  33,
+                  45
+               ]
+            },
+            {
+               "screen_name": "RepRashida",
+               "name": "Congresswoman Rashida Tlaib",
+               "id": 1079769536730140672,
+               "id_str": "1079769536730140672",
+               "indices": [
+                  47,
+                  58
+               ]
+            },
+            {
+               "screen_name": "RepHaleyStevens",
+               "name": "Rep. Haley Stevens",
+               "id": 1076161611033968640,
+               "id_str": "1076161611033968640",
+               "indices": [
+                  60,
+                  76
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SBAIsabel",
+            "name": "Isabel Guzman",
+            "id": 1357410929001037824,
+            "id_str": "1357410929001037824",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "LtGovGilchrist",
+            "name": "Garlin Gilchrist II",
+            "id": 12046642,
+            "id_str": "12046642",
+            "indices": [
+               31,
+               46
+            ]
+         },
+         {
+            "screen_name": "RepLawrence",
+            "name": "Brenda Lawrence",
+            "id": 2863006655,
+            "id_str": "2863006655",
+            "indices": [
+               48,
+               60
+            ]
+         },
+         {
+            "screen_name": "RepRashida",
+            "name": "Congresswoman Rashida Tlaib",
+            "id": 1079769536730140672,
+            "id_str": "1079769536730140672",
+            "indices": [
+               62,
+               73
+            ]
+         },
+         {
+            "screen_name": "RepHaleyStevens",
+            "name": "Rep. Haley Stevens",
+            "id": 1076161611033968640,
+            "id_str": "1076161611033968640",
+            "indices": [
+               75,
+               91
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688691101"
+}

@@ -1,0 +1,97 @@
+{
+   "created_at": "Mon Mar 07 19:08:00 +0000 2022",
+   "id": 1500911157640499201,
+   "id_str": "1500911157640499201",
+   "text": "As the national average gas price tops $4 per gallon, where is the Biden Administration looking to meet our energy\u2026 https://t.co/ujV15RIlgD",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 234057152,
+      "id_str": "234057152",
+      "name": "Morgan Griffith",
+      "screen_name": "RepMGriffith",
+      "location": "9th District of Virginia",
+      "url": "https://morgangriffith.house.gov",
+      "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 31747,
+      "friends_count": 577,
+      "listed_count": 968,
+      "favourites_count": 145,
+      "statuses_count": 2138,
+      "created_at": "Tue Jan 04 19:05:24 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "As the national average gas price tops $4 per gallon, where is the Biden Administration looking to meet our energy demands? Iran and Venezuela.\n\nInstead of begging our enemies for help, President Biden should unbind domestic energy production.",
+      "display_text_range": [
+         0,
+         243
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/ujV15RIlgD",
+            "expanded_url": "https://twitter.com/i/web/status/1500911157640499201",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680080219"
+}

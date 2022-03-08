@@ -1,0 +1,124 @@
+{
+   "created_at": "Tue Mar 08 01:15:11 +0000 2022",
+   "id": 1501003563375468551,
+   "id_str": "1501003563375468551",
+   "text": "@Jim_Jordan Remember when America oil companies cut oil production in 2020? Remember when Republicans passed tax br\u2026 https://t.co/jiQimS7xJT",
+   "display_text_range": [
+      12,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1501002220606824454,
+   "in_reply_to_status_id_str": "1501002220606824454",
+   "in_reply_to_user_id": 18166778,
+   "in_reply_to_user_id_str": "18166778",
+   "in_reply_to_screen_name": "Jim_Jordan",
+   "user": {
+      "id": 871811478663426048,
+      "id_str": "871811478663426048",
+      "name": "Kevin Gaither",
+      "screen_name": "Gaither4IL",
+      "location": "Charleston, IL",
+      "url": "https://gaither4il.com",
+      "description": "Democratic Nominee '18, CD-15, Fighter for Workers, Healthcare, Education, Prevention, Mental Health, Veterans.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1361,
+      "friends_count": 2029,
+      "listed_count": 21,
+      "favourites_count": 4655,
+      "statuses_count": 4471,
+      "created_at": "Mon Jun 05 19:30:28 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045515099996393472/QJ-UHh4u_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045515099996393472/QJ-UHh4u_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/871811478663426048/1496701299",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@Jim_Jordan Remember when America oil companies cut oil production in 2020? Remember when Republicans passed tax breaks for American oil companies allowing them to pay no taxes on new oil production overseas? Remember the 40 oil and gas companies that went bankrupt during Trump\u2019s prejudice?",
+      "display_text_range": [
+         12,
+         291
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "Jim_Jordan",
+               "name": "Rep. Jim Jordan",
+               "id": 18166778,
+               "id_str": "18166778",
+               "indices": [
+                  0,
+                  11
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/jiQimS7xJT",
+            "expanded_url": "https://twitter.com/i/web/status/1501003563375468551",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702111463"
+}

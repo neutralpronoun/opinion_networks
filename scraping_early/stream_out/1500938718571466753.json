@@ -1,0 +1,587 @@
+{
+   "created_at": "Mon Mar 07 20:57:31 +0000 2022",
+   "id": 1500938718571466753,
+   "id_str": "1500938718571466753",
+   "text": "RT @cweiser: Kentucky's Sen. @RandPaul is in Gillette, Wyoming today campaigning for @Liz_Cheney's GOP primary opponent.",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 216881337,
+      "id_str": "216881337",
+      "name": "Rand Paul",
+      "screen_name": "RandPaul",
+      "location": "Bowling Green, KY",
+      "url": "http://randpaul.com",
+      "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3550039,
+      "friends_count": 535,
+      "listed_count": 13924,
+      "favourites_count": 851,
+      "statuses_count": 15641,
+      "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1628188173",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:56:49 +0000 2022",
+      "id": 1500938544365379584,
+      "id_str": "1500938544365379584",
+      "text": "Kentucky's Sen. @RandPaul is in Gillette, Wyoming today campaigning for @Liz_Cheney's GOP primary opponent.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 12120112,
+         "id_str": "12120112",
+         "name": "Carl Weiser",
+         "screen_name": "cweiser",
+         "location": "Cincinnati",
+         "url": "http://www.cincinnati.com",
+         "description": "Mobile Planner for Government, Politics & Business at http://Cincinnati.com, Cincinnati Enquirer. RTs do not signal agreement. #BillsMafia",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 6946,
+         "friends_count": 4265,
+         "listed_count": 342,
+         "favourites_count": 1982,
+         "statuses_count": 35878,
+         "created_at": "Fri Jan 11 16:21:04 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1A1B1F",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "2FC2EF",
+         "profile_sidebar_border_color": "181A1E",
+         "profile_sidebar_fill_color": "252429",
+         "profile_text_color": "666666",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1220759399398100992/Vn-O7N1k_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220759399398100992/Vn-O7N1k_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/12120112/1400790085",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500937057304293377,
+      "quoted_status_id_str": "1500937057304293377",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 20:50:55 +0000 2022",
+         "id": 1500937057304293377,
+         "id_str": "1500937057304293377",
+         "text": "Standing room only for @HagemanforWY and @RandPaul in Gillette, Wyoming! #RetireCheney https://t.co/XgmVSFAlZt",
+         "display_text_range": [
+            0,
+            86
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 21026508,
+            "id_str": "21026508",
+            "name": "Sergio Gor",
+            "screen_name": "SergioGor",
+            "location": "USA",
+            "url": null,
+            "description": "Founder of @WinningTeamPub \ud83d\udcda. Trump For Pres alum, Rand Paul Senate alum, America First, Beagles, avid traveler. http://45books.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 13146,
+            "friends_count": 159,
+            "listed_count": 171,
+            "favourites_count": 692,
+            "statuses_count": 3415,
+            "created_at": "Mon Feb 16 20:54:24 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "B6161B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "75BD37",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "2968AB",
+            "profile_text_color": "041400",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21026508/1639804126",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 4,
+         "reply_count": 4,
+         "retweet_count": 11,
+         "favorite_count": 74,
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "RetireCheney",
+                  "indices": [
+                     73,
+                     86
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "HagemanforWY",
+                  "name": "Harriet Hageman",
+                  "id": 1435822302323695629,
+                  "id_str": "1435822302323695629",
+                  "indices": [
+                     23,
+                     36
+                  ]
+               },
+               {
+                  "screen_name": "RandPaul",
+                  "name": "Rand Paul",
+                  "id": 216881337,
+                  "id_str": "216881337",
+                  "indices": [
+                     41,
+                     50
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500937043337121792,
+                  "id_str": "1500937043337121792",
+                  "indices": [
+                     87,
+                     110
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+                  "url": "https://t.co/XgmVSFAlZt",
+                  "display_url": "pic.twitter.com/XgmVSFAlZt",
+                  "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500937043337121792,
+                  "id_str": "1500937043337121792",
+                  "indices": [
+                     87,
+                     110
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+                  "url": "https://t.co/XgmVSFAlZt",
+                  "display_url": "pic.twitter.com/XgmVSFAlZt",
+                  "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/1EFLm0AYU3",
+         "expanded": "https://twitter.com/SergioGor/status/1500937057304293377",
+         "display": "twitter.com/SergioGor/stat\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RandPaul",
+               "name": "Rand Paul",
+               "id": 216881337,
+               "id_str": "216881337",
+               "indices": [
+                  16,
+                  25
+               ]
+            },
+            {
+               "screen_name": "Liz_Cheney",
+               "name": "Liz Cheney",
+               "id": 98471035,
+               "id_str": "98471035",
+               "indices": [
+                  72,
+                  83
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500937057304293377,
+   "quoted_status_id_str": "1500937057304293377",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 20:50:55 +0000 2022",
+      "id": 1500937057304293377,
+      "id_str": "1500937057304293377",
+      "text": "Standing room only for @HagemanforWY and @RandPaul in Gillette, Wyoming! #RetireCheney https://t.co/XgmVSFAlZt",
+      "display_text_range": [
+         0,
+         86
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 21026508,
+         "id_str": "21026508",
+         "name": "Sergio Gor",
+         "screen_name": "SergioGor",
+         "location": "USA",
+         "url": null,
+         "description": "Founder of @WinningTeamPub \ud83d\udcda. Trump For Pres alum, Rand Paul Senate alum, America First, Beagles, avid traveler. http://45books.com",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 13146,
+         "friends_count": 159,
+         "listed_count": 171,
+         "favourites_count": 692,
+         "statuses_count": 3415,
+         "created_at": "Mon Feb 16 20:54:24 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "B6161B",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "75BD37",
+         "profile_sidebar_border_color": "829D5E",
+         "profile_sidebar_fill_color": "2968AB",
+         "profile_text_color": "041400",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/21026508/1639804126",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 4,
+      "reply_count": 4,
+      "retweet_count": 11,
+      "favorite_count": 74,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "RetireCheney",
+               "indices": [
+                  73,
+                  86
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "HagemanforWY",
+               "name": "Harriet Hageman",
+               "id": 1435822302323695629,
+               "id_str": "1435822302323695629",
+               "indices": [
+                  23,
+                  36
+               ]
+            },
+            {
+               "screen_name": "RandPaul",
+               "name": "Rand Paul",
+               "id": 216881337,
+               "id_str": "216881337",
+               "indices": [
+                  41,
+                  50
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500937043337121792,
+               "id_str": "1500937043337121792",
+               "indices": [
+                  87,
+                  110
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "url": "https://t.co/XgmVSFAlZt",
+               "display_url": "pic.twitter.com/XgmVSFAlZt",
+               "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500937043337121792,
+               "id_str": "1500937043337121792",
+               "indices": [
+                  87,
+                  110
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "url": "https://t.co/XgmVSFAlZt",
+               "display_url": "pic.twitter.com/XgmVSFAlZt",
+               "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/1EFLm0AYU3",
+      "expanded": "https://twitter.com/SergioGor/status/1500937057304293377",
+      "display": "twitter.com/SergioGor/stat\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "cweiser",
+            "name": "Carl Weiser",
+            "id": 12120112,
+            "id_str": "12120112",
+            "indices": [
+               3,
+               11
+            ]
+         },
+         {
+            "screen_name": "RandPaul",
+            "name": "Rand Paul",
+            "id": 216881337,
+            "id_str": "216881337",
+            "indices": [
+               29,
+               38
+            ]
+         },
+         {
+            "screen_name": "Liz_Cheney",
+            "name": "Liz Cheney",
+            "id": 98471035,
+            "id_str": "98471035",
+            "indices": [
+               85,
+               96
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686651257"
+}

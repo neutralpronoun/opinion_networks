@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 22:21:17 +0000 2022",
+   "id": 1500959801643307021,
+   "id_str": "1500959801643307021",
+   "text": "RT @GOPLeader: Democrats will try to blame historic gas prices on Russia\u2019s invasion of Ukraine. But the facts show otherwise:\n\nOn Day 1, Bi\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 17976923,
+      "id_str": "17976923",
+      "name": "CathyMcMorrisRodgers",
+      "screen_name": "cathymcmorris",
+      "location": "Spokane, WA & Washington, DC",
+      "url": "http://mcmorris.house.gov",
+      "description": "Proudly serving Washington's beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 51011,
+      "friends_count": 4869,
+      "listed_count": 1924,
+      "favourites_count": 1795,
+      "statuses_count": 12772,
+      "created_at": "Mon Dec 08 23:17:15 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0814FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334239440638763017/kLJOd2Gi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334239440638763017/kLJOd2Gi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17976923/1521214720",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:14:59 +0000 2022",
+      "id": 1500958215789498369,
+      "id_str": "1500958215789498369",
+      "text": "Democrats will try to blame historic gas prices on Russia\u2019s invasion of Ukraine. But the facts show otherwise:\n\nOn\u2026 https://t.co/IJjKofaQvj",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 19739126,
+         "id_str": "19739126",
+         "name": "Kevin McCarthy",
+         "screen_name": "GOPLeader",
+         "location": "Bakersfield, CA",
+         "url": "https://www.republicanleader.gov/",
+         "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1422354,
+         "friends_count": 1422,
+         "listed_count": 7164,
+         "favourites_count": 2179,
+         "statuses_count": 19067,
+         "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "3B94D9",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "0A2644",
+         "profile_sidebar_border_color": "FF0000",
+         "profile_sidebar_fill_color": "FFFFFF",
+         "profile_text_color": "122C73",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1627574605",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Democrats will try to blame historic gas prices on Russia\u2019s invasion of Ukraine. But the facts show otherwise:\n\nOn Day 1, Biden halted the Keystone Pipeline and issued a moratorium on new oil and gas permits on federal lands. Then he gave the green light on a pipeline for Putin. https://t.co/lexxG3ZJUb",
+         "display_text_range": [
+            0,
+            279
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500958017570942983,
+                  "id_str": "1500958017570942983",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR5XVQXMAc6rm4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR5XVQXMAc6rm4.jpg",
+                  "url": "https://t.co/lexxG3ZJUb",
+                  "display_url": "pic.twitter.com/lexxG3ZJUb",
+                  "expanded_url": "https://twitter.com/GOPLeader/status/1500958215789498369/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500958017570942983,
+                  "id_str": "1500958017570942983",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR5XVQXMAc6rm4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR5XVQXMAc6rm4.jpg",
+                  "url": "https://t.co/lexxG3ZJUb",
+                  "display_url": "pic.twitter.com/lexxG3ZJUb",
+                  "expanded_url": "https://twitter.com/GOPLeader/status/1500958215789498369/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 8,
+      "reply_count": 60,
+      "retweet_count": 70,
+      "favorite_count": 131,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/IJjKofaQvj",
+               "expanded_url": "https://twitter.com/i/web/status/1500958215789498369",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "GOPLeader",
+            "name": "Kevin McCarthy",
+            "id": 19739126,
+            "id_str": "19739126",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691677853"
+}

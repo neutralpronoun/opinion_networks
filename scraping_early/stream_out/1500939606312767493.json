@@ -1,0 +1,442 @@
+{
+   "created_at": "Mon Mar 07 21:01:02 +0000 2022",
+   "id": 1500939606312767493,
+   "id_str": "1500939606312767493",
+   "text": "RT @MayorTimKelly: Is there anything our @ChattFireDept can't do? Great job Engine 15 Red Shift Crew, specifically to Firefighter Corey Hoo\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 235190657,
+      "id_str": "235190657",
+      "name": "Chuck Fleischmann",
+      "screen_name": "RepChuck",
+      "location": "Washington, D.C./TN-03",
+      "url": "http://fleischmann.house.gov",
+      "description": "My official House office Twitter account. I work for the people of TN-03.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 23394,
+      "friends_count": 923,
+      "listed_count": 937,
+      "favourites_count": 795,
+      "statuses_count": 4232,
+      "created_at": "Fri Jan 07 15:46:29 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "206F98",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/818947796787142656/mH-TXPye_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/235190657/1559660016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:23:30 +0000 2022",
+      "id": 1500930159700025349,
+      "id_str": "1500930159700025349",
+      "text": "Is there anything our @ChattFireDept can't do? Great job Engine 15 Red Shift Crew, specifically to Firefighter Core\u2026 https://t.co/uuHwALgvy3",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 578492808,
+         "id_str": "578492808",
+         "name": "Tim Kelly",
+         "screen_name": "MayorTimKelly",
+         "location": "Chattanooga, TN",
+         "url": "http://www.chattanooga.gov/",
+         "description": "Mayor of Chattanooga, Tennessee\n@Chattanooga_gov",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 3687,
+         "friends_count": 993,
+         "listed_count": 41,
+         "favourites_count": 16553,
+         "statuses_count": 2340,
+         "created_at": "Sat May 12 21:31:18 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1382730706829332484/LXtTeg4F_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382730706829332484/LXtTeg4F_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/578492808/1595361699",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Is there anything our @ChattFireDept can't do? Great job Engine 15 Red Shift Crew, specifically to Firefighter Corey Hooper, and congratulations to the family on a healthy, and timely, delivery of their little one! https://t.co/eYbFeGieDs",
+         "display_text_range": [
+            0,
+            214
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "ChattFireDept",
+                  "name": "Chattanooga Fire Department",
+                  "id": 165853598,
+                  "id_str": "165853598",
+                  "indices": [
+                     22,
+                     36
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500930050421624841,
+                  "id_str": "1500930050421624841",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf7bgXEAkXVsU.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf7bgXEAkXVsU.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930074761220102,
+                  "id_str": "1500930074761220102",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf82LX0AYDs3Q.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf82LX0AYDs3Q.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 947,
+                        "h": 577,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 414,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 947,
+                        "h": 577,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930095481073669,
+                  "id_str": "1500930095481073669",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf-DXXsAUe7vy.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf-DXXsAUe7vy.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 492,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 801,
+                        "h": 579,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 801,
+                        "h": 579,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500930050421624841,
+                  "id_str": "1500930050421624841",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf7bgXEAkXVsU.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf7bgXEAkXVsU.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 612,
+                        "h": 599,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930074761220102,
+                  "id_str": "1500930074761220102",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf82LX0AYDs3Q.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf82LX0AYDs3Q.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 947,
+                        "h": 577,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 414,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 947,
+                        "h": 577,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930095481073669,
+                  "id_str": "1500930095481073669",
+                  "indices": [
+                     215,
+                     238
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRf-DXXsAUe7vy.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRf-DXXsAUe7vy.jpg",
+                  "url": "https://t.co/eYbFeGieDs",
+                  "display_url": "pic.twitter.com/eYbFeGieDs",
+                  "expanded_url": "https://twitter.com/MayorTimKelly/status/1500930159700025349/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 492,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 801,
+                        "h": 579,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 801,
+                        "h": 579,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "favorite_count": 8,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/uuHwALgvy3",
+               "expanded_url": "https://twitter.com/i/web/status/1500930159700025349",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "ChattFireDept",
+               "name": "Chattanooga Fire Department",
+               "id": 165853598,
+               "id_str": "165853598",
+               "indices": [
+                  22,
+                  36
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MayorTimKelly",
+            "name": "Tim Kelly",
+            "id": 578492808,
+            "id_str": "578492808",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "ChattFireDept",
+            "name": "Chattanooga Fire Department",
+            "id": 165853598,
+            "id_str": "165853598",
+            "indices": [
+               41,
+               55
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686862911"
+}

@@ -1,0 +1,184 @@
+{
+   "created_at": "Mon Mar 07 23:41:06 +0000 2022",
+   "id": 1500979887053574146,
+   "id_str": "1500979887053574146",
+   "text": "@RepMTG Not a word of this is true. https://t.co/njGocgnAR7",
+   "display_text_range": [
+      8,
+      35
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500539458172690439,
+   "in_reply_to_status_id_str": "1500539458172690439",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 17243913,
+      "id_str": "17243913",
+      "name": "\ud83c\udf3bKim",
+      "screen_name": "kim",
+      "location": "SoCal",
+      "url": "http://web.kim",
+      "description": null,
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 220162,
+      "friends_count": 140874,
+      "listed_count": 7438,
+      "favourites_count": 501002,
+      "statuses_count": 118108,
+      "created_at": "Sat Nov 08 03:03:45 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "336699",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "717171",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1307406328512487424/EdrHBfNi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307406328512487424/EdrHBfNi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17243913/1626160677",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500979881852604417,
+            "id_str": "1500979881852604417",
+            "indices": [
+               36,
+               59
+            ],
+            "description": "father lie GIF",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNSNQADVEAE1_Ri.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNSNQADVEAE1_Ri.jpg",
+            "url": "https://t.co/njGocgnAR7",
+            "display_url": "pic.twitter.com/njGocgnAR7",
+            "expanded_url": "https://twitter.com/kim/status/1500979887053574146/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500979881852604417,
+            "id_str": "1500979881852604417",
+            "indices": [
+               36,
+               59
+            ],
+            "description": "father lie GIF",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNSNQADVEAE1_Ri.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNSNQADVEAE1_Ri.jpg",
+            "url": "https://t.co/njGocgnAR7",
+            "display_url": "pic.twitter.com/njGocgnAR7",
+            "expanded_url": "https://twitter.com/kim/status/1500979887053574146/photo/1",
+            "type": "animated_gif",
+            "video_info": {
+               "aspect_ratio": [
+                  249,
+                  139
+               ],
+               "variants": [
+                  {
+                     "bitrate": 0,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/tweet_video/FNSNQADVEAE1_Ri.mp4"
+                  }
+               ]
+            },
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 498,
+                  "h": 278,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646696466588"
+}

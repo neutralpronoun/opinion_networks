@@ -1,0 +1,235 @@
+{
+   "created_at": "Mon Mar 07 22:03:15 +0000 2022",
+   "id": 1500955262538199041,
+   "id_str": "1500955262538199041",
+   "text": "The cost of insulin is a source of financial hardship for many Americans. I applaud @CivicaRx, a Utah company, for\u2026 https://t.co/A3nng5SqP9",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 931614483050414080,
+      "id_str": "931614483050414080",
+      "name": "Rep. John Curtis",
+      "screen_name": "RepJohnCurtis",
+      "location": "Utah and DC",
+      "url": "http://curtis.house.gov",
+      "description": "Official account for United States Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah's 3rd district.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 10733,
+      "friends_count": 462,
+      "listed_count": 427,
+      "favourites_count": 2703,
+      "statuses_count": 4220,
+      "created_at": "Fri Nov 17 20:06:16 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "6C7614",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1217484661108224000/0TLU4TYF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217484661108224000/0TLU4TYF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/931614483050414080/1622816197",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1499356495632343042,
+   "quoted_status_id_str": "1499356495632343042",
+   "quoted_status": {
+      "created_at": "Thu Mar 03 12:10:19 +0000 2022",
+      "id": 1499356495632343042,
+      "id_str": "1499356495632343042",
+      "text": "Civica is thrilled to announce our plans to manufacture and distribute three insulins at significantly lower prices\u2026 https://t.co/q6Qi7A4r9R",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1035242557330997248,
+         "id_str": "1035242557330997248",
+         "name": "Civica Rx",
+         "screen_name": "CivicaRx",
+         "location": "Salt Lake City, UT",
+         "url": "http://www.civicarx.org",
+         "description": "A new not-for-profit generic drug company that is helping patients by addressing shortages and high prices of lifesaving medications.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 1707,
+         "friends_count": 224,
+         "listed_count": 29,
+         "favourites_count": 870,
+         "statuses_count": 798,
+         "created_at": "Thu Aug 30 19:07:14 +0000 2018",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "6ABF4B",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1035698398903422976/HyhhfwUC_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035698398903422976/HyhhfwUC_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035242557330997248/1536165691",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Civica is thrilled to announce our plans to manufacture and distribute three insulins at significantly lower prices than insulins currently on the market, in collaboration with industry leading partners. https://t.co/bcMYHiM9bV",
+         "display_text_range": [
+            0,
+            227
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/bcMYHiM9bV",
+                  "expanded_url": "https://www.businesswire.com/news/home/20220303005321/en/Civica-to-Manufacture-and-Distribute-Affordable-Insulin",
+                  "display_url": "businesswire.com/news/home/2022\u2026",
+                  "indices": [
+                     204,
+                     227
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 35,
+      "reply_count": 11,
+      "retweet_count": 52,
+      "favorite_count": 229,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/q6Qi7A4r9R",
+               "expanded_url": "https://twitter.com/i/web/status/1499356495632343042",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/0XEjnZ2a8t",
+      "expanded": "https://twitter.com/CivicaRx/status/1499356495632343042",
+      "display": "twitter.com/CivicaRx/statu\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "The cost of insulin is a source of financial hardship for many Americans. I applaud @CivicaRx, a Utah company, for utilizing transformative industry collaborations to deliver this drug at an affordable out-of-pocket price. We must continue to harness US innovation.",
+      "display_text_range": [
+         0,
+         265
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "CivicaRx",
+               "name": "Civica Rx",
+               "id": 1035242557330997248,
+               "id_str": "1035242557330997248",
+               "indices": [
+                  84,
+                  93
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/A3nng5SqP9",
+            "expanded_url": "https://twitter.com/i/web/status/1500955262538199041",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "CivicaRx",
+            "name": "Civica Rx",
+            "id": 1035242557330997248,
+            "id_str": "1035242557330997248",
+            "indices": [
+               84,
+               93
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690595646"
+}

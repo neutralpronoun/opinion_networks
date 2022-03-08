@@ -1,0 +1,249 @@
+{
+   "created_at": "Mon Mar 07 15:59:05 +0000 2022",
+   "id": 1500863615087357963,
+   "id_str": "1500863615087357963",
+   "text": "There is bipartisan agreement on banning Russian oil. But we should NOT replace it by trading one dictator's oil wi\u2026 https://t.co/g10Don16VO",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 833673914,
+      "id_str": "833673914",
+      "name": "Rep. Mike Waltz",
+      "screen_name": "michaelgwaltz",
+      "location": "Florida, USA",
+      "url": null,
+      "description": "Congressman from Florida. Colonel, U.S. Army Green Beret. Author \u201cWarrior Diplomat.\u201dFormer entrepreneur & CEO. Florida Native, Proud Husband & Father \ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 46855,
+      "friends_count": 2839,
+      "listed_count": 416,
+      "favourites_count": 4488,
+      "statuses_count": 8125,
+      "created_at": "Wed Sep 19 16:23:47 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1348847375989747718/pNtyUoNH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348847375989747718/pNtyUoNH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/833673914/1624909328",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "There is bipartisan agreement on banning Russian oil. But we should NOT replace it by trading one dictator's oil with another. That's exactly what the Biden Admin is appearing to do with potential deals with Venezuela &amp; Iran. Unconscionable. https://t.co/4SBd8qMsG7",
+      "display_text_range": [
+         0,
+         245
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500859327028109317,
+               "id_str": "1500859327028109317",
+               "indices": [
+                  246,
+                  269
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500859327028109317/img/SGpTkJWXHKGP_C5K.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500859327028109317/img/SGpTkJWXHKGP_C5K.jpg",
+               "url": "https://t.co/4SBd8qMsG7",
+               "display_url": "pic.twitter.com/4SBd8qMsG7",
+               "expanded_url": "https://twitter.com/michaelgwaltz/status/1500863615087357963/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     480,
+                     269
+                  ],
+                  "duration_millis": 57800,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/1284x720/ABSnlCFzhMAeDerb.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/pl/lFIuCc-csmg_pj0c.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/642x360/0fnSnEE5FIK75BoU.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/480x270/-qWoW7kCe_jELTeG.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 381,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 673,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1076,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500859327028109317,
+               "id_str": "1500859327028109317",
+               "indices": [
+                  246,
+                  269
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500859327028109317/img/SGpTkJWXHKGP_C5K.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500859327028109317/img/SGpTkJWXHKGP_C5K.jpg",
+               "url": "https://t.co/4SBd8qMsG7",
+               "display_url": "pic.twitter.com/4SBd8qMsG7",
+               "expanded_url": "https://twitter.com/michaelgwaltz/status/1500863615087357963/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     480,
+                     269
+                  ],
+                  "duration_millis": 57800,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/1284x720/ABSnlCFzhMAeDerb.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/pl/lFIuCc-csmg_pj0c.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/642x360/0fnSnEE5FIK75BoU.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500859327028109317/vid/480x270/-qWoW7kCe_jELTeG.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 381,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 673,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1920,
+                     "h": 1076,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/g10Don16VO",
+            "expanded_url": "https://twitter.com/i/web/status/1500863615087357963",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668745191"
+}

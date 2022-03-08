@@ -1,0 +1,106 @@
+{
+   "created_at": "Tue Mar 08 00:33:21 +0000 2022",
+   "id": 1500993036276408325,
+   "id_str": "1500993036276408325",
+   "text": "The attacks we are seeing across the country on the LGBTQ+ community are shameful. It\u2019s time for Congress to pass t\u2026 https://t.co/6ff8VMCU1l",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 19318314,
+      "id_str": "19318314",
+      "name": "Senator Ben Ray Luj\u00e1n",
+      "screen_name": "SenatorLujan",
+      "location": null,
+      "url": "http://lujan.senate.gov",
+      "description": "United States Senator for New Mexico",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 38466,
+      "friends_count": 996,
+      "listed_count": 1457,
+      "favourites_count": 252,
+      "statuses_count": 6102,
+      "created_at": "Thu Jan 22 01:00:32 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "D2B48C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1387056181861040128/LqbW4kWp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387056181861040128/LqbW4kWp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19318314/1626377657",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The attacks we are seeing across the country on the LGBTQ+ community are shameful. It\u2019s time for Congress to pass the #EqualityAct to make this kind of discrimination illegal.",
+      "display_text_range": [
+         0,
+         175
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "EqualityAct",
+               "indices": [
+                  118,
+                  130
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/6ff8VMCU1l",
+            "expanded_url": "https://twitter.com/i/web/status/1500993036276408325",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646699601607"
+}

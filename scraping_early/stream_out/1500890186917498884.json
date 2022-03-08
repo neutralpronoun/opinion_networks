@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 17:44:40 +0000 2022",
+   "id": 1500890186917498884,
+   "id_str": "1500890186917498884",
+   "text": "RT @alexandrajpilon: Bloom Bake Shop is coming downtown! We will be opening a bakery &amp; cafe at 80 Pratt Street in Hartford in a few short m\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 150078976,
+      "id_str": "150078976",
+      "name": "Chris Murphy",
+      "screen_name": "ChrisMurphyCT",
+      "location": null,
+      "url": null,
+      "description": "U.S. Senator from Connecticut.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1075804,
+      "friends_count": 233,
+      "listed_count": 6216,
+      "favourites_count": 1370,
+      "statuses_count": 26890,
+      "created_at": "Mon May 31 01:22:43 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1608242210",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sun Mar 06 23:20:55 +0000 2022",
+      "id": 1500612417977475078,
+      "id_str": "1500612417977475078",
+      "text": "Bloom Bake Shop is coming downtown! We will be opening a bakery &amp; cafe at 80 Pratt Street in Hartford in a few shor\u2026 https://t.co/0F6YAe7fQk",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 809093737980788736,
+         "id_str": "809093737980788736",
+         "name": "Alex Pilon",
+         "screen_name": "alexandrajpilon",
+         "location": "Hartford, CT",
+         "url": "http://www.bloombakeshopct.com",
+         "description": "Former Government Relations Professional turned Entrepreneur. Co-Owner of Bloom Bake Shop, Wife to @kpiles10, Dog Mom",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 359,
+         "friends_count": 1116,
+         "listed_count": 3,
+         "favourites_count": 3239,
+         "statuses_count": 278,
+         "created_at": "Wed Dec 14 17:52:34 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1328334894032973824/aoBASEQ7_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328334894032973824/aoBASEQ7_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/809093737980788736/1590676612",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Bloom Bake Shop is coming downtown! We will be opening a bakery &amp; cafe at 80 Pratt Street in Hartford in a few short months! \ud83c\udf89\ud83c\udf89 https://t.co/FgUOXVB17c",
+         "display_text_range": [
+            0,
+            131
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500612413812621312,
+                  "id_str": "1500612413812621312",
+                  "indices": [
+                     132,
+                     155
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM_Ci7XwAAGJ9k.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM_Ci7XwAAGJ9k.jpg",
+                  "url": "https://t.co/FgUOXVB17c",
+                  "display_url": "pic.twitter.com/FgUOXVB17c",
+                  "expanded_url": "https://twitter.com/alexandrajpilon/status/1500612417977475078/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500612413812621312,
+                  "id_str": "1500612413812621312",
+                  "indices": [
+                     132,
+                     155
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNM_Ci7XwAAGJ9k.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNM_Ci7XwAAGJ9k.jpg",
+                  "url": "https://t.co/FgUOXVB17c",
+                  "display_url": "pic.twitter.com/FgUOXVB17c",
+                  "expanded_url": "https://twitter.com/alexandrajpilon/status/1500612417977475078/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 6,
+      "reply_count": 1,
+      "retweet_count": 9,
+      "favorite_count": 98,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/0F6YAe7fQk",
+               "expanded_url": "https://twitter.com/i/web/status/1500612417977475078",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "alexandrajpilon",
+            "name": "Alex Pilon",
+            "id": 809093737980788736,
+            "id_str": "809093737980788736",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675080409"
+}

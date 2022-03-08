@@ -1,0 +1,109 @@
+{
+   "created_at": "Tue Mar 08 01:26:17 +0000 2022",
+   "id": 1501006355376787463,
+   "id_str": "1501006355376787463",
+   "text": "My allergies don't love this time of year but WOW it\u2019s beautiful here in the Valley.\u00a0\n\nCheck out this amazing video\u2026 https://t.co/poJlnS74bS",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080851152151953410,
+      "id_str": "1080851152151953410",
+      "name": "Rep. Josh Harder",
+      "screen_name": "RepJoshHarder",
+      "location": null,
+      "url": "http://Harder.House.Gov",
+      "description": "Pam\u2019s husband. Soon to be a first time Dad. Proudly serving the Central Valley in Congress.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 23018,
+      "friends_count": 591,
+      "listed_count": 516,
+      "favourites_count": 495,
+      "statuses_count": 3133,
+      "created_at": "Thu Jan 03 15:39:30 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "003462",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1387500888479125506/ruDTJnzr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387500888479125506/ruDTJnzr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080851152151953410/1597009504",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "My allergies don't love this time of year but WOW it\u2019s beautiful here in the Valley.\u00a0\n\nCheck out this amazing video of our almond trees blooming:\u00a0\u00a0\nhttps://t.co/VGSGAJV7SN",
+      "display_text_range": [
+         0,
+         171
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VGSGAJV7SN",
+               "expanded_url": "https://www.sacbee.com/news/california/article258421318.html",
+               "display_url": "sacbee.com/news/californi\u2026",
+               "indices": [
+                  148,
+                  171
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/poJlnS74bS",
+            "expanded_url": "https://twitter.com/i/web/status/1501006355376787463",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646702777128"
+}

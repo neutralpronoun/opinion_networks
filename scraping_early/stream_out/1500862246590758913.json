@@ -1,0 +1,415 @@
+{
+   "created_at": "Mon Mar 07 15:53:38 +0000 2022",
+   "id": 1500862246590758913,
+   "id_str": "1500862246590758913",
+   "text": "RT @RepSwalwell: Bay Area companies are stepping up to isolate Russia. Thank you @Apple @Airbnb @netflix @Meta @YouTube @AMD @Roku @intel f\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1291868311,
+      "id_str": "1291868311",
+      "name": "Joseph Sakran",
+      "screen_name": "JosephSakran",
+      "location": "Fairfax Station, VA",
+      "url": "https://linktr.ee/JosephSakran",
+      "description": "Trauma Surgeon @hopkinsmedicine | #GunViolence Survivor | Senior Fellow @SatcherHealth | Founder @ThisIsOurLane | Alum @PLSprogram",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 62700,
+      "friends_count": 7212,
+      "listed_count": 315,
+      "favourites_count": 27965,
+      "statuses_count": 25865,
+      "created_at": "Sat Mar 23 16:20:26 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1291450709523738628/LzxUVFqk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291450709523738628/LzxUVFqk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291868311/1632688584",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 12:55:30 +0000 2022",
+      "id": 1500817417630621698,
+      "id_str": "1500817417630621698",
+      "text": "Bay Area companies are stepping up to isolate Russia. Thank you @Apple @Airbnb @netflix @Meta @YouTube @AMD @Roku\u2026 https://t.co/4UHlhlOJKq",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 942156122,
+         "id_str": "942156122",
+         "name": "Rep. Eric Swalwell",
+         "screen_name": "RepSwalwell",
+         "location": "East Bay, CA & DC (CA-15)",
+         "url": "http://swalwell.house.gov",
+         "description": "Husband | Dad to Nelson, Cricket & Hank | CA Congressman | @HouseJudiciary @HouseIntel @HomelandDems | social media policy: http://bit.ly/3gxdzVm",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1228752,
+         "friends_count": 11092,
+         "listed_count": 6087,
+         "favourites_count": 30733,
+         "statuses_count": 17625,
+         "created_at": "Sun Nov 11 20:26:01 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "2967B3",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1478575870243655681/U0jtKirY_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478575870243655681/U0jtKirY_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/942156122/1604948102",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Bay Area companies are stepping up to isolate Russia. Thank you @Apple @Airbnb @netflix @Meta @YouTube @AMD @Roku @intel for suspending operations in Russia.\n\nLet\u2019s all do all we can to make sure Putin fails and Ukrainians are free again. None of us are helpless.",
+         "display_text_range": [
+            0,
+            263
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "Apple",
+                  "name": "Apple",
+                  "id": 380749300,
+                  "id_str": "380749300",
+                  "indices": [
+                     64,
+                     70
+                  ]
+               },
+               {
+                  "screen_name": "Airbnb",
+                  "name": "Airbnb",
+                  "id": 17416571,
+                  "id_str": "17416571",
+                  "indices": [
+                     71,
+                     78
+                  ]
+               },
+               {
+                  "screen_name": "netflix",
+                  "name": "Netflix",
+                  "id": 16573941,
+                  "id_str": "16573941",
+                  "indices": [
+                     79,
+                     87
+                  ]
+               },
+               {
+                  "screen_name": "Meta",
+                  "name": "Meta",
+                  "id": 2425151,
+                  "id_str": "2425151",
+                  "indices": [
+                     88,
+                     93
+                  ]
+               },
+               {
+                  "screen_name": "YouTube",
+                  "name": "YouTube",
+                  "id": 10228272,
+                  "id_str": "10228272",
+                  "indices": [
+                     94,
+                     102
+                  ]
+               },
+               {
+                  "screen_name": "AMD",
+                  "name": "AMD",
+                  "id": 14861876,
+                  "id_str": "14861876",
+                  "indices": [
+                     103,
+                     107
+                  ]
+               },
+               {
+                  "screen_name": "Roku",
+                  "name": "Roku",
+                  "id": 20282100,
+                  "id_str": "20282100",
+                  "indices": [
+                     108,
+                     113
+                  ]
+               },
+               {
+                  "screen_name": "intel",
+                  "name": "Intel",
+                  "id": 2803191,
+                  "id_str": "2803191",
+                  "indices": [
+                     114,
+                     120
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 26,
+      "reply_count": 144,
+      "retweet_count": 870,
+      "favorite_count": 4861,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/4UHlhlOJKq",
+               "expanded_url": "https://twitter.com/i/web/status/1500817417630621698",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  115,
+                  138
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "Apple",
+               "name": "Apple",
+               "id": 380749300,
+               "id_str": "380749300",
+               "indices": [
+                  64,
+                  70
+               ]
+            },
+            {
+               "screen_name": "Airbnb",
+               "name": "Airbnb",
+               "id": 17416571,
+               "id_str": "17416571",
+               "indices": [
+                  71,
+                  78
+               ]
+            },
+            {
+               "screen_name": "netflix",
+               "name": "Netflix",
+               "id": 16573941,
+               "id_str": "16573941",
+               "indices": [
+                  79,
+                  87
+               ]
+            },
+            {
+               "screen_name": "Meta",
+               "name": "Meta",
+               "id": 2425151,
+               "id_str": "2425151",
+               "indices": [
+                  88,
+                  93
+               ]
+            },
+            {
+               "screen_name": "YouTube",
+               "name": "YouTube",
+               "id": 10228272,
+               "id_str": "10228272",
+               "indices": [
+                  94,
+                  102
+               ]
+            },
+            {
+               "screen_name": "AMD",
+               "name": "AMD",
+               "id": 14861876,
+               "id_str": "14861876",
+               "indices": [
+                  103,
+                  107
+               ]
+            },
+            {
+               "screen_name": "Roku",
+               "name": "Roku",
+               "id": 20282100,
+               "id_str": "20282100",
+               "indices": [
+                  108,
+                  113
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [
+               81,
+               87
+            ]
+         },
+         {
+            "screen_name": "Airbnb",
+            "name": "Airbnb",
+            "id": 17416571,
+            "id_str": "17416571",
+            "indices": [
+               88,
+               95
+            ]
+         },
+         {
+            "screen_name": "netflix",
+            "name": "Netflix",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+               96,
+               104
+            ]
+         },
+         {
+            "screen_name": "Meta",
+            "name": "Meta",
+            "id": 2425151,
+            "id_str": "2425151",
+            "indices": [
+               105,
+               110
+            ]
+         },
+         {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+               111,
+               119
+            ]
+         },
+         {
+            "screen_name": "AMD",
+            "name": "AMD",
+            "id": 14861876,
+            "id_str": "14861876",
+            "indices": [
+               120,
+               124
+            ]
+         },
+         {
+            "screen_name": "Roku",
+            "name": "Roku",
+            "id": 20282100,
+            "id_str": "20282100",
+            "indices": [
+               125,
+               130
+            ]
+         },
+         {
+            "screen_name": "intel",
+            "name": "Intel",
+            "id": 2803191,
+            "id_str": "2803191",
+            "indices": [
+               131,
+               137
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668418916"
+}

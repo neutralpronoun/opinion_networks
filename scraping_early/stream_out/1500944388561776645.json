@@ -1,0 +1,550 @@
+{
+   "created_at": "Mon Mar 07 21:20:03 +0000 2022",
+   "id": 1500944388561776645,
+   "id_str": "1500944388561776645",
+   "text": "Today, on the 57th anniversary of #BloodySunday, we remember the brave men and women who risked their lives and pro\u2026 https://t.co/RJiY2yveOO",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080573351914061825,
+      "id_str": "1080573351914061825",
+      "name": "Rep. David Trone",
+      "screen_name": "RepDavidTrone",
+      "location": "Maryland\u2019s 6th District",
+      "url": "https://trone.house.gov",
+      "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 13935,
+      "friends_count": 1257,
+      "listed_count": 457,
+      "favourites_count": 552,
+      "statuses_count": 4207,
+      "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1636060656",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1101894679375822848,
+   "quoted_status_id_str": "1101894679375822848",
+   "quoted_status": {
+      "created_at": "Sat Mar 02 17:18:58 +0000 2019",
+      "id": 1101894679375822848,
+      "id_str": "1101894679375822848",
+      "text": "Marching across the Edmund Pettus Bridge linking arms with @repjohnlewis and so many others today made clear: we ar\u2026 https://t.co/8NebBy7mEq",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1101894671037591552,
+      "in_reply_to_status_id_str": "1101894671037591552",
+      "in_reply_to_user_id": 1080573351914061825,
+      "in_reply_to_user_id_str": "1080573351914061825",
+      "in_reply_to_screen_name": "RepDavidTrone",
+      "user": {
+         "id": 1080573351914061825,
+         "id_str": "1080573351914061825",
+         "name": "Rep. David Trone",
+         "screen_name": "RepDavidTrone",
+         "location": "Maryland\u2019s 6th District",
+         "url": "https://trone.house.gov",
+         "description": "Congressman representing the 6th District of Maryland. Husband, Father, Business Owner.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 13935,
+         "friends_count": 1257,
+         "listed_count": 457,
+         "favourites_count": 552,
+         "statuses_count": 4206,
+         "created_at": "Wed Jan 02 21:15:37 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110578625865285633/33soCqWE_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080573351914061825/1636060656",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Marching across the Edmund Pettus Bridge linking arms with @repjohnlewis and so many others today made clear: we are all in this together and we must all continue the fight to protect what President Johnson so rightly called the \u2018dignity of man and the destiny of democracy.\u2019 https://t.co/sqjxjSAZyW",
+         "display_text_range": [
+            0,
+            275
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "repjohnlewis",
+                  "name": "John Lewis",
+                  "id": 29450962,
+                  "id_str": "29450962",
+                  "indices": [
+                     59,
+                     72
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1101894674711756800,
+                  "id_str": "1101894674711756800",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XloWwAAVNKO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XloWwAAVNKO.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1101894674913075200,
+                  "id_str": "1101894674913075200",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XmYWoAA92vp.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XmYWoAA92vp.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1101894675210874880,
+                  "id_str": "1101894675210874880",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XnfWsAApK-e.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XnfWsAApK-e.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1101894674711756800,
+                  "id_str": "1101894674711756800",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XloWwAAVNKO.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XloWwAAVNKO.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1101894674913075200,
+                  "id_str": "1101894674913075200",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XmYWoAA92vp.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XmYWoAA92vp.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1101894675210874880,
+                  "id_str": "1101894675210874880",
+                  "indices": [
+                     276,
+                     299
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/D0q3XnfWsAApK-e.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/D0q3XnfWsAApK-e.jpg",
+                  "url": "https://t.co/sqjxjSAZyW",
+                  "display_url": "pic.twitter.com/sqjxjSAZyW",
+                  "expanded_url": "https://twitter.com/RepDavidTrone/status/1101894679375822848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 7,
+      "favorite_count": 25,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/8NebBy7mEq",
+               "expanded_url": "https://twitter.com/i/web/status/1101894679375822848",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "repjohnlewis",
+               "name": "John Lewis",
+               "id": 29450962,
+               "id_str": "29450962",
+               "indices": [
+                  59,
+                  72
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/zkpsU3KDJd",
+      "expanded": "https://twitter.com/RepDavidTrone/status/1101894679375822848",
+      "display": "twitter.com/RepDavidTrone/\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Today, on the 57th anniversary of #BloodySunday, we remember the brave men and women who risked their lives and protested on the Edmund Pettus Bridge in Selma, Alabama. Their bravery and sacrifices were critical in the fight to protect civil rights for all Americans. https://t.co/wRbEqFt0v9",
+      "display_text_range": [
+         0,
+         267
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BloodySunday",
+               "indices": [
+                  34,
+                  47
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500944283796451333,
+               "id_str": "1500944283796451333",
+               "indices": [
+                  268,
+                  291
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRs369XMAU4A8z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRs369XMAU4A8z.jpg",
+               "url": "https://t.co/wRbEqFt0v9",
+               "display_url": "pic.twitter.com/wRbEqFt0v9",
+               "expanded_url": "https://twitter.com/RepDavidTrone/status/1500944388561776645/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500944283796451333,
+               "id_str": "1500944283796451333",
+               "indices": [
+                  268,
+                  291
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRs369XMAU4A8z.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRs369XMAU4A8z.jpg",
+               "url": "https://t.co/wRbEqFt0v9",
+               "display_url": "pic.twitter.com/wRbEqFt0v9",
+               "expanded_url": "https://twitter.com/RepDavidTrone/status/1500944388561776645/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1600,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "BloodySunday",
+            "indices": [
+               34,
+               47
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/RJiY2yveOO",
+            "expanded_url": "https://twitter.com/i/web/status/1500944388561776645",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646688003088"
+}

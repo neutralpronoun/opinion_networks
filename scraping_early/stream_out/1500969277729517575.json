@@ -1,0 +1,124 @@
+{
+   "created_at": "Mon Mar 07 22:58:57 +0000 2022",
+   "id": 1500969277729517575,
+   "id_str": "1500969277729517575",
+   "text": "@JohnCornyn I believe that this is not just a Russian-Ukrainian war. Here in Ukraine we defend Freedom from dictato\u2026 https://t.co/0EA8EhWXxL",
+   "display_text_range": [
+      12,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500966695355179008,
+   "in_reply_to_status_id_str": "1500966695355179008",
+   "in_reply_to_user_id": 13218102,
+   "in_reply_to_user_id_str": "13218102",
+   "in_reply_to_screen_name": "JohnCornyn",
+   "user": {
+      "id": 2156485718,
+      "id_str": "2156485718",
+      "name": "Roman Hryshchuk",
+      "screen_name": "grishchukroma",
+      "location": "Kyiv",
+      "url": "https://itd.rada.gov.ua/mps/info/page/21031",
+      "description": "Member of the Parliament of Ukraine, Kyiv \ud83c\uddfa\ud83c\udde6",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 5841,
+      "friends_count": 357,
+      "listed_count": 71,
+      "favourites_count": 1179,
+      "statuses_count": 634,
+      "created_at": "Sat Oct 26 09:17:08 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1498688435548213251/_5ASwWZH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498688435548213251/_5ASwWZH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2156485718/1565509957",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@JohnCornyn I believe that this is not just a Russian-Ukrainian war. Here in Ukraine we defend Freedom from dictatorship. So you are right, the free world should come together and help Ukraine. Thank you.",
+      "display_text_range": [
+         12,
+         204
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "JohnCornyn",
+               "name": "Senator John Cornyn",
+               "id": 13218102,
+               "id_str": "13218102",
+               "indices": [
+                  0,
+                  11
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0EA8EhWXxL",
+            "expanded_url": "https://twitter.com/i/web/status/1500969277729517575",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "JohnCornyn",
+            "name": "Senator John Cornyn",
+            "id": 13218102,
+            "id_str": "13218102",
+            "indices": [
+               0,
+               11
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693937128"
+}

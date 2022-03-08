@@ -1,0 +1,189 @@
+{
+   "created_at": "Tue Mar 08 01:36:51 +0000 2022",
+   "id": 1501009018134974467,
+   "id_str": "1501009018134974467",
+   "text": "Carly Santangelo is an educator and mentor to the brilliant minds of the future. \n\nAs New York's Teacher of the Yea\u2026 https://t.co/WYGjy2nLhf",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1499500850623963140,
+   "in_reply_to_status_id_str": "1499500850623963140",
+   "in_reply_to_user_id": 817076257770835968,
+   "in_reply_to_user_id_str": "817076257770835968",
+   "in_reply_to_screen_name": "RepEspaillat",
+   "user": {
+      "id": 817076257770835968,
+      "id_str": "817076257770835968",
+      "name": "Adriano Espaillat",
+      "screen_name": "RepEspaillat",
+      "location": "Harlem | Wash. Heights | Bronx",
+      "url": "http://espaillat.house.gov",
+      "description": "Former undocumented immigrant turned progressive Congressman. Proudly fighting #ForThePeople of NY-13. \ud83d\udcaa\ud83c\udffd",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 33258,
+      "friends_count": 1954,
+      "listed_count": 787,
+      "favourites_count": 10045,
+      "statuses_count": 15666,
+      "created_at": "Thu Jan 05 18:32:15 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1401886600561401862/2YqcV-hr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401886600561401862/2YqcV-hr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/817076257770835968/1646425507",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Carly Santangelo is an educator and mentor to the brilliant minds of the future. \n\nAs New York's Teacher of the Year, she teaches her students the importance of sustainability and service to their environment. \n\nShe's without a doubt one of the many #WomenWhoLead! https://t.co/OAnEM36pni",
+      "display_text_range": [
+         0,
+         264
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WomenWhoLead",
+               "indices": [
+                  250,
+                  263
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1501008952246648838,
+               "id_str": "1501008952246648838",
+               "indices": [
+                  265,
+                  288
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSnsHtXwAYPK82.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSnsHtXwAYPK82.jpg",
+               "url": "https://t.co/OAnEM36pni",
+               "display_url": "pic.twitter.com/OAnEM36pni",
+               "expanded_url": "https://twitter.com/RepEspaillat/status/1501009018134974467/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1200,
+                     "h": 596,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 596,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 338,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1501008952246648838,
+               "id_str": "1501008952246648838",
+               "indices": [
+                  265,
+                  288
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSnsHtXwAYPK82.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSnsHtXwAYPK82.jpg",
+               "url": "https://t.co/OAnEM36pni",
+               "display_url": "pic.twitter.com/OAnEM36pni",
+               "expanded_url": "https://twitter.com/RepEspaillat/status/1501009018134974467/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1200,
+                     "h": 596,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 596,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 338,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/WYGjy2nLhf",
+            "expanded_url": "https://twitter.com/i/web/status/1501009018134974467",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646703411979"
+}

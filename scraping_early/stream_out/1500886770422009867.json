@@ -1,0 +1,346 @@
+{
+   "created_at": "Mon Mar 07 17:31:05 +0000 2022",
+   "id": 1500886770422009867,
+   "id_str": "1500886770422009867",
+   "text": "RT @HydroAssoc: The Congressional Brain Injury Task Force, chaired by @BillPascrell &amp; @RepDonBacon, invites you to join a virtual Brain Inj\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 818975124460335106,
+      "id_str": "818975124460335106",
+      "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+      "screen_name": "RepDonBacon",
+      "location": "Papillion, NE",
+      "url": "http://bacon.house.gov",
+      "description": "Serving the great people of NE-02 \ud83c\uddfa\ud83c\uddf8. Married to Angie, 4 kids, 6 grandkids. Brig Gen \u2b50\ufe0f USAF (Ret.) Policy questions? Visihttp://bacon.house.govUD",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19132,
+      "friends_count": 649,
+      "listed_count": 628,
+      "favourites_count": 14022,
+      "statuses_count": 14403,
+      "created_at": "Wed Jan 11 00:17:40 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449940828164608002/-jBLm6bc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449940828164608002/-jBLm6bc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818975124460335106/1630014476",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:00:29 +0000 2022",
+      "id": 1500863968432336905,
+      "id_str": "1500863968432336905",
+      "text": "The Congressional Brain Injury Task Force, chaired by @BillPascrell &amp; @RepDonBacon, invites you to join a virtual B\u2026 https://t.co/m0Zjk6SyZM",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 40049695,
+         "id_str": "40049695",
+         "name": "Hydrocephalus Assoc.",
+         "screen_name": "HydroAssoc",
+         "location": "Bethesda, MD",
+         "url": "http://www.hydroassoc.org",
+         "description": "Our mission is to find a cure for #hydrocephalus and\nimprove the lives of those impacted by the condition.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 6226,
+         "friends_count": 1653,
+         "listed_count": 111,
+         "favourites_count": 2847,
+         "statuses_count": 10746,
+         "created_at": "Thu May 14 18:08:59 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "34477F",
+         "profile_sidebar_border_color": "0186A7",
+         "profile_sidebar_fill_color": "EBFBFF",
+         "profile_text_color": "0C3E53",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1379965852175503362/JKoJpqF8_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379965852175503362/JKoJpqF8_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/40049695/1644248249",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "The Congressional Brain Injury Task Force, chaired by @BillPascrell &amp; @RepDonBacon, invites you to join a virtual Brain Injury Awareness Day briefing on the importance &amp; value of #advocacy. Event is FREE but registration is required: https://t.co/JNKeFvj5kl https://t.co/j5TUKnzaez",
+         "display_text_range": [
+            0,
+            265
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "advocacy",
+                  "indices": [
+                     187,
+                     196
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/JNKeFvj5kl",
+                  "expanded_url": "https://register.gotowebinar.com/register/6788923971276869903",
+                  "display_url": "register.gotowebinar.com/register/67889\u2026",
+                  "indices": [
+                     242,
+                     265
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "BillPascrell",
+                  "name": "Bill Pascrell, Jr. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+                  "id": 74508260,
+                  "id_str": "74508260",
+                  "indices": [
+                     54,
+                     67
+                  ]
+               },
+               {
+                  "screen_name": "RepDonBacon",
+                  "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+                  "id": 818975124460335106,
+                  "id_str": "818975124460335106",
+                  "indices": [
+                     74,
+                     86
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500863959313915910,
+                  "id_str": "1500863959313915910",
+                  "indices": [
+                     266,
+                     289
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQj0a8XoAYg3yZ.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQj0a8XoAYg3yZ.png",
+                  "url": "https://t.co/j5TUKnzaez",
+                  "display_url": "pic.twitter.com/j5TUKnzaez",
+                  "expanded_url": "https://twitter.com/HydroAssoc/status/1500863968432336905/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 800,
+                        "h": 450,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 800,
+                        "h": 450,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500863959313915910,
+                  "id_str": "1500863959313915910",
+                  "indices": [
+                     266,
+                     289
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQj0a8XoAYg3yZ.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQj0a8XoAYg3yZ.png",
+                  "url": "https://t.co/j5TUKnzaez",
+                  "display_url": "pic.twitter.com/j5TUKnzaez",
+                  "expanded_url": "https://twitter.com/HydroAssoc/status/1500863968432336905/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 800,
+                        "h": 450,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 800,
+                        "h": 450,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/m0Zjk6SyZM",
+               "expanded_url": "https://twitter.com/i/web/status/1500863968432336905",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "BillPascrell",
+               "name": "Bill Pascrell, Jr. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+               "id": 74508260,
+               "id_str": "74508260",
+               "indices": [
+                  54,
+                  67
+               ]
+            },
+            {
+               "screen_name": "RepDonBacon",
+               "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+               "id": 818975124460335106,
+               "id_str": "818975124460335106",
+               "indices": [
+                  74,
+                  86
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "HydroAssoc",
+            "name": "Hydrocephalus Assoc.",
+            "id": 40049695,
+            "id_str": "40049695",
+            "indices": [
+               3,
+               14
+            ]
+         },
+         {
+            "screen_name": "BillPascrell",
+            "name": "Bill Pascrell, Jr. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+            "id": 74508260,
+            "id_str": "74508260",
+            "indices": [
+               70,
+               83
+            ]
+         },
+         {
+            "screen_name": "RepDonBacon",
+            "name": "Rep. Don Bacon \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+            "id": 818975124460335106,
+            "id_str": "818975124460335106",
+            "indices": [
+               90,
+               102
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674265853"
+}

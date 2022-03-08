@@ -1,0 +1,209 @@
+{
+   "created_at": "Mon Mar 07 16:58:23 +0000 2022",
+   "id": 1500878540044222465,
+   "id_str": "1500878540044222465",
+   "text": "Sen. @ossoff is working to protect Tybee Island from the effects of storm surge and rising sea levels. https://t.co/c2CMlAvpPR",
+   "display_text_range": [
+      0,
+      102
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1356714265894408196,
+      "id_str": "1356714265894408196",
+      "name": "Ossoff's Office",
+      "screen_name": "SenOssoff",
+      "location": "Georgia | Washington D.C ",
+      "url": "http://ossoff.senate.gov",
+      "description": "Updates from Georgia U.S. Senator Jon @Ossoff's office.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 40030,
+      "friends_count": 516,
+      "listed_count": 229,
+      "favourites_count": 122,
+      "statuses_count": 1037,
+      "created_at": "Tue Feb 02 21:21:52 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1405128819892125703/ncpD3db0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405128819892125703/ncpD3db0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356714265894408196/1612417063",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ossoff",
+            "name": "Jon Ossoff",
+            "id": 521747968,
+            "id_str": "521747968",
+            "indices": [
+               5,
+               12
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500862480482025480,
+            "id_str": "1500862480482025480",
+            "indices": [
+               103,
+               126
+            ],
+            "additional_media_info": {
+               "title": "",
+               "description": "",
+               "embeddable": true,
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/media/FNQwvEwX0AoldXi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQwvEwX0AoldXi.jpg",
+            "url": "https://t.co/c2CMlAvpPR",
+            "display_url": "pic.twitter.com/c2CMlAvpPR",
+            "expanded_url": "https://twitter.com/SenOssoff/status/1500878540044222465/video/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1272,
+                  "h": 713,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 673,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500862480482025480,
+            "id_str": "1500862480482025480",
+            "indices": [
+               103,
+               126
+            ],
+            "additional_media_info": {
+               "title": "",
+               "description": "",
+               "embeddable": true,
+               "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/media/FNQwvEwX0AoldXi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQwvEwX0AoldXi.jpg",
+            "url": "https://t.co/c2CMlAvpPR",
+            "display_url": "pic.twitter.com/c2CMlAvpPR",
+            "expanded_url": "https://twitter.com/SenOssoff/status/1500878540044222465/video/1",
+            "type": "video",
+            "video_info": {
+               "aspect_ratio": [
+                  16,
+                  9
+               ],
+               "duration_millis": 121104,
+               "variants": [
+                  {
+                     "content_type": "application/x-mpegURL",
+                     "url": "https://video.twimg.com/amplify_video/1500862480482025480/pl/lI0XOa6cPrqBYZFW.m3u8?tag=14&container=fmp4&v=c4e"
+                  },
+                  {
+                     "bitrate": 832000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500862480482025480/vid/640x360/JQGBV5qLudq4OKEz.mp4?tag=14"
+                  },
+                  {
+                     "bitrate": 288000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500862480482025480/vid/480x270/c42ixvPqoIj0_2Hd.mp4?tag=14"
+                  },
+                  {
+                     "bitrate": 2176000,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/amplify_video/1500862480482025480/vid/1280x720/4DgfW1bxW1Jvo-ki.mp4?tag=14"
+                  }
+               ]
+            },
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 1272,
+                  "h": 713,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 673,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672303578"
+}

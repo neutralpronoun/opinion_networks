@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 16:53:21 +0000 2022",
+   "id": 1500877273544675332,
+   "id_str": "1500877273544675332",
+   "text": "Pop quiz: to offset the cost of divesting from Russian oil and gas (a good idea!) the Biden administration is...\n\n1\u2026 https://t.co/W8kdMjwq3I",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344416719260016641,
+      "id_str": "1344416719260016641",
+      "name": "Rep. Yvette Herrell",
+      "screen_name": "RepHerrell",
+      "location": "New Mexico & Washington, DC",
+      "url": "http://herrell.house.gov",
+      "description": "U.S. Congresswoman for New Mexico's Second Congressional District. Member of @NatResources and @GOPoversight",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 16794,
+      "friends_count": 613,
+      "listed_count": 271,
+      "favourites_count": 397,
+      "statuses_count": 1149,
+      "created_at": "Wed Dec 30 22:55:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344416719260016641/1616004353",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Pop quiz: to offset the cost of divesting from Russian oil and gas (a good idea!) the Biden administration is...\n\n1) expanding and promoting American domestic energy\nor\n2) coming crawling to other authoritarian governments around the globe\nhttps://t.co/R0lJoFzEvo",
+      "display_text_range": [
+         0,
+         263
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/R0lJoFzEvo",
+               "expanded_url": "https://www.axios.com/biden-saudi-trip-oil-b7a91070-8045-4155-9120-a35d59fd7603.html",
+               "display_url": "axios.com/biden-saudi-tr\u2026",
+               "indices": [
+                  240,
+                  263
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/W8kdMjwq3I",
+            "expanded_url": "https://twitter.com/i/web/status/1500877273544675332",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672001621"
+}

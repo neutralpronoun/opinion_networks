@@ -1,0 +1,291 @@
+{
+   "created_at": "Mon Mar 07 22:21:35 +0000 2022",
+   "id": 1500959876335423491,
+   "id_str": "1500959876335423491",
+   "text": "The DNC and RNC can't control @LaurenBoebert and @RepMTG.\n\nThey actually fight for their constituents.\u2026 https://t.co/OShvM1sIct",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 818948638890217473,
+      "id_str": "818948638890217473",
+      "name": "Rep. Matt Gaetz",
+      "screen_name": "RepMattGaetz",
+      "location": null,
+      "url": "http://gaetz.house.gov",
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1454620,
+      "friends_count": 758,
+      "listed_count": 4358,
+      "favourites_count": 2175,
+      "statuses_count": 9314,
+      "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "BB1A2A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1394339460649820162/o1gB5Wpg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394339460649820162/o1gB5Wpg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1626723323",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The DNC and RNC can't control @LaurenBoebert and @RepMTG.\n\nThey actually fight for their constituents.\n\nhttps://t.co/gImZ5CsK5n https://t.co/8ThmEDIxKz",
+      "display_text_range": [
+         0,
+         127
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/gImZ5CsK5n",
+               "expanded_url": "https://rumble.com/vwdji1-gaetz-reacts-to-mtg-and-boebert-blasting-biden-at-sotu.html",
+               "display_url": "rumble.com/vwdji1-gaetz-r\u2026",
+               "indices": [
+                  104,
+                  127
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "laurenboebert",
+               "name": "Lauren Boebert",
+               "id": 1201670995435646976,
+               "id_str": "1201670995435646976",
+               "indices": [
+                  30,
+                  44
+               ]
+            },
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  49,
+                  56
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500959220556087306,
+               "id_str": "1500959220556087306",
+               "indices": [
+                  128,
+                  151
+               ],
+               "additional_media_info": {
+                  "title": "Unbossed: DNC/RNC Can't Control Boebert and MTG",
+                  "description": "Visit\u00a0https://gaetz.house.gov/firebrand\u00a0for ALL Firebrand content!",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNR6pY1XEAkCvFl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR6pY1XEAkCvFl.jpg",
+               "url": "https://t.co/8ThmEDIxKz",
+               "display_url": "pic.twitter.com/8ThmEDIxKz",
+               "expanded_url": "https://twitter.com/RepMattGaetz/status/1500959876335423491/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     360,
+                     203
+                  ],
+                  "duration_millis": 108175,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/vid/720x406/Eo8gBeiSchViN0xr.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/vid/478x270/QS6JyY9PO4HePJus.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/pl/MnWnwrIjZESzF9PS.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 720,
+                     "h": 406,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 720,
+                     "h": 406,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500959220556087306,
+               "id_str": "1500959220556087306",
+               "indices": [
+                  128,
+                  151
+               ],
+               "additional_media_info": {
+                  "title": "Unbossed: DNC/RNC Can't Control Boebert and MTG",
+                  "description": "Visit\u00a0https://gaetz.house.gov/firebrand\u00a0for ALL Firebrand content!",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNR6pY1XEAkCvFl.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR6pY1XEAkCvFl.jpg",
+               "url": "https://t.co/8ThmEDIxKz",
+               "display_url": "pic.twitter.com/8ThmEDIxKz",
+               "expanded_url": "https://twitter.com/RepMattGaetz/status/1500959876335423491/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     360,
+                     203
+                  ],
+                  "duration_millis": 108175,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/vid/720x406/Eo8gBeiSchViN0xr.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/vid/478x270/QS6JyY9PO4HePJus.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500959220556087306/pl/MnWnwrIjZESzF9PS.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 720,
+                     "h": 406,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 720,
+                     "h": 406,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/OShvM1sIct",
+            "expanded_url": "https://twitter.com/i/web/status/1500959876335423491",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               104,
+               127
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "laurenboebert",
+            "name": "Lauren Boebert",
+            "id": 1201670995435646976,
+            "id_str": "1201670995435646976",
+            "indices": [
+               30,
+               44
+            ]
+         },
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               49,
+               56
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691695661"
+}

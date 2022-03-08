@@ -1,0 +1,131 @@
+{
+   "created_at": "Mon Mar 07 22:21:45 +0000 2022",
+   "id": 1500959918354059265,
+   "id_str": "1500959918354059265",
+   "text": ".@POTUS must do everything in his power to punish Putin &amp; his criminal &amp; repressive regime for the egregious acts o\u2026 https://t.co/nd2KokdlLc",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 23124635,
+      "id_str": "23124635",
+      "name": "Rep. Tom Cole",
+      "screen_name": "TomColeOK04",
+      "location": "Oklahoma",
+      "url": "https://cole.house.gov",
+      "description": "Proud to represent #OK04 in the U.S. House of Reps. Ranking Member of @RulesReps, Vice Ranking of @HouseAppropsGOP. Staff moderated unless signed by me. -TC",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 28463,
+      "friends_count": 285,
+      "listed_count": 986,
+      "favourites_count": 393,
+      "statuses_count": 2783,
+      "created_at": "Fri Mar 06 21:54:25 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "113242",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1400802701722669057/y5F7CntO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400802701722669057/y5F7CntO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23124635/1460648619",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": ".@POTUS must do everything in his power to punish Putin &amp; his criminal &amp; repressive regime for the egregious acts of aggression against Ukraine, &amp; he should start immediately by stopping purchase of Russian oil. \n\nMore \u2b07\nhttps://t.co/VBvkGTRRle",
+      "display_text_range": [
+         0,
+         256
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VBvkGTRRle",
+               "expanded_url": "https://cole.house.gov/media-center/weekly-columns/america-must-stop-buying-russian-oil",
+               "display_url": "cole.house.gov/media-center/w\u2026",
+               "indices": [
+                  233,
+                  256
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  1,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/nd2KokdlLc",
+            "expanded_url": "https://twitter.com/i/web/status/1500959918354059265",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               125,
+               148
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "POTUS",
+            "name": "President Biden",
+            "id": 1349149096909668363,
+            "id_str": "1349149096909668363",
+            "indices": [
+               1,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691705679"
+}

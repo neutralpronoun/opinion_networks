@@ -1,0 +1,355 @@
+{
+   "created_at": "Tue Mar 08 00:30:21 +0000 2022",
+   "id": 1500992278994857986,
+   "id_str": "1500992278994857986",
+   "text": "RT @SenateDems: Tonight, the Senate advanced bipartisan legislation to protect the future of the Post Office.\n\nChairman @SenGaryPeters expl\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 236511574,
+      "id_str": "236511574",
+      "name": "Senator Gary Peters",
+      "screen_name": "SenGaryPeters",
+      "location": null,
+      "url": "https://www.peters.senate.gov/bipartisan_infrastructure_bill",
+      "description": "U.S. Senator proudly representing the State of Michigan. \ud83c\udfcd\ufe0f\n \nSee how the Bipartisan Infrastructure Law we passed is benefitting Michigan. \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 145704,
+      "friends_count": 1247,
+      "listed_count": 1969,
+      "favourites_count": 454,
+      "statuses_count": 8863,
+      "created_at": "Mon Jan 10 19:17:36 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEDF5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "00638A",
+      "profile_sidebar_border_color": "3E80B3",
+      "profile_sidebar_fill_color": "65ABE0",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1470865201532653572/_YQA1QVO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470865201532653572/_YQA1QVO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/236511574/1639517047",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 00:13:11 +0000 2022",
+      "id": 1500987962493915140,
+      "id_str": "1500987962493915140",
+      "text": "Tonight, the Senate advanced bipartisan legislation to protect the future of the Post Office.\n\nChairman\u2026 https://t.co/s8idyhXpYk",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 73238146,
+         "id_str": "73238146",
+         "name": "Senate Democrats",
+         "screen_name": "SenateDems",
+         "location": "Washington, DC",
+         "url": "http://www.democrats.senate.gov",
+         "description": "We are the Senate Democratic Majority. It is past time for a Senate that works for everyone.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1255348,
+         "friends_count": 2345,
+         "listed_count": 8518,
+         "favourites_count": 558,
+         "statuses_count": 31562,
+         "created_at": "Thu Sep 10 22:26:03 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "A5C2D0",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "16649C",
+         "profile_sidebar_border_color": "A5C2D0",
+         "profile_sidebar_fill_color": "D8E5F0",
+         "profile_text_color": "04223B",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1368727178716839942/Ptt00770_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368727178716839942/Ptt00770_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/73238146/1615157563",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Tonight, the Senate advanced bipartisan legislation to protect the future of the Post Office.\n\nChairman @SenGaryPeters explains why this is so important for the millions and millions of Americans who count on USPS every day. https://t.co/DjhfIQVtDD",
+         "display_text_range": [
+            0,
+            224
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SenGaryPeters",
+                  "name": "Senator Gary Peters",
+                  "id": 236511574,
+                  "id_str": "236511574",
+                  "indices": [
+                     104,
+                     118
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500987797607432196,
+                  "id_str": "1500987797607432196",
+                  "indices": [
+                     225,
+                     248
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FNSU-CKXsAcvxWq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSU-CKXsAcvxWq.jpg",
+                  "url": "https://t.co/DjhfIQVtDD",
+                  "display_url": "pic.twitter.com/DjhfIQVtDD",
+                  "expanded_url": "https://twitter.com/SenateDems/status/1500987962493915140/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 63997,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/pl/S1x862TmkCIdFzjV.m3u8?tag=14&container=fmp4&v=f2e"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/720x720/QhYDtpXpZkUtUpeY.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/540x540/vGagQCsKbRdsGXOt.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/320x320/iEUXlEEtDKgsupil.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500987797607432196,
+                  "id_str": "1500987797607432196",
+                  "indices": [
+                     225,
+                     248
+                  ],
+                  "additional_media_info": {
+                     "title": "",
+                     "description": "",
+                     "embeddable": true,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FNSU-CKXsAcvxWq.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSU-CKXsAcvxWq.jpg",
+                  "url": "https://t.co/DjhfIQVtDD",
+                  "display_url": "pic.twitter.com/DjhfIQVtDD",
+                  "expanded_url": "https://twitter.com/SenateDems/status/1500987962493915140/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 63997,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/pl/S1x862TmkCIdFzjV.m3u8?tag=14&container=fmp4&v=f2e"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/720x720/QhYDtpXpZkUtUpeY.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/540x540/vGagQCsKbRdsGXOt.mp4?tag=14"
+                        },
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/amplify_video/1500987797607432196/vid/320x320/iEUXlEEtDKgsupil.mp4?tag=14"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 18,
+      "retweet_count": 32,
+      "favorite_count": 93,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/s8idyhXpYk",
+               "expanded_url": "https://twitter.com/i/web/status/1500987962493915140",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  105,
+                  128
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenateDems",
+            "name": "Senate Democrats",
+            "id": 73238146,
+            "id_str": "73238146",
+            "indices": [
+               3,
+               14
+            ]
+         },
+         {
+            "screen_name": "SenGaryPeters",
+            "name": "Senator Gary Peters",
+            "id": 236511574,
+            "id_str": "236511574",
+            "indices": [
+               120,
+               134
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646699421057"
+}

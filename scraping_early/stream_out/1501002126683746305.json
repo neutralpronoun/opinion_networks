@@ -1,0 +1,565 @@
+{
+   "created_at": "Tue Mar 08 01:09:28 +0000 2022",
+   "id": 1501002126683746305,
+   "id_str": "1501002126683746305",
+   "text": "RT @Norman_Roule: Despicable. Propaganda that would have made Joseph Goebbels proud.",
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 13218102,
+      "id_str": "13218102",
+      "name": "Senator John Cornyn",
+      "screen_name": "JohnCornyn",
+      "location": "Austin, Texas",
+      "url": null,
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 324852,
+      "friends_count": 12537,
+      "listed_count": 5775,
+      "favourites_count": 7679,
+      "statuses_count": 50236,
+      "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "71829E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "002D62",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "002D62",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1246564218259767296/iwEbEtCj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246564218259767296/iwEbEtCj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1584541403",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 00:58:55 +0000 2022",
+      "id": 1500999468556107785,
+      "id_str": "1500999468556107785",
+      "text": "Despicable. Propaganda that would have made Joseph Goebbels proud.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 822499045763674112,
+         "id_str": "822499045763674112",
+         "name": "Norman Roule",
+         "screen_name": "Norman_Roule",
+         "location": "Washington, DC",
+         "url": null,
+         "description": "@thecipherbrief expert; @FightExtremism & @UANI adviser   Retweet or Like do not equal endorsement.  Views are my own only.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 7604,
+         "friends_count": 1712,
+         "listed_count": 105,
+         "favourites_count": 8076,
+         "statuses_count": 8460,
+         "created_at": "Fri Jan 20 17:40:28 +0000 2017",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/936653510724276225/c4c2jvKL_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/936653510724276225/c4c2jvKL_normal.jpg",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500886096837849099,
+      "quoted_status_id_str": "1500886096837849099",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 17:28:25 +0000 2022",
+         "id": 1500886096837849099,
+         "id_str": "1500886096837849099",
+         "text": "FM #Lavrov: The goal of Russia\u2019s special military operation is to stop any war that could take place on Ukrainian t\u2026 https://t.co/u7n5zpgQ79",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 114718372,
+            "id_str": "114718372",
+            "name": "Russian Embassy, UK",
+            "screen_name": "RussianEmbassy",
+            "location": "London",
+            "url": "http://www.rusemb.org.uk",
+            "description": "Embassy of the Russian Federation \ud83c\uddf7\ud83c\uddfain London - official Twitter feed (\u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435 - @RussianEmbassyR)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 144519,
+            "friends_count": 1702,
+            "listed_count": 1412,
+            "favourites_count": 4282,
+            "statuses_count": 26154,
+            "created_at": "Tue Feb 16 11:26:37 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/114718372/1645787924",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "FM #Lavrov: The goal of Russia\u2019s special military operation is to stop any war that could take place on Ukrainian territory or that could start from there. https://t.co/tLf7798DIh",
+            "display_text_range": [
+               0,
+               155
+            ],
+            "entities": {
+               "hashtags": [
+                  {
+                     "text": "Lavrov",
+                     "indices": [
+                        3,
+                        10
+                     ]
+                  }
+               ],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1500885514504785925,
+                     "id_str": "1500885514504785925",
+                     "indices": [
+                        156,
+                        179
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                     "url": "https://t.co/tLf7798DIh",
+                     "display_url": "pic.twitter.com/tLf7798DIh",
+                     "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 453,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 2048,
+                           "h": 1365,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1200,
+                           "h": 800,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1500885514504785925,
+                     "id_str": "1500885514504785925",
+                     "indices": [
+                        156,
+                        179
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                     "url": "https://t.co/tLf7798DIh",
+                     "display_url": "pic.twitter.com/tLf7798DIh",
+                     "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 680,
+                           "h": 453,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 2048,
+                           "h": 1365,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 1200,
+                           "h": 800,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 6065,
+         "reply_count": 15677,
+         "retweet_count": 759,
+         "favorite_count": 2141,
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Lavrov",
+                  "indices": [
+                     3,
+                     10
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/u7n5zpgQ79",
+                  "expanded_url": "https://twitter.com/i/web/status/1500886096837849099",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/TmbxsVWJKA",
+         "expanded": "https://twitter.com/russianembassy/status/1500886096837849099",
+         "display": "twitter.com/russianembassy\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500886096837849099,
+   "quoted_status_id_str": "1500886096837849099",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 17:28:25 +0000 2022",
+      "id": 1500886096837849099,
+      "id_str": "1500886096837849099",
+      "text": "FM #Lavrov: The goal of Russia\u2019s special military operation is to stop any war that could take place on Ukrainian t\u2026 https://t.co/u7n5zpgQ79",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 114718372,
+         "id_str": "114718372",
+         "name": "Russian Embassy, UK",
+         "screen_name": "RussianEmbassy",
+         "location": "London",
+         "url": "http://www.rusemb.org.uk",
+         "description": "Embassy of the Russian Federation \ud83c\uddf7\ud83c\uddfain London - official Twitter feed (\u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435 - @RussianEmbassyR)",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 144519,
+         "friends_count": 1702,
+         "listed_count": 1412,
+         "favourites_count": 4282,
+         "statuses_count": 26154,
+         "created_at": "Tue Feb 16 11:26:37 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/114718372/1645787924",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "FM #Lavrov: The goal of Russia\u2019s special military operation is to stop any war that could take place on Ukrainian territory or that could start from there. https://t.co/tLf7798DIh",
+         "display_text_range": [
+            0,
+            155
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Lavrov",
+                  "indices": [
+                     3,
+                     10
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500885514504785925,
+                  "id_str": "1500885514504785925",
+                  "indices": [
+                     156,
+                     179
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                  "url": "https://t.co/tLf7798DIh",
+                  "display_url": "pic.twitter.com/tLf7798DIh",
+                  "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500885514504785925,
+                  "id_str": "1500885514504785925",
+                  "indices": [
+                     156,
+                     179
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+                  "url": "https://t.co/tLf7798DIh",
+                  "display_url": "pic.twitter.com/tLf7798DIh",
+                  "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 6065,
+      "reply_count": 15677,
+      "retweet_count": 759,
+      "favorite_count": 2141,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Lavrov",
+               "indices": [
+                  3,
+                  10
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/u7n5zpgQ79",
+               "expanded_url": "https://twitter.com/i/web/status/1500886096837849099",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/TmbxsVWJKA",
+      "expanded": "https://twitter.com/russianembassy/status/1500886096837849099",
+      "display": "twitter.com/russianembassy\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "Norman_Roule",
+            "name": "Norman Roule",
+            "id": 822499045763674112,
+            "id_str": "822499045763674112",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701768929"
+}

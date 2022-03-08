@@ -1,0 +1,375 @@
+{
+   "created_at": "Tue Mar 08 04:36:32 +0000 2022",
+   "id": 1501054234099339267,
+   "id_str": "1501054234099339267",
+   "text": "Yes. I will never forget President Zelenskyy\u2019s ask of us this weekend, echoing what I heard all over my district. W\u2026 https://t.co/TmjI5PB8VO",
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 31611298,
+      "id_str": "31611298",
+      "name": "Jim Himes \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+      "screen_name": "jahimes",
+      "location": "CT and DC",
+      "url": "http://www.himesforcongress.com",
+      "description": "Connecticut Congressman. Reader. Runner. Swimmer. Apiarist. And I make maple syrup. And mead.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 113583,
+      "friends_count": 406,
+      "listed_count": 1923,
+      "favourites_count": 190,
+      "statuses_count": 12495,
+      "created_at": "Thu Apr 16 02:38:33 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1486186412122816514/8In1IjoT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486186412122816514/8In1IjoT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31611298/1607992283",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1501052327322693635,
+   "quoted_status_id_str": "1501052327322693635",
+   "quoted_status": {
+      "created_at": "Tue Mar 08 04:28:57 +0000 2022",
+      "id": 1501052327322693635,
+      "id_str": "1501052327322693635",
+      "text": "Press release from @jahimes re: aircraft for #ukraine military. #ctpolitics https://t.co/pMcMjkiG6B",
+      "display_text_range": [
+         0,
+         75
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 14429621,
+         "id_str": "14429621",
+         "name": "Alfonso Robinson",
+         "screen_name": "ctblogger",
+         "location": "Danbury CT",
+         "url": null,
+         "description": "Progressive blogger based in Connecticut (and NO I didn't vote for Joe Lieberman)...in case you were wondering, RTs are not endorsements...",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 3330,
+         "friends_count": 1876,
+         "listed_count": 77,
+         "favourites_count": 25985,
+         "statuses_count": 37185,
+         "created_at": "Fri Apr 18 04:16:05 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "59472F",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "827972",
+         "profile_sidebar_border_color": "000515",
+         "profile_sidebar_fill_color": "061127",
+         "profile_text_color": "52555C",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/684400073485205510/grxZFJG7_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/684400073485205510/grxZFJG7_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/14429621/1640796395",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "ukraine",
+               "indices": [
+                  45,
+                  53
+               ]
+            },
+            {
+               "text": "ctpolitics",
+               "indices": [
+                  64,
+                  75
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "jahimes",
+               "name": "Jim Himes \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+               "id": 31611298,
+               "id_str": "31611298",
+               "indices": [
+                  19,
+                  27
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1501052129699672073,
+               "id_str": "1501052129699672073",
+               "indices": [
+                  76,
+                  99
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNTO9YQXsAkF77-.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNTO9YQXsAkF77-.png",
+               "url": "https://t.co/pMcMjkiG6B",
+               "display_url": "pic.twitter.com/pMcMjkiG6B",
+               "expanded_url": "https://twitter.com/ctblogger/status/1501052327322693635/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 935,
+                     "h": 425,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 309,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 935,
+                     "h": 425,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1501052129699672073,
+               "id_str": "1501052129699672073",
+               "indices": [
+                  76,
+                  99
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNTO9YQXsAkF77-.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNTO9YQXsAkF77-.png",
+               "url": "https://t.co/pMcMjkiG6B",
+               "display_url": "pic.twitter.com/pMcMjkiG6B",
+               "expanded_url": "https://twitter.com/ctblogger/status/1501052327322693635/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 935,
+                     "h": 425,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 309,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 935,
+                     "h": 425,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            },
+            {
+               "id": 1501052164193587202,
+               "id_str": "1501052164193587202",
+               "indices": [
+                  76,
+                  99
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNTO_YwXEAINm2s.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNTO_YwXEAINm2s.jpg",
+               "url": "https://t.co/pMcMjkiG6B",
+               "display_url": "pic.twitter.com/pMcMjkiG6B",
+               "expanded_url": "https://twitter.com/ctblogger/status/1501052327322693635/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 853,
+                     "h": 1109,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 853,
+                     "h": 1109,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 523,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1501052190982643712,
+               "id_str": "1501052190982643712",
+               "indices": [
+                  76,
+                  99
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNTPA8jXoAAutVZ.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNTPA8jXoAAutVZ.png",
+               "url": "https://t.co/pMcMjkiG6B",
+               "display_url": "pic.twitter.com/pMcMjkiG6B",
+               "expanded_url": "https://twitter.com/ctblogger/status/1501052327322693635/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 855,
+                     "h": 361,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 287,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 855,
+                     "h": 361,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/bdVeMxs88l",
+      "expanded": "https://twitter.com/ctblogger/status/1501052327322693635",
+      "display": "twitter.com/ctblogger/stat\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Yes. I will never forget President Zelenskyy\u2019s ask of us this weekend, echoing what I heard all over my district. We must get jets to him now. Later is too late. Bipartisan. #UkraineUnderAtta\u0441k #Ukraine",
+      "display_text_range": [
+         0,
+         202
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "UkraineUnderAtta\u0441k",
+               "indices": [
+                  174,
+                  193
+               ]
+            },
+            {
+               "text": "Ukraine",
+               "indices": [
+                  194,
+                  202
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/TmjI5PB8VO",
+            "expanded_url": "https://twitter.com/i/web/status/1501054234099339267",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646714192305"
+}

@@ -1,0 +1,410 @@
+{
+   "created_at": "Mon Mar 07 20:35:09 +0000 2022",
+   "id": 1500933089240961025,
+   "id_str": "1500933089240961025",
+   "text": "RT @RepAndyBiggsAZ: DOJ still hasn\u2019t answered a letter I sent in November asking how they targeted parents who spoke out at school board me\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344007696555663360,
+      "id_str": "1344007696555663360",
+      "name": "Rep. Madison Cawthorn",
+      "screen_name": "RepCawthorn",
+      "location": null,
+      "url": "https://cawthorn.house.gov/",
+      "description": "Proudly representing the people of North Carolina's 11th Congressional District in the United States House of Representatives.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 133640,
+      "friends_count": 388,
+      "listed_count": 674,
+      "favourites_count": 995,
+      "statuses_count": 2297,
+      "created_at": "Tue Dec 29 19:50:34 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1455310984264962055/yVwiGmJs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455310984264962055/yVwiGmJs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344007696555663360/1641919312",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Fri Mar 04 18:38:50 +0000 2022",
+      "id": 1499816653684711428,
+      "id_str": "1499816653684711428",
+      "text": "DOJ still hasn\u2019t answered a letter I sent in November asking how they targeted parents who spoke out at school boar\u2026 https://t.co/Wiyd2vwi39",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 816652616625168388,
+         "id_str": "816652616625168388",
+         "name": "Rep Andy Biggs",
+         "screen_name": "RepAndyBiggsAZ",
+         "location": "Arizona, USA",
+         "url": "http://biggs.house.gov",
+         "description": "Representing Arizona's Fighting Fifth.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 382853,
+         "friends_count": 1736,
+         "listed_count": 1871,
+         "favourites_count": 14712,
+         "statuses_count": 20683,
+         "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1646338117",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "DOJ still hasn\u2019t answered a letter I sent in November asking how they targeted parents who spoke out at school board meetings. And now, Biden announced a new DOJ domestic terrorism unit. Will it be used to target parents? Today, I sent a follow-up letter. They owe us answers! https://t.co/T7hAX7E4Tw",
+         "display_text_range": [
+            0,
+            276
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499816649184194562,
+                  "id_str": "1499816649184194562",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8rXMAISlLU.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8rXMAISlLU.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 542,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 828,
+                        "h": 1039,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 828,
+                        "h": 1039,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499816649192529924,
+                  "id_str": "1499816649192529924",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8tWYAQiQ8Z.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8tWYAQiQ8Z.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 828,
+                        "h": 1034,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 545,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 828,
+                        "h": 1034,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499816649188417540,
+                  "id_str": "1499816649188417540",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8sXoAQ569o.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8sXoAQ569o.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 810,
+                        "h": 1030,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 810,
+                        "h": 1030,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 535,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499816649184194562,
+                  "id_str": "1499816649184194562",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8rXMAISlLU.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8rXMAISlLU.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 542,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 828,
+                        "h": 1039,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 828,
+                        "h": 1039,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499816649192529924,
+                  "id_str": "1499816649192529924",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8tWYAQiQ8Z.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8tWYAQiQ8Z.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 828,
+                        "h": 1034,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 545,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 828,
+                        "h": 1034,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499816649188417540,
+                  "id_str": "1499816649188417540",
+                  "indices": [
+                     277,
+                     300
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNBrS8sXoAQ569o.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNBrS8sXoAQ569o.jpg",
+                  "url": "https://t.co/T7hAX7E4Tw",
+                  "display_url": "pic.twitter.com/T7hAX7E4Tw",
+                  "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1499816653684711428/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 810,
+                        "h": 1030,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 810,
+                        "h": 1030,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 535,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 18,
+      "reply_count": 148,
+      "retweet_count": 402,
+      "favorite_count": 1009,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/Wiyd2vwi39",
+               "expanded_url": "https://twitter.com/i/web/status/1499816653684711428",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepAndyBiggsAZ",
+            "name": "Rep Andy Biggs",
+            "id": 816652616625168388,
+            "id_str": "816652616625168388",
+            "indices": [
+               3,
+               18
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685309120"
+}

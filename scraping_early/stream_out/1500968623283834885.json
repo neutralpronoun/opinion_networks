@@ -1,0 +1,402 @@
+{
+   "created_at": "Mon Mar 07 22:56:21 +0000 2022",
+   "id": 1500968623283834885,
+   "id_str": "1500968623283834885",
+   "text": "RT @RepPatBoyd: It was great to talk with U.S. Senator @ChrisMurphyCT yesterday about issues facing Rural Connecticut and to hear an update\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 150078976,
+      "id_str": "150078976",
+      "name": "Chris Murphy",
+      "screen_name": "ChrisMurphyCT",
+      "location": null,
+      "url": null,
+      "description": "U.S. Senator from Connecticut.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1075840,
+      "friends_count": 233,
+      "listed_count": 6215,
+      "favourites_count": 1370,
+      "statuses_count": 26894,
+      "created_at": "Mon May 31 01:22:43 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1608242210",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:32:39 +0000 2022",
+      "id": 1500932462381256705,
+      "id_str": "1500932462381256705",
+      "text": "It was great to talk with U.S. Senator @ChrisMurphyCT yesterday about issues facing Rural Connecticut and to hear a\u2026 https://t.co/UjzcbTgv6m",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 4877382119,
+         "id_str": "4877382119",
+         "name": "Pat Boyd",
+         "screen_name": "RepPatBoyd",
+         "location": "Pomfret, Connecticut, USA",
+         "url": "http://www.housedems.ct.gov/Boyd",
+         "description": "Member, Connecticut House of Representatives | @worldscouting @JNWBSA Camp Director | @PomfretSchool Griffin | Blue Dog | Volunteer Firefighter \ud83c\uddfa\ud83c\uddf8",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 929,
+         "friends_count": 646,
+         "listed_count": 32,
+         "favourites_count": 1640,
+         "statuses_count": 4039,
+         "created_at": "Fri Feb 05 07:03:54 +0000 2016",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/695503709619515393/Ar4jFDZi_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/695503709619515393/Ar4jFDZi_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4877382119/1495333973",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+         "id": "e86b380cfefcced5",
+         "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json",
+         "place_type": "admin",
+         "name": "Connecticut",
+         "full_name": "Connecticut, USA",
+         "country_code": "US",
+         "country": "United States",
+         "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     -73.727776,
+                     40.950918
+                  ],
+                  [
+                     -73.727776,
+                     42.050588
+                  ],
+                  [
+                     -71.786994,
+                     42.050588
+                  ],
+                  [
+                     -71.786994,
+                     40.950918
+                  ]
+               ]
+            ]
+         },
+         "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "It was great to talk with U.S. Senator @ChrisMurphyCT yesterday about issues facing Rural Connecticut and to hear an update about Federal Policy. https://t.co/hqJaHcuSvF",
+         "display_text_range": [
+            0,
+            145
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "ChrisMurphyCT",
+                  "name": "Chris Murphy",
+                  "id": 150078976,
+                  "id_str": "150078976",
+                  "indices": [
+                     39,
+                     53
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500932452960944129,
+                  "id_str": "1500932452960944129",
+                  "indices": [
+                     146,
+                     169
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRiHRqXwAEUyM4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRiHRqXwAEUyM4.jpg",
+                  "url": "https://t.co/hqJaHcuSvF",
+                  "display_url": "pic.twitter.com/hqJaHcuSvF",
+                  "expanded_url": "https://twitter.com/RepPatBoyd/status/1500932462381256705/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500932452956749835,
+                  "id_str": "1500932452956749835",
+                  "indices": [
+                     146,
+                     169
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRiHRpXwAs3h6w.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRiHRpXwAs3h6w.jpg",
+                  "url": "https://t.co/hqJaHcuSvF",
+                  "display_url": "pic.twitter.com/hqJaHcuSvF",
+                  "expanded_url": "https://twitter.com/RepPatBoyd/status/1500932462381256705/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500932452960944129,
+                  "id_str": "1500932452960944129",
+                  "indices": [
+                     146,
+                     169
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRiHRqXwAEUyM4.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRiHRqXwAEUyM4.jpg",
+                  "url": "https://t.co/hqJaHcuSvF",
+                  "display_url": "pic.twitter.com/hqJaHcuSvF",
+                  "expanded_url": "https://twitter.com/RepPatBoyd/status/1500932462381256705/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500932452956749835,
+                  "id_str": "1500932452956749835",
+                  "indices": [
+                     146,
+                     169
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRiHRpXwAs3h6w.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRiHRpXwAs3h6w.jpg",
+                  "url": "https://t.co/hqJaHcuSvF",
+                  "display_url": "pic.twitter.com/hqJaHcuSvF",
+                  "expanded_url": "https://twitter.com/RepPatBoyd/status/1500932462381256705/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/UjzcbTgv6m",
+               "expanded_url": "https://twitter.com/i/web/status/1500932462381256705",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "ChrisMurphyCT",
+               "name": "Chris Murphy",
+               "id": 150078976,
+               "id_str": "150078976",
+               "indices": [
+                  39,
+                  53
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepPatBoyd",
+            "name": "Pat Boyd",
+            "id": 4877382119,
+            "id_str": "4877382119",
+            "indices": [
+               3,
+               14
+            ]
+         },
+         {
+            "screen_name": "ChrisMurphyCT",
+            "name": "Chris Murphy",
+            "id": 150078976,
+            "id_str": "150078976",
+            "indices": [
+               55,
+               69
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693781096"
+}

@@ -1,0 +1,270 @@
+{
+   "created_at": "Mon Mar 07 15:35:34 +0000 2022",
+   "id": 1500857697352224773,
+   "id_str": "1500857697352224773",
+   "text": "The consensus is clear: we must ban Russian oil imports and unleash U.S. energy independence. More via\u2026 https://t.co/T4QeMNiyeO",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1173978070535024642,
+      "id_str": "1173978070535024642",
+      "name": "Congressman Greg Murphy, M.D.",
+      "screen_name": "RepGregMurphy",
+      "location": "Eastern North Carolina",
+      "url": "https://gregmurphy.house.gov/",
+      "description": "Proudly representing North Carolina's Third District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 16562,
+      "friends_count": 348,
+      "listed_count": 287,
+      "favourites_count": 1355,
+      "statuses_count": 1759,
+      "created_at": "Tue Sep 17 15:13:06 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186400513966952449/D9981GLb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186400513966952449/D9981GLb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173978070535024642/1605217336",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The consensus is clear: we must ban Russian oil imports and unleash U.S. energy independence. More via @MorningsMaria on @FoxBusiness \ud83d\udc47 https://t.co/5HaRmnouoG",
+      "display_text_range": [
+         0,
+         135
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "MorningsMaria",
+               "name": "Mornings with Maria",
+               "id": 2330590446,
+               "id_str": "2330590446",
+               "indices": [
+                  103,
+                  117
+               ]
+            },
+            {
+               "screen_name": "FoxBusiness",
+               "name": "FOX Business",
+               "id": 56413858,
+               "id_str": "56413858",
+               "indices": [
+                  121,
+                  133
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500856842951483397,
+               "id_str": "1500856842951483397",
+               "indices": [
+                  136,
+                  159
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNQd8jHXoAM6X_I.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQd8jHXoAM6X_I.jpg",
+               "url": "https://t.co/5HaRmnouoG",
+               "display_url": "pic.twitter.com/5HaRmnouoG",
+               "expanded_url": "https://twitter.com/RepGregMurphy/status/1500857697352224773/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 332581,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/1280x720/408SNcH1jeWef7du.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/480x270/SFEBMK_5Is4YYZ_3.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/640x360/IwWKL8vb7uRYedoR.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/pl/rZ1S-TcNJ65x4VsH.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500856842951483397,
+               "id_str": "1500856842951483397",
+               "indices": [
+                  136,
+                  159
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNQd8jHXoAM6X_I.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQd8jHXoAM6X_I.jpg",
+               "url": "https://t.co/5HaRmnouoG",
+               "display_url": "pic.twitter.com/5HaRmnouoG",
+               "expanded_url": "https://twitter.com/RepGregMurphy/status/1500857697352224773/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 332581,
+                  "variants": [
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/1280x720/408SNcH1jeWef7du.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/480x270/SFEBMK_5Is4YYZ_3.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/vid/640x360/IwWKL8vb7uRYedoR.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500856842951483397/pl/rZ1S-TcNJ65x4VsH.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 640,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/T4QeMNiyeO",
+            "expanded_url": "https://twitter.com/i/web/status/1500857697352224773",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               104,
+               127
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667334293"
+}

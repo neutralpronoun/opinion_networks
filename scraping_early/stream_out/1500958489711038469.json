@@ -1,0 +1,144 @@
+{
+   "created_at": "Mon Mar 07 22:16:05 +0000 2022",
+   "id": 1500958489711038469,
+   "id_str": "1500958489711038469",
+   "text": "@SenMarkKelly You are doing excellent work representing the people of Arizona. @SenMarkKelly ! \u2b50\n \nBut please vet t\u2026 https://t.co/rkjl9ZTdaK",
+   "display_text_range": [
+      14,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500871356564582404,
+   "in_reply_to_status_id_str": "1500871356564582404",
+   "in_reply_to_user_id": 1324926274888888320,
+   "in_reply_to_user_id_str": "1324926274888888320",
+   "in_reply_to_screen_name": "SenMarkKelly",
+   "user": {
+      "id": 30039891,
+      "id_str": "30039891",
+      "name": "Rep. Mitzi Epstein",
+      "screen_name": "MitziEpstein",
+      "location": "Tempe Ahwatukee Chandler Mesa",
+      "url": "http://www.ME4AZ.com",
+      "description": "AZ State House Representative. I tweet: AZ Politics, #SmallBusiness, #Tech, #RedForEd, #art. Exper: Computer Systems Analyst, Kyrene School Board, AYSO",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 6769,
+      "friends_count": 4008,
+      "listed_count": 229,
+      "favourites_count": 12227,
+      "statuses_count": 9490,
+      "created_at": "Thu Apr 09 18:45:18 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "2343C4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/795856415466192897/kXBfyXCm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/795856415466192897/kXBfyXCm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/30039891/1539645078",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@SenMarkKelly You are doing excellent work representing the people of Arizona. @SenMarkKelly ! \u2b50\n \nBut please vet the bill carefully to build tech chips here, do not rush it into law.  By \"rush\" I infer you mean, \"It's a top priority and our team is working ardently on it.\"\n\ud83d\ude0a \ud83d\udc4d",
+      "display_text_range": [
+         14,
+         278
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SenMarkKelly",
+               "name": "Senator Mark Kelly",
+               "id": 1324926274888888320,
+               "id_str": "1324926274888888320",
+               "indices": [
+                  0,
+                  13
+               ]
+            },
+            {
+               "screen_name": "SenMarkKelly",
+               "name": "Senator Mark Kelly",
+               "id": 1324926274888888320,
+               "id_str": "1324926274888888320",
+               "indices": [
+                  79,
+                  92
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/rkjl9ZTdaK",
+            "expanded_url": "https://twitter.com/i/web/status/1500958489711038469",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenMarkKelly",
+            "name": "Senator Mark Kelly",
+            "id": 1324926274888888320,
+            "id_str": "1324926274888888320",
+            "indices": [
+               0,
+               13
+            ]
+         },
+         {
+            "screen_name": "SenMarkKelly",
+            "name": "Senator Mark Kelly",
+            "id": 1324926274888888320,
+            "id_str": "1324926274888888320",
+            "indices": [
+               79,
+               92
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691365064"
+}

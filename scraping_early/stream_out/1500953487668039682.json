@@ -1,0 +1,207 @@
+{
+   "created_at": "Mon Mar 07 21:56:12 +0000 2022",
+   "id": 1500953487668039682,
+   "id_str": "1500953487668039682",
+   "text": "RT @RepCasten: Leading the world in limiting global warming to 1.5 degrees Celsius will require monumental #ClimateAction.\n\nCongress must w\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 38483313,
+      "id_str": "38483313",
+      "name": "Ceres",
+      "screen_name": "CeresNews",
+      "location": "Boston, MA",
+      "url": "http://www.ceres.org",
+      "description": "Sustainability nonprofit working with the most influential investors and companies to build leadership and drive solutions throughout the economy.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 52109,
+      "friends_count": 3262,
+      "listed_count": 1974,
+      "favourites_count": 6820,
+      "statuses_count": 27262,
+      "created_at": "Thu May 07 18:14:57 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "73993E",
+      "profile_sidebar_border_color": "82AA1A",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1222540313656545284/LIkgUEcI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222540313656545284/LIkgUEcI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38483313/1493920464",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 21:53:50 +0000 2022",
+      "id": 1500952890076274688,
+      "id_str": "1500952890076274688",
+      "text": "Leading the world in limiting global warming to 1.5 degrees Celsius will require monumental #ClimateAction.\n\nCongre\u2026 https://t.co/Ugf8gjcRUR",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1083472286089396224,
+         "id_str": "1083472286089396224",
+         "name": "Rep. Sean Casten",
+         "screen_name": "RepCasten",
+         "location": null,
+         "url": "https://casten.house.gov/",
+         "description": "Proudly serving IL-06. Dad, husband, former clean energy entrepreneur. Climate nerd & consumer advocate @ClimateCrisis, @HouseScience, @FSCdems. He.Him.His.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 22991,
+         "friends_count": 3529,
+         "listed_count": 567,
+         "favourites_count": 2498,
+         "statuses_count": 7326,
+         "created_at": "Thu Jan 10 21:14:57 +0000 2019",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "46819C",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100458327002304513/mINz-ss-_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083472286089396224/1599621916",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Leading the world in limiting global warming to 1.5 degrees Celsius will require monumental #ClimateAction.\n\nCongress must work to pass climate action with the scale and urgency science demands to ensure we can provide a safe, healthy, and vibrant planet to our children.",
+         "display_text_range": [
+            0,
+            271
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "ClimateAction",
+                  "indices": [
+                     92,
+                     106
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6,
+      "favorite_count": 4,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "ClimateAction",
+               "indices": [
+                  92,
+                  106
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/Ugf8gjcRUR",
+               "expanded_url": "https://twitter.com/i/web/status/1500952890076274688",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "ClimateAction",
+            "indices": [
+               107,
+               121
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepCasten",
+            "name": "Rep. Sean Casten",
+            "id": 1083472286089396224,
+            "id_str": "1083472286089396224",
+            "indices": [
+               3,
+               13
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690172484"
+}

@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 18:34:02 +0000 2022",
+   "id": 1500902611599380481,
+   "id_str": "1500902611599380481",
+   "text": "Putin claimed this was a war to liberate Ukrainians from \u201cnazism\u201d and persecution, but there sure doesn\u2019t seem to b\u2026 https://t.co/YbkJ3DyYcJ",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1061310112013434882,
+      "id_str": "1061310112013434882",
+      "name": "Rep. Dean Phillips \ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "RepDeanPhillips",
+      "location": "Minnesota, USA",
+      "url": "https://phillips.house.gov",
+      "description": "\u201cNormally affable\u201d - @NYTimes. Radical pragmatist, common sense enthusiast, and 12th most bipartisan member of Congress. Pro-human, anti-corruption, patriot.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 50839,
+      "friends_count": 1869,
+      "listed_count": 660,
+      "favourites_count": 9713,
+      "statuses_count": 3061,
+      "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1389981753419390977/2-KvS8Iy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389981753419390977/2-KvS8Iy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1643258389",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Putin claimed this was a war to liberate Ukrainians from \u201cnazism\u201d and persecution, but there sure doesn\u2019t seem to be a flow of refugees clamoring to enter Russia - and for good reason. https://t.co/rsD2jGwKWQ",
+      "display_text_range": [
+         0,
+         208
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/rsD2jGwKWQ",
+               "expanded_url": "https://www.reuters.com/markets/asia/top-wrap-1-ukrainians-trapped-besieged-city-fighting-blocks-evacuation-efforts-2022-03-07/",
+               "display_url": "reuters.com/markets/asia/t\u2026",
+               "indices": [
+                  185,
+                  208
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/YbkJ3DyYcJ",
+            "expanded_url": "https://twitter.com/i/web/status/1500902611599380481",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678042684"
+}

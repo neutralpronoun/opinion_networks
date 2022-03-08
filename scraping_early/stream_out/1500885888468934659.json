@@ -1,0 +1,249 @@
+{
+   "created_at": "Mon Mar 07 17:27:35 +0000 2022",
+   "id": 1500885888468934659,
+   "id_str": "1500885888468934659",
+   "text": "I have introduced a bipartisan Senate resolution calling for Putin and members of his regime to be held accountable\u2026 https://t.co/PYzFXvZcA6",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1074518754,
+      "id_str": "1074518754",
+      "name": "Sen. Tammy Baldwin",
+      "screen_name": "SenatorBaldwin",
+      "location": "Washington, D.C.",
+      "url": "http://www.baldwin.senate.gov/",
+      "description": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 143164,
+      "friends_count": 2673,
+      "listed_count": 2574,
+      "favourites_count": 626,
+      "statuses_count": 17479,
+      "created_at": "Wed Jan 09 18:29:44 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074518754/1524675375",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I have introduced a bipartisan Senate resolution calling for Putin and members of his regime to be held accountable for the numerous acts of war, aggression, and human rights abuses that have been conducted in Ukraine against innocent people who only want peace and freedom. https://t.co/Cd8oj0uqBs",
+      "display_text_range": [
+         0,
+         274
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500884753561567235,
+               "id_str": "1500884753561567235",
+               "indices": [
+                  275,
+                  298
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500884753561567235/img/6hxkwpzawPLD-o8k.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500884753561567235/img/6hxkwpzawPLD-o8k.jpg",
+               "url": "https://t.co/Cd8oj0uqBs",
+               "display_url": "pic.twitter.com/Cd8oj0uqBs",
+               "expanded_url": "https://twitter.com/SenatorBaldwin/status/1500885888468934659/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 27427,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/640x360/rR8mHy74App2Kmi1.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/480x270/loYmSNDocyEf7xRo.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/1280x720/-m1TxMoUWG5a0qk4.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/pl/vp2BBamXw8FiHhhS.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1280,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500884753561567235,
+               "id_str": "1500884753561567235",
+               "indices": [
+                  275,
+                  298
+               ],
+               "additional_media_info": {
+                  "title": "",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/amplify_video_thumb/1500884753561567235/img/6hxkwpzawPLD-o8k.jpg",
+               "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1500884753561567235/img/6hxkwpzawPLD-o8k.jpg",
+               "url": "https://t.co/Cd8oj0uqBs",
+               "display_url": "pic.twitter.com/Cd8oj0uqBs",
+               "expanded_url": "https://twitter.com/SenatorBaldwin/status/1500885888468934659/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     16,
+                     9
+                  ],
+                  "duration_millis": 27427,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/640x360/rR8mHy74App2Kmi1.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/480x270/loYmSNDocyEf7xRo.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/vid/1280x720/-m1TxMoUWG5a0qk4.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500884753561567235/pl/vp2BBamXw8FiHhhS.m3u8?tag=14&container=fmp4"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1280,
+                     "h": 720,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/PYzFXvZcA6",
+            "expanded_url": "https://twitter.com/i/web/status/1500885888468934659",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674055579"
+}

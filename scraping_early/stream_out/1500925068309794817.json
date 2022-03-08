@@ -1,0 +1,226 @@
+{
+   "created_at": "Mon Mar 07 20:03:16 +0000 2022",
+   "id": 1500925068309794817,
+   "id_str": "1500925068309794817",
+   "text": "RT @maziehirono: I strongly support the @DeptofDefense decision to close Red Hill, which I have been urging them to do for weeks. \n\nThe hea\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2214976753,
+      "id_str": "2214976753",
+      "name": "Kristy Tamashiro",
+      "screen_name": "kristytamashiro",
+      "location": "Honolulu, HI",
+      "url": "http://bit.ly/2kuZGJb",
+      "description": "@KHONnews Reporter \ud83d\udcfa| On-Air Personality @island985fm & @939Beat\ud83c\udfa7 #iHeartHonolulu",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1775,
+      "friends_count": 1408,
+      "listed_count": 37,
+      "favourites_count": 28675,
+      "statuses_count": 11208,
+      "created_at": "Tue Nov 26 02:14:59 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1372243619919187970/fwjtSR8B_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372243619919187970/fwjtSR8B_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2214976753/1619595463",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:03:02 +0000 2022",
+      "id": 1500925006351675402,
+      "id_str": "1500925006351675402",
+      "text": "I strongly support the @DeptofDefense decision to close Red Hill, which I have been urging them to do for weeks.\u2026 https://t.co/zMndddthFB",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 92186819,
+         "id_str": "92186819",
+         "name": "Senator Mazie Hirono",
+         "screen_name": "maziehirono",
+         "location": "Hawaii",
+         "url": "http://www.hirono.senate.gov",
+         "description": "U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 512300,
+         "friends_count": 1611,
+         "listed_count": 3536,
+         "favourites_count": 726,
+         "statuses_count": 7358,
+         "created_at": "Tue Nov 24 03:10:37 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "B7A7EB",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "CC3366",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130916929957445632/mkavgyCa_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/92186819/1519779404",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "I strongly support the @DeptofDefense decision to close Red Hill, which I have been urging them to do for weeks. \n\nThe health and safety of the residents of Oahu is my top priority &amp; I share the community\u2019s big sigh of relief with this news. https://t.co/1JpqfiKlab",
+         "display_text_range": [
+            0,
+            269
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/1JpqfiKlab",
+                  "expanded_url": "https://www.hirono.senate.gov/news/press-releases/senator-hirono-statement-on-department-of-defenses-decision-to-close-red-hill",
+                  "display_url": "hirono.senate.gov/news/press-rel\u2026",
+                  "indices": [
+                     246,
+                     269
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "DeptofDefense",
+                  "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+                  "id": 66369181,
+                  "id_str": "66369181",
+                  "indices": [
+                     23,
+                     37
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/zMndddthFB",
+               "expanded_url": "https://twitter.com/i/web/status/1500925006351675402",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  114,
+                  137
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "DeptofDefense",
+               "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+               "id": 66369181,
+               "id_str": "66369181",
+               "indices": [
+                  23,
+                  37
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "maziehirono",
+            "name": "Senator Mazie Hirono",
+            "id": 92186819,
+            "id_str": "92186819",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "DeptofDefense",
+            "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+            "id": 66369181,
+            "id_str": "66369181",
+            "indices": [
+               40,
+               54
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683396781"
+}

@@ -1,0 +1,117 @@
+{
+   "created_at": "Mon Mar 07 18:58:35 +0000 2022",
+   "id": 1500908788135731208,
+   "id_str": "1500908788135731208",
+   "text": "Our American Rescue Plan continues to help local organizations bounce back from COVID.\n\nA new $50k grant for the Bo\u2026 https://t.co/l7tPU62CEn",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1017819745880543238,
+      "id_str": "1017819745880543238",
+      "name": "Rep. Jennifer Wexton",
+      "screen_name": "RepWexton",
+      "location": "Leesburg, VA",
+      "url": "http://wexton.house.gov",
+      "description": "Mom to two boys & two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 32439,
+      "friends_count": 1345,
+      "listed_count": 590,
+      "favourites_count": 524,
+      "statuses_count": 4340,
+      "created_at": "Fri Jul 13 17:15:12 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496907336635535360/cUM0jM4i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017819745880543238/1618181985",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Our American Rescue Plan continues to help local organizations bounce back from COVID.\n\nA new $50k grant for the Boyce Volunteer Fire Co. will help make up for a fundraising dip during the pandemic and support the essential work of #VA10 first responders.\nhttps://t.co/L98no5bNiB",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "VA10",
+               "indices": [
+                  232,
+                  237
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/L98no5bNiB",
+               "expanded_url": "https://www.winchesterstar.com/winchester_star/boyce-volunteer-fire-company-methodist-church-to-receive-arpa-allocations/article_00b204d1-acb0-5757-ad4e-ea215eced2c6.html",
+               "display_url": "winchesterstar.com/winchester_sta\u2026",
+               "indices": [
+                  256,
+                  279
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/l7tPU62CEn",
+            "expanded_url": "https://twitter.com/i/web/status/1500908788135731208",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679515285"
+}

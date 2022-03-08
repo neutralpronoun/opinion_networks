@@ -1,0 +1,429 @@
+{
+   "created_at": "Mon Mar 07 19:53:26 +0000 2022",
+   "id": 1500922591913070596,
+   "id_str": "1500922591913070596",
+   "text": "I was proud to celebrate the resilience of businesses and job creators this weekend at the @OzarkChamber\u2019s 75th ann\u2026 https://t.co/YxEojOHzwD",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 5558312,
+      "id_str": "5558312",
+      "name": "Senator John Boozman",
+      "screen_name": "JohnBoozman",
+      "location": "Arkansas",
+      "url": "http://boozman.senate.gov",
+      "description": "U.S. Senator for Arkansas serving as @SenateAgGOP leader and on the Appropriations, EPW & Veterans\u2019 Affairs committees #ServingAR #ARinDC  Contact: 202-224-4843",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 104159,
+      "friends_count": 856,
+      "listed_count": 2582,
+      "favourites_count": 3351,
+      "statuses_count": 8434,
+      "created_at": "Fri Apr 27 16:05:52 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "A60000",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5558312/1520286185",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I was proud to celebrate the resilience of businesses and job creators this weekend at the @OzarkChamber\u2019s 75th annual awards ceremony this weekend. Local entrepreneurs help form the backbone of our economy. We appreciate all they do and represent.\n\nMore: https://t.co/GZMxF4EYKo https://t.co/BLcO44gGQM",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/GZMxF4EYKo",
+               "expanded_url": "http://boozman.senate.gov/public/index.cfm/press-releases?id=A2D048FD-5FB9-4209-826A-109B3B0DD8A1",
+               "display_url": "boozman.senate.gov/public/index.c\u2026",
+               "indices": [
+                  256,
+                  279
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "OzarkChamber",
+               "name": "Ozark Area Chamber",
+               "id": 27643415,
+               "id_str": "27643415",
+               "indices": [
+                  91,
+                  104
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500922580768858113,
+               "id_str": "1500922580768858113",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIo4XIAEj7hS.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIo4XIAEj7hS.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1885,
+                     "h": 1257,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922581226082307,
+               "id_str": "1500922581226082307",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIqlX0AMsPTT.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIqlX0AMsPTT.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922580903022597,
+               "id_str": "1500922580903022597",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIpYWUAUELaH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIpYWUAUELaH.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 2048,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922581041434626,
+               "id_str": "1500922581041434626",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIp5WUAIhiGr.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIp5WUAIhiGr.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 820,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1830,
+                     "h": 1251,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500922580768858113,
+               "id_str": "1500922580768858113",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIo4XIAEj7hS.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIo4XIAEj7hS.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1885,
+                     "h": 1257,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922581226082307,
+               "id_str": "1500922581226082307",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIqlX0AMsPTT.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIqlX0AMsPTT.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922580903022597,
+               "id_str": "1500922580903022597",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIpYWUAUELaH.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIpYWUAUELaH.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 2048,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500922581041434626,
+               "id_str": "1500922581041434626",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRZIp5WUAIhiGr.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRZIp5WUAIhiGr.jpg",
+               "url": "https://t.co/BLcO44gGQM",
+               "display_url": "pic.twitter.com/BLcO44gGQM",
+               "expanded_url": "https://twitter.com/JohnBoozman/status/1500922591913070596/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 465,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 820,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1830,
+                     "h": 1251,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/YxEojOHzwD",
+            "expanded_url": "https://twitter.com/i/web/status/1500922591913070596",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "OzarkChamber",
+            "name": "Ozark Area Chamber",
+            "id": 27643415,
+            "id_str": "27643415",
+            "indices": [
+               91,
+               104
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646682806362"
+}

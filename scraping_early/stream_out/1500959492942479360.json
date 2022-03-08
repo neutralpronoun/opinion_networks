@@ -1,0 +1,156 @@
+{
+   "created_at": "Mon Mar 07 22:20:04 +0000 2022",
+   "id": 1500959492942479360,
+   "id_str": "1500959492942479360",
+   "text": "@RepMTG You are a clueless traitor the world is appalled at right wing branless fools like you with no education wh\u2026 https://t.co/0xn6C3GBCA",
+   "display_text_range": [
+      8,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500826285559406593,
+   "in_reply_to_status_id_str": "1500826285559406593",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 564673621,
+      "id_str": "564673621",
+      "name": "Professor Danny Blanchflower economist & fisherman",
+      "screen_name": "D_Blanchflower",
+      "location": "Hanover, NH, USA",
+      "url": "https://sites.dartmouth.edu/blanchflower/",
+      "description": "Author of Not working: where have all the good jobs gone? Proud grandad of Clare, Eliza, Gus, Hadley, Henry, Isla, Kinsley, Lincoln and Oliver",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 66211,
+      "friends_count": 5256,
+      "listed_count": 1302,
+      "favourites_count": 73095,
+      "statuses_count": 147038,
+      "created_at": "Fri Apr 27 14:49:36 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1143977382929416192/J1leQUYW_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143977382929416192/J1leQUYW_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/564673621/1606829022",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": {
+      "id": "6741728259cc0032",
+      "url": "https://api.twitter.com/1.1/geo/id/6741728259cc0032.json",
+      "place_type": "city",
+      "name": "Sanibel",
+      "full_name": "Sanibel, FL",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+         "type": "Polygon",
+         "coordinates": [
+            [
+               [
+                  -82.114016,
+                  26.42166
+               ],
+               [
+                  -82.114016,
+                  26.469357
+               ],
+               [
+                  -82.013547,
+                  26.469357
+               ],
+               [
+                  -82.013547,
+                  26.42166
+               ]
+            ]
+         ]
+      },
+      "attributes": {}
+   },
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepMTG You are a clueless traitor the world is appalled at right wing branless fools like you with no education who know zero I bet you have no clue where Ukraine is plus his passport better than yours as they checked him out",
+      "display_text_range": [
+         8,
+         226
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  0,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0xn6C3GBCA",
+            "expanded_url": "https://twitter.com/i/web/status/1500959492942479360",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691604253"
+}

@@ -1,0 +1,1003 @@
+{
+   "created_at": "Tue Mar 08 00:57:02 +0000 2022",
+   "id": 1500998994885029888,
+   "id_str": "1500998994885029888",
+   "text": "RT @michaelcburgess: President Biden MUST listen to @HouseGOP and #FliptheSwitch to unleash American energy independence.",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1209417007,
+      "id_str": "1209417007",
+      "name": "Steve Scalise",
+      "screen_name": "SteveScalise",
+      "location": "Jefferson, LA",
+      "url": "http://www.republicanwhip.gov",
+      "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 478067,
+      "friends_count": 1289,
+      "listed_count": 2800,
+      "favourites_count": 2616,
+      "statuses_count": 13959,
+      "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "021F59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 23:41:00 +0000 2022",
+      "id": 1500979860377845762,
+      "id_str": "1500979860377845762",
+      "text": "President Biden MUST listen to @HouseGOP and #FliptheSwitch to unleash American energy independence.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 15751083,
+         "id_str": "15751083",
+         "name": "Michael Burgess, MD",
+         "screen_name": "michaelcburgess",
+         "location": "Washington, DC/Lake Dallas, TX",
+         "url": "http://burgess.house.gov",
+         "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 33267,
+         "friends_count": 2393,
+         "listed_count": 1545,
+         "favourites_count": 918,
+         "statuses_count": 9364,
+         "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "090A8B",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FF2941",
+         "profile_sidebar_fill_color": "E2E3E9",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1364682510811230214/R1i4YVfn_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364682510811230214/R1i4YVfn_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/15751083/1610380200",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1499517442221088769,
+      "quoted_status_id_str": "1499517442221088769",
+      "quoted_status": {
+         "created_at": "Thu Mar 03 22:49:52 +0000 2022",
+         "id": 1499517442221088769,
+         "id_str": "1499517442221088769",
+         "text": "\ud83d\udea8 Just sent this letter to Biden demanding he end his anti-American energy agenda.\n\nHe needs to:\n1. Remove red tape\u2026 https://t.co/6KtXx4x9Io",
+         "display_text_range": [
+            0,
+            140
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "name": "Steve Scalise",
+            "screen_name": "SteveScalise",
+            "location": "Jefferson, LA",
+            "url": "http://www.republicanwhip.gov",
+            "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 478067,
+            "friends_count": 1289,
+            "listed_count": 2800,
+            "favourites_count": 2616,
+            "statuses_count": 13958,
+            "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "021F59",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "\ud83d\udea8 Just sent this letter to Biden demanding he end his anti-American energy agenda.\n\nHe needs to:\n1. Remove red tape for energy infrastructure\n2. End the drilling moratorium on federal land\n3. Approve pipelines &amp; LNG export permits\n4. End woke climate activism by federal agencies https://t.co/KzfgesLWCL",
+            "display_text_range": [
+               0,
+               283
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [],
+               "symbols": [],
+               "media": [
+                  {
+                     "id": 1499517438295220228,
+                     "id_str": "1499517438295220228",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517438291066880,
+                     "id_str": "1499517438291066880",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517439410950148,
+                     "id_str": "1499517439410950148",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517438450405376,
+                     "id_str": "1499517438450405376",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            },
+            "extended_entities": {
+               "media": [
+                  {
+                     "id": 1499517438295220228,
+                     "id_str": "1499517438295220228",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517438291066880,
+                     "id_str": "1499517438291066880",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517439410950148,
+                     "id_str": "1499517439410950148",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  },
+                  {
+                     "id": 1499517438450405376,
+                     "id_str": "1499517438450405376",
+                     "indices": [
+                        284,
+                        307
+                     ],
+                     "media_url": "http://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                     "media_url_https": "https://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                     "url": "https://t.co/KzfgesLWCL",
+                     "display_url": "pic.twitter.com/KzfgesLWCL",
+                     "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                     "type": "photo",
+                     "sizes": {
+                        "thumb": {
+                           "w": 150,
+                           "h": 150,
+                           "resize": "crop"
+                        },
+                        "large": {
+                           "w": 1583,
+                           "h": 2048,
+                           "resize": "fit"
+                        },
+                        "medium": {
+                           "w": 928,
+                           "h": 1200,
+                           "resize": "fit"
+                        },
+                        "small": {
+                           "w": 526,
+                           "h": 680,
+                           "resize": "fit"
+                        }
+                     }
+                  }
+               ]
+            }
+         },
+         "quote_count": 45,
+         "reply_count": 401,
+         "retweet_count": 386,
+         "favorite_count": 1114,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/6KtXx4x9Io",
+                  "expanded_url": "https://twitter.com/i/web/status/1499517442221088769",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/JDKHbOUKvg",
+         "expanded": "https://twitter.com/SteveScalise/status/1499517442221088769",
+         "display": "twitter.com/SteveScalise/s\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 36,
+      "retweet_count": 20,
+      "favorite_count": 69,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "FliptheSwitch",
+               "indices": [
+                  45,
+                  59
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "HouseGOP",
+               "name": "House Republicans",
+               "id": 15207668,
+               "id_str": "15207668",
+               "indices": [
+                  31,
+                  40
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1499517442221088769,
+   "quoted_status_id_str": "1499517442221088769",
+   "quoted_status": {
+      "created_at": "Thu Mar 03 22:49:52 +0000 2022",
+      "id": 1499517442221088769,
+      "id_str": "1499517442221088769",
+      "text": "\ud83d\udea8 Just sent this letter to Biden demanding he end his anti-American energy agenda.\n\nHe needs to:\n1. Remove red tape\u2026 https://t.co/6KtXx4x9Io",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1209417007,
+         "id_str": "1209417007",
+         "name": "Steve Scalise",
+         "screen_name": "SteveScalise",
+         "location": "Jefferson, LA",
+         "url": "http://www.republicanwhip.gov",
+         "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 478067,
+         "friends_count": 1289,
+         "listed_count": 2800,
+         "favourites_count": 2616,
+         "statuses_count": 13958,
+         "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "021F59",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\ud83d\udea8 Just sent this letter to Biden demanding he end his anti-American energy agenda.\n\nHe needs to:\n1. Remove red tape for energy infrastructure\n2. End the drilling moratorium on federal land\n3. Approve pipelines &amp; LNG export permits\n4. End woke climate activism by federal agencies https://t.co/KzfgesLWCL",
+         "display_text_range": [
+            0,
+            283
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499517438295220228,
+                  "id_str": "1499517438295220228",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517438291066880,
+                  "id_str": "1499517438291066880",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517439410950148,
+                  "id_str": "1499517439410950148",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517438450405376,
+                  "id_str": "1499517438450405376",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499517438295220228,
+                  "id_str": "1499517438295220228",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKlQXIAQ0y1g.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517438291066880,
+                  "id_str": "1499517438291066880",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKlPXwAAWgnu.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517439410950148,
+                  "id_str": "1499517439410950148",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKpaX0AQkx2l.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1499517438450405376,
+                  "id_str": "1499517438450405376",
+                  "indices": [
+                     284,
+                     307
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FM9bKl1XEAA7evC.jpg",
+                  "url": "https://t.co/KzfgesLWCL",
+                  "display_url": "pic.twitter.com/KzfgesLWCL",
+                  "expanded_url": "https://twitter.com/SteveScalise/status/1499517442221088769/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1583,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 928,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 526,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 45,
+      "reply_count": 401,
+      "retweet_count": 386,
+      "favorite_count": 1114,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/6KtXx4x9Io",
+               "expanded_url": "https://twitter.com/i/web/status/1499517442221088769",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/JDKHbOUKvg",
+      "expanded": "https://twitter.com/SteveScalise/status/1499517442221088769",
+      "display": "twitter.com/SteveScalise/s\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "FliptheSwitch",
+            "indices": [
+               66,
+               80
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "michaelcburgess",
+            "name": "Michael Burgess, MD",
+            "id": 15751083,
+            "id_str": "15751083",
+            "indices": [
+               3,
+               19
+            ]
+         },
+         {
+            "screen_name": "HouseGOP",
+            "name": "House Republicans",
+            "id": 15207668,
+            "id_str": "15207668",
+            "indices": [
+               52,
+               61
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701022250"
+}

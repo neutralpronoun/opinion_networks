@@ -1,0 +1,424 @@
+{
+   "created_at": "Mon Mar 07 20:28:23 +0000 2022",
+   "id": 1500931388572319746,
+   "id_str": "1500931388572319746",
+   "text": "While my CA colleagues across the aisle continue to claim the State of the Union is strong \u2013 it's clear that the av\u2026 https://t.co/OwSc0FPdTK",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1262531473057423361,
+      "id_str": "1262531473057423361",
+      "name": "Rep. Mike Garcia",
+      "screen_name": "RepMikeGarcia",
+      "location": "Santa Clarita, CA",
+      "url": "https://mikegarcia.house.gov/",
+      "description": "Representing California's 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP & @Housesciencegop.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 8376,
+      "friends_count": 474,
+      "listed_count": 214,
+      "favourites_count": 219,
+      "statuses_count": 1571,
+      "created_at": "Mon May 18 23:54:00 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1451271455849820166/Pa-nWPGm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451271455849820166/Pa-nWPGm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262531473057423361/1630610700",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1499986109631123458,
+   "quoted_status_id_str": "1499986109631123458",
+   "quoted_status": {
+      "created_at": "Sat Mar 05 05:52:11 +0000 2022",
+      "id": 1499986109631123458,
+      "id_str": "1499986109631123458",
+      "text": "How would you describe the #StateOfTheUnion? \n\nIs it strong, complicated, or the end of the world?\n\nSpeaking w/\u2026 https://t.co/oa2c80YPvm",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 372966134,
+         "id_str": "372966134",
+         "name": "The Issue Is",
+         "screen_name": "TheIssueIsShow",
+         "location": "Los Angeles",
+         "url": "http://TheIssueIsShow.com",
+         "description": "Discussions and debates with top newsmakers about the most controversial and interesting issues impacting California, hosted by @foxla\u2019s @Elex_Michaelson",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 9740,
+         "friends_count": 3372,
+         "listed_count": 131,
+         "favourites_count": 30,
+         "statuses_count": 3911,
+         "created_at": "Tue Sep 13 19:06:17 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "000000",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1205967380909740032/Yscnn-RE_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205967380909740032/Yscnn-RE_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/372966134/1461863174",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "How would you describe the #StateOfTheUnion? \n\nIs it strong, complicated, or the end of the world?\n\nSpeaking w/ @RepTedLieu, @RepKarenBass, @RepAdamSchiff, @RepMikeGarcia, and a number of California voters, we heard it all.\n\n@Elex_Michaelson hosts @TheIssueIsShow https://t.co/Xa81Rl2Jzq",
+         "display_text_range": [
+            0,
+            263
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "StateOfTheUnion",
+                  "indices": [
+                     27,
+                     43
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepTedLieu",
+                  "name": "Rep. Ted Lieu",
+                  "id": 3044993235,
+                  "id_str": "3044993235",
+                  "indices": [
+                     112,
+                     123
+                  ]
+               },
+               {
+                  "screen_name": "RepKarenBass",
+                  "name": "Congressmember Bass",
+                  "id": 239949176,
+                  "id_str": "239949176",
+                  "indices": [
+                     125,
+                     138
+                  ]
+               },
+               {
+                  "screen_name": "RepAdamSchiff",
+                  "name": "Adam Schiff",
+                  "id": 29501253,
+                  "id_str": "29501253",
+                  "indices": [
+                     140,
+                     154
+                  ]
+               },
+               {
+                  "screen_name": "RepMikeGarcia",
+                  "name": "Rep. Mike Garcia",
+                  "id": 1262531473057423361,
+                  "id_str": "1262531473057423361",
+                  "indices": [
+                     156,
+                     170
+                  ]
+               },
+               {
+                  "screen_name": "Elex_Michaelson",
+                  "name": "Elex Michaelson",
+                  "id": 937422446323314688,
+                  "id_str": "937422446323314688",
+                  "indices": [
+                     225,
+                     241
+                  ]
+               },
+               {
+                  "screen_name": "TheIssueIsShow",
+                  "name": "The Issue Is",
+                  "id": 372966134,
+                  "id_str": "372966134",
+                  "indices": [
+                     248,
+                     263
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499984689146200065,
+                  "id_str": "1499984689146200065",
+                  "indices": [
+                     264,
+                     287
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499984689146200065/pu/img/jtpHZT8DcgQCyC9b.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499984689146200065/pu/img/jtpHZT8DcgQCyC9b.jpg",
+                  "url": "https://t.co/Xa81Rl2Jzq",
+                  "display_url": "pic.twitter.com/Xa81Rl2Jzq",
+                  "expanded_url": "https://twitter.com/TheIssueIsShow/status/1499986109631123458/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 134134,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/pl/9VGra1xDRqwM84gL.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/480x270/Pb__zowfgavW1h0P.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/1280x720/jxp0SbUZjp53ovir.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/640x360/Rgan96FDvFiLnDYm.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499984689146200065,
+                  "id_str": "1499984689146200065",
+                  "indices": [
+                     264,
+                     287
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499984689146200065/pu/img/jtpHZT8DcgQCyC9b.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499984689146200065/pu/img/jtpHZT8DcgQCyC9b.jpg",
+                  "url": "https://t.co/Xa81Rl2Jzq",
+                  "display_url": "pic.twitter.com/Xa81Rl2Jzq",
+                  "expanded_url": "https://twitter.com/TheIssueIsShow/status/1499986109631123458/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        16,
+                        9
+                     ],
+                     "duration_millis": 134134,
+                     "variants": [
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/pl/9VGra1xDRqwM84gL.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                           "bitrate": 256000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/480x270/Pb__zowfgavW1h0P.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 2176000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/1280x720/jxp0SbUZjp53ovir.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499984689146200065/pu/vid/640x360/Rgan96FDvFiLnDYm.mp4?tag=12"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "StateOfTheUnion",
+               "indices": [
+                  27,
+                  43
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/oa2c80YPvm",
+               "expanded_url": "https://twitter.com/i/web/status/1499986109631123458",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  113,
+                  136
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/QSuYRKgJoq",
+      "expanded": "https://twitter.com/TheIssueIsShow/status/1499986109631123458",
+      "display": "twitter.com/TheIssueIsShow\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "While my CA colleagues across the aisle continue to claim the State of the Union is strong \u2013 it's clear that the average Californian doesn\u2019t agree. Californians deserve better. I will continue to do everything I can to help revive our economy &amp; keep our nation safe and secure!",
+      "display_text_range": [
+         0,
+         281
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/OwSc0FPdTK",
+            "expanded_url": "https://twitter.com/i/web/status/1500931388572319746",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684903649"
+}

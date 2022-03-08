@@ -1,0 +1,352 @@
+{
+   "created_at": "Mon Mar 07 16:56:49 +0000 2022",
+   "id": 1500878145293107204,
+   "id_str": "1500878145293107204",
+   "text": "It was a pleasure to virtually meet with @CharlesCoMD Commissioners and talk about the #InfrastructureBill, the\u2026 https://t.co/uASqLZE4Pn",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 109071031,
+      "id_str": "109071031",
+      "name": "Senator Ben Cardin",
+      "screen_name": "SenatorCardin",
+      "location": "Maryland, USA",
+      "url": "https://www.cardin.senate.gov/coronavirus-resources",
+      "description": "US Senator for Maryland. Chair, #SmallBiz Cmte. \nGet your shot and booster. Wear a mask when appropriate. Be safe. \n#TeamMaryland \n\nhttps://t.co/MWU3MnXB1D\u2026",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 261897,
+      "friends_count": 3355,
+      "listed_count": 3120,
+      "favourites_count": 2529,
+      "statuses_count": 13301,
+      "created_at": "Wed Jan 27 22:03:53 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402649368738603013/Afm1nveV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/109071031/1625674509",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500861240377155584,
+   "quoted_status_id_str": "1500861240377155584",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 15:49:39 +0000 2022",
+      "id": 1500861240377155584,
+      "id_str": "1500861240377155584",
+      "text": "Our Board of County Commissioners was pleased to join @SenatorCardin for an update on the federal priorities for Ma\u2026 https://t.co/VmsAg8ee79",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 957865614,
+         "id_str": "957865614",
+         "name": "Charles County Govt",
+         "screen_name": "CharlesCoMD",
+         "location": "Charles County, Maryland",
+         "url": "http://www.CharlesCountyMD.gov",
+         "description": "The official Twitter page of Charles County Government. Retweets and mentions are not endorsements. Equal Opportunity Employer.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 5546,
+         "friends_count": 299,
+         "listed_count": 93,
+         "favourites_count": 1142,
+         "statuses_count": 13544,
+         "created_at": "Mon Nov 19 16:57:32 +0000 2012",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/2869706457/7d2b0805fb40537006b7084110a8726e_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/2869706457/7d2b0805fb40537006b7084110a8726e_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/957865614/1353344729",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Our Board of County Commissioners was pleased to join @SenatorCardin for an update on the federal priorities for Maryland &amp; local governments this morning. https://t.co/hF9bZwW8gi",
+         "display_text_range": [
+            0,
+            159
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SenatorCardin",
+                  "name": "Senator Ben Cardin",
+                  "id": 109071031,
+                  "id_str": "109071031",
+                  "indices": [
+                     54,
+                     68
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500860907659808768,
+                  "id_str": "1500860907659808768",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQhCypVUAAiccn.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQhCypVUAAiccn.jpg",
+                  "url": "https://t.co/hF9bZwW8gi",
+                  "display_url": "pic.twitter.com/hF9bZwW8gi",
+                  "expanded_url": "https://twitter.com/CharlesCoMD/status/1500861240377155584/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 953,
+                        "h": 504,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 953,
+                        "h": 504,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500860907659808768,
+                  "id_str": "1500860907659808768",
+                  "indices": [
+                     160,
+                     183
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQhCypVUAAiccn.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQhCypVUAAiccn.jpg",
+                  "url": "https://t.co/hF9bZwW8gi",
+                  "display_url": "pic.twitter.com/hF9bZwW8gi",
+                  "expanded_url": "https://twitter.com/CharlesCoMD/status/1500861240377155584/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 953,
+                        "h": 504,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 360,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 953,
+                        "h": 504,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/VmsAg8ee79",
+               "expanded_url": "https://twitter.com/i/web/status/1500861240377155584",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorCardin",
+               "name": "Senator Ben Cardin",
+               "id": 109071031,
+               "id_str": "109071031",
+               "indices": [
+                  54,
+                  68
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/dBUsEwGua0",
+      "expanded": "https://twitter.com/CharlesCoMD/status/1500861240377155584",
+      "display": "twitter.com/CharlesCoMD/st\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "It was a pleasure to virtually meet with @CharlesCoMD Commissioners and talk about the #InfrastructureBill, the #AmericanRescuePlan, the work we have done to address COVID-19 and its effects, and Charles County\u2019s priorities.",
+      "display_text_range": [
+         0,
+         224
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "InfrastructureBill",
+               "indices": [
+                  87,
+                  106
+               ]
+            },
+            {
+               "text": "AmericanRescuePlan",
+               "indices": [
+                  112,
+                  131
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "CharlesCoMD",
+               "name": "Charles County Govt",
+               "id": 957865614,
+               "id_str": "957865614",
+               "indices": [
+                  41,
+                  53
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "InfrastructureBill",
+            "indices": [
+               87,
+               106
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/uASqLZE4Pn",
+            "expanded_url": "https://twitter.com/i/web/status/1500878145293107204",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               113,
+               136
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "CharlesCoMD",
+            "name": "Charles County Govt",
+            "id": 957865614,
+            "id_str": "957865614",
+            "indices": [
+               41,
+               53
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646672209462"
+}

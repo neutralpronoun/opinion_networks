@@ -1,0 +1,330 @@
+{
+   "created_at": "Mon Mar 07 20:30:09 +0000 2022",
+   "id": 1500931830714875904,
+   "id_str": "1500931830714875904",
+   "text": "RT @RepStefanik: Since his first day in office, Joe Biden has declared war on American energy. https://t.co/V88C8yxSOT",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344416719260016641,
+      "id_str": "1344416719260016641",
+      "name": "Rep. Yvette Herrell",
+      "screen_name": "RepHerrell",
+      "location": "New Mexico & Washington, DC",
+      "url": "http://herrell.house.gov",
+      "description": "U.S. Congresswoman for New Mexico's Second Congressional District. Member of @NatResources and @GOPoversight",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 16802,
+      "friends_count": 614,
+      "listed_count": 271,
+      "favourites_count": 402,
+      "statuses_count": 1155,
+      "created_at": "Wed Dec 30 22:55:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344416719260016641/1616004353",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:18:05 +0000 2022",
+      "id": 1500928794059812871,
+      "id_str": "1500928794059812871",
+      "text": "Since his first day in office, Joe Biden has declared war on American energy. https://t.co/V88C8yxSOT",
+      "display_text_range": [
+         0,
+         77
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 2962813893,
+         "id_str": "2962813893",
+         "name": "Rep. Elise Stefanik",
+         "screen_name": "RepStefanik",
+         "location": null,
+         "url": "http://stefanik.house.gov",
+         "description": "Proud Representative for New York's 21st Congressional District. House Republican Conference Chair. \ud83d\udcf8 Instagram: @repstefanik",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 265549,
+         "friends_count": 732,
+         "listed_count": 1708,
+         "favourites_count": 237,
+         "statuses_count": 8607,
+         "created_at": "Mon Jan 05 22:17:51 +0000 2015",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1105573314423128064/3FMAJviW_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105573314423128064/3FMAJviW_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962813893/1618508856",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 1,
+      "reply_count": 31,
+      "retweet_count": 26,
+      "favorite_count": 64,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500928748421632002,
+               "id_str": "1500928748421632002",
+               "indices": [
+                  78,
+                  101
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+               "url": "https://t.co/V88C8yxSOT",
+               "display_url": "pic.twitter.com/V88C8yxSOT",
+               "expanded_url": "https://twitter.com/RepStefanik/status/1500928794059812871/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1152,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500928748421632002,
+               "id_str": "1500928748421632002",
+               "indices": [
+                  78,
+                  101
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+               "url": "https://t.co/V88C8yxSOT",
+               "display_url": "pic.twitter.com/V88C8yxSOT",
+               "expanded_url": "https://twitter.com/RepStefanik/status/1500928794059812871/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1152,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 383,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 675,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepStefanik",
+            "name": "Rep. Elise Stefanik",
+            "id": 2962813893,
+            "id_str": "2962813893",
+            "indices": [
+               3,
+               15
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500928748421632002,
+            "id_str": "1500928748421632002",
+            "indices": [
+               95,
+               118
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+            "url": "https://t.co/V88C8yxSOT",
+            "display_url": "pic.twitter.com/V88C8yxSOT",
+            "expanded_url": "https://twitter.com/RepStefanik/status/1500928794059812871/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1152,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500928794059812871,
+            "source_status_id_str": "1500928794059812871",
+            "source_user_id": 2962813893,
+            "source_user_id_str": "2962813893"
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500928748421632002,
+            "id_str": "1500928748421632002",
+            "indices": [
+               95,
+               118
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRevpLX0AIiPPw.jpg",
+            "url": "https://t.co/V88C8yxSOT",
+            "display_url": "pic.twitter.com/V88C8yxSOT",
+            "expanded_url": "https://twitter.com/RepStefanik/status/1500928794059812871/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1152,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500928794059812871,
+            "source_status_id_str": "1500928794059812871",
+            "source_user_id": 2962813893,
+            "source_user_id_str": "2962813893"
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685009064"
+}

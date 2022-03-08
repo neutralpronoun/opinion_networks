@@ -1,0 +1,256 @@
+{
+   "created_at": "Mon Mar 07 20:04:42 +0000 2022",
+   "id": 1500925428210577412,
+   "id_str": "1500925428210577412",
+   "text": "RT @OversightDems: NEW: Chair @GerryConnolly issued this statement after the @USGSA announced new investments as part of the Technology Mod\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 78445977,
+      "id_str": "78445977",
+      "name": "Rep. Gerry Connolly",
+      "screen_name": "GerryConnolly",
+      "location": "VA-11",
+      "url": "http://connolly.house.gov",
+      "description": "Congressman, Northern Virginia\u2019s #VA11 | Chairman, Subcommittee on Government Operations | President, @NATO Parliamentary Assembly. http://vaccines.gov",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 80246,
+      "friends_count": 834,
+      "listed_count": 1324,
+      "favourites_count": 383,
+      "statuses_count": 10463,
+      "created_at": "Tue Sep 29 23:17:33 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277702577069740034/bm5EzNM6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78445977/1646352814",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:03:20 +0000 2022",
+      "id": 1500925084063739910,
+      "id_str": "1500925084063739910",
+      "text": "NEW: Chair @GerryConnolly issued this statement after the @USGSA announced new investments as part of the Technolog\u2026 https://t.co/deU0Ewe4jv",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 31122582,
+         "id_str": "31122582",
+         "name": "Oversight Committee",
+         "screen_name": "OversightDems",
+         "location": "Washington, DC",
+         "url": "https://oversight.house.gov",
+         "description": "Chairwoman @RepMaloney | Committee on Oversight and Reform | RT and follows do not equal endorsements.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 182401,
+         "friends_count": 4981,
+         "listed_count": 2037,
+         "favourites_count": 2939,
+         "statuses_count": 17658,
+         "created_at": "Tue Apr 14 13:37:22 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "032657",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "376399",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "B9D0ED",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1278708539352068097/RHvKWuA9_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278708539352068097/RHvKWuA9_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/31122582/1609943792",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "NEW: Chair @GerryConnolly issued this statement after the @USGSA announced new investments as part of the Technology Modernization Fund, including funding for the U.S. Postal Regulatory Commission and U.S. Selective Service System.\nhttps://t.co/EmxD2VHcyc",
+         "display_text_range": [
+            0,
+            255
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/EmxD2VHcyc",
+                  "expanded_url": "https://oversight.house.gov/news/press-releases/chairman-connolly-issues-statement-on-new-technology-modernization-fund",
+                  "display_url": "oversight.house.gov/news/press-rel\u2026",
+                  "indices": [
+                     232,
+                     255
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "GerryConnolly",
+                  "name": "Rep. Gerry Connolly",
+                  "id": 78445977,
+                  "id_str": "78445977",
+                  "indices": [
+                     11,
+                     25
+                  ]
+               },
+               {
+                  "screen_name": "USGSA",
+                  "name": "GSA",
+                  "id": 61583656,
+                  "id_str": "61583656",
+                  "indices": [
+                     58,
+                     64
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/deU0Ewe4jv",
+               "expanded_url": "https://twitter.com/i/web/status/1500925084063739910",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "GerryConnolly",
+               "name": "Rep. Gerry Connolly",
+               "id": 78445977,
+               "id_str": "78445977",
+               "indices": [
+                  11,
+                  25
+               ]
+            },
+            {
+               "screen_name": "USGSA",
+               "name": "GSA",
+               "id": 61583656,
+               "id_str": "61583656",
+               "indices": [
+                  58,
+                  64
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "OversightDems",
+            "name": "Oversight Committee",
+            "id": 31122582,
+            "id_str": "31122582",
+            "indices": [
+               3,
+               17
+            ]
+         },
+         {
+            "screen_name": "GerryConnolly",
+            "name": "Rep. Gerry Connolly",
+            "id": 78445977,
+            "id_str": "78445977",
+            "indices": [
+               30,
+               44
+            ]
+         },
+         {
+            "screen_name": "USGSA",
+            "name": "GSA",
+            "id": 61583656,
+            "id_str": "61583656",
+            "indices": [
+               77,
+               83
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683482588"
+}

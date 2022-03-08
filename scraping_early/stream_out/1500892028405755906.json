@@ -1,0 +1,202 @@
+{
+   "created_at": "Mon Mar 07 17:51:59 +0000 2022",
+   "id": 1500892028405755906,
+   "id_str": "1500892028405755906",
+   "text": "RT @BekahJaneW: Truck pollution disproportionately impacts low-wealth and BIPOC communities, leading to higher rates of asthma &amp; other resp\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2916086925,
+      "id_str": "2916086925",
+      "name": "Rep. Alma Adams",
+      "screen_name": "RepAdams",
+      "location": "Charlotte, NC",
+      "url": "http://adams.house.gov/",
+      "description": "Congresswoman representing NC\u2019s 12th District. Educator. Artist. Founder & Co-Chair of the Black Maternal Health @BMHCaucus and the Bipartisan @HBCUCaucus.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27982,
+      "friends_count": 2487,
+      "listed_count": 886,
+      "favourites_count": 4725,
+      "statuses_count": 12049,
+      "created_at": "Thu Dec 11 19:54:07 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390079144856260611/I-WCccRm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390079144856260611/I-WCccRm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916086925/1631820555",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:33:02 +0000 2022",
+      "id": 1500887259373096963,
+      "id_str": "1500887259373096963",
+      "text": "Truck pollution disproportionately impacts low-wealth and BIPOC communities, leading to higher rates of asthma &amp; ot\u2026 https://t.co/9u7r0cPs83",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 191576931,
+         "id_str": "191576931",
+         "name": "Bekah",
+         "screen_name": "BekahJaneW",
+         "location": "Charlotte, NC",
+         "url": null,
+         "description": "All dogs are puppies. @SierraClub Clean Transportation Campaign. @TexasPete enthusiast. @PWUnion1 member. Land of the Pines native. All tweets are me. she/her",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 909,
+         "friends_count": 1424,
+         "listed_count": 15,
+         "favourites_count": 4927,
+         "statuses_count": 7259,
+         "created_at": "Thu Sep 16 20:07:49 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "22E6C5",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "3BE1ED",
+         "profile_sidebar_border_color": "121414",
+         "profile_sidebar_fill_color": "C0CACC",
+         "profile_text_color": "918791",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1250123961578532864/4SLdvCmF_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250123961578532864/4SLdvCmF_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/191576931/1620615793",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Truck pollution disproportionately impacts low-wealth and BIPOC communities, leading to higher rates of asthma &amp; other respiratory illness. We need the strongest possible #CleanerTrucks standards from @EPA NOW to cut deadly smog pollution and deliver 100% ZEV trucks by 2035.",
+         "display_text_range": [
+            0,
+            279
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "CleanerTrucks",
+                  "indices": [
+                     175,
+                     189
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "EPA",
+                  "name": "U.S. EPA",
+                  "id": 14615871,
+                  "id_str": "14615871",
+                  "indices": [
+                     205,
+                     209
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5,
+      "favorite_count": 12,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/9u7r0cPs83",
+               "expanded_url": "https://twitter.com/i/web/status/1500887259373096963",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "BekahJaneW",
+            "name": "Bekah",
+            "id": 191576931,
+            "id_str": "191576931",
+            "indices": [
+               3,
+               14
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675519454"
+}

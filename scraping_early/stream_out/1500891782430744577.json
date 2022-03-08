@@ -1,0 +1,117 @@
+{
+   "created_at": "Mon Mar 07 17:51:00 +0000 2022",
+   "id": 1500891782430744577,
+   "id_str": "1500891782430744577",
+   "text": "The number of small business owners reporting inflation as their most significant issue is at its highest level sin\u2026 https://t.co/1vFFBobjOB",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343968646050283522,
+      "id_str": "1343968646050283522",
+      "name": "Congressman Byron Donalds",
+      "screen_name": "RepDonaldsPress",
+      "location": null,
+      "url": "http://donalds.house.gov",
+      "description": "Proudly representing the people of #FL19 | Serving on the @housebudgetGOP, @GOPoversight, & @HSBCgop Committees | Comms Dir. @HarrisonWFields | Official Account",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 45753,
+      "friends_count": 259,
+      "listed_count": 324,
+      "favourites_count": 655,
+      "statuses_count": 2060,
+      "created_at": "Tue Dec 29 17:14:49 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344343639850364939/8h4GprDW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344343639850364939/8h4GprDW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343968646050283522/1610031316",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The number of small business owners reporting inflation as their most significant issue is at its highest level since 1981. \n\n#Bidenflation is wreaking havoc on America\u2019s small businesses &amp; crippling Main Street.\n\nInflation is a tax on EVERY American.\nhttps://t.co/xg44REpcMg",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Bidenflation",
+               "indices": [
+                  126,
+                  139
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/xg44REpcMg",
+               "expanded_url": "https://www.nfib.com/content/analysis/economy/small-businesses-start-the-new-year-raising-prices-as-inflation-takes-its-toll/",
+               "display_url": "nfib.com/content/analys\u2026",
+               "indices": [
+                  256,
+                  279
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/1vFFBobjOB",
+            "expanded_url": "https://twitter.com/i/web/status/1500891782430744577",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675460809"
+}

@@ -1,0 +1,220 @@
+{
+   "created_at": "Mon Mar 07 20:10:04 +0000 2022",
+   "id": 1500926776553390087,
+   "id_str": "1500926776553390087",
+   "text": "RT @afsatweets: \"We cannot confront our global challenges alone, and we need these diplomats in place so we can successfully address these\u2026",
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15324851,
+      "id_str": "15324851",
+      "name": "Senator Chris Coons",
+      "screen_name": "ChrisCoons",
+      "location": "Wilmington, DE",
+      "url": "http://coons.senate.gov",
+      "description": "Father, husband, U.S. Senator from Delaware",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 215858,
+      "friends_count": 4242,
+      "listed_count": 2988,
+      "favourites_count": 962,
+      "statuses_count": 16390,
+      "created_at": "Sat Jul 05 11:17:54 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "4871B0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "4871B0",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010166727529893888/O-lZLomM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15324851/1588911031",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 17:11:17 +0000 2022",
+      "id": 1500881787555389455,
+      "id_str": "1500881787555389455",
+      "text": "\"We cannot confront our global challenges alone, and we need these diplomats in place so we can successfully addres\u2026 https://t.co/67lti0mDXu",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 134905400,
+         "id_str": "134905400",
+         "name": "AFSA",
+         "screen_name": "afsatweets",
+         "location": "Washington, DC",
+         "url": "http://www.afsa.org",
+         "description": "Since 1924, AFSA has been the professional association & labor union of the Foreign Service. Home of award-winning Foreign Service Journal. Rt\u2260 endorsements.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 7533,
+         "friends_count": 600,
+         "listed_count": 96,
+         "favourites_count": 1518,
+         "statuses_count": 4678,
+         "created_at": "Mon Apr 19 20:01:37 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "DBDFE2",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "B12229",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/550016824499134464/81PmsHWy_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/550016824499134464/81PmsHWy_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/134905400/1419969261",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\"We cannot confront our global challenges alone, and we need these diplomats in place so we can successfully address these threats from #Russia, climate change, COVID-19, from Iran, from terrorism.\"\n@ChrisCoons #ConfirmOurDiplomats\n\nhttps://t.co/rkrx8iLSpr",
+         "display_text_range": [
+            0,
+            256
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Russia",
+                  "indices": [
+                     136,
+                     143
+                  ]
+               },
+               {
+                  "text": "ConfirmOurDiplomats",
+                  "indices": [
+                     211,
+                     231
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/rkrx8iLSpr",
+                  "expanded_url": "https://youtu.be/Mmm6Lzp9RH4",
+                  "display_url": "youtu.be/Mmm6Lzp9RH4",
+                  "indices": [
+                     233,
+                     256
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "ChrisCoons",
+                  "name": "Senator Chris Coons",
+                  "id": 15324851,
+                  "id_str": "15324851",
+                  "indices": [
+                     199,
+                     210
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/67lti0mDXu",
+               "expanded_url": "https://twitter.com/i/web/status/1500881787555389455",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "afsatweets",
+            "name": "AFSA",
+            "id": 134905400,
+            "id_str": "134905400",
+            "indices": [
+               3,
+               14
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646683804058"
+}

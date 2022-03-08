@@ -1,0 +1,109 @@
+{
+   "created_at": "Mon Mar 07 19:04:16 +0000 2022",
+   "id": 1500910217743196160,
+   "id_str": "1500910217743196160",
+   "text": "The Afghanistan Vetting and Accountability Act Senator Hawley introduced would \u201cimplement careful and appropriate v\u2026 https://t.co/8PfsxpuM1W",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080960924687704064,
+      "id_str": "1080960924687704064",
+      "name": "Senator Hawley Press Office",
+      "screen_name": "SenHawleyPress",
+      "location": "Missouri",
+      "url": "http://hawley.senate.gov",
+      "description": "Tweets from the office of U.S. Senator Josh Hawley",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 41553,
+      "friends_count": 843,
+      "listed_count": 590,
+      "favourites_count": 841,
+      "statuses_count": 3375,
+      "created_at": "Thu Jan 03 22:55:42 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1468329967415185413/Nokr3zY7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1468329967415185413/Nokr3zY7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080960924687704064/1565014200",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The Afghanistan Vetting and Accountability Act Senator Hawley introduced would \u201cimplement careful and appropriate vetting standards for evacuees and declassify intelligence related to the withdrawal of American forces from Afghanistan.\"\n\nhttps://t.co/1HibEDi2b5",
+      "display_text_range": [
+         0,
+         261
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/1HibEDi2b5",
+               "expanded_url": "https://www.hawley.senate.gov/new-hawley-bill-strengthen-afghan-vetting-procedures-declassify-afghanistan-withdrawal-intel",
+               "display_url": "hawley.senate.gov/new-hawley-bil\u2026",
+               "indices": [
+                  238,
+                  261
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/8PfsxpuM1W",
+            "expanded_url": "https://twitter.com/i/web/status/1500910217743196160",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679856130"
+}

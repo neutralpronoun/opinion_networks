@@ -1,0 +1,192 @@
+{
+   "created_at": "Mon Mar 07 15:50:00 +0000 2022",
+   "id": 1500861329502003206,
+   "id_str": "1500861329502003206",
+   "text": "As more students return to schools, ensuring they have access to nutritious food at school is critical \u2013 particular\u2026 https://t.co/ntwhJxImnQ",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 109287731,
+      "id_str": "109287731",
+      "name": "Sen. Jeanne Shaheen",
+      "screen_name": "SenatorShaheen",
+      "location": "Washington, DC",
+      "url": "http://shaheen.senate.gov/",
+      "description": "Proud Granite Stater serving New Hampshire in the US Senate. Former Governor. Mother & Grandmother. Frequent Flyer. Pats & Red Sox Fan. Outdoor enthusiast.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 129621,
+      "friends_count": 2870,
+      "listed_count": 2502,
+      "favourites_count": 481,
+      "statuses_count": 13703,
+      "created_at": "Thu Jan 28 15:22:44 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/994599196652199936/zKIvaqMU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/994599196652199936/zKIvaqMU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/109287731/1576528424",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "As more students return to schools, ensuring they have access to nutritious food at school is critical \u2013 particularly since for many this is their only meal of the day. I joined a letter last week to make sure schools have flexibility from the @USDA to keep hungry kids fed. https://t.co/BHfoloFSSb",
+      "display_text_range": [
+         0,
+         274
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "USDA",
+               "name": "Dept. of Agriculture",
+               "id": 61853389,
+               "id_str": "61853389",
+               "indices": [
+                  244,
+                  249
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500859743614783495,
+               "id_str": "1500859743614783495",
+               "indices": [
+                  275,
+                  298
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQf_CPX0AcjA8n.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNQf_CPX0AcjA8n.png",
+               "url": "https://t.co/BHfoloFSSb",
+               "display_url": "pic.twitter.com/BHfoloFSSb",
+               "expanded_url": "https://twitter.com/SenatorShaheen/status/1500861329502003206/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500859743614783495,
+               "id_str": "1500859743614783495",
+               "indices": [
+                  275,
+                  298
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQf_CPX0AcjA8n.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNQf_CPX0AcjA8n.png",
+               "url": "https://t.co/BHfoloFSSb",
+               "display_url": "pic.twitter.com/BHfoloFSSb",
+               "expanded_url": "https://twitter.com/SenatorShaheen/status/1500861329502003206/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 495,
+                     "h": 642,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/ntwhJxImnQ",
+            "expanded_url": "https://twitter.com/i/web/status/1500861329502003206",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646668200265"
+}

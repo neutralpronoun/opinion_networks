@@ -1,0 +1,205 @@
+{
+   "created_at": "Mon Mar 07 20:34:49 +0000 2022",
+   "id": 1500933006541967366,
+   "id_str": "1500933006541967366",
+   "text": "President Biden\u2019s crusade against American energy has resulted in the highest gas prices in United States history.",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2914515430,
+      "id_str": "2914515430",
+      "name": "Tom Emmer",
+      "screen_name": "RepTomEmmer",
+      "location": "Otsego, MN | Washington, D.C.",
+      "url": "http://Emmer.house.gov",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 48334,
+      "friends_count": 1137,
+      "listed_count": 872,
+      "favourites_count": 1195,
+      "statuses_count": 7149,
+      "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334632307618144256/xXMyFn6A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334632307618144256/xXMyFn6A_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1607036563",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500917799031607300,
+   "quoted_status_id_str": "1500917799031607300",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 19:34:23 +0000 2022",
+      "id": 1500917799031607300,
+      "id_str": "1500917799031607300",
+      "text": "BREAKING: According to GasBuddy data, the US national average has JUST set a new all-time record: $4.104/gallon, ec\u2026 https://t.co/gxyttyamHY",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 35941034,
+         "id_str": "35941034",
+         "name": "Patrick De Haan \u26fd\ufe0f\ud83d\udcca",
+         "screen_name": "GasBuddyGuy",
+         "location": "Chicago via Grand Rapids, MI",
+         "url": "http://patrickdehaan.com",
+         "description": "truth & facts over politics. oil & refined products analyst, foremost expert on oil and gasoline prices. obsessed with data quality. gas price myth buster.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 35742,
+         "friends_count": 1805,
+         "listed_count": 611,
+         "favourites_count": 20879,
+         "statuses_count": 30252,
+         "created_at": "Tue Apr 28 01:29:47 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "1A4E64",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "119948",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "C0F0EF",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1415648107010957315/z72oCHPe_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415648107010957315/z72oCHPe_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/35941034/1626354263",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "BREAKING: According to GasBuddy data, the US national average has JUST set a new all-time record: $4.104/gallon, eclipsing 2008's record of $4.103/gal. The higher prices this time will likely stay around far longer. #oil #gasprices https://t.co/8RgHCC9sK3",
+         "display_text_range": [
+            0,
+            255
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "oil",
+                  "indices": [
+                     216,
+                     220
+                  ]
+               },
+               {
+                  "text": "gasprices",
+                  "indices": [
+                     221,
+                     231
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/8RgHCC9sK3",
+                  "expanded_url": "https://bit.ly/3CAqgsV",
+                  "display_url": "bit.ly/3CAqgsV",
+                  "indices": [
+                     232,
+                     255
+                  ]
+               }
+            ],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 137,
+      "reply_count": 47,
+      "retweet_count": 292,
+      "favorite_count": 267,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/gxyttyamHY",
+               "expanded_url": "https://twitter.com/i/web/status/1500917799031607300",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/ZzTsohxSkL",
+      "expanded": "https://twitter.com/GasBuddyGuy/status/1500917799031607300",
+      "display": "twitter.com/GasBuddyGuy/st\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685289403"
+}

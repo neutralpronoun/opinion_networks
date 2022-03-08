@@ -1,0 +1,135 @@
+{
+   "created_at": "Mon Mar 07 17:34:18 +0000 2022",
+   "id": 1500887577813004293,
+   "id_str": "1500887577813004293",
+   "text": "@RepMTG Marjorie Taylor Greene is an embarrassment to the people of Georgia. It\u2019s time to bring sanity back to this\u2026 https://t.co/sM9AprGfAH",
+   "display_text_range": [
+      8,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500826285559406593,
+   "in_reply_to_status_id_str": "1500826285559406593",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 1267866658586136577,
+      "id_str": "1267866658586136577",
+      "name": "Marcus Flowers",
+      "screen_name": "Marcus4Georgia",
+      "location": "Rome, GA",
+      "url": "https://linktr.ee/marcus4georgia",
+      "description": "Proud Army Veteran. Patriot. Georgia Democrat running for Congress to replace Marjorie Taylor Greene. #GA14 #SendCongressFlowers",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 315985,
+      "friends_count": 8172,
+      "listed_count": 470,
+      "favourites_count": 22973,
+      "statuses_count": 10802,
+      "created_at": "Tue Jun 02 17:12:35 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1422649297091313671/xAh4s_jJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422649297091313671/xAh4s_jJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267866658586136577/1614553464",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepMTG Marjorie Taylor Greene is an embarrassment to the people of Georgia. It\u2019s time to bring sanity back to this seat!\n\nHelp me defeat Rep. Greene by making a small dollar contribution today: https://t.co/QZrBGs3mMm",
+      "display_text_range": [
+         8,
+         218
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/QZrBGs3mMm",
+               "expanded_url": "https://secure.actblue.com/donate/mfg?refcode=tw0307a",
+               "display_url": "secure.actblue.com/donate/mfg?ref\u2026",
+               "indices": [
+                  195,
+                  218
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  0,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/sM9AprGfAH",
+            "expanded_url": "https://twitter.com/i/web/status/1500887577813004293",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674458350"
+}

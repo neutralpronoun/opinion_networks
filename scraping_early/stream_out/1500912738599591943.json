@@ -1,0 +1,325 @@
+{
+   "created_at": "Mon Mar 07 19:14:17 +0000 2022",
+   "id": 1500912738599591943,
+   "id_str": "1500912738599591943",
+   "text": "The recent bomb threats against Historically Black Colleges and Universities in NC and across the country are despi\u2026 https://t.co/YNjAR6aVAG",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2964174789,
+      "id_str": "2964174789",
+      "name": "Senator Thom Tillis",
+      "screen_name": "SenThomTillis",
+      "location": "North Carolina, USA",
+      "url": "http://tillis.senate.gov",
+      "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 124616,
+      "friends_count": 4321,
+      "listed_count": 2029,
+      "favourites_count": 1798,
+      "statuses_count": 6565,
+      "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1404095763496554496/8gRCOvHD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404095763496554496/8gRCOvHD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1623597309",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "The recent bomb threats against Historically Black Colleges and Universities in NC and across the country are despicable.\n\nI co-sponsored a bipartisan resolution to denounce these threats and reaffirm my ardent support for the safety of HBCU students, educators, and communities. https://t.co/o4EyqUNfb3",
+      "display_text_range": [
+         0,
+         279
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500912523733876737,
+               "id_str": "1500912523733876737",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_PgXwAEvNjF.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_PgXwAEvNjF.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500912527676432385,
+               "id_str": "1500912527676432385",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_eMWYAEpEN7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_eMWYAEpEN7.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500912532554461190,
+               "id_str": "1500912532554461190",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_wXXMAYTRwW.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_wXXMAYTRwW.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500912523733876737,
+               "id_str": "1500912523733876737",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_PgXwAEvNjF.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_PgXwAEvNjF.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500912527676432385,
+               "id_str": "1500912527676432385",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_eMWYAEpEN7.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_eMWYAEpEN7.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500912532554461190,
+               "id_str": "1500912532554461190",
+               "indices": [
+                  280,
+                  303
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRP_wXXMAYTRwW.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRP_wXXMAYTRwW.jpg",
+               "url": "https://t.co/o4EyqUNfb3",
+               "display_url": "pic.twitter.com/o4EyqUNfb3",
+               "expanded_url": "https://twitter.com/SenThomTillis/status/1500912738599591943/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 927,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1583,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 525,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/YNjAR6aVAG",
+            "expanded_url": "https://twitter.com/i/web/status/1500912738599591943",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680457149"
+}

@@ -1,0 +1,226 @@
+{
+   "created_at": "Tue Mar 08 00:57:52 +0000 2022",
+   "id": 1500999206500196353,
+   "id_str": "1500999206500196353",
+   "text": "RT @SenOssoff: Sen. @ossoff is launching a push in the U.S. Senate to help Wilkinson County build its first-ever public sewer system to upg\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 521747968,
+      "id_str": "521747968",
+      "name": "Jon Ossoff",
+      "screen_name": "ossoff",
+      "location": "Georgia, USA (he/him)",
+      "url": "http://ossoff.senate.gov",
+      "description": "U.S. Senator from Georgia.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1257915,
+      "friends_count": 1556,
+      "listed_count": 3259,
+      "favourites_count": 3261,
+      "statuses_count": 9039,
+      "created_at": "Sun Mar 11 22:46:55 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334232158207168515/K-i3xjEK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334232158207168515/K-i3xjEK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/521747968/1606859586",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:33:09 +0000 2022",
+      "id": 1500932588436865039,
+      "id_str": "1500932588436865039",
+      "text": "Sen. @ossoff is launching a push in the U.S. Senate to help Wilkinson County build its first-ever public sewer syst\u2026 https://t.co/AJnARnX463",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1356714265894408196,
+         "id_str": "1356714265894408196",
+         "name": "Ossoff's Office",
+         "screen_name": "SenOssoff",
+         "location": "Georgia | Washington D.C ",
+         "url": "http://ossoff.senate.gov",
+         "description": "Updates from Georgia U.S. Senator Jon @Ossoff's office.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 40045,
+         "friends_count": 516,
+         "listed_count": 227,
+         "favourites_count": 122,
+         "statuses_count": 1038,
+         "created_at": "Tue Feb 02 21:21:52 +0000 2021",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1405128819892125703/ncpD3db0_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405128819892125703/ncpD3db0_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356714265894408196/1612417063",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Sen. @ossoff is launching a push in the U.S. Senate to help Wilkinson County build its first-ever public sewer system to upgrade quality-of-life and protect public health.\n\nhttps://t.co/pNwA1Ul7pF",
+         "display_text_range": [
+            0,
+            196
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/pNwA1Ul7pF",
+                  "expanded_url": "https://wgxa.tv/news/local/sen-ossoff-speaks-with-wgxa-on-public-sewer-system-initiative-in-wilkinson-county",
+                  "display_url": "wgxa.tv/news/local/sen\u2026",
+                  "indices": [
+                     173,
+                     196
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "ossoff",
+                  "name": "Jon Ossoff",
+                  "id": 521747968,
+                  "id_str": "521747968",
+                  "indices": [
+                     5,
+                     12
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 25,
+      "favorite_count": 66,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/AJnARnX463",
+               "expanded_url": "https://twitter.com/i/web/status/1500932588436865039",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "ossoff",
+               "name": "Jon Ossoff",
+               "id": 521747968,
+               "id_str": "521747968",
+               "indices": [
+                  5,
+                  12
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SenOssoff",
+            "name": "Ossoff's Office",
+            "id": 1356714265894408196,
+            "id_str": "1356714265894408196",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "ossoff",
+            "name": "Jon Ossoff",
+            "id": 521747968,
+            "id_str": "521747968",
+            "indices": [
+               20,
+               27
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646701072703"
+}

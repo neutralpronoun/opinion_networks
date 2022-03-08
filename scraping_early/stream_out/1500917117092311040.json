@@ -1,0 +1,280 @@
+{
+   "created_at": "Mon Mar 07 19:31:41 +0000 2022",
+   "id": 1500917117092311040,
+   "id_str": "1500917117092311040",
+   "text": "Biden said at the #SOTU that \"COVID-19 need no longer control our lives.\"\n\nYet thousands of hard-working Americans\u2026 https://t.co/sezr5OIw46",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2929491549,
+      "id_str": "2929491549",
+      "name": "Brian Babin",
+      "screen_name": "RepBrianBabin",
+      "location": null,
+      "url": "http://www.facebook.com/RepBrianBabin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space & Aeronautics Subcmte, Border Sec co-chair & serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 24186,
+      "friends_count": 748,
+      "listed_count": 808,
+      "favourites_count": 2032,
+      "statuses_count": 5200,
+      "created_at": "Thu Dec 18 13:28:53 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/887307878960431104/X1I2wzXX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/887307878960431104/X1I2wzXX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2929491549/1485534172",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Biden said at the #SOTU that \"COVID-19 need no longer control our lives.\"\n\nYet thousands of hard-working Americans have been fired for rejecting @POTUS' vax mandates.\n\nUntil Congress acts to end these mandates, I'll oppose any bill that funds them. https://t.co/NRY2OkZP7P",
+      "display_text_range": [
+         0,
+         248
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "SOTU",
+               "indices": [
+                  18,
+                  23
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "POTUS",
+               "name": "President Biden",
+               "id": 1349149096909668363,
+               "id_str": "1349149096909668363",
+               "indices": [
+                  145,
+                  151
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500917113711648777,
+               "id_str": "1500917113711648777",
+               "indices": [
+                  249,
+                  272
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUKagWYAk1NCM.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUKagWYAk1NCM.jpg",
+               "url": "https://t.co/NRY2OkZP7P",
+               "display_url": "pic.twitter.com/NRY2OkZP7P",
+               "expanded_url": "https://twitter.com/RepBrianBabin/status/1500917117092311040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 527,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1217,
+                     "h": 1570,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 930,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917113753677833,
+               "id_str": "1500917113753677833",
+               "indices": [
+                  249,
+                  272
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUKaqXsAkxC15.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUKaqXsAkxC15.jpg",
+               "url": "https://t.co/NRY2OkZP7P",
+               "display_url": "pic.twitter.com/NRY2OkZP7P",
+               "expanded_url": "https://twitter.com/RepBrianBabin/status/1500917117092311040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1212,
+                     "h": 1577,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 523,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 922,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500917113711648777,
+               "id_str": "1500917113711648777",
+               "indices": [
+                  249,
+                  272
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUKagWYAk1NCM.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUKagWYAk1NCM.jpg",
+               "url": "https://t.co/NRY2OkZP7P",
+               "display_url": "pic.twitter.com/NRY2OkZP7P",
+               "expanded_url": "https://twitter.com/RepBrianBabin/status/1500917117092311040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 527,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 1217,
+                     "h": 1570,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 930,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917113753677833,
+               "id_str": "1500917113753677833",
+               "indices": [
+                  249,
+                  272
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRUKaqXsAkxC15.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRUKaqXsAkxC15.jpg",
+               "url": "https://t.co/NRY2OkZP7P",
+               "display_url": "pic.twitter.com/NRY2OkZP7P",
+               "expanded_url": "https://twitter.com/RepBrianBabin/status/1500917117092311040/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1212,
+                     "h": 1577,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 523,
+                     "h": 680,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 922,
+                     "h": 1200,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "SOTU",
+            "indices": [
+               18,
+               23
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/sezr5OIw46",
+            "expanded_url": "https://twitter.com/i/web/status/1500917117092311040",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681501063"
+}

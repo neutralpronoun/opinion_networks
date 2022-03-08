@@ -1,0 +1,249 @@
+{
+   "created_at": "Mon Mar 07 21:40:33 +0000 2022",
+   "id": 1500949551288619011,
+   "id_str": "1500949551288619011",
+   "text": "We must ban the importation of Russian oil and products and pass a federal tax cut for low and middle income Americ\u2026 https://t.co/3M7hDxJggH",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1061310112013434882,
+      "id_str": "1061310112013434882",
+      "name": "Rep. Dean Phillips \ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "RepDeanPhillips",
+      "location": "Minnesota, USA",
+      "url": "https://phillips.house.gov",
+      "description": "\u201cNormally affable\u201d - @NYTimes. Radical pragmatist, common sense enthusiast, and 12th most bipartisan member of Congress. Pro-human, anti-corruption, patriot.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 50847,
+      "friends_count": 1869,
+      "listed_count": 660,
+      "favourites_count": 9713,
+      "statuses_count": 3063,
+      "created_at": "Sat Nov 10 17:30:23 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1389981753419390977/2-KvS8Iy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389981753419390977/2-KvS8Iy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061310112013434882/1643258389",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "We must ban the importation of Russian oil and products and pass a federal tax cut for low and middle income Americans to help mitigate the increase in the price of fuel. Every hour counts in the war for freedom and against the madness of Vladimir Putin. https://t.co/wKxXehszyH",
+      "display_text_range": [
+         0,
+         254
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500942661896835073,
+               "id_str": "1500942661896835073",
+               "indices": [
+                  255,
+                  278
+               ],
+               "additional_media_info": {
+                  "title": "Phillips on MSNBC: When protecting American ideals, every hour counts",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRtJvxWQAAyvDJ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRtJvxWQAAyvDJ.jpg",
+               "url": "https://t.co/wKxXehszyH",
+               "display_url": "pic.twitter.com/wKxXehszyH",
+               "expanded_url": "https://twitter.com/RepDeanPhillips/status/1500949551288619011/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     172,
+                     97
+                  ],
+                  "duration_millis": 185343,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/638x360/uSjBXkmAqfYE1E4-.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/1276x720/hAfpjSJZXhavv8Mq.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/pl/kpnnCRgDPMf-GBDb.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/478x270/FwxZOKENAR2jlKfz.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500942661896835073,
+               "id_str": "1500942661896835073",
+               "indices": [
+                  255,
+                  278
+               ],
+               "additional_media_info": {
+                  "title": "Phillips on MSNBC: When protecting American ideals, every hour counts",
+                  "description": "",
+                  "embeddable": true,
+                  "monetizable": false
+               },
+               "media_url": "http://pbs.twimg.com/media/FNRtJvxWQAAyvDJ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRtJvxWQAAyvDJ.jpg",
+               "url": "https://t.co/wKxXehszyH",
+               "display_url": "pic.twitter.com/wKxXehszyH",
+               "expanded_url": "https://twitter.com/RepDeanPhillips/status/1500949551288619011/video/1",
+               "type": "video",
+               "video_info": {
+                  "aspect_ratio": [
+                     172,
+                     97
+                  ],
+                  "duration_millis": 185343,
+                  "variants": [
+                     {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/638x360/uSjBXkmAqfYE1E4-.mp4?tag=14"
+                     },
+                     {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/1276x720/hAfpjSJZXhavv8Mq.mp4?tag=14"
+                     },
+                     {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/pl/kpnnCRgDPMf-GBDb.m3u8?tag=14&container=fmp4"
+                     },
+                     {
+                        "bitrate": 288000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/1500942661896835073/vid/478x270/FwxZOKENAR2jlKfz.mp4?tag=14"
+                     }
+                  ]
+               },
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 638,
+                     "h": 360,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/3M7hDxJggH",
+            "expanded_url": "https://twitter.com/i/web/status/1500949551288619011",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689233978"
+}

@@ -1,0 +1,305 @@
+{
+   "created_at": "Mon Mar 07 21:41:15 +0000 2022",
+   "id": 1500949725842976769,
+   "id_str": "1500949725842976769",
+   "text": "I enjoyed the trip to @resolutioncu, where I led a group of Congressmembers, including @westerncaucus Chairman\u2026 https://t.co/xbYojSHsdi",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 996094929733652481,
+      "id_str": "996094929733652481",
+      "name": "Congresswoman Debbie Lesko",
+      "screen_name": "RepDLesko",
+      "location": "Arizona, USA",
+      "url": "http://lesko.house.gov",
+      "description": "Proudly representing Arizona's 8th Congressional District in Congress. Member of @HouseCommerce. #AZ08",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 100072,
+      "friends_count": 1129,
+      "listed_count": 900,
+      "favourites_count": 1148,
+      "statuses_count": 6032,
+      "created_at": "Mon May 14 18:28:32 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408084880873902085/ssDQmL79_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408084880873902085/ssDQmL79_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/996094929733652481/1526491101",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I enjoyed the trip to @resolutioncu, where I led a group of Congressmembers, including @westerncaucus Chairman @RepNewhouse, through the copper mine in Superior, AZ. Once approved, this copper mine will support the region\u2019s economy and create additional jobs. https://t.co/HsrhhyNtue",
+      "display_text_range": [
+         0,
+         259
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "resolutioncu",
+               "name": "Resolution Copper",
+               "id": 155623673,
+               "id_str": "155623673",
+               "indices": [
+                  22,
+                  35
+               ]
+            },
+            {
+               "screen_name": "westerncaucus",
+               "name": "Western Caucus",
+               "id": 144986277,
+               "id_str": "144986277",
+               "indices": [
+                  87,
+                  101
+               ]
+            },
+            {
+               "screen_name": "RepNewhouse",
+               "name": "Rep. Dan Newhouse",
+               "id": 2930635215,
+               "id_str": "2930635215",
+               "indices": [
+                  111,
+                  123
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500949107329978368,
+               "id_str": "1500949107329978368",
+               "indices": [
+                  260,
+                  283
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRxQsBX0AADk87.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRxQsBX0AADk87.jpg",
+               "url": "https://t.co/HsrhhyNtue",
+               "display_url": "pic.twitter.com/HsrhhyNtue",
+               "expanded_url": "https://twitter.com/RepDLesko/status/1500949725842976769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 904,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1542,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500949108814663686,
+               "id_str": "1500949108814663686",
+               "indices": [
+                  260,
+                  283
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRxQxjWUAYBg0O.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRxQxjWUAYBg0O.jpg",
+               "url": "https://t.co/HsrhhyNtue",
+               "display_url": "pic.twitter.com/HsrhhyNtue",
+               "expanded_url": "https://twitter.com/RepDLesko/status/1500949725842976769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 904,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1542,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500949107329978368,
+               "id_str": "1500949107329978368",
+               "indices": [
+                  260,
+                  283
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRxQsBX0AADk87.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRxQsBX0AADk87.jpg",
+               "url": "https://t.co/HsrhhyNtue",
+               "display_url": "pic.twitter.com/HsrhhyNtue",
+               "expanded_url": "https://twitter.com/RepDLesko/status/1500949725842976769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 904,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1542,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500949108814663686,
+               "id_str": "1500949108814663686",
+               "indices": [
+                  260,
+                  283
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRxQxjWUAYBg0O.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRxQxjWUAYBg0O.jpg",
+               "url": "https://t.co/HsrhhyNtue",
+               "display_url": "pic.twitter.com/HsrhhyNtue",
+               "expanded_url": "https://twitter.com/RepDLesko/status/1500949725842976769/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 1200,
+                     "h": 904,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 512,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1542,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/xbYojSHsdi",
+            "expanded_url": "https://twitter.com/i/web/status/1500949725842976769",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               112,
+               135
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "resolutioncu",
+            "name": "Resolution Copper",
+            "id": 155623673,
+            "id_str": "155623673",
+            "indices": [
+               22,
+               35
+            ]
+         },
+         {
+            "screen_name": "westerncaucus",
+            "name": "Western Caucus",
+            "id": 144986277,
+            "id_str": "144986277",
+            "indices": [
+               87,
+               101
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646689275595"
+}

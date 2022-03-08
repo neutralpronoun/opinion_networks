@@ -1,0 +1,181 @@
+{
+   "created_at": "Tue Mar 08 00:18:26 +0000 2022",
+   "id": 1500989279836717062,
+   "id_str": "1500989279836717062",
+   "text": "I just got back to Washington and met with my team about the legislation we're passing this week. I'll vote YES whe\u2026 https://t.co/O9mVMOnLci",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1079802482640019456,
+      "id_str": "1079802482640019456",
+      "name": "Congresswoman Lori Trahan",
+      "screen_name": "RepLoriTrahan",
+      "location": "Massachusetts, USA",
+      "url": "https://trahan.house.gov/",
+      "description": "Proudly representing Massachusetts' Third District in Congress. @EnergyCommerce & @NRDems member. She/Hers. \ud83d\udcde (978) 459-0101",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 31325,
+      "friends_count": 1805,
+      "listed_count": 620,
+      "favourites_count": 5499,
+      "statuses_count": 7138,
+      "created_at": "Mon Dec 31 18:12:28 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456309641210703879/sXVE4h4P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079802482640019456/1634152884",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "I just got back to Washington and met with my team about the legislation we're passing this week. I'll vote YES when the House considers providing much needed assistance for Ukrainians fighting courageously for their future. https://t.co/3RDnwyGmpJ",
+      "display_text_range": [
+         0,
+         224
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500989276577800193,
+               "id_str": "1500989276577800193",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSVy2IXIAEssrI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSVy2IXIAEssrI.jpg",
+               "url": "https://t.co/3RDnwyGmpJ",
+               "display_url": "pic.twitter.com/3RDnwyGmpJ",
+               "expanded_url": "https://twitter.com/RepLoriTrahan/status/1500989279836717062/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 491,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 866,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1478,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500989276577800193,
+               "id_str": "1500989276577800193",
+               "indices": [
+                  225,
+                  248
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSVy2IXIAEssrI.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSVy2IXIAEssrI.jpg",
+               "url": "https://t.co/3RDnwyGmpJ",
+               "display_url": "pic.twitter.com/3RDnwyGmpJ",
+               "expanded_url": "https://twitter.com/RepLoriTrahan/status/1500989279836717062/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 491,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 866,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1478,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/O9mVMOnLci",
+            "expanded_url": "https://twitter.com/i/web/status/1500989279836717062",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646698706002"
+}

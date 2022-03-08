@@ -1,0 +1,181 @@
+{
+   "created_at": "Tue Mar 08 00:56:09 +0000 2022",
+   "id": 1500998773333495808,
+   "id_str": "1500998773333495808",
+   "text": "As we mark the 57th anniversary of Bloody Sunday, we remember my dear friend John Lewis and those who marched acros\u2026 https://t.co/sXQhTBUHPI",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 112740986,
+      "id_str": "112740986",
+      "name": "Rep. Ron Kind",
+      "screen_name": "RepRonKind",
+      "location": "La Crosse, WI",
+      "url": "https://kind.house.gov/",
+      "description": "Proud Wisconsinite. \ud83c\udfc8\ud83e\uddc0\ud83c\uddfa\ud83c\uddf8\ud83c\udf7b I work for the people of Wisconsin\u2019s Third Congressional District. Go Badgers! Go Brewers! Go Pack!",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 19645,
+      "friends_count": 772,
+      "listed_count": 1080,
+      "favourites_count": 48,
+      "statuses_count": 2362,
+      "created_at": "Tue Feb 09 15:14:02 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "D4D4A5",
+      "profile_text_color": "1F1F1F",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100524258059522049/Fdmj0qny_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/112740986/1551220359",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "As we mark the 57th anniversary of Bloody Sunday, we remember my dear friend John Lewis and those who marched across the Edmund Pettus Bridge. We honor his and many other brave American's dedication to equality for all by continuing to work towards a more perfect union. https://t.co/GVDFpRHtfD",
+      "display_text_range": [
+         0,
+         270
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500997003744100360,
+               "id_str": "1500997003744100360",
+               "indices": [
+                  271,
+                  294
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSc0oEXwAgd30x.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSc0oEXwAgd30x.jpg",
+               "url": "https://t.co/GVDFpRHtfD",
+               "display_url": "pic.twitter.com/GVDFpRHtfD",
+               "expanded_url": "https://twitter.com/RepRonKind/status/1500998773333495808/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2040,
+                     "h": 1530,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500997003744100360,
+               "id_str": "1500997003744100360",
+               "indices": [
+                  271,
+                  294
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNSc0oEXwAgd30x.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNSc0oEXwAgd30x.jpg",
+               "url": "https://t.co/GVDFpRHtfD",
+               "display_url": "pic.twitter.com/GVDFpRHtfD",
+               "expanded_url": "https://twitter.com/RepRonKind/status/1500998773333495808/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2040,
+                     "h": 1530,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/sXQhTBUHPI",
+            "expanded_url": "https://twitter.com/i/web/status/1500998773333495808",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646700969428"
+}

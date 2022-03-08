@@ -1,0 +1,169 @@
+{
+   "created_at": "Mon Mar 07 18:48:24 +0000 2022",
+   "id": 1500906228268023810,
+   "id_str": "1500906228268023810",
+   "text": "@RepFredKeller Couldn't get a photo op lined up today, huh, Fred? https://t.co/iq1FDsA2oo",
+   "display_text_range": [
+      15,
+      65
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500871483173789700,
+   "in_reply_to_status_id_str": "1500871483173789700",
+   "in_reply_to_user_id": 1136060761422405633,
+   "in_reply_to_user_id_str": "1136060761422405633",
+   "in_reply_to_screen_name": "RepFredKeller",
+   "user": {
+      "id": 14589330,
+      "id_str": "14589330",
+      "name": "Mike McGranaghan",
+      "screen_name": "AisleSeat",
+      "location": "Central Pennsylvania",
+      "url": "http://www.AisleSeat.com",
+      "description": "Film Critic: The Aisle Seat / Sunbury Broadcasting Corporation. Contributor to @Ranker. Member: @CriticsChoice Association, @ofcs. Chevy Chase fanatic.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2720,
+      "friends_count": 729,
+      "listed_count": 110,
+      "favourites_count": 4727,
+      "statuses_count": 75151,
+      "created_at": "Tue Apr 29 19:24:57 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180098876323385344/Taz3lISF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180098876323385344/Taz3lISF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14589330/1646328667",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepFredKeller",
+            "name": "Congressman Fred Keller",
+            "id": 1136060761422405633,
+            "id_str": "1136060761422405633",
+            "indices": [
+               0,
+               14
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500906206453510154,
+            "id_str": "1500906206453510154",
+            "indices": [
+               66,
+               89
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRKPhzXMAoGTHL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRKPhzXMAoGTHL.jpg",
+            "url": "https://t.co/iq1FDsA2oo",
+            "display_url": "pic.twitter.com/iq1FDsA2oo",
+            "expanded_url": "https://twitter.com/AisleSeat/status/1500906228268023810/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1440,
+                  "h": 1492,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1158,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 656,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500906206453510154,
+            "id_str": "1500906206453510154",
+            "indices": [
+               66,
+               89
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRKPhzXMAoGTHL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRKPhzXMAoGTHL.jpg",
+            "url": "https://t.co/iq1FDsA2oo",
+            "display_url": "pic.twitter.com/iq1FDsA2oo",
+            "expanded_url": "https://twitter.com/AisleSeat/status/1500906228268023810/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "large": {
+                  "w": 1440,
+                  "h": 1492,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1158,
+                  "h": 1200,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 656,
+                  "h": 680,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646678904965"
+}

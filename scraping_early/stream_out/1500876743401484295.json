@@ -1,0 +1,207 @@
+{
+   "created_at": "Mon Mar 07 16:51:15 +0000 2022",
+   "id": 1500876743401484295,
+   "id_str": "1500876743401484295",
+   "text": "JOBS in #Philly! TODAY at 3 PM \u2013 virtual job fair \u2013 the IRS is hiring contact representatives in Philadelphia:\u2026 https://t.co/HmjGs7YUNI",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 90639372,
+      "id_str": "90639372",
+      "name": "Congressman Dwight Evans",
+      "screen_name": "RepDwightEvans",
+      "location": "Philadelphia, PA",
+      "url": "https://evans.house.gov/",
+      "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: http://Facebook.com/RepDwightEvans",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 20492,
+      "friends_count": 3500,
+      "listed_count": 802,
+      "favourites_count": 4403,
+      "statuses_count": 31456,
+      "created_at": "Tue Nov 17 14:25:20 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879350983175925764/xUkaKXoa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90639372/1451339780",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "JOBS in #Philly! TODAY at 3 PM \u2013 virtual job fair \u2013 the IRS is hiring contact representatives in Philadelphia:\nhttps://t.co/KJjg62xnrj https://t.co/dymGWnj5It",
+      "display_text_range": [
+         0,
+         134
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Philly",
+               "indices": [
+                  8,
+                  15
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/KJjg62xnrj",
+               "expanded_url": "https://www.eventbrite.com/e/virtual-information-session-about-the-contact-representative-position-tickets-272287648687?aff=ICW",
+               "display_url": "eventbrite.com/e/virtual-info\u2026",
+               "indices": [
+                  111,
+                  134
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500876740440297473,
+               "id_str": "1500876740440297473",
+               "indices": [
+                  135,
+                  158
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQvcYWXEAE1XYD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQvcYWXEAE1XYD.jpg",
+               "url": "https://t.co/dymGWnj5It",
+               "display_url": "pic.twitter.com/dymGWnj5It",
+               "expanded_url": "https://twitter.com/RepDwightEvans/status/1500876743401484295/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 800,
+                     "h": 400,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 800,
+                     "h": 400,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500876740440297473,
+               "id_str": "1500876740440297473",
+               "indices": [
+                  135,
+                  158
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQvcYWXEAE1XYD.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQvcYWXEAE1XYD.jpg",
+               "url": "https://t.co/dymGWnj5It",
+               "display_url": "pic.twitter.com/dymGWnj5It",
+               "expanded_url": "https://twitter.com/RepDwightEvans/status/1500876743401484295/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 800,
+                     "h": 400,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 800,
+                     "h": 400,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Philly",
+            "indices": [
+               8,
+               15
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/HmjGs7YUNI",
+            "expanded_url": "https://twitter.com/i/web/status/1500876743401484295",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               112,
+               135
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646671875225"
+}

@@ -1,0 +1,332 @@
+{
+   "created_at": "Mon Mar 07 18:09:06 +0000 2022",
+   "id": 1500896336010526727,
+   "id_str": "1500896336010526727",
+   "text": "RT @RepMcGovern: \u23f1\ufe0f\u23f1\ufe0f\u23f1\ufe0fGot 30 seconds? Learn more about my bill, The LUNCHES Act, and how an extra 49 cents per meal would transform our sc\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15812228,
+      "id_str": "15812228",
+      "name": "Tracy O'Connell Novick",
+      "screen_name": "TracyNovick",
+      "location": "The heart of the Commonwealth",
+      "url": "https://linktr.ee/TracyNovick",
+      "description": "Yes, that Tracy Novick\u2022education funding and policy, 280 at a time\u2022MASC Field Director; Worcester School Committee member\u2022If it is here, it is me\u2022She/her",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 7961,
+      "friends_count": 876,
+      "listed_count": 217,
+      "favourites_count": 164404,
+      "statuses_count": 170236,
+      "created_at": "Mon Aug 11 19:12:08 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FFF223",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1498278055378407434/lsQzy8a3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498278055378407434/lsQzy8a3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15812228/1643420969",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:54:34 +0000 2022",
+      "id": 1500877579196289026,
+      "id_str": "1500877579196289026",
+      "text": "\u23f1\ufe0f\u23f1\ufe0f\u23f1\ufe0fGot 30 seconds? Learn more about my bill, The LUNCHES Act, and how an extra 49 cents per meal would transform\u2026 https://t.co/TmRMhChoWn",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 242426145,
+         "id_str": "242426145",
+         "name": "Rep. Jim McGovern",
+         "screen_name": "RepMcGovern",
+         "location": "Massachusetts, USA",
+         "url": "http://mcgovern.house.gov",
+         "description": "Lisa's husband. Patrick & Molly's dad. Proudly serving #MA02 & working to #EndHungerNow. Chair of @RulesDemocrats. Co-Chair of @TLhumanrights & @CECCgov. he/him",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 107263,
+         "friends_count": 677,
+         "listed_count": 1787,
+         "favourites_count": 3401,
+         "statuses_count": 14257,
+         "created_at": "Mon Jan 24 19:18:36 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "336699",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268059258802901002/0WamNMY3_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/242426145/1558546870",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\u23f1\ufe0f\u23f1\ufe0f\u23f1\ufe0fGot 30 seconds? Learn more about my bill, The LUNCHES Act, and how an extra 49 cents per meal would transform our school\u2019s capability to create healthy, more nutritious lunches. https://t.co/K1DAoKmeqw",
+         "display_text_range": [
+            0,
+            207
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1499465891452489734,
+                  "id_str": "1499465891452489734",
+                  "indices": [
+                     184,
+                     207
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499465891452489734/pu/img/oEt47kZPUW8JR87A.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499465891452489734/pu/img/oEt47kZPUW8JR87A.jpg",
+                  "url": "https://t.co/K1DAoKmeqw",
+                  "display_url": "pic.twitter.com/K1DAoKmeqw",
+                  "expanded_url": "https://twitter.com/ASP/status/1499466093034881031/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 25300,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/540x540/yz7AVOrBurT9XGw0.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/720x720/hUZw5uWCzGvNpHoV.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/320x320/_erEqsYg8L8z3s2G.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/pl/1N2thFWOG_QlQ__7.m3u8?tag=12&container=fmp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     }
+                  },
+                  "source_status_id": 1499466093034881031,
+                  "source_status_id_str": "1499466093034881031",
+                  "source_user_id": 1215382042772307968,
+                  "source_user_id_str": "1215382042772307968"
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1499465891452489734,
+                  "id_str": "1499465891452489734",
+                  "indices": [
+                     184,
+                     207
+                  ],
+                  "additional_media_info": {
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499465891452489734/pu/img/oEt47kZPUW8JR87A.jpg",
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499465891452489734/pu/img/oEt47kZPUW8JR87A.jpg",
+                  "url": "https://t.co/K1DAoKmeqw",
+                  "display_url": "pic.twitter.com/K1DAoKmeqw",
+                  "expanded_url": "https://twitter.com/ASP/status/1499466093034881031/video/1",
+                  "type": "video",
+                  "video_info": {
+                     "aspect_ratio": [
+                        1,
+                        1
+                     ],
+                     "duration_millis": 25300,
+                     "variants": [
+                        {
+                           "bitrate": 832000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/540x540/yz7AVOrBurT9XGw0.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 1280000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/720x720/hUZw5uWCzGvNpHoV.mp4?tag=12"
+                        },
+                        {
+                           "bitrate": 432000,
+                           "content_type": "video/mp4",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/vid/320x320/_erEqsYg8L8z3s2G.mp4?tag=12"
+                        },
+                        {
+                           "content_type": "application/x-mpegURL",
+                           "url": "https://video.twimg.com/ext_tw_video/1499465891452489734/pu/pl/1N2thFWOG_QlQ__7.m3u8?tag=12&container=fmp4"
+                        }
+                     ]
+                  },
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                     }
+                  },
+                  "source_status_id": 1499466093034881031,
+                  "source_status_id_str": "1499466093034881031",
+                  "source_user_id": 1215382042772307968,
+                  "source_user_id_str": "1215382042772307968"
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 8,
+      "favorite_count": 29,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/TmRMhChoWn",
+               "expanded_url": "https://twitter.com/i/web/status/1500877579196289026",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepMcGovern",
+            "name": "Rep. Jim McGovern",
+            "id": 242426145,
+            "id_str": "242426145",
+            "indices": [
+               3,
+               15
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646676546467"
+}

@@ -1,0 +1,150 @@
+{
+   "created_at": "Mon Mar 07 22:24:52 +0000 2022",
+   "id": 1500960701824835589,
+   "id_str": "1500960701824835589",
+   "text": "Two bills to punish #Putin for his barbaric war against #Ukraine. I introduced a bill codifying Biden's intent to b\u2026 https://t.co/k8HojQjSNg",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343679195034103808,
+      "id_str": "1343679195034103808",
+      "name": "Rep. Carlos A. Gimenez",
+      "screen_name": "RepCarlos",
+      "location": "Miami, FL",
+      "url": "https://gimenez.house.gov/",
+      "description": "U.S. Congressman serving #FL26 | Working past the gridlock to deliver results for South Florida | Member of @TransportGOP, @HomelandGOP & @HouseScienceGOP",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12184,
+      "friends_count": 247,
+      "listed_count": 249,
+      "favourites_count": 100,
+      "statuses_count": 1203,
+      "created_at": "Mon Dec 28 22:04:32 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1377250715215749126/1oDKoLXH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377250715215749126/1oDKoLXH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343679195034103808/1644443354",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Two bills to punish #Putin for his barbaric war against #Ukraine. I introduced a bill codifying Biden's intent to ban Russian aircraft from operating in American airspace. I also partnered with @MarcoRubio to sanction Putin's puppet, separatist regimes.\n\nhttps://t.co/79unjbnB5r",
+      "display_text_range": [
+         0,
+         278
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Putin",
+               "indices": [
+                  20,
+                  26
+               ]
+            },
+            {
+               "text": "Ukraine",
+               "indices": [
+                  56,
+                  64
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/79unjbnB5r",
+               "expanded_url": "https://www.miamiherald.com/news/politics-government/article259148513.html",
+               "display_url": "miamiherald.com/news/politics-\u2026",
+               "indices": [
+                  255,
+                  278
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "marcorubio",
+               "name": "Marco Rubio",
+               "id": 15745368,
+               "id_str": "15745368",
+               "indices": [
+                  194,
+                  205
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Putin",
+            "indices": [
+               20,
+               26
+            ]
+         },
+         {
+            "text": "Ukraine",
+            "indices": [
+               56,
+               64
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/k8HojQjSNg",
+            "expanded_url": "https://twitter.com/i/web/status/1500960701824835589",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691892473"
+}

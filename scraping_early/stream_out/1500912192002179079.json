@@ -1,0 +1,110 @@
+{
+   "created_at": "Mon Mar 07 19:12:06 +0000 2022",
+   "id": 1500912192002179079,
+   "id_str": "1500912192002179079",
+   "text": "@DWStweets @TedDeutch @AJCGlobal The feeling is mutual, my friend. Glad we can continue to count on your leadership in Congress!",
+   "display_text_range": [
+      33,
+      128
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1500561936496443394,
+   "in_reply_to_status_id_str": "1500561936496443394",
+   "in_reply_to_user_id": 115979444,
+   "in_reply_to_user_id_str": "115979444",
+   "in_reply_to_screen_name": "DWStweets",
+   "user": {
+      "id": 137794015,
+      "id_str": "137794015",
+      "name": "Rep. Ted Deutch",
+      "screen_name": "RepTedDeutch",
+      "location": "Florida, USA",
+      "url": "http://Deutch.house.gov",
+      "description": "Husband, dad, Congressman, and vegan. Lover of music & animals. Chair of Ethics Cmte & Middle East, North Africa & Global CT Subcmte. Member of Judiciary Cmte.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 74675,
+      "friends_count": 2909,
+      "listed_count": 1730,
+      "favourites_count": 1061,
+      "statuses_count": 12309,
+      "created_at": "Tue Apr 27 19:51:54 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "084B8A",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361812894388793348/_hszFxu4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361812894388793348/_hszFxu4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/137794015/1643233307",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "DWStweets",
+            "name": "Debbie Wasserman Schultz",
+            "id": 115979444,
+            "id_str": "115979444",
+            "indices": [
+               0,
+               10
+            ]
+         },
+         {
+            "screen_name": "TedDeutch",
+            "name": "Ted Deutch",
+            "id": 65541270,
+            "id_str": "65541270",
+            "indices": [
+               11,
+               21
+            ]
+         },
+         {
+            "screen_name": "AJCGlobal",
+            "name": "American Jewish Committee",
+            "id": 183767243,
+            "id_str": "183767243",
+            "indices": [
+               22,
+               32
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680326830"
+}

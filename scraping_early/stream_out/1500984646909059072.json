@@ -1,0 +1,109 @@
+{
+   "created_at": "Tue Mar 08 00:00:01 +0000 2022",
+   "id": 1500984646909059072,
+   "id_str": "1500984646909059072",
+   "text": "With the semiconductor shortage, I applaud this investment to expand US semiconductor manufacturing and create jobs\u2026 https://t.co/UiQFB4OrrB",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1078355119920562176,
+      "id_str": "1078355119920562176",
+      "name": "Rep. Colin Allred",
+      "screen_name": "RepColinAllred",
+      "location": "Dallas, TX",
+      "url": "http://allred.house.gov",
+      "description": "Official Twitter of Rep. Colin Allred #TX32. Civil rights attorney. Former Obama HUD and NFL player. Member of @transportDems, @houseforeign & @vetaffairsdems.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 45576,
+      "friends_count": 325,
+      "listed_count": 717,
+      "favourites_count": 752,
+      "statuses_count": 3430,
+      "created_at": "Thu Dec 27 18:21:10 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1082644909033750528/JmKN3p40_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082644909033750528/JmKN3p40_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078355119920562176/1553952018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "With the semiconductor shortage, I applaud this investment to expand US semiconductor manufacturing and create jobs. The COMPETES Act will bolster US manufacturing and lead the world. Let\u2019s get this done and send it to the President\u2019s desk.\nhttps://t.co/7cbE7ZZ1dH",
+      "display_text_range": [
+         0,
+         264
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/7cbE7ZZ1dH",
+               "expanded_url": "https://www.dallasnews.com/business/local-companies/2022/03/04/siemens-invests-10-million-in-grand-prairie-hub-as-semiconductor-manufacturing-is-set-to-explode/",
+               "display_url": "dallasnews.com/business/local\u2026",
+               "indices": [
+                  241,
+                  264
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/UiQFB4OrrB",
+            "expanded_url": "https://twitter.com/i/web/status/1500984646909059072",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646697601426"
+}

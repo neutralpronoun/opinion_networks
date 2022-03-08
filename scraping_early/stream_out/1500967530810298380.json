@@ -1,0 +1,398 @@
+{
+   "created_at": "Mon Mar 07 22:52:00 +0000 2022",
+   "id": 1500967530810298380,
+   "id_str": "1500967530810298380",
+   "text": "RT @ddiamond: Four Democratic senators \u2014\u00a0 @SenSherrodBrown, @SenWhitehouse, @SenatorBennet and @TimKaine \u2014\u00a0are calling on Biden to honor hi\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 43910797,
+      "id_str": "43910797",
+      "name": "Sherrod Brown",
+      "screen_name": "SenSherrodBrown",
+      "location": "Cleveland, OH",
+      "url": "http://brown.senate.gov",
+      "description": "Office of U.S Senator Sherrod Brown. Chairman of @SenateBanking Committee. Proud to serve Ohio.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 512342,
+      "friends_count": 335,
+      "listed_count": 4588,
+      "favourites_count": 2442,
+      "statuses_count": 8753,
+      "created_at": "Mon Jun 01 16:07:45 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F1F2EA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1E4CA1",
+      "profile_sidebar_border_color": "598541",
+      "profile_sidebar_fill_color": "EBEAD9",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/43910797/1610402444",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:27:44 +0000 2022",
+      "id": 1500961423421231112,
+      "id_str": "1500961423421231112",
+      "text": "Four Democratic senators \u2014\u00a0 @SenSherrodBrown, @SenWhitehouse, @SenatorBennet and @TimKaine \u2014\u00a0are calling on Biden t\u2026 https://t.co/WTaVd1FETf",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 16868756,
+         "id_str": "16868756",
+         "name": "Dan Diamond",
+         "screen_name": "ddiamond",
+         "location": "Washington, D.C.",
+         "url": "https://www.washingtonpost.com/people/dan-diamond/",
+         "description": "@WashingtonPost reporter who investigates health policy, politics and the pandemic. Yes, it\u2019s my real name. Got a tip? DM me for Signal.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 162295,
+         "friends_count": 1165,
+         "listed_count": 3507,
+         "favourites_count": 55691,
+         "statuses_count": 68998,
+         "created_at": "Mon Oct 20 15:24:07 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "709397",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "0213CF",
+         "profile_sidebar_border_color": "86A4A6",
+         "profile_sidebar_fill_color": "A0C5C7",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/16868756/1626922134",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Four Democratic senators \u2014\u00a0 @SenSherrodBrown, @SenWhitehouse, @SenatorBennet and @TimKaine \u2014\u00a0are calling on Biden to honor his campaign pledge and propose a \u201cpublic option\u201d for people shopping for health insurance coverage.\n\nLetter: https://t.co/Ei4vDKn1G1 https://t.co/qsYFMq1WOk",
+         "display_text_range": [
+            0,
+            256
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/Ei4vDKn1G1",
+                  "expanded_url": "https://www.brown.senate.gov/imo/media/doc/public_option_fy23_budget_letter_3-4-22.pdf",
+                  "display_url": "brown.senate.gov/imo/media/doc/\u2026",
+                  "indices": [
+                     233,
+                     256
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SenSherrodBrown",
+                  "name": "Sherrod Brown",
+                  "id": 43910797,
+                  "id_str": "43910797",
+                  "indices": [
+                     28,
+                     44
+                  ]
+               },
+               {
+                  "screen_name": "SenWhitehouse",
+                  "name": "Sheldon Whitehouse",
+                  "id": 242555999,
+                  "id_str": "242555999",
+                  "indices": [
+                     46,
+                     60
+                  ]
+               },
+               {
+                  "screen_name": "SenatorBennet",
+                  "name": "Michael Bennet",
+                  "id": 224285242,
+                  "id_str": "224285242",
+                  "indices": [
+                     62,
+                     76
+                  ]
+               },
+               {
+                  "screen_name": "timkaine",
+                  "name": "Tim Kaine",
+                  "id": 172858784,
+                  "id_str": "172858784",
+                  "indices": [
+                     81,
+                     90
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500961419776434185,
+                  "id_str": "1500961419776434185",
+                  "indices": [
+                     257,
+                     280
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR8dXdXIAkasg7.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR8dXdXIAkasg7.jpg",
+                  "url": "https://t.co/qsYFMq1WOk",
+                  "display_url": "pic.twitter.com/qsYFMq1WOk",
+                  "expanded_url": "https://twitter.com/ddiamond/status/1500961423421231112/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1058,
+                        "h": 718,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 461,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1058,
+                        "h": 718,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500961419776434185,
+                  "id_str": "1500961419776434185",
+                  "indices": [
+                     257,
+                     280
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNR8dXdXIAkasg7.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNR8dXdXIAkasg7.jpg",
+                  "url": "https://t.co/qsYFMq1WOk",
+                  "display_url": "pic.twitter.com/qsYFMq1WOk",
+                  "expanded_url": "https://twitter.com/ddiamond/status/1500961423421231112/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1058,
+                        "h": 718,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 461,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1058,
+                        "h": 718,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11,
+      "favorite_count": 36,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/WTaVd1FETf",
+               "expanded_url": "https://twitter.com/i/web/status/1500961423421231112",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenSherrodBrown",
+               "name": "Sherrod Brown",
+               "id": 43910797,
+               "id_str": "43910797",
+               "indices": [
+                  28,
+                  44
+               ]
+            },
+            {
+               "screen_name": "SenWhitehouse",
+               "name": "Sheldon Whitehouse",
+               "id": 242555999,
+               "id_str": "242555999",
+               "indices": [
+                  46,
+                  60
+               ]
+            },
+            {
+               "screen_name": "SenatorBennet",
+               "name": "Michael Bennet",
+               "id": 224285242,
+               "id_str": "224285242",
+               "indices": [
+                  62,
+                  76
+               ]
+            },
+            {
+               "screen_name": "timkaine",
+               "name": "Tim Kaine",
+               "id": 172858784,
+               "id_str": "172858784",
+               "indices": [
+                  81,
+                  90
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ddiamond",
+            "name": "Dan Diamond",
+            "id": 16868756,
+            "id_str": "16868756",
+            "indices": [
+               3,
+               12
+            ]
+         },
+         {
+            "screen_name": "SenSherrodBrown",
+            "name": "Sherrod Brown",
+            "id": 43910797,
+            "id_str": "43910797",
+            "indices": [
+               42,
+               58
+            ]
+         },
+         {
+            "screen_name": "SenWhitehouse",
+            "name": "Sheldon Whitehouse",
+            "id": 242555999,
+            "id_str": "242555999",
+            "indices": [
+               60,
+               74
+            ]
+         },
+         {
+            "screen_name": "SenatorBennet",
+            "name": "Michael Bennet",
+            "id": 224285242,
+            "id_str": "224285242",
+            "indices": [
+               76,
+               90
+            ]
+         },
+         {
+            "screen_name": "timkaine",
+            "name": "Tim Kaine",
+            "id": 172858784,
+            "id_str": "172858784",
+            "indices": [
+               95,
+               104
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646693520630"
+}

@@ -1,0 +1,197 @@
+{
+   "created_at": "Mon Mar 07 17:46:40 +0000 2022",
+   "id": 1500890688875024387,
+   "id_str": "1500890688875024387",
+   "text": "#OTD in 1965, 600 people, including my friend John Lewis, marched to demand the right to vote. They were met with v\u2026 https://t.co/e7fCxwsKay",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 193732179,
+      "id_str": "193732179",
+      "name": "Judy Chu",
+      "screen_name": "RepJudyChu",
+      "location": "Pasadena, CA",
+      "url": "http://chu.house.gov",
+      "description": "Proudly representing California's 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 83179,
+      "friends_count": 47241,
+      "listed_count": 1715,
+      "favourites_count": 806,
+      "statuses_count": 7563,
+      "created_at": "Wed Sep 22 15:18:17 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DBF7FF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660180425/626ed3754e3c64e47ce8a9d1cdf66ef7_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/193732179/1363272599",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "#OTD in 1965, 600 people, including my friend John Lewis, marched to demand the right to vote. They were met with violence from police &amp; the state.\n\nI made that same walk with John years later, &amp; with those same rights under attack today, I promise John, I won't stop marching! https://t.co/u8FzeIDltX",
+      "display_text_range": [
+         0,
+         285
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "OTD",
+               "indices": [
+                  0,
+                  4
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500890654771142656,
+               "id_str": "1500890654771142656",
+               "indices": [
+                  286,
+                  309
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ8GTRWYAArBHO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ8GTRWYAArBHO.jpg",
+               "url": "https://t.co/u8FzeIDltX",
+               "display_url": "pic.twitter.com/u8FzeIDltX",
+               "expanded_url": "https://twitter.com/RepJudyChu/status/1500890688875024387/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500890654771142656,
+               "id_str": "1500890654771142656",
+               "indices": [
+                  286,
+                  309
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQ8GTRWYAArBHO.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQ8GTRWYAArBHO.jpg",
+               "url": "https://t.co/u8FzeIDltX",
+               "display_url": "pic.twitter.com/u8FzeIDltX",
+               "expanded_url": "https://twitter.com/RepJudyChu/status/1500890688875024387/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2016,
+                     "h": 1512,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "OTD",
+            "indices": [
+               0,
+               4
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/e7fCxwsKay",
+            "expanded_url": "https://twitter.com/i/web/status/1500890688875024387",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646675200085"
+}

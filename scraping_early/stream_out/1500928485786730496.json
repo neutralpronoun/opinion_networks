@@ -1,0 +1,124 @@
+{
+   "created_at": "Mon Mar 07 20:16:51 +0000 2022",
+   "id": 1500928485786730496,
+   "id_str": "1500928485786730496",
+   "text": "@RepMTG You said 911 was a hoax, you vile, disgrace of a human.  You just heckled our president as he was speaking\u2026 https://t.co/zzfg488sNv",
+   "display_text_range": [
+      8,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500539458172690439,
+   "in_reply_to_status_id_str": "1500539458172690439",
+   "in_reply_to_user_id": 1344356576786866176,
+   "in_reply_to_user_id_str": "1344356576786866176",
+   "in_reply_to_screen_name": "RepMTG",
+   "user": {
+      "id": 2337336336,
+      "id_str": "2337336336",
+      "name": "jessica queller",
+      "screen_name": "jessicaqueller",
+      "location": null,
+      "url": "http://www.jessicaqueller.com",
+      "description": "tv and book writer, women's health advocate, displaced new yorker, EP on #supergirl, mom of Sophie, step-mom of Stella & Asher, married to #billprady",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3873,
+      "friends_count": 1256,
+      "listed_count": 46,
+      "favourites_count": 3539,
+      "statuses_count": 908,
+      "created_at": "Mon Feb 10 22:25:59 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/838271917626814467/otFmWbH9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/838271917626814467/otFmWbH9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2337336336/1488694101",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepMTG You said 911 was a hoax, you vile, disgrace of a human.  You just heckled our president as he was speaking about his dead son.  You are the worst of America, it\u2019s disgraceful that you have a platform.  I hope you feel the contempt that all intelligent people feel towards you.",
+      "display_text_range": [
+         8,
+         284
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepMTG",
+               "name": "Rep. Marjorie Taylor Greene",
+               "id": 1344356576786866176,
+               "id_str": "1344356576786866176",
+               "indices": [
+                  0,
+                  7
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/zzfg488sNv",
+            "expanded_url": "https://twitter.com/i/web/status/1500928485786730496",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "id": 1344356576786866176,
+            "id_str": "1344356576786866176",
+            "indices": [
+               0,
+               7
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684211571"
+}

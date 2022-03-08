@@ -1,0 +1,344 @@
+{
+   "created_at": "Mon Mar 07 15:34:43 +0000 2022",
+   "id": 1500857483174334472,
+   "id_str": "1500857483174334472",
+   "text": "Proud of fifth generation-Kansan and former Navy SEAL Dan Cnossen! Thank you for your service and for representing\u2026 https://t.co/MiT0FI9s1e",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1240107944,
+      "id_str": "1240107944",
+      "name": "Dr. Roger Marshall",
+      "screen_name": "RogerMarshallMD",
+      "location": "Great Bend, KS",
+      "url": null,
+      "description": "Husband, father, grandfather, doctor, and U.S. Senator for Kansas.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 31840,
+      "friends_count": 1004,
+      "listed_count": 663,
+      "favourites_count": 830,
+      "statuses_count": 6638,
+      "created_at": "Sun Mar 03 23:50:35 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FFCC4D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1460999008453861383/l50MDUN__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460999008453861383/l50MDUN__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240107944/1641820872",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1498789944332099590,
+   "quoted_status_id_str": "1498789944332099590",
+   "quoted_status": {
+      "created_at": "Tue Mar 01 22:39:03 +0000 2022",
+      "id": 1498789944332099590,
+      "id_str": "1498789944332099590",
+      "text": "6-time Paralympic medalist Dan Cnossen\u2019s love of the outdoors fuels his passion for Para Nordic skiing.\n \n@TeamUSA\u2026 https://t.co/uZh5YMSJks",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 14955353,
+         "id_str": "14955353",
+         "name": "NBC Olympics",
+         "screen_name": "NBCOlympics",
+         "location": null,
+         "url": "https://www.nbcolympics.com/schedule",
+         "description": "The official home of NBC\u2019s coverage of the Olympics and Paralympics.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1127115,
+         "friends_count": 2949,
+         "listed_count": 7510,
+         "favourites_count": 3233,
+         "statuses_count": 42808,
+         "created_at": "Fri May 30 15:20:31 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "D2D6D9",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "19CF86",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "C8C8C8",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1500276864727793667/AmX8FXGg_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500276864727793667/AmX8FXGg_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/14955353/1645414264",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "6-time Paralympic medalist Dan Cnossen\u2019s love of the outdoors fuels his passion for Para Nordic skiing.\n \n@TeamUSA // @USParaNordic // #WinterParalympics https://t.co/qBhm8Xpvco",
+         "display_text_range": [
+            0,
+            153
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "WinterParalympics",
+                  "indices": [
+                     135,
+                     153
+                  ]
+               }
+            ],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "TeamUSA",
+                  "name": "Team USA",
+                  "id": 21870081,
+                  "id_str": "21870081",
+                  "indices": [
+                     106,
+                     114
+                  ]
+               },
+               {
+                  "screen_name": "USParaNordic",
+                  "name": "U.S. Paralympics Nordic Skiing",
+                  "id": 534689000,
+                  "id_str": "534689000",
+                  "indices": [
+                     118,
+                     131
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1498789817496317956,
+                  "id_str": "1498789817496317956",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "additional_media_info": {
+                     "embeddable": false,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FMzFgUCXsAgmBrj.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMzFgUCXsAgmBrj.jpg",
+                  "url": "https://t.co/qBhm8Xpvco",
+                  "display_url": "pic.twitter.com/qBhm8Xpvco",
+                  "expanded_url": "https://twitter.com/NBCOlympics/status/1498789944332099590/video/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1498789817496317956,
+                  "id_str": "1498789817496317956",
+                  "indices": [
+                     154,
+                     177
+                  ],
+                  "additional_media_info": {
+                     "embeddable": false,
+                     "monetizable": false
+                  },
+                  "media_url": "http://pbs.twimg.com/media/FMzFgUCXsAgmBrj.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FMzFgUCXsAgmBrj.jpg",
+                  "url": "https://t.co/qBhm8Xpvco",
+                  "display_url": "pic.twitter.com/qBhm8Xpvco",
+                  "expanded_url": "https://twitter.com/NBCOlympics/status/1498789944332099590/video/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 21,
+      "favorite_count": 98,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/uZh5YMSJks",
+               "expanded_url": "https://twitter.com/i/web/status/1498789944332099590",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "TeamUSA",
+               "name": "Team USA",
+               "id": 21870081,
+               "id_str": "21870081",
+               "indices": [
+                  106,
+                  114
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/atC24xKegJ",
+      "expanded": "https://twitter.com/NBCOlympics/status/1498789944332099590",
+      "display": "twitter.com/NBCOlympics/st\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Proud of fifth generation-Kansan and former Navy SEAL Dan Cnossen! Thank you for your service and for representing @TeamUSA well with your hard work and determination.",
+      "display_text_range": [
+         0,
+         167
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "TeamUSA",
+               "name": "Team USA",
+               "id": 21870081,
+               "id_str": "21870081",
+               "indices": [
+                  115,
+                  123
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/MiT0FI9s1e",
+            "expanded_url": "https://twitter.com/i/web/status/1500857483174334472",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               116,
+               139
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646667283229"
+}

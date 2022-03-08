@@ -1,0 +1,120 @@
+{
+   "created_at": "Mon Mar 07 17:18:34 +0000 2022",
+   "id": 1500883618666844161,
+   "id_str": "1500883618666844161",
+   "text": "In his first year, President Biden has made the United States poorer and less secure. \n\nMy thoughts on the Presiden\u2026 https://t.co/0dw07nlUTQ",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 935368364,
+      "id_str": "935368364",
+      "name": "Rep. Mike Kelly",
+      "screen_name": "MikeKellyPA",
+      "location": "Washington, DC",
+      "url": "http://kelly.house.gov",
+      "description": "U.S. Representative Mike Kelly proudly serves the people of Pennsylvania's 16th District (#PA16) and is a member of the House Ways & Means Committee. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26179,
+      "friends_count": 1345,
+      "listed_count": 893,
+      "favourites_count": 2159,
+      "statuses_count": 3503,
+      "created_at": "Thu Nov 08 20:31:21 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/935368364/1642522198",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "In his first year, President Biden has made the United States poorer and less secure. \n\nMy thoughts on the President's State of the Union Address and how we solve the real problems facing our country in today's @Meadville_Trib. \nhttps://t.co/iqVmnzPpNX",
+      "display_text_range": [
+         0,
+         252
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/iqVmnzPpNX",
+               "expanded_url": "https://www.meadvilletribune.com/opinion/biden-s-state-of-the-union-fails-to-address-americans-real-concerns/article_7f56f1c4-9bdf-11ec-830b-d76ddc1cdb12.html",
+               "display_url": "meadvilletribune.com/opinion/biden-\u2026",
+               "indices": [
+                  229,
+                  252
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "Meadville_Trib",
+               "name": "Meadville Tribune",
+               "id": 1216644037,
+               "id_str": "1216644037",
+               "indices": [
+                  211,
+                  226
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/0dw07nlUTQ",
+            "expanded_url": "https://twitter.com/i/web/status/1500883618666844161",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646673514416"
+}

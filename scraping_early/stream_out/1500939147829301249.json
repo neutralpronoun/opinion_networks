@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 20:59:13 +0000 2022",
+   "id": 1500939147829301249,
+   "id_str": "1500939147829301249",
+   "text": "Hats off to @SenSherrodBrown and @SenBobCasey for introducing this hugely important bill in the Senate. I\u2019m proud t\u2026 https://t.co/1zhnDSd5mQ",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1080277407867772930,
+      "id_str": "1080277407867772930",
+      "name": "Rep. Andy Levin",
+      "screen_name": "RepAndyLevin",
+      "location": "Bloomfield Township, MI",
+      "url": "http://andylevin.house.gov",
+      "description": "Honored to represent #MI09 in Congress. Member of @EdLaborCmte and @HouseForeign. Democrat raising the standard of living for working people.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 29927,
+      "friends_count": 2810,
+      "listed_count": 577,
+      "favourites_count": 954,
+      "statuses_count": 4306,
+      "created_at": "Wed Jan 02 01:39:39 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500846733408063489/3XYDK6OK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080277407867772930/1645989909",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1500858186336817163,
+   "quoted_status_id_str": "1500858186336817163",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 15:37:30 +0000 2022",
+      "id": 1500858186336817163,
+      "id_str": "1500858186336817163",
+      "text": "Too often, we\u2019ve seen corporations kick workers off their health care to break a strike and force them back into su\u2026 https://t.co/DIBosrGd17",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 43910797,
+         "id_str": "43910797",
+         "name": "Sherrod Brown",
+         "screen_name": "SenSherrodBrown",
+         "location": "Cleveland, OH",
+         "url": "http://brown.senate.gov",
+         "description": "Office of U.S Senator Sherrod Brown. Chairman of @SenateBanking Committee. Proud to serve Ohio.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 512335,
+         "friends_count": 335,
+         "listed_count": 4588,
+         "favourites_count": 2440,
+         "statuses_count": 8752,
+         "created_at": "Mon Jun 01 16:07:45 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F1F2EA",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1E4CA1",
+         "profile_sidebar_border_color": "598541",
+         "profile_sidebar_fill_color": "EBEAD9",
+         "profile_text_color": "663B12",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329104002055892994/VpIXrM7k_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/43910797/1610402444",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Too often, we\u2019ve seen corporations kick workers off their health care to break a strike and force them back into subpar conditions\u2014this is unacceptable.\n\nI'm introducing a bill with @SenBobCasey to protect workers' health care during strikes.\nhttps://t.co/JMdZSsS8U1",
+         "display_text_range": [
+            0,
+            266
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/JMdZSsS8U1",
+                  "expanded_url": "https://www.brown.senate.gov/newsroom/press/release/brown-casey-introduce-legislation-protect-worker-health-care-during-strikes",
+                  "display_url": "brown.senate.gov/newsroom/press\u2026",
+                  "indices": [
+                     243,
+                     266
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SenBobCasey",
+                  "name": "Senator Bob Casey",
+                  "id": 171598736,
+                  "id_str": "171598736",
+                  "indices": [
+                     182,
+                     194
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 8,
+      "reply_count": 28,
+      "retweet_count": 74,
+      "favorite_count": 318,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/DIBosrGd17",
+               "expanded_url": "https://twitter.com/i/web/status/1500858186336817163",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/rrxat02AJO",
+      "expanded": "https://twitter.com/SenSherrodBrown/status/1500858186336817163",
+      "display": "twitter.com/SenSherrodBrow\u2026"
+   },
+   "is_quote_status": true,
+   "extended_tweet": {
+      "full_text": "Hats off to @SenSherrodBrown and @SenBobCasey for introducing this hugely important bill in the Senate. I\u2019m proud to have joined onto the House companion bill. Together, we can ensure striking workers are not threatened with loss of healthcare for using their collective voice.",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "SenSherrodBrown",
+               "name": "Sherrod Brown",
+               "id": 43910797,
+               "id_str": "43910797",
+               "indices": [
+                  12,
+                  28
+               ]
+            },
+            {
+               "screen_name": "SenBobCasey",
+               "name": "Senator Bob Casey",
+               "id": 171598736,
+               "id_str": "171598736",
+               "indices": [
+                  33,
+                  45
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/1zhnDSd5mQ",
+            "expanded_url": "https://twitter.com/i/web/status/1500939147829301249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "SenSherrodBrown",
+            "name": "Sherrod Brown",
+            "id": 43910797,
+            "id_str": "43910797",
+            "indices": [
+               12,
+               28
+            ]
+         },
+         {
+            "screen_name": "SenBobCasey",
+            "name": "Senator Bob Casey",
+            "id": 171598736,
+            "id_str": "171598736",
+            "indices": [
+               33,
+               45
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686753600"
+}

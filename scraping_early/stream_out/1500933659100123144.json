@@ -1,0 +1,199 @@
+{
+   "created_at": "Mon Mar 07 20:37:24 +0000 2022",
+   "id": 1500933659100123144,
+   "id_str": "1500933659100123144",
+   "text": "DID YOU KNOW: $36 Billion in #AmericanRescuePlan funding went to support students, colleges and universities, inclu\u2026 https://t.co/B4QRmYP3Kb",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 2916086925,
+      "id_str": "2916086925",
+      "name": "Rep. Alma Adams",
+      "screen_name": "RepAdams",
+      "location": "Charlotte, NC",
+      "url": "http://adams.house.gov/",
+      "description": "Congresswoman representing NC\u2019s 12th District. Educator. Artist. Founder & Co-Chair of the Black Maternal Health @BMHCaucus and the Bipartisan @HBCUCaucus.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 27980,
+      "friends_count": 2487,
+      "listed_count": 885,
+      "favourites_count": 4726,
+      "statuses_count": 12050,
+      "created_at": "Thu Dec 11 19:54:07 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390079144856260611/I-WCccRm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390079144856260611/I-WCccRm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916086925/1631820555",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "DID YOU KNOW: $36 Billion in #AmericanRescuePlan funding went to support students, colleges and universities, including $1.3 Billion for North Carolina! https://t.co/FR2f14dCap",
+      "display_text_range": [
+         0,
+         152
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "AmericanRescuePlan",
+               "indices": [
+                  29,
+                  48
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500932801260048391,
+               "id_str": "1500932801260048391",
+               "indices": [
+                  153,
+                  176
+               ],
+               "description": "List of North Carolina Colleges and Universities with the money they received from the ARP. Selected Amounts:\n\nCommunity colleges in North Carolina receiving American Rescue Plan funds include:\n\u2022 Central Piedmont Community College: $40,848,322\n\nHBCUs in North Carolina receiving American Rescue Plan funds include:\n\u2022 North Carolina A&T State University: $93,092,139\n\u2022 North Carolina Central University: $62,903,281\n\u2022 Winston\u2010Salem State University: $42,169,266\n\u2022 Fayetteville State University: $41,559,265\n\u2022 Elizabeth City State University: $15,779,156\n\u2022 Johnson C Smith University: $14,375,251\n\nExamples of other colleges and universities in North Carolina receiving American Rescue\nPlan funds include:\n\u2022 University of North Carolina - Charlotte: $72,573,880\n\u2022 University of North Carolina -Greensboro: $54,484,318\n\u2022 North Carolina State University: $50,204,023\n\n",
+               "media_url": "http://pbs.twimg.com/media/FNRibjLWUAc2XW_.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNRibjLWUAc2XW_.png",
+               "url": "https://t.co/FR2f14dCap",
+               "display_url": "pic.twitter.com/FR2f14dCap",
+               "expanded_url": "https://twitter.com/RepAdams/status/1500933659100123144/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 795,
+                     "h": 804,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 795,
+                     "h": 804,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 672,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500932801260048391,
+               "id_str": "1500932801260048391",
+               "indices": [
+                  153,
+                  176
+               ],
+               "description": "List of North Carolina Colleges and Universities with the money they received from the ARP. Selected Amounts:\n\nCommunity colleges in North Carolina receiving American Rescue Plan funds include:\n\u2022 Central Piedmont Community College: $40,848,322\n\nHBCUs in North Carolina receiving American Rescue Plan funds include:\n\u2022 North Carolina A&T State University: $93,092,139\n\u2022 North Carolina Central University: $62,903,281\n\u2022 Winston\u2010Salem State University: $42,169,266\n\u2022 Fayetteville State University: $41,559,265\n\u2022 Elizabeth City State University: $15,779,156\n\u2022 Johnson C Smith University: $14,375,251\n\nExamples of other colleges and universities in North Carolina receiving American Rescue\nPlan funds include:\n\u2022 University of North Carolina - Charlotte: $72,573,880\n\u2022 University of North Carolina -Greensboro: $54,484,318\n\u2022 North Carolina State University: $50,204,023\n\n",
+               "media_url": "http://pbs.twimg.com/media/FNRibjLWUAc2XW_.png",
+               "media_url_https": "https://pbs.twimg.com/media/FNRibjLWUAc2XW_.png",
+               "url": "https://t.co/FR2f14dCap",
+               "display_url": "pic.twitter.com/FR2f14dCap",
+               "expanded_url": "https://twitter.com/RepAdams/status/1500933659100123144/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 795,
+                     "h": 804,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 795,
+                     "h": 804,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 672,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "AmericanRescuePlan",
+            "indices": [
+               29,
+               48
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/B4QRmYP3Kb",
+            "expanded_url": "https://twitter.com/i/web/status/1500933659100123144",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685444985"
+}

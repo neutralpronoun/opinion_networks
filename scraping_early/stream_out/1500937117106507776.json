@@ -1,0 +1,387 @@
+{
+   "created_at": "Mon Mar 07 20:51:09 +0000 2022",
+   "id": 1500937117106507776,
+   "id_str": "1500937117106507776",
+   "text": "RT @SergioGor: Standing room only for @HagemanforWY and @RandPaul in Gillette, Wyoming! #RetireCheney https://t.co/XgmVSFAlZt",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 216881337,
+      "id_str": "216881337",
+      "name": "Rand Paul",
+      "screen_name": "RandPaul",
+      "location": "Bowling Green, KY",
+      "url": "http://randpaul.com",
+      "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3550031,
+      "friends_count": 535,
+      "listed_count": 13924,
+      "favourites_count": 851,
+      "statuses_count": 15640,
+      "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1628188173",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:50:55 +0000 2022",
+      "id": 1500937057304293377,
+      "id_str": "1500937057304293377",
+      "text": "Standing room only for @HagemanforWY and @RandPaul in Gillette, Wyoming! #RetireCheney https://t.co/XgmVSFAlZt",
+      "display_text_range": [
+         0,
+         86
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 21026508,
+         "id_str": "21026508",
+         "name": "Sergio Gor",
+         "screen_name": "SergioGor",
+         "location": "USA",
+         "url": null,
+         "description": "Founder of @WinningTeamPub \ud83d\udcda. Trump For Pres alum, Rand Paul Senate alum, America First, Beagles, avid traveler. http://45books.com",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 13146,
+         "friends_count": 159,
+         "listed_count": 171,
+         "favourites_count": 692,
+         "statuses_count": 3415,
+         "created_at": "Mon Feb 16 20:54:24 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "B6161B",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "75BD37",
+         "profile_sidebar_border_color": "829D5E",
+         "profile_sidebar_fill_color": "2968AB",
+         "profile_text_color": "041400",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472071312101285889/BbDRRRAj_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/21026508/1639804126",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "RetireCheney",
+               "indices": [
+                  73,
+                  86
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "HagemanforWY",
+               "name": "Harriet Hageman",
+               "id": 1435822302323695629,
+               "id_str": "1435822302323695629",
+               "indices": [
+                  23,
+                  36
+               ]
+            },
+            {
+               "screen_name": "RandPaul",
+               "name": "Rand Paul",
+               "id": 216881337,
+               "id_str": "216881337",
+               "indices": [
+                  41,
+                  50
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500937043337121792,
+               "id_str": "1500937043337121792",
+               "indices": [
+                  87,
+                  110
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "url": "https://t.co/XgmVSFAlZt",
+               "display_url": "pic.twitter.com/XgmVSFAlZt",
+               "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500937043337121792,
+               "id_str": "1500937043337121792",
+               "indices": [
+                  87,
+                  110
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+               "url": "https://t.co/XgmVSFAlZt",
+               "display_url": "pic.twitter.com/XgmVSFAlZt",
+               "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 510,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1536,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 900,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "RetireCheney",
+            "indices": [
+               88,
+               101
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "SergioGor",
+            "name": "Sergio Gor",
+            "id": 21026508,
+            "id_str": "21026508",
+            "indices": [
+               3,
+               13
+            ]
+         },
+         {
+            "screen_name": "HagemanforWY",
+            "name": "Harriet Hageman",
+            "id": 1435822302323695629,
+            "id_str": "1435822302323695629",
+            "indices": [
+               38,
+               51
+            ]
+         },
+         {
+            "screen_name": "RandPaul",
+            "name": "Rand Paul",
+            "id": 216881337,
+            "id_str": "216881337",
+            "indices": [
+               56,
+               65
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1500937043337121792,
+            "id_str": "1500937043337121792",
+            "indices": [
+               102,
+               125
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+            "url": "https://t.co/XgmVSFAlZt",
+            "display_url": "pic.twitter.com/XgmVSFAlZt",
+            "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500937057304293377,
+            "source_status_id_str": "1500937057304293377",
+            "source_user_id": 21026508,
+            "source_user_id_str": "21026508"
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1500937043337121792,
+            "id_str": "1500937043337121792",
+            "indices": [
+               102,
+               125
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNRmSeJVkAANJp0.jpg",
+            "url": "https://t.co/XgmVSFAlZt",
+            "display_url": "pic.twitter.com/XgmVSFAlZt",
+            "expanded_url": "https://twitter.com/SergioGor/status/1500937057304293377/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+               },
+               "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+               }
+            },
+            "source_status_id": 1500937057304293377,
+            "source_status_id_str": "1500937057304293377",
+            "source_user_id": 21026508,
+            "source_user_id_str": "21026508"
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686269438"
+}

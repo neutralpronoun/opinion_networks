@@ -1,0 +1,475 @@
+{
+   "created_at": "Mon Mar 07 16:03:53 +0000 2022",
+   "id": 1500864823659225090,
+   "id_str": "1500864823659225090",
+   "text": "RT @ChrisMurphyCT: Get it done. Few things are more important to global security than preventing the disastrous Middle East nuclear weapons\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 15950054,
+      "id_str": "15950054",
+      "name": "Council for a Livable World",
+      "screen_name": "Livableworld",
+      "location": "Washington, D.C.",
+      "url": "http://www.livableworld.org",
+      "description": "Political action to reduce and eventually eliminate nuclear threats. We've helped elect 400 Members of Congress since 1962.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3457,
+      "friends_count": 453,
+      "listed_count": 168,
+      "favourites_count": 352,
+      "statuses_count": 15277,
+      "created_at": "Fri Aug 22 20:51:12 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "23456B",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1300832806701064192/pEI-dBag_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300832806701064192/pEI-dBag_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15950054/1565808787",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Sun Mar 06 15:35:35 +0000 2022",
+      "id": 1500495316637917187,
+      "id_str": "1500495316637917187",
+      "text": "Get it done. Few things are more important to global security than preventing the disastrous Middle East nuclear we\u2026 https://t.co/YMPTHhYP74",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 150078976,
+         "id_str": "150078976",
+         "name": "Chris Murphy",
+         "screen_name": "ChrisMurphyCT",
+         "location": null,
+         "url": null,
+         "description": "U.S. Senator from Connecticut.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1075795,
+         "friends_count": 233,
+         "listed_count": 6216,
+         "favourites_count": 1370,
+         "statuses_count": 26887,
+         "created_at": "Mon May 31 01:22:43 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410747515511660547/BuMyJGhl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1608242210",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500491659657814019,
+      "quoted_status_id_str": "1500491659657814019",
+      "quoted_status": {
+         "created_at": "Sun Mar 06 15:21:04 +0000 2022",
+         "id": 1500491659657814019,
+         "id_str": "1500491659657814019",
+         "text": "IRAN NUCLEAR DEAL: @SecBlinken tells @margbrennan \"I think we're close, but there are a couple of very challenging\u2026 https://t.co/n3hWSQBws0",
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+         "truncated": true,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 1220033244,
+            "id_str": "1220033244",
+            "name": "Lauren Peller",
+            "screen_name": "lauren_peller",
+            "location": "Washington, DC",
+            "url": "http://www.cbsnews.com",
+            "description": "@FaceTheNation + @CBSNews. Say hi: Pellerla@cbsnews.com. Previously @cbseveningnews. Proud @smpagwu alum",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1062,
+            "friends_count": 2025,
+            "listed_count": 13,
+            "favourites_count": 32826,
+            "statuses_count": 5446,
+            "created_at": "Mon Feb 25 23:55:32 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "DB2D2D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1335980508048740356/NpCOIfSl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335980508048740356/NpCOIfSl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220033244/1590024413",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "extended_tweet": {
+            "full_text": "IRAN NUCLEAR DEAL: @SecBlinken tells @margbrennan \"I think we're close, but there are a couple of very challenging remaining issues and nothing's done until everything's done.\"",
+            "display_text_range": [
+               0,
+               176
+            ],
+            "entities": {
+               "hashtags": [],
+               "urls": [],
+               "user_mentions": [
+                  {
+                     "screen_name": "SecBlinken",
+                     "name": "Secretary Antony Blinken",
+                     "id": 1350150750966603777,
+                     "id_str": "1350150750966603777",
+                     "indices": [
+                        19,
+                        30
+                     ]
+                  },
+                  {
+                     "screen_name": "margbrennan",
+                     "name": "Margaret Brennan",
+                     "id": 50011708,
+                     "id_str": "50011708",
+                     "indices": [
+                        37,
+                        49
+                     ]
+                  }
+               ],
+               "symbols": []
+            }
+         },
+         "quote_count": 3,
+         "reply_count": 8,
+         "retweet_count": 17,
+         "favorite_count": 72,
+         "entities": {
+            "hashtags": [],
+            "urls": [
+               {
+                  "url": "https://t.co/n3hWSQBws0",
+                  "expanded_url": "https://twitter.com/i/web/status/1500491659657814019",
+                  "display_url": "twitter.com/i/web/status/1\u2026",
+                  "indices": [
+                     116,
+                     139
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "SecBlinken",
+                  "name": "Secretary Antony Blinken",
+                  "id": 1350150750966603777,
+                  "id_str": "1350150750966603777",
+                  "indices": [
+                     19,
+                     30
+                  ]
+               },
+               {
+                  "screen_name": "margbrennan",
+                  "name": "Margaret Brennan",
+                  "id": 50011708,
+                  "id_str": "50011708",
+                  "indices": [
+                     37,
+                     49
+                  ]
+               }
+            ],
+            "symbols": []
+         },
+         "favorited": false,
+         "retweeted": false,
+         "filter_level": "low",
+         "lang": "en"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/dR44jCop2M",
+         "expanded": "https://twitter.com/lauren_peller/status/1500491659657814019",
+         "display": "twitter.com/lauren_peller/\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+         "full_text": "Get it done. Few things are more important to global security than preventing the disastrous Middle East nuclear weapons race (Iran, Saudi Arabia, UAE, Turkey etc) that will begin if we fail to reach a deal.",
+         "display_text_range": [
+            0,
+            207
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+         }
+      },
+      "quote_count": 7,
+      "reply_count": 39,
+      "retweet_count": 67,
+      "favorite_count": 379,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/YMPTHhYP74",
+               "expanded_url": "https://twitter.com/i/web/status/1500495316637917187",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500491659657814019,
+   "quoted_status_id_str": "1500491659657814019",
+   "quoted_status": {
+      "created_at": "Sun Mar 06 15:21:04 +0000 2022",
+      "id": 1500491659657814019,
+      "id_str": "1500491659657814019",
+      "text": "IRAN NUCLEAR DEAL: @SecBlinken tells @margbrennan \"I think we're close, but there are a couple of very challenging\u2026 https://t.co/n3hWSQBws0",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1220033244,
+         "id_str": "1220033244",
+         "name": "Lauren Peller",
+         "screen_name": "lauren_peller",
+         "location": "Washington, DC",
+         "url": "http://www.cbsnews.com",
+         "description": "@FaceTheNation + @CBSNews. Say hi: Pellerla@cbsnews.com. Previously @cbseveningnews. Proud @smpagwu alum",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 1062,
+         "friends_count": 2025,
+         "listed_count": 13,
+         "favourites_count": 32826,
+         "statuses_count": 5446,
+         "created_at": "Mon Feb 25 23:55:32 +0000 2013",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "DB2D2D",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1335980508048740356/NpCOIfSl_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335980508048740356/NpCOIfSl_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220033244/1590024413",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "IRAN NUCLEAR DEAL: @SecBlinken tells @margbrennan \"I think we're close, but there are a couple of very challenging remaining issues and nothing's done until everything's done.\"",
+         "display_text_range": [
+            0,
+            176
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SecBlinken",
+                  "name": "Secretary Antony Blinken",
+                  "id": 1350150750966603777,
+                  "id_str": "1350150750966603777",
+                  "indices": [
+                     19,
+                     30
+                  ]
+               },
+               {
+                  "screen_name": "margbrennan",
+                  "name": "Margaret Brennan",
+                  "id": 50011708,
+                  "id_str": "50011708",
+                  "indices": [
+                     37,
+                     49
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 3,
+      "reply_count": 8,
+      "retweet_count": 17,
+      "favorite_count": 72,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/n3hWSQBws0",
+               "expanded_url": "https://twitter.com/i/web/status/1500491659657814019",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  116,
+                  139
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SecBlinken",
+               "name": "Secretary Antony Blinken",
+               "id": 1350150750966603777,
+               "id_str": "1350150750966603777",
+               "indices": [
+                  19,
+                  30
+               ]
+            },
+            {
+               "screen_name": "margbrennan",
+               "name": "Margaret Brennan",
+               "id": 50011708,
+               "id_str": "50011708",
+               "indices": [
+                  37,
+                  49
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/dR44jCop2M",
+      "expanded": "https://twitter.com/lauren_peller/status/1500491659657814019",
+      "display": "twitter.com/lauren_peller/\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "ChrisMurphyCT",
+            "name": "Chris Murphy",
+            "id": 150078976,
+            "id_str": "150078976",
+            "indices": [
+               3,
+               17
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646669033337"
+}

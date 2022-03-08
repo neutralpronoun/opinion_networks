@@ -1,0 +1,147 @@
+{
+   "created_at": "Mon Mar 07 22:21:32 +0000 2022",
+   "id": 1500959863807033346,
+   "id_str": "1500959863807033346",
+   "text": "Sen Rubio, @LindseyGrahamSC, &amp; colleagues introduced a bipartisan resolution calling for #Putin &amp; members of the Ru\u2026 https://t.co/PaMMAH9mJC",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 229966028,
+      "id_str": "229966028",
+      "name": "Senator Rubio Press",
+      "screen_name": "SenRubioPress",
+      "location": "Florida, USA",
+      "url": "http://rubio.senate.gov",
+      "description": "Official account of U.S. Senator Marco Rubio\u2019s press shop. For more information please visit his website",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 143729,
+      "friends_count": 656,
+      "listed_count": 1866,
+      "favourites_count": 112,
+      "statuses_count": 14309,
+      "created_at": "Thu Dec 23 21:22:47 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "962121",
+      "profile_sidebar_border_color": "DBDBDB",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "777777",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1486679186",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Sen Rubio, @LindseyGrahamSC, &amp; colleagues introduced a bipartisan resolution calling for #Putin &amp; members of the Russian regime to be held accountable for the war crimes that Russian forces have committed during their invasion of Ukraine.\n\nRead more \u2b07\ufe0f\nhttps://t.co/Zb3rLfiXqb",
+      "display_text_range": [
+         0,
+         284
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Putin",
+               "indices": [
+                  93,
+                  99
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/Zb3rLfiXqb",
+               "expanded_url": "https://www.rubio.senate.gov/public/index.cfm?p=Press-Releases&id=099CFA13-DA29-42EC-A7A5-9395143CF957",
+               "display_url": "rubio.senate.gov/public/index.c\u2026",
+               "indices": [
+                  261,
+                  284
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "LindseyGrahamSC",
+               "name": "Lindsey Graham",
+               "id": 432895323,
+               "id_str": "432895323",
+               "indices": [
+                  11,
+                  27
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "Putin",
+            "indices": [
+               93,
+               99
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/PaMMAH9mJC",
+            "expanded_url": "https://twitter.com/i/web/status/1500959863807033346",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               125,
+               148
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "LindseyGrahamSC",
+            "name": "Lindsey Graham",
+            "id": 432895323,
+            "id_str": "432895323",
+            "indices": [
+               11,
+               27
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691692674"
+}

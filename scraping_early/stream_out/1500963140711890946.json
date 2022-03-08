@@ -1,0 +1,284 @@
+{
+   "created_at": "Mon Mar 07 22:34:33 +0000 2022",
+   "id": 1500963140711890946,
+   "id_str": "1500963140711890946",
+   "text": "To all the educators preparing to strike: I'm with you through rain, snow, and below 0 temps. I've got your back in\u2026 https://t.co/I6R5kfj06n",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 783792992,
+      "id_str": "783792992",
+      "name": "Ilhan Omar",
+      "screen_name": "IlhanMN",
+      "location": "Minneapolis, MN",
+      "url": "http://www.ilhanomar.com",
+      "description": "Mom, Refugee and Congresswoman for #MN05. Progressive Caucus Whip. Fighting for a more just world. Grassroots funded progressive \u2728 http://HC.com/IlhanOmar \ud83d\udcda",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3035360,
+      "friends_count": 1682,
+      "listed_count": 7844,
+      "favourites_count": 21261,
+      "statuses_count": 20641,
+      "created_at": "Mon Aug 27 04:21:41 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420435549286977539/u2bK-QFX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783792992/1598461410",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "To all the educators preparing to strike: I'm with you through rain, snow, and below 0 temps. I've got your back in the classroom and at the bargaining table. @MFT59 @SPFE28 @EducationMN hold strong. \n\nYou deserve every cent and every resource you're asking for. https://t.co/bqYcXbWnKM",
+      "display_text_range": [
+         0,
+         262
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "MFT59",
+               "name": "MFT 59",
+               "id": 89084720,
+               "id_str": "89084720",
+               "indices": [
+                  159,
+                  165
+               ]
+            },
+            {
+               "screen_name": "SPFE28",
+               "name": "SPFE Local 28",
+               "id": 2350510153,
+               "id_str": "2350510153",
+               "indices": [
+                  166,
+                  173
+               ]
+            },
+            {
+               "screen_name": "EducationMN",
+               "name": "Education Minnesota",
+               "id": 46414140,
+               "id_str": "46414140",
+               "indices": [
+                  174,
+                  186
+               ]
+            }
+         ],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500963112895275010,
+               "id_str": "1500963112895275010",
+               "indices": [
+                  263,
+                  286
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR9_60WYAIYU6M.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR9_60WYAIYU6M.jpg",
+               "url": "https://t.co/bqYcXbWnKM",
+               "display_url": "pic.twitter.com/bqYcXbWnKM",
+               "expanded_url": "https://twitter.com/IlhanMN/status/1500963140711890946/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500963124358393858,
+               "id_str": "1500963124358393858",
+               "indices": [
+                  263,
+                  286
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-AlhXsAIArHx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-AlhXsAIArHx.jpg",
+               "url": "https://t.co/bqYcXbWnKM",
+               "display_url": "pic.twitter.com/bqYcXbWnKM",
+               "expanded_url": "https://twitter.com/IlhanMN/status/1500963140711890946/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500963112895275010,
+               "id_str": "1500963112895275010",
+               "indices": [
+                  263,
+                  286
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR9_60WYAIYU6M.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR9_60WYAIYU6M.jpg",
+               "url": "https://t.co/bqYcXbWnKM",
+               "display_url": "pic.twitter.com/bqYcXbWnKM",
+               "expanded_url": "https://twitter.com/IlhanMN/status/1500963140711890946/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500963124358393858,
+               "id_str": "1500963124358393858",
+               "indices": [
+                  263,
+                  286
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR-AlhXsAIArHx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR-AlhXsAIArHx.jpg",
+               "url": "https://t.co/bqYcXbWnKM",
+               "display_url": "pic.twitter.com/bqYcXbWnKM",
+               "expanded_url": "https://twitter.com/IlhanMN/status/1500963140711890946/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 453,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/I6R5kfj06n",
+            "expanded_url": "https://twitter.com/i/web/status/1500963140711890946",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646692473949"
+}

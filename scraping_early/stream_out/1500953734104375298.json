@@ -1,0 +1,181 @@
+{
+   "created_at": "Mon Mar 07 21:57:11 +0000 2022",
+   "id": 1500953734104375298,
+   "id_str": "1500953734104375298",
+   "text": "My heart goes out to the family of Warren High School student, Jaylon Connish. Jaylon had such a promising future a\u2026 https://t.co/SMVbDV4Oou",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 479872233,
+      "id_str": "479872233",
+      "name": "Rep. Lucille Roybal-Allard",
+      "screen_name": "RepRoybalAllard",
+      "location": null,
+      "url": "http://roybal-allard.house.gov",
+      "description": "Proudly representing California\u2019s 40th Congressional District. Follow me at http://facebook.com/RepRoybalAllard & http://instagram.com/RepRoybalAllard.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 35382,
+      "friends_count": 5830,
+      "listed_count": 1059,
+      "favourites_count": 72,
+      "statuses_count": 10436,
+      "created_at": "Tue Jan 31 21:30:43 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C1D9EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/479872233/1604519828",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "My heart goes out to the family of Warren High School student, Jaylon Connish. Jaylon had such a promising future ahead of him. It is challenging to reconcile with the pain of losing such a young and bright light. I extend my prayers to his family as they deal with this time\n\n1/2 https://t.co/helpEVz48y",
+      "display_text_range": [
+         0,
+         280
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500953731071979522,
+               "id_str": "1500953731071979522",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR1d0zXsAIAGVj.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR1d0zXsAIAGVj.jpg",
+               "url": "https://t.co/helpEVz48y",
+               "display_url": "pic.twitter.com/helpEVz48y",
+               "expanded_url": "https://twitter.com/RepRoybalAllard/status/1500953734104375298/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500953731071979522,
+               "id_str": "1500953731071979522",
+               "indices": [
+                  281,
+                  304
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNR1d0zXsAIAGVj.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNR1d0zXsAIAGVj.jpg",
+               "url": "https://t.co/helpEVz48y",
+               "display_url": "pic.twitter.com/helpEVz48y",
+               "expanded_url": "https://twitter.com/RepRoybalAllard/status/1500953734104375298/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 595,
+                     "h": 584,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/SMVbDV4Oou",
+            "expanded_url": "https://twitter.com/i/web/status/1500953734104375298",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646690231239"
+}

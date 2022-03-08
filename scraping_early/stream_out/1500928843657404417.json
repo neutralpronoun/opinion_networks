@@ -1,0 +1,322 @@
+{
+   "created_at": "Mon Mar 07 20:18:16 +0000 2022",
+   "id": 1500928843657404417,
+   "id_str": "1500928843657404417",
+   "text": "RT @FEMARegion10: #WAFlood: Today, March 7, is the last day to register for federal assistance. Homeowners and renters who have uninsured l\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 404132211,
+      "id_str": "404132211",
+      "name": "Rep. Rick Larsen",
+      "screen_name": "RepRickLarsen",
+      "location": "Washington's 2nd District",
+      "url": "http://larsen.house.gov",
+      "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 22885,
+      "friends_count": 6186,
+      "listed_count": 940,
+      "favourites_count": 5160,
+      "statuses_count": 14320,
+      "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/804085552064720896/HGM6mA6m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1644339649",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:15:06 +0000 2022",
+      "id": 1500928044667748356,
+      "id_str": "1500928044667748356",
+      "text": "#WAFlood: Today, March 7, is the last day to register for federal assistance. Homeowners and renters who have unins\u2026 https://t.co/ud8ZtUqeTe",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 18487694,
+         "id_str": "18487694",
+         "name": "FEMA Region 10",
+         "screen_name": "FEMARegion10",
+         "location": "Bothell, WA",
+         "url": "http://www.fema.gov/disasters/coronavirus/vaccine-support",
+         "description": "FEMA Region 10 serves AK, ID, OR, WA & 271 tribes. This channel provides mission-related info. For emergencies, call your local fire/EMS/police or 9-1-1.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 31284,
+         "friends_count": 623,
+         "listed_count": 1091,
+         "favourites_count": 14081,
+         "statuses_count": 8221,
+         "created_at": "Tue Dec 30 20:39:41 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "696969",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "0009FF",
+         "profile_sidebar_border_color": "696969",
+         "profile_sidebar_fill_color": "CCCCCC",
+         "profile_text_color": "000000",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1055879813129478146/PiLZzAb3_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055879813129478146/PiLZzAb3_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/18487694/1625602391",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "#WAFlood: Today, March 7, is the last day to register for federal assistance. Homeowners and renters who have uninsured losses resulting from the Nov 5-Dec 2 floods can apply online at https://t.co/J33ODQ7571, call 800-621-3362, or through the @FEMA app.\n\nhttps://t.co/0ji4u2aibD https://t.co/G2yNblPv75",
+         "display_text_range": [
+            0,
+            279
+         ],
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "WAFlood",
+                  "indices": [
+                     0,
+                     8
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/J33ODQ7571",
+                  "expanded_url": "http://disasterassistance.gov",
+                  "display_url": "disasterassistance.gov",
+                  "indices": [
+                     185,
+                     208
+                  ]
+               },
+               {
+                  "url": "https://t.co/0ji4u2aibD",
+                  "expanded_url": "http://fema.gov/disaster/4635",
+                  "display_url": "fema.gov/disaster/4635",
+                  "indices": [
+                     256,
+                     279
+                  ]
+               }
+            ],
+            "user_mentions": [
+               {
+                  "screen_name": "fema",
+                  "name": "FEMA",
+                  "id": 16669075,
+                  "id_str": "16669075",
+                  "indices": [
+                     244,
+                     249
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500926542691643405,
+                  "id_str": "1500926542691643405",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "description": "WA Floods Update",
+                  "media_url": "http://pbs.twimg.com/media/FNRcvQMXMA0nxPo.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRcvQMXMA0nxPo.png",
+                  "url": "https://t.co/G2yNblPv75",
+                  "display_url": "pic.twitter.com/G2yNblPv75",
+                  "expanded_url": "https://twitter.com/FEMARegion10/status/1500928044667748356/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500926542691643405,
+                  "id_str": "1500926542691643405",
+                  "indices": [
+                     280,
+                     303
+                  ],
+                  "description": "WA Floods Update",
+                  "media_url": "http://pbs.twimg.com/media/FNRcvQMXMA0nxPo.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRcvQMXMA0nxPo.png",
+                  "url": "https://t.co/G2yNblPv75",
+                  "display_url": "pic.twitter.com/G2yNblPv75",
+                  "expanded_url": "https://twitter.com/FEMARegion10/status/1500928044667748356/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "large": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "WAFlood",
+               "indices": [
+                  0,
+                  8
+               ]
+            }
+         ],
+         "urls": [
+            {
+               "url": "https://t.co/ud8ZtUqeTe",
+               "expanded_url": "https://twitter.com/i/web/status/1500928044667748356",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [
+         {
+            "text": "WAFlood",
+            "indices": [
+               18,
+               26
+            ]
+         }
+      ],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "FEMARegion10",
+            "name": "FEMA Region 10",
+            "id": 18487694,
+            "id_str": "18487694",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646684296894"
+}

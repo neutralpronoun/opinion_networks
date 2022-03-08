@@ -1,0 +1,266 @@
+{
+   "created_at": "Mon Mar 07 17:29:27 +0000 2022",
+   "id": 1500886358704934916,
+   "id_str": "1500886358704934916",
+   "text": "RT @GOPoversight: \ud83d\udea8 Democrats canceled their hearing with oil &amp; gas executives after Russia\u2019s invasion of Ukraine showed the importance of\u2026",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1343968646050283522,
+      "id_str": "1343968646050283522",
+      "name": "Congressman Byron Donalds",
+      "screen_name": "RepDonaldsPress",
+      "location": null,
+      "url": "http://donalds.house.gov",
+      "description": "Proudly representing the people of #FL19 | Serving on the @housebudgetGOP, @GOPoversight, & @HSBCgop Committees | Comms Dir. @HarrisonWFields | Official Account",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 45753,
+      "friends_count": 259,
+      "listed_count": 324,
+      "favourites_count": 655,
+      "statuses_count": 2059,
+      "created_at": "Tue Dec 29 17:14:49 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344343639850364939/8h4GprDW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344343639850364939/8h4GprDW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343968646050283522/1610031316",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 16:33:17 +0000 2022",
+      "id": 1500872223258816515,
+      "id_str": "1500872223258816515",
+      "text": "\ud83d\udea8 Democrats canceled their hearing with oil &amp; gas executives after Russia\u2019s invasion of Ukraine showed the importan\u2026 https://t.co/R3M6rdWq4l",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 22508473,
+         "id_str": "22508473",
+         "name": "Oversight Committee Republicans",
+         "screen_name": "GOPoversight",
+         "location": "Washington D.C.",
+         "url": "http://republicans-oversight.house.gov",
+         "description": "House Oversight Committee Republicans | Est. 1814 \nRanking Member @RepJamesComer",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 104414,
+         "friends_count": 12197,
+         "listed_count": 1434,
+         "favourites_count": 2658,
+         "statuses_count": 17344,
+         "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "FFFFFF",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "134766",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1349768070630400006/iHkYloSZ_normal.png",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349768070630400006/iHkYloSZ_normal.png",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1610644761",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\ud83d\udea8 Democrats canceled their hearing with oil &amp; gas executives after Russia\u2019s invasion of Ukraine showed the importance of U.S. energy production.\n\nThis decision reveals Democrats\u2019 investigation into U.S. energy producers was motivated by politics rather than a search for truth. https://t.co/8kMs1OTHae",
+         "display_text_range": [
+            0,
+            281
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500872073157255168,
+                  "id_str": "1500872073157255168",
+                  "indices": [
+                     282,
+                     305
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQrMtXXoAAcQnR.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQrMtXXoAAcQnR.png",
+                  "url": "https://t.co/8kMs1OTHae",
+                  "display_url": "pic.twitter.com/8kMs1OTHae",
+                  "expanded_url": "https://twitter.com/GOPoversight/status/1500872223258816515/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 392,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1424,
+                        "h": 820,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 691,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500872073157255168,
+                  "id_str": "1500872073157255168",
+                  "indices": [
+                     282,
+                     305
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQrMtXXoAAcQnR.png",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQrMtXXoAAcQnR.png",
+                  "url": "https://t.co/8kMs1OTHae",
+                  "display_url": "pic.twitter.com/8kMs1OTHae",
+                  "expanded_url": "https://twitter.com/GOPoversight/status/1500872223258816515/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 392,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 1424,
+                        "h": 820,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 691,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 2,
+      "reply_count": 16,
+      "retweet_count": 40,
+      "favorite_count": 73,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/R3M6rdWq4l",
+               "expanded_url": "https://twitter.com/i/web/status/1500872223258816515",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  121,
+                  144
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "GOPoversight",
+            "name": "Oversight Committee Republicans",
+            "id": 22508473,
+            "id_str": "22508473",
+            "indices": [
+               3,
+               16
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646674167692"
+}

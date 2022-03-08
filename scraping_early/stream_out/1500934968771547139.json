@@ -1,0 +1,462 @@
+{
+   "created_at": "Mon Mar 07 20:42:37 +0000 2022",
+   "id": 1500934968771547139,
+   "id_str": "1500934968771547139",
+   "text": "RT @RepLBR: Today is an exciting day - I'm introducing the Delaware River Basin Conservation Act w/ @SenatorCarper and @ChrisCoons to reaut\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 18275218,
+      "id_str": "18275218",
+      "name": "Jonathan Starkey",
+      "screen_name": "jwstarkey",
+      "location": "Delaware, USA",
+      "url": "http://instagram.com/johncarneyde",
+      "description": "Deputy Chief of Staff, Communications for Governor @JohnCarneyDE",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3903,
+      "friends_count": 2488,
+      "listed_count": 177,
+      "favourites_count": 687,
+      "statuses_count": 7501,
+      "created_at": "Sat Dec 20 23:51:36 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "A5813B",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "92948F",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1325305212073111553/_mxv2oo-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325305212073111553/_mxv2oo-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18275218/1620051466",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 20:27:21 +0000 2022",
+      "id": 1500931126474514434,
+      "id_str": "1500931126474514434",
+      "text": "Today is an exciting day - I'm introducing the Delaware River Basin Conservation Act w/ @SenatorCarper and\u2026 https://t.co/tSlXeJPpNZ",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 817050219007328258,
+         "id_str": "817050219007328258",
+         "name": "Rep. Lisa Blunt Rochester",
+         "screen_name": "RepLBR",
+         "location": "Delaware, USA - Washington, DC",
+         "url": "http://bluntrochester.house.gov/",
+         "description": "Official Twitter page for U.S. Representative Lisa Blunt Rochester (D-DE).",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 27619,
+         "friends_count": 579,
+         "listed_count": 599,
+         "favourites_count": 742,
+         "statuses_count": 2922,
+         "created_at": "Thu Jan 05 16:48:47 +0000 2017",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "",
+         "profile_background_image_url_https": "",
+         "profile_background_tile": false,
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1281609040607444997/UibYOfcc_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281609040607444997/UibYOfcc_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/817050219007328258/1621276161",
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "Today is an exciting day - I'm introducing the Delaware River Basin Conservation Act w/ @SenatorCarper and @ChrisCoons to reauthorize the Delaware River Basin Restoration Program! \n\nThis bill will help Delaware conserve our rich natural heritage like Thousand Acre Marsh\u2b07\ufe0f https://t.co/K28ehMXKbS",
+         "display_text_range": [
+            0,
+            272
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "SenatorCarper",
+                  "name": "Senator Tom Carper",
+                  "id": 249787913,
+                  "id_str": "249787913",
+                  "indices": [
+                     88,
+                     102
+                  ]
+               },
+               {
+                  "screen_name": "ChrisCoons",
+                  "name": "Senator Chris Coons",
+                  "id": 15324851,
+                  "id_str": "15324851",
+                  "indices": [
+                     107,
+                     118
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500930851344994313,
+                  "id_str": "1500930851344994313",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgqDLX0AkiGnT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgqDLX0AkiGnT.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930851332407302,
+                  "id_str": "1500930851332407302",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgqDIXwAYqDPu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgqDIXwAYqDPu.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930969976647690,
+                  "id_str": "1500930969976647690",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgw9HXMAoPj2U.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgw9HXMAoPj2U.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1001,
+                        "h": 563,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1001,
+                        "h": 563,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500930851344994313,
+                  "id_str": "1500930851344994313",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgqDLX0AkiGnT.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgqDLX0AkiGnT.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930851332407302,
+                  "id_str": "1500930851332407302",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgqDIXwAYqDPu.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgqDIXwAYqDPu.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                     }
+                  }
+               },
+               {
+                  "id": 1500930969976647690,
+                  "id_str": "1500930969976647690",
+                  "indices": [
+                     273,
+                     296
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNRgw9HXMAoPj2U.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNRgw9HXMAoPj2U.jpg",
+                  "url": "https://t.co/K28ehMXKbS",
+                  "display_url": "pic.twitter.com/K28ehMXKbS",
+                  "expanded_url": "https://twitter.com/RepLBR/status/1500931126474514434/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1001,
+                        "h": 563,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 1001,
+                        "h": 563,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 3,
+      "favorite_count": 13,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/tSlXeJPpNZ",
+               "expanded_url": "https://twitter.com/i/web/status/1500931126474514434",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  108,
+                  131
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "SenatorCarper",
+               "name": "Senator Tom Carper",
+               "id": 249787913,
+               "id_str": "249787913",
+               "indices": [
+                  88,
+                  102
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepLBR",
+            "name": "Rep. Lisa Blunt Rochester",
+            "id": 817050219007328258,
+            "id_str": "817050219007328258",
+            "indices": [
+               3,
+               10
+            ]
+         },
+         {
+            "screen_name": "SenatorCarper",
+            "name": "Senator Tom Carper",
+            "id": 249787913,
+            "id_str": "249787913",
+            "indices": [
+               100,
+               114
+            ]
+         },
+         {
+            "screen_name": "ChrisCoons",
+            "name": "Senator Chris Coons",
+            "id": 15324851,
+            "id_str": "15324851",
+            "indices": [
+               119,
+               130
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646685757235"
+}

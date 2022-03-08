@@ -1,0 +1,204 @@
+{
+   "created_at": "Mon Mar 07 23:56:37 +0000 2022",
+   "id": 1500983790096822276,
+   "id_str": "1500983790096822276",
+   "text": "RT @MarilynSchairer: \"This increase really pinches people at the kitchen table. It's taking out a big bite out of wage gains ...and it's fo\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1330278736554582016,
+      "id_str": "1330278736554582016",
+      "name": "Rep. Jake Auchincloss",
+      "screen_name": "RepAuchincloss",
+      "location": "Washington, DC. ",
+      "url": "http://auchincloss.house.gov",
+      "description": "Dad. Marine. Former Newton City Councilor. Congressman representing MA-04. Vice-Chair of @FSCDems and member of @TransportDems.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 13917,
+      "friends_count": 150,
+      "listed_count": 209,
+      "favourites_count": 144,
+      "statuses_count": 962,
+      "created_at": "Sat Nov 21 22:35:59 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390677870645760004/P8vCKESK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390677870645760004/P8vCKESK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330278736554582016/1628625783",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 22:35:51 +0000 2022",
+      "id": 1500963467481825286,
+      "id_str": "1500963467481825286",
+      "text": "\"This increase really pinches people at the kitchen table. It's taking out a big bite out of wage gains ...and it's\u2026 https://t.co/kj2GiJs7QZ",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 101613447,
+         "id_str": "101613447",
+         "name": "Marilyn Schairer",
+         "screen_name": "MarilynSchairer",
+         "location": "Boston, MA",
+         "url": "https://news.wgbh.org/people/marilyn-schairer#long-contributor-bio",
+         "description": "3x Emmy Nominated reporter/producer/anchor, WGBH, Mom 4x,Pilates Cert.,pitch story ideas to marilyn_schairer@wgbh.org retweets not endorsements",
+         "translator_type": "none",
+         "protected": false,
+         "verified": false,
+         "followers_count": 1260,
+         "friends_count": 1623,
+         "listed_count": 59,
+         "favourites_count": 8891,
+         "statuses_count": 11200,
+         "created_at": "Mon Jan 04 00:38:05 +0000 2010",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+         "profile_background_tile": false,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/619626393891176448/XJ7OvsQm_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/619626393891176448/XJ7OvsQm_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/101613447/1452638443",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "\"This increase really pinches people at the kitchen table. It's taking out a big bite out of wage gains ...and it's forcing people to make painful tradeoffs in how they consume,\"@RepAuchincloss   U-S must place oil embargo on Russia and step up clean energy production @GBHNews",
+         "display_text_range": [
+            0,
+            277
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "RepAuchincloss",
+                  "name": "Rep. Jake Auchincloss",
+                  "id": 1330278736554582016,
+                  "id_str": "1330278736554582016",
+                  "indices": [
+                     178,
+                     193
+                  ]
+               },
+               {
+                  "screen_name": "GBHNews",
+                  "name": "GBH News",
+                  "id": 17041374,
+                  "id_str": "17041374",
+                  "indices": [
+                     269,
+                     277
+                  ]
+               }
+            ],
+            "symbols": []
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/kj2GiJs7QZ",
+               "expanded_url": "https://twitter.com/i/web/status/1500963467481825286",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "MarilynSchairer",
+            "name": "Marilyn Schairer",
+            "id": 101613447,
+            "id_str": "101613447",
+            "indices": [
+               3,
+               19
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646697397146"
+}

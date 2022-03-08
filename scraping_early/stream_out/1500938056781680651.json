@@ -1,0 +1,191 @@
+{
+   "created_at": "Mon Mar 07 20:54:53 +0000 2022",
+   "id": 1500938056781680651,
+   "id_str": "1500938056781680651",
+   "text": "Every week, I look forward to hearing from thousands of Wisconsinites about what issues they are most concerned abo\u2026 https://t.co/U2iGPvDHde",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 233737858,
+      "id_str": "233737858",
+      "name": "Senator Ron Johnson",
+      "screen_name": "SenRonJohnson",
+      "location": "Oshkosh, WI",
+      "url": "http://www.ronjohnson.senate.gov",
+      "description": "Proud to serve Wisconsin in the U.S. Senate.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 326280,
+      "friends_count": 977,
+      "listed_count": 3503,
+      "favourites_count": 811,
+      "statuses_count": 7274,
+      "created_at": "Tue Jan 04 00:25:27 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C6E3FF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1213023547/Twitter_2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213023547/Twitter_2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/233737858/1391454550",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "Every week, I look forward to hearing from thousands of Wisconsinites about what issues they are most concerned about.\n\nJoin the conversation tomorrow at 3:30pm CT. \nhttps://t.co/pKs3QwnSmI https://t.co/Ab5e2wks8y",
+      "display_text_range": [
+         0,
+         189
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/pKs3QwnSmI",
+               "expanded_url": "https://www.ronjohnson.senate.gov/telephone-town-hall-signup?fbclid=IwAR1jmshd4r6n7dPfdGOoYzkjh-xs-qjcPpSrLnkTCTR7A685HlXr40xe5_Q",
+               "display_url": "ronjohnson.senate.gov/telephone-town\u2026",
+               "indices": [
+                  166,
+                  189
+               ]
+            }
+         ],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500938000590594051,
+               "id_str": "1500938000590594051",
+               "indices": [
+                  190,
+                  213
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnKMMWYAMLMOJ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnKMMWYAMLMOJ.jpg",
+               "url": "https://t.co/Ab5e2wks8y",
+               "display_url": "pic.twitter.com/Ab5e2wks8y",
+               "expanded_url": "https://twitter.com/SenRonJohnson/status/1500938056781680651/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2000,
+                     "h": 1000,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500938000590594051,
+               "id_str": "1500938000590594051",
+               "indices": [
+                  190,
+                  213
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRnKMMWYAMLMOJ.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRnKMMWYAMLMOJ.jpg",
+               "url": "https://t.co/Ab5e2wks8y",
+               "display_url": "pic.twitter.com/Ab5e2wks8y",
+               "expanded_url": "https://twitter.com/SenRonJohnson/status/1500938056781680651/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 340,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 600,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 2000,
+                     "h": 1000,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/U2iGPvDHde",
+            "expanded_url": "https://twitter.com/i/web/status/1500938056781680651",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646686493474"
+}

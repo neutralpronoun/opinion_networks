@@ -1,0 +1,132 @@
+{
+   "created_at": "Tue Mar 08 05:41:52 +0000 2022",
+   "id": 1501070676534329348,
+   "id_str": "1501070676534329348",
+   "text": "@RepSwalwell Eric is obsessed with calling people Nazis because he can\u2019t debate with facts lol he lied everyday fro\u2026 https://t.co/lBtXelBhfN",
+   "display_text_range": [
+      13,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1501063731127721984,
+   "in_reply_to_status_id_str": "1501063731127721984",
+   "in_reply_to_user_id": 942156122,
+   "in_reply_to_user_id_str": "942156122",
+   "in_reply_to_screen_name": "RepSwalwell",
+   "user": {
+      "id": 1117898546055761920,
+      "id_str": "1117898546055761920",
+      "name": "Josh Barnett for Congress (AZ-01)",
+      "screen_name": "BarnettforAZ",
+      "location": "Phoenix, AZ",
+      "url": "http://barnettforaz.com",
+      "description": "2022 AZ-01 Republican candidate, America First, small business owner, LD 15 PC. https://linqapp.com/joshbarnettforaz",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 79656,
+      "friends_count": 6332,
+      "listed_count": 226,
+      "favourites_count": 100589,
+      "statuses_count": 40946,
+      "created_at": "Mon Apr 15 21:12:37 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1500683762224406528/Y0ZPsm8U_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500683762224406528/Y0ZPsm8U_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117898546055761920/1639593908",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepSwalwell Eric is obsessed with calling people Nazis because he can\u2019t debate with facts lol he lied everyday from the SCIF about trump being a Russian spy til Ric released the transcripts proving he\u2019s a liar. The whole time he was \u201cwith\u201d a Chinese spy FR! #FangFang",
+      "display_text_range": [
+         13,
+         268
+      ],
+      "entities": {
+         "hashtags": [
+            {
+               "text": "FangFang",
+               "indices": [
+                  259,
+                  268
+               ]
+            }
+         ],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepSwalwell",
+               "name": "Rep. Eric Swalwell",
+               "id": 942156122,
+               "id_str": "942156122",
+               "indices": [
+                  0,
+                  12
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/lBtXelBhfN",
+            "expanded_url": "https://twitter.com/i/web/status/1501070676534329348",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646718112487"
+}

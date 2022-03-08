@@ -1,0 +1,298 @@
+{
+   "created_at": "Tue Mar 08 02:33:22 +0000 2022",
+   "id": 1501023239216467969,
+   "id_str": "1501023239216467969",
+   "text": "RT @RepJimCosta: It was a pleasure to meet with Amb @MilenaMayorga, Ambassador of El Salvador to the United States to discuss the opening o\u2026",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 255507031,
+      "id_str": "255507031",
+      "name": "Milena Mayorga",
+      "screen_name": "MilenaMayorga",
+      "location": "Washington, DC /San Salvador  ",
+      "url": "http://Milenamayorga-sv.com",
+      "description": "Ambassador of El Salvador to the United States | Embajadora en EE.UU.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 334698,
+      "friends_count": 2503,
+      "listed_count": 257,
+      "favourites_count": 25366,
+      "statuses_count": 24386,
+      "created_at": "Mon Feb 21 14:19:52 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "F00000",
+      "profile_sidebar_border_color": "1A1A1A",
+      "profile_sidebar_fill_color": "8C0505",
+      "profile_text_color": "1F1A1F",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1487993850899615745/R20QlqbX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487993850899615745/R20QlqbX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/255507031/1641330884",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Tue Mar 08 02:18:58 +0000 2022",
+      "id": 1501019615123673098,
+      "id_str": "1501019615123673098",
+      "text": "It was a pleasure to meet with Amb @MilenaMayorga, Ambassador of El Salvador to the United States to discuss the op\u2026 https://t.co/bEyTwRrSMp",
+      "display_text_range": [
+         0,
+         140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 245451804,
+         "id_str": "245451804",
+         "name": "Rep. Jim Costa",
+         "screen_name": "RepJimCosta",
+         "location": null,
+         "url": "https://linktr.ee/RepJimCosta",
+         "description": "Costa represents CA's 16th District. He serves on the Agriculture, Natural Resources, & Foreign Affairs Committees. This account is for official use only.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 28770,
+         "friends_count": 791,
+         "listed_count": 977,
+         "favourites_count": 300,
+         "statuses_count": 4217,
+         "created_at": "Mon Jan 31 18:42:23 +0000 2011",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "00B9FF",
+         "profile_sidebar_border_color": "00B9FF",
+         "profile_sidebar_fill_color": "33762D",
+         "profile_text_color": "222222",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1405658815106670599/bGhubVjo_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405658815106670599/bGhubVjo_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/245451804/1624413329",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+         "full_text": "It was a pleasure to meet with Amb @MilenaMayorga, Ambassador of El Salvador to the United States to discuss the opening of the new consulate of El Salvador in CA-16 and the latest initiatives of El Salvador on health, environmental, and national security issues. https://t.co/mHyi8iDTTO",
+         "display_text_range": [
+            0,
+            263
+         ],
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+               {
+                  "screen_name": "MilenaMayorga",
+                  "name": "Milena Mayorga",
+                  "id": 255507031,
+                  "id_str": "255507031",
+                  "indices": [
+                     35,
+                     49
+                  ]
+               }
+            ],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1501019609977298946,
+                  "id_str": "1501019609977298946",
+                  "indices": [
+                     264,
+                     287
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSxYe2XoAIP2sM.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSxYe2XoAIP2sM.jpg",
+                  "url": "https://t.co/mHyi8iDTTO",
+                  "display_url": "pic.twitter.com/mHyi8iDTTO",
+                  "expanded_url": "https://twitter.com/RepJimCosta/status/1501019615123673098/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1692,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 991,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 562,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1501019609977298946,
+                  "id_str": "1501019609977298946",
+                  "indices": [
+                     264,
+                     287
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNSxYe2XoAIP2sM.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNSxYe2XoAIP2sM.jpg",
+                  "url": "https://t.co/mHyi8iDTTO",
+                  "display_url": "pic.twitter.com/mHyi8iDTTO",
+                  "expanded_url": "https://twitter.com/RepJimCosta/status/1501019615123673098/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1692,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 991,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 562,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+         "hashtags": [],
+         "urls": [
+            {
+               "url": "https://t.co/bEyTwRrSMp",
+               "expanded_url": "https://twitter.com/i/web/status/1501019615123673098",
+               "display_url": "twitter.com/i/web/status/1\u2026",
+               "indices": [
+                  117,
+                  140
+               ]
+            }
+         ],
+         "user_mentions": [
+            {
+               "screen_name": "MilenaMayorga",
+               "name": "Milena Mayorga",
+               "id": 255507031,
+               "id_str": "255507031",
+               "indices": [
+                  35,
+                  49
+               ]
+            }
+         ],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepJimCosta",
+            "name": "Rep. Jim Costa",
+            "id": 245451804,
+            "id_str": "245451804",
+            "indices": [
+               3,
+               15
+            ]
+         },
+         {
+            "screen_name": "MilenaMayorga",
+            "name": "Milena Mayorga",
+            "id": 255507031,
+            "id_str": "255507031",
+            "indices": [
+               52,
+               66
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646706802549"
+}

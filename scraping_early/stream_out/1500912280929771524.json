@@ -1,0 +1,164 @@
+{
+   "created_at": "Mon Mar 07 19:12:28 +0000 2022",
+   "id": 1500912280929771524,
+   "id_str": "1500912280929771524",
+   "text": "@RandPaul @DonaldJTrumpJr @HagemanforWY I can\u2019t wait to serve with her. All of the RINOs must go. We don\u2019t need mor\u2026 https://t.co/DpzzP5MWBp",
+   "display_text_range": [
+      40,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500905430138109955,
+   "in_reply_to_status_id_str": "1500905430138109955",
+   "in_reply_to_user_id": 216881337,
+   "in_reply_to_user_id_str": "216881337",
+   "in_reply_to_screen_name": "RandPaul",
+   "user": {
+      "id": 21471462,
+      "id_str": "21471462",
+      "name": "Mario Fratto for Congress",
+      "screen_name": "MarioFratto",
+      "location": " Upstate New York",
+      "url": "http://MarioForCongress.com",
+      "description": "Candidate for NY-24 \u2022 Attorney \u2022 Businessman \u2022 America First \u2022 Conservative \u2022 People over party \u2022 Creator of Pro-Trump YT channel \"Making the Case\"",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1496,
+      "friends_count": 879,
+      "listed_count": 11,
+      "favourites_count": 14916,
+      "statuses_count": 924,
+      "created_at": "Sat Feb 21 08:11:04 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1489562030096928770/QqPnFWaN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489562030096928770/QqPnFWaN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21471462/1643974268",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RandPaul @DonaldJTrumpJr @HagemanforWY I can\u2019t wait to serve with her. All of the RINOs must go. We don\u2019t need more Republicans voting with Pelosi!",
+      "display_text_range": [
+         40,
+         148
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RandPaul",
+               "name": "Rand Paul",
+               "id": 216881337,
+               "id_str": "216881337",
+               "indices": [
+                  0,
+                  9
+               ]
+            },
+            {
+               "screen_name": "DonaldJTrumpJr",
+               "name": "Donald Trump Jr.",
+               "id": 39344374,
+               "id_str": "39344374",
+               "indices": [
+                  10,
+                  25
+               ]
+            },
+            {
+               "screen_name": "HagemanforWY",
+               "name": "Harriet Hageman",
+               "id": 1435822302323695629,
+               "id_str": "1435822302323695629",
+               "indices": [
+                  26,
+                  39
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/DpzzP5MWBp",
+            "expanded_url": "https://twitter.com/i/web/status/1500912280929771524",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RandPaul",
+            "name": "Rand Paul",
+            "id": 216881337,
+            "id_str": "216881337",
+            "indices": [
+               0,
+               9
+            ]
+         },
+         {
+            "screen_name": "DonaldJTrumpJr",
+            "name": "Donald Trump Jr.",
+            "id": 39344374,
+            "id_str": "39344374",
+            "indices": [
+               10,
+               25
+            ]
+         },
+         {
+            "screen_name": "HagemanforWY",
+            "name": "Harriet Hageman",
+            "id": 1435822302323695629,
+            "id_str": "1435822302323695629",
+            "indices": [
+               26,
+               39
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646680348032"
+}

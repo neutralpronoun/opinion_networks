@@ -1,0 +1,397 @@
+{
+   "created_at": "Mon Mar 07 19:34:38 +0000 2022",
+   "id": 1500917863049220103,
+   "id_str": "1500917863049220103",
+   "text": "This weekend, our bipartisan CODEL visited the border by Rzesz\u00f3w, Poland and met with a variety of\u00a0NGOs. The humani\u2026 https://t.co/VG2bh0ZgjU",
+   "display_text_range": [
+      0,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344845201479663621,
+      "id_str": "1344845201479663621",
+      "name": "Rep. Victoria Spartz",
+      "screen_name": "RepSpartz",
+      "location": null,
+      "url": "https://spartz.house.gov",
+      "description": "Representing Indiana\u2019s 5th Congressional District",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 18616,
+      "friends_count": 376,
+      "listed_count": 247,
+      "favourites_count": 229,
+      "statuses_count": 756,
+      "created_at": "Fri Jan 01 03:19:03 +0000 2021",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344919879481135104/G5I-RPbt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344919879481135104/G5I-RPbt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344845201479663621/1609491543",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "This weekend, our bipartisan CODEL visited the border by Rzesz\u00f3w, Poland and met with a variety of\u00a0NGOs. The humanitarian crisis in Ukraine has been escalating and can reach a catastrophe of historic proportions. The int\u2019l community needs to take some proactive steps urgently. https://t.co/dUAXdT6GZl",
+      "display_text_range": [
+         0,
+         277
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500917858561413121,
+               "id_str": "1500917858561413121",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSX0AEb7Mq.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSX0AEb7Mq.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858561363970,
+               "id_str": "1500917858561363970",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSXEAIYxGo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSXEAIYxGo.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858561368065,
+               "id_str": "1500917858561368065",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSXIAEktxP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSXIAEktxP.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858557210625,
+               "id_str": "1500917858557210625",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xRXsAEmzWK.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xRXsAEmzWK.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500917858561413121,
+               "id_str": "1500917858561413121",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSX0AEb7Mq.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSX0AEb7Mq.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858561363970,
+               "id_str": "1500917858561363970",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSXEAIYxGo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSXEAIYxGo.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858561368065,
+               "id_str": "1500917858561368065",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xSXIAEktxP.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xSXIAEktxP.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            },
+            {
+               "id": 1500917858557210625,
+               "id_str": "1500917858557210625",
+               "indices": [
+                  278,
+                  301
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNRU1xRXsAEmzWK.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNRU1xRXsAEmzWK.jpg",
+               "url": "https://t.co/dUAXdT6GZl",
+               "display_url": "pic.twitter.com/dUAXdT6GZl",
+               "expanded_url": "https://twitter.com/RepSpartz/status/1500917863049220103/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "small": {
+                     "w": 680,
+                     "h": 454,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 2048,
+                     "h": 1366,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 1200,
+                     "h": 800,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/VG2bh0ZgjU",
+            "expanded_url": "https://twitter.com/i/web/status/1500917863049220103",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646681678913"
+}

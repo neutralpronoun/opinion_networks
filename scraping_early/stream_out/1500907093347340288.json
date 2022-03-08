@@ -1,0 +1,344 @@
+{
+   "created_at": "Mon Mar 07 18:51:51 +0000 2022",
+   "id": 1500907093347340288,
+   "id_str": "1500907093347340288",
+   "text": "@RepSwalwell @Apple @Airbnb @netflix @Meta @YouTube @AMD @Roku @intel .@YouTube @meta and @twitter are still carryi\u2026 https://t.co/UDcA8Hd9rN",
+   "display_text_range": [
+      70,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500817417630621698,
+   "in_reply_to_status_id_str": "1500817417630621698",
+   "in_reply_to_user_id": 942156122,
+   "in_reply_to_user_id_str": "942156122",
+   "in_reply_to_screen_name": "RepSwalwell",
+   "user": {
+      "id": 799047255378391040,
+      "id_str": "799047255378391040",
+      "name": "Sleeping Giants",
+      "screen_name": "slpng_giants",
+      "location": null,
+      "url": null,
+      "description": "A campaign for media, advertising and social platform accountability.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 337535,
+      "friends_count": 465,
+      "listed_count": 2261,
+      "favourites_count": 19615,
+      "statuses_count": 79836,
+      "created_at": "Thu Nov 17 00:31:26 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1304655703903096832/Oj34RXtM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304655703903096832/Oj34RXtM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/799047255378391040/1606496694",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@RepSwalwell @Apple @Airbnb @netflix @Meta @YouTube @AMD @Roku @intel .@YouTube @meta and @twitter are still carrying Kremlin-backed propaganda outlets RT and Sputnik around the world outside of the EU. They don\u2019t deserve praise for a job that\u2019s halfway done.",
+      "display_text_range": [
+         70,
+         259
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "RepSwalwell",
+               "name": "Rep. Eric Swalwell",
+               "id": 942156122,
+               "id_str": "942156122",
+               "indices": [
+                  0,
+                  12
+               ]
+            },
+            {
+               "screen_name": "Apple",
+               "name": "Apple",
+               "id": 380749300,
+               "id_str": "380749300",
+               "indices": [
+                  13,
+                  19
+               ]
+            },
+            {
+               "screen_name": "Airbnb",
+               "name": "Airbnb",
+               "id": 17416571,
+               "id_str": "17416571",
+               "indices": [
+                  20,
+                  27
+               ]
+            },
+            {
+               "screen_name": "netflix",
+               "name": "Netflix",
+               "id": 16573941,
+               "id_str": "16573941",
+               "indices": [
+                  28,
+                  36
+               ]
+            },
+            {
+               "screen_name": "Meta",
+               "name": "Meta",
+               "id": 2425151,
+               "id_str": "2425151",
+               "indices": [
+                  37,
+                  42
+               ]
+            },
+            {
+               "screen_name": "YouTube",
+               "name": "YouTube",
+               "id": 10228272,
+               "id_str": "10228272",
+               "indices": [
+                  43,
+                  51
+               ]
+            },
+            {
+               "screen_name": "AMD",
+               "name": "AMD",
+               "id": 14861876,
+               "id_str": "14861876",
+               "indices": [
+                  52,
+                  56
+               ]
+            },
+            {
+               "screen_name": "Roku",
+               "name": "Roku",
+               "id": 20282100,
+               "id_str": "20282100",
+               "indices": [
+                  57,
+                  62
+               ]
+            },
+            {
+               "screen_name": "intel",
+               "name": "Intel",
+               "id": 2803191,
+               "id_str": "2803191",
+               "indices": [
+                  63,
+                  69
+               ]
+            },
+            {
+               "screen_name": "YouTube",
+               "name": "YouTube",
+               "id": 10228272,
+               "id_str": "10228272",
+               "indices": [
+                  71,
+                  79
+               ]
+            },
+            {
+               "screen_name": "Meta",
+               "name": "Meta",
+               "id": 2425151,
+               "id_str": "2425151",
+               "indices": [
+                  80,
+                  85
+               ]
+            },
+            {
+               "screen_name": "Twitter",
+               "name": "Twitter",
+               "id": 783214,
+               "id_str": "783214",
+               "indices": [
+                  90,
+                  98
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/UDcA8Hd9rN",
+            "expanded_url": "https://twitter.com/i/web/status/1500907093347340288",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         },
+         {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [
+               13,
+               19
+            ]
+         },
+         {
+            "screen_name": "Airbnb",
+            "name": "Airbnb",
+            "id": 17416571,
+            "id_str": "17416571",
+            "indices": [
+               20,
+               27
+            ]
+         },
+         {
+            "screen_name": "netflix",
+            "name": "Netflix",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+               28,
+               36
+            ]
+         },
+         {
+            "screen_name": "Meta",
+            "name": "Meta",
+            "id": 2425151,
+            "id_str": "2425151",
+            "indices": [
+               37,
+               42
+            ]
+         },
+         {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+               43,
+               51
+            ]
+         },
+         {
+            "screen_name": "AMD",
+            "name": "AMD",
+            "id": 14861876,
+            "id_str": "14861876",
+            "indices": [
+               52,
+               56
+            ]
+         },
+         {
+            "screen_name": "Roku",
+            "name": "Roku",
+            "id": 20282100,
+            "id_str": "20282100",
+            "indices": [
+               57,
+               62
+            ]
+         },
+         {
+            "screen_name": "intel",
+            "name": "Intel",
+            "id": 2803191,
+            "id_str": "2803191",
+            "indices": [
+               63,
+               69
+            ]
+         },
+         {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+               71,
+               79
+            ]
+         },
+         {
+            "screen_name": "Meta",
+            "name": "Meta",
+            "id": 2425151,
+            "id_str": "2425151",
+            "indices": [
+               80,
+               85
+            ]
+         },
+         {
+            "screen_name": "Twitter",
+            "name": "Twitter",
+            "id": 783214,
+            "id_str": "783214",
+            "indices": [
+               90,
+               98
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679111216"
+}

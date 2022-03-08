@@ -1,0 +1,184 @@
+{
+   "created_at": "Tue Mar 08 02:44:55 +0000 2022",
+   "id": 1501026144287703055,
+   "id_str": "1501026144287703055",
+   "text": "@RepSwalwell Genius &amp; Marsha Blackburn do not belong in the same sentence https://t.co/Sf3Jm6Cu7c",
+   "display_text_range": [
+      13,
+      77
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": 1501008349554524167,
+   "in_reply_to_status_id_str": "1501008349554524167",
+   "in_reply_to_user_id": 942156122,
+   "in_reply_to_user_id_str": "942156122",
+   "in_reply_to_screen_name": "RepSwalwell",
+   "user": {
+      "id": 24233458,
+      "id_str": "24233458",
+      "name": "David Wilson Brown",
+      "screen_name": "davidwbrown",
+      "location": "McAdenville, NC",
+      "url": null,
+      "description": "Dad; Husband; IT consultant; tabletop/video gamer; 2x US Congressional Candidate - A BETTER ROAD FORWARD",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 6788,
+      "friends_count": 1067,
+      "listed_count": 84,
+      "favourites_count": 99296,
+      "statuses_count": 35769,
+      "created_at": "Fri Mar 13 19:25:29 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1222647744927584258/UkH2mf1f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222647744927584258/UkH2mf1f_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24233458/1630449125",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "id": 942156122,
+            "id_str": "942156122",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": [],
+      "media": [
+         {
+            "id": 1501026138373730309,
+            "id_str": "1501026138373730309",
+            "indices": [
+               78,
+               101
+            ],
+            "description": "Season 5 No GIF by The Office",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNS3UfBXsAUsi2A.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNS3UfBXsAUsi2A.jpg",
+            "url": "https://t.co/Sf3Jm6Cu7c",
+            "display_url": "pic.twitter.com/Sf3Jm6Cu7c",
+            "expanded_url": "https://twitter.com/davidwbrown/status/1501026144287703055/photo/1",
+            "type": "photo",
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities": {
+      "media": [
+         {
+            "id": 1501026138373730309,
+            "id_str": "1501026138373730309",
+            "indices": [
+               78,
+               101
+            ],
+            "description": "Season 5 No GIF by The Office",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNS3UfBXsAUsi2A.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNS3UfBXsAUsi2A.jpg",
+            "url": "https://t.co/Sf3Jm6Cu7c",
+            "display_url": "pic.twitter.com/Sf3Jm6Cu7c",
+            "expanded_url": "https://twitter.com/davidwbrown/status/1501026144287703055/photo/1",
+            "type": "animated_gif",
+            "video_info": {
+               "aspect_ratio": [
+                  6,
+                  5
+               ],
+               "variants": [
+                  {
+                     "bitrate": 0,
+                     "content_type": "video/mp4",
+                     "url": "https://video.twimg.com/tweet_video/FNS3UfBXsAUsi2A.mp4"
+                  }
+               ]
+            },
+            "sizes": {
+               "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+               },
+               "medium": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               },
+               "large": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               },
+               "small": {
+                  "w": 480,
+                  "h": 400,
+                  "resize": "fit"
+               }
+            }
+         }
+      ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646707495172"
+}

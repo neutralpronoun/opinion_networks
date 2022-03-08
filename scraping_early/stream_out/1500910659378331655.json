@@ -1,0 +1,488 @@
+{
+   "created_at": "Mon Mar 07 19:06:01 +0000 2022",
+   "id": 1500910659378331655,
+   "id_str": "1500910659378331655",
+   "text": "RT @KOB4: Tonight at 5, Colton is taking a look at a surge in gas prices locally amid the crisis in Ukraine.",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+      "id": 1344416719260016641,
+      "id_str": "1344416719260016641",
+      "name": "Rep. Yvette Herrell",
+      "screen_name": "RepHerrell",
+      "location": "New Mexico & Washington, DC",
+      "url": "http://herrell.house.gov",
+      "description": "U.S. Congresswoman for New Mexico's Second Congressional District. Member of @NatResources and @GOPoversight",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 16800,
+      "friends_count": 613,
+      "listed_count": 271,
+      "favourites_count": 401,
+      "statuses_count": 1154,
+      "created_at": "Wed Dec 30 22:55:08 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344420106437353472/RErgo9C8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344416719260016641/1616004353",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+      "created_at": "Mon Mar 07 19:04:48 +0000 2022",
+      "id": 1500910352980226051,
+      "id_str": "1500910352980226051",
+      "text": "Tonight at 5, Colton is taking a look at a surge in gas prices locally amid the crisis in Ukraine.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 17220423,
+         "id_str": "17220423",
+         "name": "KOB 4",
+         "screen_name": "KOB4",
+         "location": "Albuquerque",
+         "url": "http://www.KOB.com",
+         "description": "Broadcasting since 1948. \ud83d\udce1 Use of #KOB4 or @KOB4 grants KOB the right to copy and/or distribute your content on TV or online.",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 108177,
+         "friends_count": 629,
+         "listed_count": 1000,
+         "favourites_count": 2608,
+         "statuses_count": 116509,
+         "created_at": "Thu Nov 06 21:52:58 +0000 2008",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+         "profile_background_tile": false,
+         "profile_link_color": "000000",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/889977131551170560/IYzrq8Zz_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/889977131551170560/IYzrq8Zz_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/17220423/1540484309",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1500879031469686784,
+      "quoted_status_id_str": "1500879031469686784",
+      "quoted_status": {
+         "created_at": "Mon Mar 07 17:00:20 +0000 2022",
+         "id": 1500879031469686784,
+         "id_str": "1500879031469686784",
+         "text": "Gas $4.09 in Albuquerque! https://t.co/2cCxtlM5aF",
+         "display_text_range": [
+            0,
+            25
+         ],
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "truncated": false,
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 31325218,
+            "id_str": "31325218",
+            "name": "Colton Shone",
+            "screen_name": "ColtonShone",
+            "location": "#ABQ by way of #PHX / #Tucson",
+            "url": "http://coltonshone.com",
+            "description": "AM Anchor NBC ABQ || #Din\u00e9 || 3x Emmy-Winning Journalist || 2x Murrow Award Winner || Awh\u00e9\u00e9h ay\u00f3\u00f3 shi\u0142 \u0142ikan \u2615\ufe0f || Hubby || Runner || Cycler",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 2340,
+            "friends_count": 1828,
+            "listed_count": 136,
+            "favourites_count": 1296,
+            "statuses_count": 5787,
+            "created_at": "Wed Apr 15 03:23:18 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/860437919785336832/pV_lZ5WC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/860437919785336832/pV_lZ5WC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31325218/1514293742",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "quote_count": 1,
+         "reply_count": 0,
+         "retweet_count": 0,
+         "favorite_count": 0,
+         "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+               {
+                  "id": 1500879022451949568,
+                  "id_str": "1500879022451949568",
+                  "indices": [
+                     26,
+                     49
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+                  "url": "https://t.co/2cCxtlM5aF",
+                  "display_url": "pic.twitter.com/2cCxtlM5aF",
+                  "expanded_url": "https://twitter.com/ColtonShone/status/1500879031469686784/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities": {
+            "media": [
+               {
+                  "id": 1500879022451949568,
+                  "id_str": "1500879022451949568",
+                  "indices": [
+                     26,
+                     49
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+                  "url": "https://t.co/2cCxtlM5aF",
+                  "display_url": "pic.twitter.com/2cCxtlM5aF",
+                  "expanded_url": "https://twitter.com/ColtonShone/status/1500879031469686784/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                     "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                     },
+                     "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                     },
+                     "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                     },
+                     "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "filter_level": "low",
+         "lang": "es"
+      },
+      "quoted_status_permalink": {
+         "url": "https://t.co/GrN0LwYYzx",
+         "expanded": "https://twitter.com/ColtonShone/status/1500879031469686784",
+         "display": "twitter.com/ColtonShone/st\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+   },
+   "quoted_status_id": 1500879031469686784,
+   "quoted_status_id_str": "1500879031469686784",
+   "quoted_status": {
+      "created_at": "Mon Mar 07 17:00:20 +0000 2022",
+      "id": 1500879031469686784,
+      "id_str": "1500879031469686784",
+      "text": "Gas $4.09 in Albuquerque! https://t.co/2cCxtlM5aF",
+      "display_text_range": [
+         0,
+         25
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 31325218,
+         "id_str": "31325218",
+         "name": "Colton Shone",
+         "screen_name": "ColtonShone",
+         "location": "#ABQ by way of #PHX / #Tucson",
+         "url": "http://coltonshone.com",
+         "description": "AM Anchor NBC ABQ || #Din\u00e9 || 3x Emmy-Winning Journalist || 2x Murrow Award Winner || Awh\u00e9\u00e9h ay\u00f3\u00f3 shi\u0142 \u0142ikan \u2615\ufe0f || Hubby || Runner || Cycler",
+         "translator_type": "none",
+         "protected": false,
+         "verified": true,
+         "followers_count": 2340,
+         "friends_count": 1828,
+         "listed_count": 136,
+         "favourites_count": 1296,
+         "statuses_count": 5787,
+         "created_at": "Wed Apr 15 03:23:18 +0000 2009",
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": true,
+         "lang": null,
+         "contributors_enabled": false,
+         "is_translator": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_link_color": "1B95E0",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/860437919785336832/pV_lZ5WC_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/860437919785336832/pV_lZ5WC_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/31325218/1514293742",
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": null,
+         "follow_request_sent": null,
+         "notifications": null,
+         "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [],
+         "symbols": [],
+         "media": [
+            {
+               "id": 1500879022451949568,
+               "id_str": "1500879022451949568",
+               "indices": [
+                  26,
+                  49
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+               "url": "https://t.co/2cCxtlM5aF",
+               "display_url": "pic.twitter.com/2cCxtlM5aF",
+               "expanded_url": "https://twitter.com/ColtonShone/status/1500879031469686784/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 1500879022451949568,
+               "id_str": "1500879022451949568",
+               "indices": [
+                  26,
+                  49
+               ],
+               "media_url": "http://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/FNQxhNgVgAARlNo.jpg",
+               "url": "https://t.co/2cCxtlM5aF",
+               "display_url": "pic.twitter.com/2cCxtlM5aF",
+               "expanded_url": "https://twitter.com/ColtonShone/status/1500879031469686784/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "large": {
+                     "w": 1536,
+                     "h": 2048,
+                     "resize": "fit"
+                  },
+                  "medium": {
+                     "w": 900,
+                     "h": 1200,
+                     "resize": "fit"
+                  },
+                  "small": {
+                     "w": 510,
+                     "h": 680,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "es"
+   },
+   "quoted_status_permalink": {
+      "url": "https://t.co/GrN0LwYYzx",
+      "expanded": "https://twitter.com/ColtonShone/status/1500879031469686784",
+      "display": "twitter.com/ColtonShone/st\u2026"
+   },
+   "is_quote_status": true,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+         {
+            "screen_name": "KOB4",
+            "name": "KOB 4",
+            "id": 17220423,
+            "id_str": "17220423",
+            "indices": [
+               3,
+               8
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646679961424"
+}

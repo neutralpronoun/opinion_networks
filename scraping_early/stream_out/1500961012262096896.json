@@ -1,0 +1,124 @@
+{
+   "created_at": "Mon Mar 07 22:26:06 +0000 2022",
+   "id": 1500961012262096896,
+   "id_str": "1500961012262096896",
+   "text": "@KennethBaer Fo\nFo\nFo\n\nFunny enough, my only memory of that (as I was 6 years old) was my mother not letting me sta\u2026 https://t.co/VMMpw9LOFe",
+   "display_text_range": [
+      13,
+      140
+   ],
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1500959921831088133,
+   "in_reply_to_status_id_str": "1500959921831088133",
+   "in_reply_to_user_id": 325925601,
+   "in_reply_to_user_id_str": "325925601",
+   "in_reply_to_screen_name": "KennethBaer",
+   "user": {
+      "id": 231108733,
+      "id_str": "231108733",
+      "name": "US Rep Brendan Boyle",
+      "screen_name": "RepBrendanBoyle",
+      "location": "Philadelphia and Washington",
+      "url": "http://www.VoteBoyle.com",
+      "description": "Congressman from Philly. Proud Dad to Abby & husband to Jenny. Notre Dame & Harvard alum. Philly sports fan. Supporter of all things PA, esp. Dunder Mifflin.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 60689,
+      "friends_count": 3071,
+      "listed_count": 900,
+      "favourites_count": 13134,
+      "statuses_count": 10061,
+      "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317939308037312512/aVQPQ6ti_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1636568625",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+      "full_text": "@KennethBaer Fo\nFo\nFo\n\nFunny enough, my only memory of that (as I was 6 years old) was my mother not letting me stay up the watch the 76ers clinch it because \u201cyou can watch them win the championship next year\u201d.",
+      "display_text_range": [
+         13,
+         210
+      ],
+      "entities": {
+         "hashtags": [],
+         "urls": [],
+         "user_mentions": [
+            {
+               "screen_name": "KennethBaer",
+               "name": "Kenneth Baer",
+               "id": 325925601,
+               "id_str": "325925601",
+               "indices": [
+                  0,
+                  12
+               ]
+            }
+         ],
+         "symbols": []
+      }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "entities": {
+      "hashtags": [],
+      "urls": [
+         {
+            "url": "https://t.co/VMMpw9LOFe",
+            "expanded_url": "https://twitter.com/i/web/status/1500961012262096896",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+               117,
+               140
+            ]
+         }
+      ],
+      "user_mentions": [
+         {
+            "screen_name": "KennethBaer",
+            "name": "Kenneth Baer",
+            "id": 325925601,
+            "id_str": "325925601",
+            "indices": [
+               0,
+               12
+            ]
+         }
+      ],
+      "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "en",
+   "timestamp_ms": "1646691966487"
+}
